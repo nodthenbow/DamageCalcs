@@ -22,7 +22,8 @@ function cout(greater, text, locx, locy, dam1, dam2) {
     var t = document.createTextNode(text);
     btn.style.width = "5px";
 	btn.style.height = "5px";
-	btn.style.padding = "3px";
+	btn.style.padding = "2px";
+	btn.style.paddingLeft = "3px";
 	var loctext = "("+locx+","+locy+")"+"("+dam1+","+dam2+")";
 	btn.title=loctext;
 	if (greater == 1){
