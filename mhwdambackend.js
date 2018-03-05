@@ -70,6 +70,8 @@ function buildchart(event){
 	
 	var hitzonesb = parseFloat(document.getElementById("hitzonesb").value);
 	
+	var diphz = document.getElementById("diphz").checked;
+	
 	elementaldamageweapon1 = elementaldamageweapon1/(10.0);
 	elementaldamageweapon2 = elementaldamageweapon2/10.0;
 	
@@ -83,8 +85,8 @@ function buildchart(event){
 	hitzonesb = hitzonesb/100.0;
 	
 
-	var att1 = hitzonesb*(baseattackweapon1 + (affinityweapon1*baseattackweapon1*(0.25)));
-	var att2 = hitzonesb*(baseattackweapon2 + affinityweapon2*baseattackweapon2*(0.25));
+	var att1 = baseattackweapon1 + affinityweapon1*baseattackweapon1*0.25;
+	var att2 = baseattackweapon2 + affinityweapon2*baseattackweapon2*0.25;
 
 	att1 = Math.floor(att1+0.5);
 	att2 = Math.floor(att2+0.5);
@@ -92,9 +94,18 @@ function buildchart(event){
 	var fin1 = new Array(101);
 	var fin2 = new Array(101);
 	
-	for (var i = 0; i < 101; i++){
-		fin1[i] = elementaldamageweapon1*(i/100.0) + att1;
-		fin2[i] = elementaldamageweapon2*(i/100.0) + att2;
+	
+	if (diphz == false){
+		for (var i = 0; i < 101; i++){
+			fin1[i] = elementaldamageweapon1*(i/100.0) + hitzonesb*att1;
+			fin2[i] = elementaldamageweapon2*(i/100.0) + hitzonesb*att2;
+		}
+	}
+	else {
+		for (var i = 0; i < 101; i++){
+			fin1[i] = att1*(i/100.0) + hitzonesb*elementaldamageweapon1;
+			fin2[i] = att2*(i/100.0) + hitzonesb*elementaldamageweapon2;
+		}
 	}
 	
 	for (var i = 0; i < 101; i++){
@@ -111,7 +122,7 @@ function buildchart(event){
 		}
 	}
 	
-	coutb("If green use "+weapon1name+", if red use "+weapon2name+", if amber then use either one. Hover for (X,Y). X is the elemental modifier of a hitzone vs "+weapon1name+"'s elemental damage type, Y is vs "+weapon2name+"'s. Second pair is the actual damage number in the same order.");
+	coutb("If green use "+weapon1name+", if red use "+weapon2name+", if amber then use either one. Hover for (X,Y). X is the modifier of a hitzone (default elemental) vs "+weapon1name+"'s damage against the hitzone type, Y is vs "+weapon2name+"'s. Second pair is the calculated damage number in the same order.");
 	endl();
 	
 	for (var j = 0; j < 101; j++){
