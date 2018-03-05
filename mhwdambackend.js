@@ -33,7 +33,7 @@ function cout(greater, text, locx, locy, dam1, dam2) {
 		btn.style.backgroundColor = "red";
 	}
 	else if (greater == 2){
-		btn.style.backgroundColor = "amber";
+		btn.style.backgroundColor = "#ffc200";
 	}
 	else {
 	}
