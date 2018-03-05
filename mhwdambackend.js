@@ -68,14 +68,23 @@ function buildchart(event){
 	var elementaldamageweapon1 = parseFloat(document.getElementById("elementaldamageweapon1").value);
 	var elementaldamageweapon2 = parseFloat(document.getElementById("elementaldamageweapon2").value);
 	
+	var hitzonesb = parseFloat(document.getElementById("hitzonesb").value);
+	
 	elementaldamageweapon1 = elementaldamageweapon1/(10.0);
 	elementaldamageweapon2 = elementaldamageweapon2/10.0;
 	
 	affinityweapon1 = affinityweapon1/100.0;
 	affinityweapon2 = affinityweapon2/100.0;
+	
+	if (hitzonesb = null){
+		hitzonesb = 100.0;
+	}
+	
+	hitzonesb = hitzonesb/100.0;
+	
 
-	var att1 = baseattackweapon1 + (affinityweapon1*baseattackweapon1*(0.25));
-	var att2 = baseattackweapon2+affinityweapon2*baseattackweapon2*(0.25);
+	var att1 = hitzonesb*(baseattackweapon1 + (affinityweapon1*baseattackweapon1*(0.25)));
+	var att2 = hitzonesb*(baseattackweapon2 + affinityweapon2*baseattackweapon2*(0.25));
 
 	att1 = Math.floor(att1+0.5);
 	att2 = Math.floor(att2+0.5);
