@@ -32,6 +32,9 @@ function cout(greater, text, locx, locy, dam1, dam2) {
 	else if (greater == 0){
 		btn.style.backgroundColor = "red";
 	}
+	else if (greater == 2){
+		btn.style.backgroundColor = "#7f8000";
+	}
 	else {
 	}
     btn.appendChild(t);
@@ -90,13 +93,16 @@ function buildchart(event){
 			if (fin1[i]>fin2[j]){
 				chartall[i][j] = 1;
 			}
-			else {
+			else if (fin1[i]<fin2[j]){
 				chartall[i][j] = 0;
+			}
+			else {
+				chartall[i][j] = 2;
 			}
 		}
 	}
 	
-	coutb("If green use "+weapon1name+", if red use "+weapon2name+". Hover for (X,Y). X is the elemental modifier of a hitzone vs "+weapon1name+"'s elemental damage type, Y is vs "+weapon2name+"'s. Second pair is the actual damage number in the same order.");
+	coutb("If green use "+weapon1name+", if red use "+weapon2name+", if amber then use either one. Hover for (X,Y). X is the elemental modifier of a hitzone vs "+weapon1name+"'s elemental damage type, Y is vs "+weapon2name+"'s. Second pair is the actual damage number in the same order.");
 	endl();
 	
 	for (var j = 0; j < 101; j++){
