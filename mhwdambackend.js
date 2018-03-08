@@ -78,7 +78,7 @@ function buildchart(event){
 	affinityweapon1 = affinityweapon1/100.0;
 	affinityweapon2 = affinityweapon2/100.0;
 	
-	if (hitzonesb = null){
+	if (hitzonesb == null){
 		hitzonesb = 100.0;
 	}
 	
@@ -96,13 +96,13 @@ function buildchart(event){
 	
 	
 	if (diphz == false){
-		for (var i = 0; i < 101; i++){
+		for (i = 0; i < 101; i++){
 			fin1[i] = elementaldamageweapon1*(i/100.0) + hitzonesb*att1;
 			fin2[i] = elementaldamageweapon2*(i/100.0) + hitzonesb*att2;
 		}
 	}
 	else {
-		for (var i = 0; i < 101; i++){
+		for (i = 0; i < 101; i++){
 			fin1[i] = att1*(i/100.0) + hitzonesb*elementaldamageweapon1;
 			fin2[i] = att2*(i/100.0) + hitzonesb*elementaldamageweapon2;
 		}
@@ -126,21 +126,6 @@ function buildchart(event){
 	endl();
 	
 	for (var j = 0; j < 101; j++){
-
-		//space rows properly while also labeling 
-		/*if (j >= 100){
-			cout(3, j);
-		}
-		else if (j >=  10) {
-			cout(3, j);
-		}
-		else {
-			cout(3,j);
-		}
-		*/
-		//cout(3,j);
-
-		//print chart values in the row
 		for (var i = 0; i < 101; i++){
 			cout(chartall[i][j], "", i, j, fin1[i], fin2[j]);
 		}
