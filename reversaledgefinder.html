@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mhwdambackend.css">
+<meta charset="UTF-8">
+<title>Reversal Edge Solver</title>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+  
+<form id="submittedstuff" method="post">
+
+<table class="subs">
+<p>Round 1</p>
+<p>Player 1</p>
+<tr>
+<td>R1 A</td><td><input type="number" name="p1r1a" size="30" /></td>
+<td>R1 B</td><td><input type="number" name="p1r1b" size="30" /></td>
+<td>R1 K</td><td><input type="number" name="p1r1k" size="30" /></td>
+<td>R1 6</td><td><input type="number" name="p16" size="30" /></td>
+<td>R1 4</td><td><input type="number" name="p14" size="30" /></td>
+<td>R1 8/2</td><td><input type="number" name="p12" size="30" /></td>
+</tr>
+
+<p>Player 2</p>
+<tr>
+<td>R1 A</td><td><input type="number" name="p2r1a" size="30" /></td>
+<td>R1 B</td><td><input type="number" name="p2r1b" size="30" /></td>
+<td>R1 K</td><td><input type="number" name="p2r1k" size="30" /></td>
+<td>R1 6</td><td><input type="number" name="p26" size="30" /></td>
+<td>R1 4</td><td><input type="number" name="p24" size="30" /></td>
+<td>R1 8/2</td><td><input type="number" name="p22" size="30" /></td>
+</tr>
+
+<p>Round 2</p>
+<p>Player 1</p>
+<tr>
+<td>R2 A</td><td><input type="number" name="p1r2a" size="30" /></td>
+<td>R2 B</td><td><input type="number" name="p1r2b" size="30" /></td>
+<td>R2 K</td><td><input type="number" name="p1r2k" size="30" /></td>
+<td>Guard Break A</td><td><input type="number" name="p1gba" size="30" /></td>
+<td>Guard Break B</td><td><input type="number" name="p1gbb" size="30" /></td>
+<td>Guard Break K</td><td><input type="number" name="p1gbk" size="30" /></td>
+</tr>
+
+<p>Player 2</p>
+<tr>
+<td>R2 A</td><td><input type="number" name="p2r2a" size="30" /></td>
+<td>R2 B</td><td><input type="number" name="p2r2b" size="30" /></td>
+<td>R2 K</td><td><input type="number" name="p2r2k" size="30" /></td>
+<td>Guard Break A</td><td><input type="number" name="p2gba" size="30" /></td>
+<td>Guard Break B</td><td><input type="number" name="p2gbb" size="30" /></td>
+<td>Guard Break K</td><td><input type="number" name="p2gbk" size="30" /></td>
+</tr>
+
+
+<td><input type="checkbox" name="usepercents"/>Calculate from percent of life lost instead of damage</td></tr>
+
+</table>
+
+<br>
+
+<input type="submit" id="submit" value="submit" onClick="main(this.form)">
+
+</form>
+
+<p id="outputbox"></p>
+
+<script type="text/javascript" src="reversaledgefinder.js"></script>
+</body>
+</html>
