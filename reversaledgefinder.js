@@ -212,7 +212,7 @@ function display(form) {
 	}
 	opt2+=")\r\n"; 
 	mess+=opt1+opt2; 
-	document.getElementById("outputbox").value += mess+"\r\n"; 
+	document.getElementById("outputbox").innerHTML += mess+"\r\n"; 
 }
 
 function calcrounds(form){
@@ -309,7 +309,7 @@ function calcrounds(form){
 	mat[47]= dvals[47];
 	mat[48]= dvals[48];
 	
-	document.getElementById("outputbox").value += "Round 2 after P1's B is blocked\r\n";
+	document.getElementById("outputbox").innerHTML += "Round 2 after P1's B is blocked\r\n";
 	InitA();
 	makeValuePositive();
 	Solve();
@@ -411,7 +411,7 @@ function calcrounds(form){
 	mat[47]= dvals[47];
 	mat[48]= dvals[48];
 	
-	document.getElementById("outputbox").value += "Round 2 after P2's B is blocked\r\n";
+	document.getElementById("outputbox").innerHTML += "Round 2 after P2's B is blocked\r\n";
 	InitA();
 	makeValuePositive();
 	Solve();
@@ -503,7 +503,7 @@ function calcrounds(form){
 	mat[47]= dvals[47];
 	mat[48]= dvals[48];
 	
-	document.getElementById("outputbox").value += "Round 1\r\n";
+	document.getElementById("outputbox").innerHTML = "Round 1\r\n";
 	InitA();
 	makeValuePositive();
 	Solve();
