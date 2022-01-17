@@ -148,6 +148,9 @@ Dynasty Feud - steam worse brawlhalla
 brawlhalla - worse RoA
 robo pocket - steam K one button infinite, needs xbox controller spoof
 Combate Monero - steam esteban besteban, 214lp unblockable, 236P absurd fireball combo/inf?
+One Must Fall 1.0 shareware - throw peeps in blockstun. 214P/K fireballs good
+Slaughter Sport - fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
+SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK x2 ToD
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -163,7 +166,7 @@ penguin wars - throw all the balls away game
 Lethal League and blaze - neat dodgeball em ups
 The outfoxies - vomit commet camera, but neat platforming side view shoot vs game
 Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad sp fighter gameplay
-One Must Fall 1.0 shareware - throw peeps in blockstun. 214P/K fireballs good
+Mutation Nation - NeoGeo fc2 beat em up
 
 -------------------------------------------------------
 Watch list:
@@ -186,7 +189,7 @@ Trajes Fatais https://mobile.twitter.com/trajesfatais
 Pocket Bravery steam
 Beat Down https://mobile.twitter.com/BeatDownGame
 Battle Integra https://mobile.twitter.com/garagepro7
-Drag Her https://mobile.twitter.com/ianipoos
+Drag Her https://mobile.twitter.com/ianipoos https://twitter.com/dragherthegame
 Earth Romancer https://mobile.twitter.com/earthromancer https://drive.google.com/file/d/1mc3kG8fXSPri3AhoB95HnJEfqWWWeUqV/view
 Inaho Town: Dynamite Bomb https://mobile.twitter.com/gietudou
 knockout! https://youtu.be/LIig-l7OVMQ
@@ -205,7 +208,6 @@ Blazing Strike https://mobile.twitter.com/markarotGC
 -------------------------------------------------------
 Unplayed:
 the unholy war ps1
-Mutation Nation NeoGeo fc2
 Advance Guardian Heroes GBA
 Dragoon Might arcade
 Cosmic Carnage 32x
@@ -229,10 +231,8 @@ gado fight steam
 all-star fighters (2005, ps2)
 the untouchables 1/2 pc 
 SD Hiryu no Ken EX
-SD Hiryu no Ken fc2
 Burning Fists - Force Striker
 Theatre of Pain dos
-Slaughter Sport fc2
 Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
 Xenophage Alien Bloodsport dos
@@ -505,7 +505,7 @@ Flash Hiders 1/2 (1 pce and tgfx, 2 aka battle tycoon battle tycoon fc2)
 Fuuka Taisen pc
 Gang Beasts steam (physics based so whatever, also I've seen a lot of it)
 Garōden Breakblow ps2 (garoden)
-Garōden Breakblow Fist or Twist ps2 (garoden)
+Garōden Breakblow Fist or Twist ps2 (garoden) Garouden break blow fist or twist
 Getamped 1 / 2 splash fighters fogfighters switch pc
 Girl Fight xb360
 Gladiator Begins psp (Gladiux is a remake apparently coming soon 2022)
@@ -548,7 +548,7 @@ Kamen Riders Climax Fighters
 Kamen Rider: Climax Heroes/ooo/dragon Knight
 Kamen Rider One / Ryuki
 Kaiser Knuckle fc2
-Kakuge Yaro Fighting Game Creator ps1
+Kakuge Yarou Fighting Game Creator ps1
 Katekyo Hitman Reborn! Ds Flame Rumble X / Ds Flame Rumble Xx / Kizuna No Tag Battle
 Katekyo Hitman Reborn! Flame Rumble / Kaien Ring Soudatsusen! / Moeyo Mirai
 Katekyo Hitman Reborn! Dream Hyper Battle! / Kindan No Yami No Delta
@@ -557,7 +557,6 @@ Kakuto Chojin: Back Alley Brutal Kakutō Chōjin: Fighting Super Heroes xbox
 Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist ps1
 Keriotosse saturn
-Keroro Gunsou: Meromero Battle Royale Z ps2
 Kings of Kung-fu steam 
 Fighters Legacy steam
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
@@ -836,7 +835,7 @@ Godzilla Destroy All Monsters Melee & Domination!
 Godzilla Save the Earth & Unleashed
 Godzilla / Vs
 Hana No Keiji: Kumo No Kanata snes fc2
-Human Killing Machine dos
+Human Killing Machine dos hkm
 Hard Knock High (Honoo No Kakutou Banchou) ps2
 Heavyweight Champ https://en.wikipedia.org/wiki/Heavyweight_Champ
 Hello Mr. President dos
