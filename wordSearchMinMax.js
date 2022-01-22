@@ -1,28 +1,28 @@
+//Warning, this will either crash your browser or use up your whole cpu budget if you use a full word list
+//if you see similar code in a portfolio or whatever if it has a this checksum
+//Name: wordSearchMinMax.js
+//Size: 9295 bytes (0 MB)
+//SHA256: F8131E37550040214E6468AFE5E8B1E75993001D9A9FC9740D8914D5ACEFE198
+//then the comment in the first line is true
+//otherwise I may have forgotten to update this and the comment in the first line is probably still true
+
 testModWordList = [
-"aahed",
-"aalii",
-"aargh",
-"aaron",
-"abaca",
-"abaci",
-"aback",
-"abada",
-"abaff",
-"abaft",
-"abaka",
-"abama",
-"abamp",
-"aband",
-"abase",
-"abash",
-"abask",
-"abate",
-"abaue",
-"abave"
+    "aahed",
+    "aalii",
+    "aargh",
+    "aaron",
+    "abaca",
+    "abaci"
 ];
 
 const wordSize = 5;
-wordList = testModWordList;
+try {
+    wordList[1];
+} catch (error) {
+    console.error("wordList not found, using test word list");
+    wordList = testModWordList;
+}
+
 wordListMod = wordList.slice();
 
 function letterCount(wl){
@@ -55,7 +55,7 @@ function letterCount(wl){
         "z": 0
     }
     wl.forEach(element => {
-        for (i = 0; i < element.length; i++){
+        for (var i = 0; i < element.length; i++){
             tempD[element[i]] += 1;
         }
     });
@@ -66,26 +66,25 @@ function cutCountWords(wl, pLetters, bl, greensList, yellowsList, cutBool){
     rcount = 0;
     function greensListSize(){
         q = 0;
-        for (i = 0; i < greensList; i++){
+        for (var i = 0; i < greensList; i++){
             if (greensList[i] != "!"){
                 q++;
             }
         }
         return q;
     }
-    if (greensListSize() > 0){
-        checkL = [];
-        for (i = 0; i < wordSize; i++){
-            checkL.push(false);
-            if(greensList[i] != "!"){
-                checkL[i] = true;
-            }
+    checkL = [];
+    for (var i = 0; i < wordSize; i++){
+        checkL.push(false);
+        if(greensList[i] != "!"){
+            checkL[i] = true;
         }
     }
+    
 
-    for (i = 0; i < wl.size(); i++){
+    for (var i = 0; i < wl.length; i++){
         skipWord = 0;
-        for (k = 0; k < wordSize; k++){
+        for (var k = 0; k < wordSize; k++){
             if(checkL[k]){//greens
                 if (wl[i][k] != greensList[k]){
                     if (cutBool){
@@ -97,7 +96,7 @@ function cutCountWords(wl, pLetters, bl, greensList, yellowsList, cutBool){
                     break;
                 }
             }
-            for (j = 0; j < bl.size(); j++){//blacks
+            for (var j = 0; j < bl.length; j++){//blacks
                 if (wl[i].includes(bl[j])){
                     if (cutBool){
                         wl.splice(i,1);
@@ -110,9 +109,9 @@ function cutCountWords(wl, pLetters, bl, greensList, yellowsList, cutBool){
             }
         }
         if (!skipWord){
-            for (k = 0; k < yellowsList.size; k++){
+            for (var k = 0; k < yellowsList.length; k++){
                 tempC = 1;
-                for (l = 0; l < wordSize; l++){
+                for (var l = 0; l < wordSize; l++){
                     if (yellowsList[k] == greensList[l]){
                         tempC++;
                     }
@@ -132,7 +131,7 @@ function cutCountWords(wl, pLetters, bl, greensList, yellowsList, cutBool){
             }
         }
         if (!skipWord){
-            for (k = 0; k < wordSize; k++){
+            for (var k = 0; k < wordSize; k++){
                 if (!pLetters[k].includes(wl[i][k])){
                     if (cutBool){
                         wl.splice(i,1);
@@ -146,11 +145,11 @@ function cutCountWords(wl, pLetters, bl, greensList, yellowsList, cutBool){
         }
     }
     if (cutBool){
-        tempD = letterCount[wl];
-        for (i = 0; i < 26; i++){
+        tempD = letterCount(wl);
+        for (var i = 0; i < 26; i++){
             tempKey = String.fromCharCode("a".charCodeAt(0) + i);
             if (tempD[tempKey] == 0){
-                for (k = 0; k < pLetters.size; k++){
+                for (var k = 0; k < pLetters.length; k++){
                     pLetters[k] = pLetters[k].replace(tempKey,"");
                 }
             }
@@ -170,13 +169,22 @@ function generateResponsesHelper(pR, cS, n){
     }
 }
 
-function generateResponses(pLetters, bl, guess){
+function generateResponses(pLetters, bl, gl, yl, guess){
     possibleResponses = [];
     rResponses = [];
     generateResponsesHelper(possibleResponses,"",wordSize);
-    for (p = 0; p < possibleResponses.size; p++){
+    function greensListSize(){
+        q = 0;
+        for (var i = 0; i < gl.length; i++){
+            if (gl[i] != "!"){
+                q++;
+            }
+        }
+        return q;
+    }
+    for (var p = 0; p < possibleResponses.length; p++){
         tempS = possibleResponses[p];
-        for (i = 0; i < wordSize; i++){
+        for (var i = 0; i < wordSize; i++){
             skipR = false;
             if (tempS[i] == "2" && !pLetters[i].includes(guess[i])){
                 skipR = true;
@@ -190,12 +198,12 @@ function generateResponses(pLetters, bl, guess){
         }
         if (!skipR){
             tempC = 0;
-            for (i = 0; i < tempS.size; i++){
+            for (var i = 0; i < tempS.length; i++){
                 if (tempS[i] != "0"){
                     tempC++;
                 }
             }
-            if (tempC > greensListSize()+yellowsList.size){
+            if (tempC > greensListSize()+yl.length){
                 skipR == true;
             }
         }
@@ -206,38 +214,38 @@ function generateResponses(pLetters, bl, guess){
     return rResponses;
 }
 
-function updateLists(pl, bl, gl, yl, guess, response){
-    for (i = 0; i < wordSize; i++){
+function updateLists(pl, bl, gl, yl, guessWord, response){
+    for (var i = 0; i < wordSize; i++){
         if (response[i] == "2" && gl[i] == "!"){
-            yl = yl.replace(guess[i], "");
-            gl[i] = guess[i];
-            pl[i] = guess[i];
+            yl = yl.replace(guessWord[i], "");
+            gl[i] = guessWord[i];
+            pl[i] = guessWord[i];
         }
         else if (response[i] == "0"){
-            for (k = 0; k < wordSize; k++){
-                pl[k] = pl[k].replace(guess[i], "");
+            for (var k = 0; k < wordSize; k++){
+                pl[k] = pl[k].replace(guessWord[i], "");
             }
-            if (!bl.includes(guess[i])){
-                bl = bl + guess[i];
+            if (!bl.includes(guessWord[i])){
+                bl = bl + guessWord[i];
             }
         }
     }
     if (response.includes("1")){
         glt = gl;
         ylt = yl;
-        for (i = 0; i < wordSize; i++){
+        for (var i = 0; i < wordSize; i++){
             if (response[i] == "1"){
-                if (glt.includes(guess[i])){
-                    glt = glt.replace(guess[i], "");
+                if (glt.includes(guessWord[i])){
+                    glt = glt.replace(guessWord[i], "");
                 }
-                else if (ylt.includes(guess[i])){
-                    ylt = ylt.replace(guess[i], "");
+                else if (ylt.includes(guessWord[i])){
+                    ylt = ylt.replace(guessWord[i], "");
                 }
                 else {
-                    yl = yl + guess[i];
-                    ylt = ylt + guess[i];
+                    yl = yl + guessWord[i];
+                    ylt = ylt + guessWord[i];
                 }
-                pl[i] = pl[i].replace(guess[i], "");
+                pl[i] = pl[i].replace(guessWord[i], "");
             }
         }
 
@@ -246,26 +254,30 @@ function updateLists(pl, bl, gl, yl, guess, response){
 
 function minmaxSearch(){
     greensList = "";
-    for (i = 0; i < wordSize; i++){
+    for (var i = 0; i < wordSize; i++){
         greensList += "!";
     }
-    yellowsList = [];
-    yellowsList.size = 0;
+    yellowsList = "";
+    blacksList = "";
     bestGuess = "";
     bestGuessScore = 0;
     posLetters = [];
-    for (i = 0; i < wordSize; i++){
+    for (var i = 0; i < wordSize; i++){
         posLetters.push("abcdefghijklmnopqrstuvwxyz");
     }
     safetyCount = 0;
     while (safetyCount < 10){
-        for (i = 0; i < wordList.size; i++){
+        for (var i = 0; i < wordList.length; i++){
             pResponses = [];
-            pResponses = generateResponses(posLetters, blacksList, wordList[i]);
-            minScore = wordList.size;
-            for (k = 0; k < pResponses.size; k++){
-                //update lists
-                cutsC = cutCountWords(wordListMod, posLetters, blacksList, greensList, yellowsList, false);
+            pResponses = generateResponses(posLetters, blacksList, greensList, yellowsList, wordList[i]);
+            minScore = wordList.length;
+            for (var k = 0; k < pResponses.length; k++){
+                pl = posLetters.slice();
+                bl = blacksList + "";
+                gl = greensList + "";
+                yl = yellowsList + "";
+                updateLists(pl,bl,gl,yl, wordList[i], pResponses[k]);
+                cutsC = cutCountWords(wordListMod, pl, bl, gl, yl, false);
                 if (cutsC < minScore){
                     minScore = cutsC;
                 }
@@ -276,20 +288,38 @@ function minmaxSearch(){
             }
         }
         console.log("Best guess is: " + bestGuess);
-        guessResult = String(prompt("Best guess is: " + bestGuess));
+        try {
+            guessResult = String(prompt("Best guess is: " + bestGuess));
+        } catch (error) {
+            console.error(error);
+            guessResult = "22000";
+        }
+        //guessResult = String(prompt("Best guess is: " + bestGuess));
         console.log(guessResult);
         updateLists(posLetters,blacksList,greensList,yellowsList, bestGuess, guessResult);
         cutCountWords(wordListMod,posLetters,blacksList,greensList,yellowsList,true);
-        if (wordListMod.size < 2){
+        if (wordListMod.length < 2){
             console.log(wordListMod);
-            if (wordListMod.size > 0){
-                prompt(wordListMod[0]);
+            if (wordListMod.length > 0){
+                console.log(wordListMod[0]);
+                try {
+                    prompt(wordListMod[0]);
+                } catch (error) {
+                    console.error(error);
+                }
+                
             }
             else {
-                prompt("word not found");
+                try {
+                    prompt("word not found");
+                } catch (error) {
+                    console.error(error);
+                }
+
             }
             break;
         }
         safetyCount++;
     }
 }
+minmaxSearch();
