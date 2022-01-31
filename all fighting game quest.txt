@@ -150,7 +150,7 @@ robo pocket - steam K one button infinite, needs xbox controller spoof
 Combate Monero - steam esteban besteban, 214lp unblockable, 236P absurd fireball combo/inf?
 One Must Fall 1.0 shareware - throw peeps in blockstun. 214P/K fireballs good
 Slaughter Sport - fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
-SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK x2 ToD
+SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -166,7 +166,8 @@ penguin wars - throw all the balls away game
 Lethal League and blaze - neat dodgeball em ups
 The outfoxies - vomit commet camera, but neat platforming side view shoot vs game
 Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad sp fighter gameplay
-Mutation Nation - NeoGeo fc2 beat em up
+Mutation Nation - NeoGeo fc beat em up
+Monster Maulers - fc red earth em up, but co op 2p
 
 -------------------------------------------------------
 Watch list:
@@ -212,7 +213,6 @@ Advance Guardian Heroes GBA
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
-Goiken Muyou II
 Phantom Breaker Extra ps3/xb360
 kenju arcade prototype fc2
 knight games dos
@@ -891,7 +891,6 @@ Matsumura Kunihiro Den snes fc2
 Metal Masters atari st
 Mighty Warriors fc2
 Monster: Ancient Cline pc unreleased
-Monster Maulers fc2
 zoku sonohigurashi vs touhou universe 2 steam
 Mortal Szombat pc
 Morae Sygye pc ibm korean game
@@ -989,3 +988,9 @@ FateAxis 2 ~ The Fragment http://platform.xsrv.jp/rokusuijo/DL/download.htm
 FateAxis 1, enlargement edition, and 2
 Ever Nights エバー・ナイツ PC http://www.vector.co.jp/soft/dl/win95/game/se387396.html
 SMBZ-G
+Ohneachan pc
+2v2 vs memorial https://archive.org/details/2vs2-vs-memorial
+Samurai gunn steam
+Samurai gunn 2 steam
+Yojimbrawl pc
+Card saga Wars mugen
