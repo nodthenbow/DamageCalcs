@@ -13,6 +13,7 @@ Psychic Force ps1 arcade - flying game 3d in a box
 Dark Edge - sprite based 3d game by sega, cursed inputs
 Veteran Combat - pc fake vintage digitized sprites, bad
 Umineko: Golden Fantasia - steam vn fighter, tag, special meter building for tag
+Ougon Musou Kyoku / CROSS - Umineko's other name
 Double Dragon Neo Geo - fc boss characters real strong, weirdly great input handler
 Ninja Master's haoh ninpo cho - fc Raiga fun, Kasume walldive loops
 Rage of the Dragons - fc Afro Bruce Lee 2v2
@@ -151,6 +152,8 @@ Combate Monero - steam esteban besteban, 214lp unblockable, 236P absurd fireball
 One Must Fall 1.0 shareware - throw peeps in blockstun. 214P/K fireballs good
 Slaughter Sport - fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
 SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
+Slashers the Power Battle - android, 632 is a valid dp input
+Game & Watch Boxing - dodge is OP, good to gain advantage and little recovery
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -225,7 +228,7 @@ Shaolin / Lord of Fist psx
 head 2 head steam
 SLAYERS FOR HIRE steam (owned)
 Genei Tougi: Shadow Struggle psx
-super bout champion's tour steam
+super bout champion's tour steam owned
 Dragon Blast: Project Soul Gainer pc
 gado fight steam
 all-star fighters (2005, ps2)
@@ -245,7 +248,7 @@ Jinyong Kuaida
 Variable Geo series
 Fight N Jokes dos (fight 'n' jokes)
 Violent Vengeance - The Universe Hero
-Tatsunoko Fight
+Tatsunoko Fight psx
 Kakugo no Susume
 Soul Edge vs. Samurai Spirits fc2
 Soul Falchion bootleg
@@ -355,8 +358,8 @@ Nessa no Hoshi PS1
 Animals Fight
 Battle High 2 A+ steam owned
 Battle Snakes
-Fight Party
-Fighting Friends
+Fight Party steam owned
+Fighting Friends steam owned
 Maribato
 Bio freaks n64
 Dark Rift n64
@@ -444,7 +447,7 @@ Castlevania Judgement wii
 Chaos Code steam
 Chu’s Dynasty xb360
 Clash of Elementalists dsiware
-Combat Core steam
+Combat Core steam owned
 Custom Robo series
 Virtual-on series (played the one in yakuza)
 Deadliest Warrior: Legends Deadliest Warrior: Ancient Combat ps3
@@ -495,7 +498,8 @@ Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighter’s History series fc2 (played karnov's)
-Fight of Animals steam
+Fight of Animals steam owned
+Fight of Animals Arena steam owned
 Final Fight Revenge saturn
 Fighting Layer mame
 Fighting EX Layer ps4/steam
@@ -557,8 +561,8 @@ Kakuto Chojin: Back Alley Brutal Kakutō Chōjin: Fighting Super Heroes xbox
 Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist ps1
 Keriotosse saturn
-Kings of Kung-fu steam 
-Fighters Legacy steam
+Kings of Kung-fu steam owned
+Fighters Legacy steam owned
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
 kinnikuman dirty challenger snes fc2
 Kinnikuman & Muscle Grand Prix 1/max/2
@@ -570,7 +574,7 @@ LastFight steam
 Lightning Legend: Daigo no Daibouken ps1
 little wizard gp32
 lobo unreleased fc2
-Magical Battle Arena / Fiesta steam
+Magical Battle Arena / Fiesta steam owned
 Magical Girl Lyrical Nanoha a’s Portable the Battles of Aces & the Gears of Destiny psp
 Mahou Sensei Negima Neo Pactio Fight wii
 Mai-otome Hime: Otome Butou Shi ps2
@@ -596,7 +600,7 @@ Musashi No Ken: Tadaima Shugyou Chuu nes
 Mutant Dna dos
 My Hero Academia: Battle for All bamco shonen steam
 My Hero One’s Justice 1/2 bamco shonen steam
-Mystic Melee steam
+Mystic Melee steam owned
 Net Fighter pc (1998 tho)
 Naruto Clash of Ninja 1 / 2 / 3
 Naruto Clash of Ninja 4 / Revolution / Revolution 2
@@ -616,7 +620,7 @@ Naruto Shippuden Ultimate Ninja Storm Revolution / Uns Trilogy / Uns 4 Road to B
 Natsuki Crisis Battle snes fc2
 Nekketsu Kakutou Densetsu nes kunio kun game
 Neon Genesis Evangelion: Battle Orchestra psp/ps2
-Nitroplus Blasterz steam
+Nitroplus Blasterz steam owned
 Nitro Royale: Heroines Duels pc
 Nurarihyon no Mago: Hyakki Ryouran Taisen ps3
 Omen of Sorrow steam ps4 2022
@@ -631,7 +635,8 @@ One Punch Man: a Hero Nobody Knows
 Onimusha Blade Warriors ps2
 Onna Sanshirou: Typhoon Gal mame
 Ossu!! Karate Bu snes fc2
-Override Mech City Brawl steam
+Override Mech City Brawl steam owned
+Override 2 steam owned
 Pacific Rim: the Video Game ps3
 Pen 1 Grand Prix: Penguin No Mondai Special ds
 Rekishi Taisen Gettenka Tenkaichi battle royale ds
@@ -645,13 +650,17 @@ Power Moves snes fc2
 Poypoy 1/2 ps1
 Power Quest gbc
 Project Cerberus psp
-River City Melee Mach!! steam kunio kun
+River City Melee Mach!! steam kunio kun owned
 River City Rival Showdown kunio kun
 robo-pit 1/2 ps1
+robot88 steam owned
 megaman fighters fc2
 Rokudenashi Blues - Taiketsu! Tokyo Shitennou snes fc2
-Roof Rage steam
-Rag Doll Kung Fu steam
+Roof Rage steam owned
+Rag Doll Kung Fu steam owned
+Ritual tournament steam owned
+Maiden & spell steam owned
+Maximum Fighterz: Direct Offensive Act steam owned
 Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
@@ -672,9 +681,9 @@ Shijyou Saikyou No Deshi Kenichi Gekitou! Ragnarock Hachikengou ps2
 Shonen Jump Jikkyou Janjan Stadium android
 Shovel Knight Showdown steam
 Silver Knights pc
-Skyscrappers steam
+Skyscrappers steam owned
 Slam Masters series (fc2 for 1)
-Slice Dice & Rice steam
+Slice Dice & Rice steam owned
 Snk Gals Fighters neogeo pocket color
 Sonic Battle gba
 Sokko Seitokai: Sonic Council saturn
@@ -684,7 +693,7 @@ Star Gladiator 1/2 ps1
 Star Wars Episode III: Revenge of the Sith ps2
 Steambot Chronicles ps2
 Soul Eater Battle Resonance ps2
-Stick Fight: the Game steam
+Stick Fight: the Game steam owned
 Subscribe and Punch steam (owned)
 Sugoi Hebereke snes fc2
 Suiko Enbu 2 saturn
@@ -728,11 +737,11 @@ Ultraman: Towards the Future / Ultra Seven
 Mega Monster Battle: Ultra Coliseum Dx: the Gathering of the Ultra Heroes!
 Ultraman Hikari No Kyojin Densetsu / Fighting Evolution / Hikari No Kuni No Shisha
 Ultraman Fighting Evolution 3 / Nexus / Rebirth
-Ultra Space Battle Brawl steam
+Ultra Space Battle Brawl steam owned
 Ultra Vortek jaguar
 Unholy Night: The Darkness Hunter snes (2017 game wtf)
 Urban Reign ps2
-Vanguard Princess steam
+Vanguard Princess steam owned
 Viewtiful Joe - Red Hot Rumble psp gcn
 Voltage Fighter - gowcaizer fc2
 Valkyrie: The Power Beauties pc98
@@ -827,9 +836,9 @@ Funky Punch xl psp
 Fuuun Shaolin No Ken / Ankoku No Maou famicom disk system
 Barravento: Mestre Da Capoeira amiga
 Gladiators amiga
-Grand Class Melee 2 steam
+Grand Class Melee 2 steam owned
 Gwigyeon pc
-Gladiator: Blades of Fury steam
+Gladiator: Blades of Fury steam owned
 Godzilla & Destroy All Monsters & Monster Mayhem
 Godzilla Destroy All Monsters Melee & Domination!
 Godzilla Save the Earth & Unleashed
@@ -865,7 +874,7 @@ Lord of Fist psx
 Shura No Mon ps1
 Shura No Mon gen fc2
 Kengo series https://en.wikipedia.org/wiki/Kengo
-Kiai Resonance steam
+Kiai Resonance steam owned
 Kickbox Vigilante spectrum
 Ninja Hamster spectrum
 Sai Combat spectrum
@@ -887,6 +896,9 @@ Master Fighter II nes bootleg
 MASTER FIGHTER III nes bootleg
 Moon Fighter x68k
 fighting hero 1/3 nes bootleg
+fighting heart steam owned
+fighting mad lads steam owned
+fisticubes steam owned
 Matsumura Kunihiro Den snes fc2
 Metal Masters atari st
 Mighty Warriors fc2
@@ -898,7 +910,7 @@ Mtv's Celebrity Deathmatch ps1/ps2
 Overturn wii
 Olofight amiga
 Ooga Booga dreamcast
-Paperbound steam
+Paperbound steam owned
 Pit-Fighter fc2
 Pray for Death dos
 ReadySet Heroes ps4
@@ -924,7 +936,7 @@ Small Arms xblig
 Spitting Image amiga
 Stake Fortune Fighters xbox
 Star Wars: the Clone Wars -lightsaber Duels- wii
-steel fight steam
+steel fight steam owned
 Steel Lords wii u
 Steel Rivals pc wii u
 Street Chaves pc
@@ -990,7 +1002,20 @@ Ever Nights エバー・ナイツ PC http://www.vector.co.jp/soft/dl/win95/game/
 SMBZ-G
 Ohneachan pc
 2v2 vs memorial https://archive.org/details/2vs2-vs-memorial
-Samurai gunn steam
+Samurai gunn steam owned
 Samurai gunn 2 steam
 Yojimbrawl pc
 Card saga Wars mugen
+Hyper 3D Taisen Battle Gebockers saturn
+Vatlva saturn
+Silent Bomber  psx
+Zero psx (net yaroze)
+tokui waza 1/2 net yaroze psx
+stars wars psx net yaroze
+psychic duel 1/2 psx net yarose
+hipoweer battlers psx net yaroze
+Imp windows Idol FX
+X men Hyperscan 
+NAIR steam owned
+ROUNDS steam owned
+Tough law steam owned 
