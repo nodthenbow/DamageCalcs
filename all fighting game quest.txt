@@ -154,6 +154,7 @@ Slaughter Sport - fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump t
 SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
 Slashers the Power Battle - android, 632 is a valid dp input
 Game & Watch Boxing - dodge is OP, good to gain advantage and little recovery
+Vanguard Princess - pigtails blue shirt has karin rekka 236X B A launch, meh game
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -283,12 +284,11 @@ Katekyō Hitman Reborn! Dream Hyper Battle! PS2
 X: Unmei no Sentaku
 One Piece Grand Battle 2
 Messiah End Revenge
-Tenth Degree
 Sakura X Clash
 Mad Stalker: Full-Metal Force ps1
 Chaos Striker
 Eye of Typhoon 3do
-Trajes Fatais: Suits of Fate
+Trajes Fatais: Suits of Fate steam
 Toy Fighter fc2
 Fist ps1
 Flying Dragon n64
@@ -299,7 +299,6 @@ Tao Taido fc2
 shadow warriors 3do
 shadow war of succession 3do
 Critical Blow ps1
-Tenth Degree
 Mad Stalker: Full-Metal Force ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale Z ps2
@@ -360,7 +359,6 @@ Battle High 2 A+ steam owned
 Battle Snakes
 Fight Party steam owned
 Fighting Friends steam owned
-Maribato
 Bio freaks n64
 Dark Rift n64
 Deadly Arts G.a.s.p!! n64
@@ -373,7 +371,7 @@ Ultraman 3do
 street overlord ZC-780
 Kasumi Ninja jaguar
 Fight for Life jaguar
-Tōkidenshō Angel Eyes fc2
+Tōkidenshō Angel Eyes toukidenshou angel eyes fc2
 Golden Axe The Duel arcade
 Revengers of Vengeance sega cd
 fx fighter pc
@@ -516,7 +514,7 @@ Gladiator Begins psp (Gladiux is a remake apparently coming soon 2022)
 Glove on Fight 1/2 pc (Gleam of Force is 2, proto melty)
 Godannar ps2
 Goddess’ Blazon x68k
-Goiken Muyou saturn
+Goiken Muyou Anarchy in the Nippon saturn
 Goiken Muyou 2 ps1
 Mobile Suit Gundam & Ex Revue
 Mobile Fighter G Gundam / Gundam Wing Endless Duel
@@ -720,7 +718,7 @@ A Certain Magical Index psp
 A Certain Magical Virtual-On ps4/vita removed from sale
 Tobal 1/2/3 ps1
 Toriko Gourmet Ga Battle 3ds
-Battle Arena Toshinden 1/2/ura/3/4
+Battle Arena Toshinden 1/2/ura/3/4/wii
 Tough: Dark Fight ps2
 Touhou
 Touhou Sky Arena -matsuri- Climax
@@ -741,7 +739,6 @@ Ultra Space Battle Brawl steam owned
 Ultra Vortek jaguar
 Unholy Night: The Darkness Hunter snes (2017 game wtf)
 Urban Reign ps2
-Vanguard Princess steam owned
 Viewtiful Joe - Red Hot Rumble psp gcn
 Voltage Fighter - gowcaizer fc2
 Valkyrie: The Power Beauties pc98
@@ -780,6 +777,7 @@ Bayani: Fighting Game Bayani: Kanino Ka Kakampi steam
 Bikini Karate Babes 1/2 pc
 Black hole Assault sega cd
 Black Panther c64
+Grappler Baki: Baki Saikyō Retsuden ps2
 Firepit c64
 Iketa c64
 Master Ninja c64
@@ -817,6 +815,7 @@ Dual Heroes n64
 Dynamite Bomb!! pc https://www.playism-games.com/games/inahodynamite/
 D-xhird saturn
 Elfmania amiga
+Shaolin Campus Kings dos
 Expect No Mercy pc
 Fatal Impact amiga
 Fighter amiga
@@ -855,6 +854,8 @@ Hiryu No Ken series https://en.wikipedia.org/wiki/Hiry%C5%AB_no_Ken
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
 Holosseum mame
+BEAT DOWN FIST OF VENGEANCE PS2
+fighting run fc2
 Hyper Reverthion / Koutetsu Reiki Steeldom saturn (2 games, 2nd sequel)
 Icons steam
 Imkkeokjeong pc
@@ -881,7 +882,7 @@ Sai Combat spectrum
 Samurai Trilogy spectrum
 Killing Zone ps1
 Kin Yeo Fighting pc 1995
-Kombate Mexicano X pc
+Kombate Mexicano X / 1 / 2 pc
 Deadly Tournament pc
 Desembarcament pc
 Ninja Warrior Genesis pc
@@ -929,9 +930,11 @@ Ringside Karate c64
 I Ludicrus atari st 
 The Ultimate Arena atari st
 Swashbuckler fm-7
+Istanbul Beyleri pc 
 Shrek Super Slam / Fairy Tale Freakdown
 Skorecery ps4
 Slam Dragon psx
+SD Battle Ozumo: Heisei Hero Basho
 Small Arms xblig
 Spitting Image amiga
 Stake Fortune Fighters xbox
@@ -959,6 +962,7 @@ Sword Dancer series pc98
 Tattoo Assassins fc2
 Tenkaichi Bushi Keru Nagūru nes
 The Bread Pub Brawlers ps4
+Brawl Brothers 1/2 FC
 The Circle wii cancelled
 The Great Fighter pc korean
 The Grim Adventures of Billy and Mandy wii gcn ps2
@@ -1019,3 +1023,5 @@ X men Hyperscan
 NAIR steam owned
 ROUNDS steam owned
 Tough law steam owned 
+GigaBash ps4/5
+DragonBlast SE PC
