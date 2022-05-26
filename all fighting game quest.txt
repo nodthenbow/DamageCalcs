@@ -18,7 +18,7 @@ Double Dragon Neo Geo - fc boss characters real strong, weirdly great input hand
 Ninja Master's haoh ninpo cho - fc Raiga fun, Kasume walldive loops
 Rage of the Dragons - fc Afro Bruce Lee 2v2
 Matrimelee - fc weird furry, Power Instinct series
-all power instinct games - 7 total
+all power instinct games / Gouketsuji Ichizoku - 7 total
 Battle K-Road - fc great, hold heavies
 Daraku Tenshi The Fallen Angels - fc unreleased Battle K-Road em up
 3 Count Bout - fc wrestling, hcf/bP only special input, R Bradley top tier
@@ -116,6 +116,10 @@ all smash bros games
 Teenage Mutant Ninja Turtles: Tournament Fighters - shark op, ralph dank tho
 all tekken games
 all main king of fighters
+Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) - fc
+Art of Fighting (Ryuuko no Ken) - fc
+Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) - fc
+Fatal Fury Special - fc
 all Darkstalkers games
 kof maximum impact 1/rev a/2 - 3d
 kof ex 1/2, r1/r2 - portables
@@ -155,6 +159,23 @@ SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump
 Slashers the Power Battle - android, 632 is a valid dp input
 Game & Watch Boxing - dodge is OP, good to gain advantage and little recovery
 Vanguard Princess - pigtails blue shirt has karin rekka 236X B A launch, meh game
+Def Jam Icons - L2+shake stick env dam kill con, RS up up grab, R2 RS blocks
+SLAYERS FOR HIRE - steam floaty smash like
+Fighting Friends - steam top down fighting game, match directions for combo breaker
+slice, dice & rice - parry instead of guard, Bruce Lee good because he is too fast
+Super Bout Champion's Tour - steam vf inspired and really solid
+sub and punch - steam no char sel pdp P/PP/PPP block infinite, walk forwards auto block
+steel fight - steam no jump 2 button + dashes 1f hitstun
+samurai gunn - steam two buttons no bullet regen, towerfall em up
+rushdown revolt - super floaty platform fighter with weirdly small hitboxes
+roof rage - steam very good platform fighter ninja girl seems strongest but not broke
+robot88 - steam make a fighter
+River City Melee Match!! - steam what you'd expect, kunio vs mode
+kaia resonance - steam 3 stances, bot attack, top hold gb, left parry, right neutral guard
+nair - steam has a dodge too actually
+override mech city brawl - steam x+shoulder = special move one bar, shield has parry
+override 2 - steam l1 r1 r2 universal target combo, multi shoulder for specials
+ritual tournament - steam borderline not functional, but also an asset flip
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -172,6 +193,13 @@ The outfoxies - vomit commet camera, but neat platforming side view shoot vs gam
 Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad sp fighter gameplay
 Mutation Nation - NeoGeo fc beat em up
 Monster Maulers - fc red earth em up, but co op 2p
+Fight Party - steam it's like a shooter w/o guns
+paperbound - steam one button and right stick projectile
+rounds - steam physics based towerfall em up with neat card gimmick
+stick fight - steam physics based towerfall em up
+sky scrappers - steam jump around
+ultra space battle brawl - steam pong 4
+Maximum Fighterz: Direct Offensive Action - turn based
 
 -------------------------------------------------------
 Watch list:
@@ -227,9 +255,7 @@ mizuki shigeru no yokai butouden psx
 Kakugo no Susume psx
 Shaolin / Lord of Fist psx
 head 2 head steam
-SLAYERS FOR HIRE steam (owned)
 Genei Tougi: Shadow Struggle psx
-super bout champion's tour steam owned
 Dragon Blast: Project Soul Gainer pc
 gado fight steam
 all-star fighters (2005, ps2)
@@ -250,7 +276,6 @@ Variable Geo series
 Fight N Jokes dos (fight 'n' jokes)
 Violent Vengeance - The Universe Hero
 Tatsunoko Fight psx
-Kakugo no Susume
 Soul Edge vs. Samurai Spirits fc2
 Soul Falchion bootleg
 Fighting Eyes ps1
@@ -357,8 +382,6 @@ Nessa no Hoshi PS1
 Animals Fight
 Battle High 2 A+ steam owned
 Battle Snakes
-Fight Party steam owned
-Fighting Friends steam owned
 Bio freaks n64
 Dark Rift n64
 Deadly Arts G.a.s.p!! n64
@@ -633,8 +656,6 @@ One Punch Man: a Hero Nobody Knows
 Onimusha Blade Warriors ps2
 Onna Sanshirou: Typhoon Gal mame
 Ossu!! Karate Bu snes fc2
-Override Mech City Brawl steam owned
-Override 2 steam owned
 Pacific Rim: the Video Game ps3
 Pen 1 Grand Prix: Penguin No Mondai Special ds
 Rekishi Taisen Gettenka Tenkaichi battle royale ds
@@ -648,15 +669,10 @@ Power Moves snes fc2
 Poypoy 1/2 ps1
 Power Quest gbc
 Project Cerberus psp
-River City Melee Mach!! steam kunio kun owned
 River City Rival Showdown kunio kun
 robo-pit 1/2 ps1
-robot88 steam owned
 megaman fighters fc2
 Rokudenashi Blues - Taiketsu! Tokyo Shitennou snes fc2
-Roof Rage steam owned
-Rag Doll Kung Fu steam owned
-Ritual tournament steam owned
 Maiden & spell steam owned
 Maximum Fighterz: Direct Offensive Act steam owned
 Rozen Maiden: Gebetgarten ps2
@@ -681,7 +697,6 @@ Shovel Knight Showdown steam
 Silver Knights pc
 Skyscrappers steam owned
 Slam Masters series (fc2 for 1)
-Slice Dice & Rice steam owned
 Snk Gals Fighters neogeo pocket color
 Sonic Battle gba
 Sokko Seitokai: Sonic Council saturn
@@ -699,6 +714,7 @@ Super Chinese Fighter fc2
 Sunday Vs Magazine psp
 Super Cosplay War Ultra Infinity pc
 Super Slime Arena steam
+Shadow Tower ps1 vs mode
 Taiketsu! Ultra Hero gba
 Tales of Vs. psp
 Tao Feng: Fist of the Lotus xbox
@@ -793,6 +809,7 @@ Chinese Karate anmiga
 Karate King amiga
 King of Karate amiga
 Taekwondo Master amiga
+super Taekwondo Master amiga
 the Way of the Little Dragon amiga
 Capital Punishment amiga
 Cartoon Network Punch Time Explosion wii/ps3
@@ -825,7 +842,7 @@ Fatality mobile (java phone?)
 Fight Club ps2
 Fighting Fury ps2
 Fighting Angels ps2
-Fighting Beauty Wulong ps2
+Fighting Beauty Wulong Kakutou Bijin Wulong ps2
 Fighting Masters gen fc2
 Fightin Spirit amiga cd32
 Fist Fighter amiga
@@ -930,7 +947,7 @@ Ringside Karate c64
 I Ludicrus atari st 
 The Ultimate Arena atari st
 Swashbuckler fm-7
-Istanbul Beyleri pc 
+Istanbul Beyleri pc https://archive.org/details/istanbul-beyleri
 Shrek Super Slam / Fairy Tale Freakdown
 Skorecery ps4
 Slam Dragon psx
@@ -939,7 +956,6 @@ Small Arms xblig
 Spitting Image amiga
 Stake Fortune Fighters xbox
 Star Wars: the Clone Wars -lightsaber Duels- wii
-steel fight steam owned
 Steel Lords wii u
 Steel Rivals pc wii u
 Street Chaves pc
@@ -1006,7 +1022,6 @@ Ever Nights エバー・ナイツ PC http://www.vector.co.jp/soft/dl/win95/game/
 SMBZ-G
 Ohneachan pc
 2v2 vs memorial https://archive.org/details/2vs2-vs-memorial
-Samurai gunn steam owned
 Samurai gunn 2 steam
 Yojimbrawl pc
 Card saga Wars mugen
@@ -1020,8 +1035,5 @@ psychic duel 1/2 psx net yarose
 hipoweer battlers psx net yaroze
 Imp windows Idol FX
 X men Hyperscan 
-NAIR steam owned
-ROUNDS steam owned
-Tough law steam owned 
 GigaBash ps4/5
 DragonBlast SE PC
