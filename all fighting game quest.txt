@@ -22,7 +22,8 @@ all power instinct games / Gouketsuji Ichizoku - 7 total
 Battle K-Road - fc great, hold heavies
 Daraku Tenshi The Fallen Angels - fc unreleased Battle K-Road em up
 3 Count Bout - fc wrestling, hcf/bP only special input, R Bradley top tier
-Cute Fighter - fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC 
+Cute Fighter - fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC
+SD Fighters - fc, top right best, just mash jabs, a lesser cute fighter
 Dino Rex - fc dino, wack af
 Power Instinct - fc ew, it's that one
 Best of Best - fc Statue of Liberty
@@ -132,7 +133,7 @@ Ultra Fight Da Kyanta 2 - goty 3v3 ratio game, mspaint art, perfect game
 all under night in-birth games
 all virtua fighter games
 World Heroes 1/2/jet/perfect - pick dictator, redic jabs and redic pokes
-Alien Challenge - played with kooter, boob fireballs op
+Alien Challenge - played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
 Ballz series - ballz
 Rise of the Robots - mantis dude has jump ins that hit low
 Rise 2 - also bad, I confuse it with 1 a lot 
@@ -176,6 +177,8 @@ nair - steam has a dodge too actually
 override mech city brawl - steam x+shoulder = special move one bar, shield has parry
 override 2 - steam l1 r1 r2 universal target combo, multi shoulder for specials
 ritual tournament - steam borderline not functional, but also an asset flip
+Top Fighter 2000 MK VIII - fc barely functions, 66B for special, 6mashstick6 for other special
+Top Fighter 2005 - fc runs much better, but otherwise is just TF2k in chinese
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -267,8 +270,6 @@ Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
 Xenophage Alien Bloodsport dos
 VR troopers fc2
-Top Fighter 2000 MK VIII fc2
-Top Fighter 2005 fc2
 The Black Heart steam
 Lord of the Rings - The Return of the King (Unl)
 Jinyong Kuaida
@@ -327,7 +328,6 @@ Critical Blow ps1
 Mad Stalker: Full-Metal Force ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale Z ps2
-Dragon Blast: Project Soul Gainer pc
 Flying Dragon SD N64
 Schmeiser Robo fc2
 Ninpu Sentai Hurricaneger ps1
@@ -412,7 +412,6 @@ destrega ps1
 Fighting Bujutsu arcade
 tech romancer fc2 
 Martial Masters fc2
-time killers fc2
 heaven's gate ps1
 Last Bronx saturn
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
@@ -557,6 +556,7 @@ Heavy Metal Thunder ps2
 Heroes Vs. psp
 Higurashi Daybreak portable psp
 Hinokakera Fragment: Eclipse pc
+Hinokakera Chaotic Eclipse PC
 International Karate series fc2 one of them
 Inuyasha Feudal Combat ps2
 Inuyasha a Feudal Fairy Tale ps1
@@ -679,7 +679,6 @@ Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn/gba
-SD Fighters fc2
 Seifuku Densetsu Pretty Fighter fc2 (sequel x saturn)
 Sengoku Basara X ps2
 Sengoku Basara 2 heroes ps2
@@ -996,6 +995,7 @@ Zulula trilogy dos
 Transformers: Beast Wars Transmetals n64
 Tube Warriors amiga
 Unlimited Warriors dos 
+Ultraman: Hikari no Kyojin Densetsu saturn
 Vagrant Fighter FX
 Versus Hero: Road to the King Fight gb
 Vicious Circle arcade cancelled
@@ -1037,3 +1037,7 @@ Imp windows Idol FX
 X men Hyperscan 
 GigaBash ps4/5
 DragonBlast SE PC
+Kokoro Ultimate steam
+Orbital Combat steam
+Pixel Game Maker Series KINGDOM FIGHTER switch
+Pixel Game Maker Series DANDAN Z switch
