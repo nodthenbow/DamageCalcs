@@ -261,7 +261,7 @@ head 2 head steam
 Genei Tougi: Shadow Struggle psx
 Dragon Blast: Project Soul Gainer pc
 gado fight steam
-all-star fighters (2005, ps2)
+all-star fighters (2005, ps2) simple series???
 the untouchables 1/2 pc 
 SD Hiryu no Ken EX
 Burning Fists - Force Striker
@@ -345,6 +345,7 @@ Fighter Street VI. 12 Peoples bootleg nes
 Jang Pung II gen/ms/gg bootleg
 Jang Pung 3 gen/ms bootleg
 kart fighter nes bootleg
+Mareo GO Kart Galaxy Strikers 40/5 pc mugen itch
 mortal kombat ii yoko pirate
 Namco Super Heroes pc fan game http://hiro.blue.coocan.jp/products/NSH/NSH.html
 V.R Fighter VS Taken 2 gen bootleg
@@ -368,7 +369,6 @@ Shadow Struggle ps1
 Variable geo series https://en.wikipedia.org/wiki/Variable_Geo 
 Psychic Force 2012 fc2
 Metal Clash arc
-Astra Superstars arc saturn
 pop'n tanks! psx jp
 Sango fighter 1/2 dos superfighter.com
 Fengshen Bang dos
@@ -415,6 +415,7 @@ Martial Masters fc2
 heaven's gate ps1
 Last Bronx saturn
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
+Kabuki Ichito Ryodan PCE
 double dragon v fc2
 Heavy Metal Geomatrix fc2
 motionsickness https://gamejolt.com/games/motionsickness/601247 
@@ -429,7 +430,6 @@ AAH! HARIMANADA (AA HARIMANADA) FC2
 Aquapazza ps3
 Arcana Heart series
 Art of Fighting Series
-Astra Superstars saturn
 AbalaBurn ps1
 2d Fighter Maker
 Fighter Maker 2nd
@@ -482,7 +482,7 @@ Digimon Battle Spirit 1/1.5/2
 Digimon All-star Rumble
 Dissidia series
 Doodle Hex ds
-Dragon – the Bruce Lee Story fc2
+Dragon – the Bruce Lee Story fc2 / jaguar
 Dragon Ball series of games (played a ton of them already, multiple on fc2)
 Dragon Ball Z Tv Game & Dragon Ball Gekitou Tenkaichi Budokai
 Dragon Ball Z & Dragon Ball Z 2 Super Battle
@@ -518,6 +518,7 @@ Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighter’s History series fc2 (played karnov's)
+Fighter's History: Mizoguchi Kiki Ippatsu!! fc2
 Fight of Animals steam owned
 Fight of Animals Arena steam owned
 Final Fight Revenge saturn
@@ -680,7 +681,8 @@ Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn/gba
 Seifuku Densetsu Pretty Fighter fc2 (sequel x saturn)
-Sengoku Basara X ps2
+Pretty Fighter ps1
+Sengoku Basara X / Cross ps2
 Sengoku Basara 2 heroes ps2
 Senko No Ronde 2 steam (owned)
 Shaman King: Power of Spirit ps2
@@ -733,7 +735,7 @@ A Certain Magical Index psp
 A Certain Magical Virtual-On ps4/vita removed from sale
 Tobal 1/2/3 ps1
 Toriko Gourmet Ga Battle 3ds
-Battle Arena Toshinden 1/2/ura/3/4/wii
+Battle Arena Toshinden 1/2/ura/3/4/wii/GB
 Tough: Dark Fight ps2
 Touhou
 Touhou Sky Arena -matsuri- Climax
@@ -744,11 +746,11 @@ Touhou Hisouten ~ Scarlet Weather Rhapsody
 Touhou Kobuto V: Burst Battle
 Original Story From Fairy Tail: Gekitotsu! Kardia Daiseidou / Tv Anime Fairy Tail: Gekitou! Madoushi Kessen ds
 Twinkle Queens wii
-Ultraman Fighting Evolution 2 / Zero
+Ultraman Fighting Evolution / Fighting Evolution 2 / Zero
 Ultraman Powered / the Ultimate Fighting
 Ultraman: Towards the Future / Ultra Seven
 Mega Monster Battle: Ultra Coliseum Dx: the Gathering of the Ultra Heroes!
-Ultraman Hikari No Kyojin Densetsu / Fighting Evolution / Hikari No Kuni No Shisha
+Ultraman: Hikari No Kyojin Densetsu saturn / Fighting Evolution / Hikari No Kuni No Shisha
 Ultraman Fighting Evolution 3 / Nexus / Rebirth
 Ultra Space Battle Brawl steam owned
 Ultra Vortek jaguar
@@ -761,7 +763,7 @@ War of the Monsters ps2
 Wu-tang: Shaolin Style ps1
 Xena Warrior Princess: the Talisman of Fate n64
 Xuan Dou Zhi Wang pc
-X-men Mutant Academy 1/2 ps1
+X-men Mutant Academy 1/2 ps1 / gbc
 Yatagarasu steam
 The Battle of Yu Yu Hakusho: Shitou! Ankoku Bujutsukai! 120% / Dark Tournament
 Yu Yu Hakusho: Sunset Riders / Dai 4 Tama: Makai Touitsu
@@ -887,7 +889,6 @@ Karate Phants: Gloves of Glory wii
 Karate Champ fc2
 Karou Densetsu Honban x68k
 Katana Action; The Bushido; Simple 2000 Series Vol. 28: The Bushido - Tujigiri Ichidai ps2
-Lord of Fist psx
 Shura No Mon ps1
 Shura No Mon gen fc2
 Kengo series https://en.wikipedia.org/wiki/Kengo
@@ -903,6 +904,7 @@ Deadly Tournament pc
 Desembarcament pc
 Ninja Warrior Genesis pc
 Kabuki Warriors xbox
+Shinkon Gattai Godannar!! ps2
 Long Life c64
 Loons the Fight for Fame xbox
 Lucky Fight Vs. Ika Musume 3X pc
@@ -994,8 +996,7 @@ Tournament of Warriors dos
 Zulula trilogy dos
 Transformers: Beast Wars Transmetals n64
 Tube Warriors amiga
-Unlimited Warriors dos 
-Ultraman: Hikari no Kyojin Densetsu saturn
+Unlimited Warriors dos
 Vagrant Fighter FX
 Versus Hero: Road to the King Fight gb
 Vicious Circle arcade cancelled
@@ -1035,9 +1036,16 @@ psychic duel 1/2 psx net yarose
 hipoweer battlers psx net yaroze
 Imp windows Idol FX
 X men Hyperscan 
+Interstellar Wrestling League Hyperscan
 GigaBash ps4/5
 DragonBlast SE PC
 Kokoro Ultimate steam
 Orbital Combat steam
 Pixel Game Maker Series KINGDOM FIGHTER switch
 Pixel Game Maker Series DANDAN Z switch
+Real sports boxing atari
+The Unholy pc https://www.old-games.ru/game/9319.html
+Fetish Fighters pc https://archive.org/details/FF17SWsetup
+Future Fighters pc https://archive.org/details/FUTURE_201704
+Dragon Ball Z - Grand Fighters pc https://archive.org/details/swizzle_demu_Dbt
+Dragon Ball Z - Tek pc https://archive.org/details/swizzle_demu_Dbt_201809
