@@ -37,8 +37,7 @@ Battle Masters - fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 6321
 Fight Fever - fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
 Galactic Warriors - fc robot fighter, attack switch button, slow
 Astra Superstars - sunsoft, flying game, has santa girl
-Rakuga Kids - n64 doodle characters
-waku waku 7 - fc it's waku waku 7
+waku waku 7 - fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
 Galaxy Fight - 1 second rounds tournament game, viable to solve some day
 Slap Happy Rhythm Busters - ps1, rhythm game supers
 Eternal Champions - gen fc has yin yang stamina bars
@@ -102,7 +101,7 @@ Rivals of Aether - tank snake's difficulty is greatly exaggerated
 Rabbit - fc stands
 Sailor Moon S snes - chibi backdash full invuln
 all Samurai Shodown games
-Rakugakids - crayon cartoon style n64 fighter, played with Zak
+Rakugakids / Rakuga Kids - crayon cartoon style n64 fighter, played with Zak
 Animal Fight - steam single player 
 Cyberbots: Fullmetal Madness - fc bucket dude's no whiff 623A grab is redic
 Joy Mech Fight - snes, the one that was famicom only, no joints, ball chars fc
@@ -262,13 +261,14 @@ Genei Tougi: Shadow Struggle psx
 Dragon Blast: Project Soul Gainer pc
 gado fight steam
 all-star fighters (2005, ps2) simple series???
+The Pro Wrestling 1/2 Simple Series PS1
 the untouchables 1/2 pc 
 SD Hiryu no Ken EX
 Burning Fists - Force Striker
 Theatre of Pain dos
 Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
-Xenophage Alien Bloodsport dos
+Xenophage: Alien Bloodsport dos
 VR troopers fc2
 The Black Heart steam
 Lord of the Rings - The Return of the King (Unl)
@@ -782,7 +782,7 @@ Armed Fighter ps1
 Asura Cross android
 Avatar Fighter xbla
 Aazhom Krypht atari
-Barbarian c64
+Barbarian c64 Barbarian: The Ultimate Warrior GBA proto 
 Battle of the Eras dos
 Battle Arena Nitoshinden ps1
 Battle Beast dos
@@ -1030,6 +1030,7 @@ Hyper 3D Taisen Battle Gebockers saturn
 Vatlva saturn
 Silent Bomber  psx
 Zero psx (net yaroze)
+stonegate psx net yaroze
 tokui waza 1/2 net yaroze psx
 stars wars psx net yaroze
 psychic duel 1/2 psx net yarose
@@ -1049,3 +1050,17 @@ Fetish Fighters pc https://archive.org/details/FF17SWsetup
 Future Fighters pc https://archive.org/details/FUTURE_201704
 Dragon Ball Z - Grand Fighters pc https://archive.org/details/swizzle_demu_Dbt
 Dragon Ball Z - Tek pc https://archive.org/details/swizzle_demu_Dbt_201809
+Robo Fighter PDC200
+Boxing PDC200
+Bare Fists PDC200
+Fencing PDC200
+Mofumofu Front switch https://store-jp.nintendo.com/list/software/70010000049499.html
+Boobytales pc 
+Best of the Best: Championship Karate nes/snes/gen fc2
+Funky Head Boxers saturn / arc
+Rock'n Wrestle c64
+André Panza Kick Boxing dos
+Foes of Ali 3DO
+Knockout Kings 99-2003 EA sports
+Fight Night 2004, Round 2, Round 3, Round 4, Champion EA sports
+Panzer Bandit PSX
