@@ -24,7 +24,7 @@ Daraku Tenshi The Fallen Angels - fc unreleased Battle K-Road em up
 3 Count Bout - fc wrestling, hcf/bP only special input, R Bradley top tier
 Cute Fighter - fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC
 SD Fighters - fc, top right best, just mash jabs, a lesser cute fighter
-Dino Rex - fc dino, wack af
+Dino Rex - fc dino, wack af, styg 1/3k unblockable
 Power Instinct - fc ew, it's that one
 Best of Best - fc Statue of Liberty
 Shaolin vs Wutang - steam Lotus Palm top tier, 8W, 2P 6 2P loops, WW overhead, ninja 236w pew
@@ -111,7 +111,35 @@ Slap City - haha funny duck that everyone plays
 Snk Heroines Tag Team Frenzy - requires analog stick for item toss angles
 all soulcalibur games (soul edge/blade included)
 Spectral Vs. Generation - fc no fireball limit, I liked the charlotte like char
-all Street Fighter games
+Street Fighter - fc, negative edge specials, DP full invuln including recovery
+Street Fighter II - fc World Warrior Guile mash jab ToD, Dhalsim beats him, chun beats sim
+Street Fighter II: Champion Edition - fc Dict jHK 2MP 5HK stun 2hk whiff 2lp 2lp 5lp 46mk 2mp 5hk
+Street Fighter II: Hyper Fighting - fc Ryu jHP 2HP fireball stun, repeat. Fireballs strong
+Super Street Fighter II - fc Sagat is good, but no O. Sagat 2nd hit cancels
+Super Street Fighter II Turbo - fc Vega walldive loops
+Street Fighter Alpha - Ken 2lk 5mk 623HP sometimes just does 70%
+Street Fighter: The Movie - fc Akuma air fireball, dp falling tatsu dp dp falling tatsu infinite
+Street Fighter: The Movie PS! - You can treat it like a more janky ST
+Street Fighter Alpha 2 - fc Rolento CC 2hk 19 mash kicks
+Street Fighter EX - find strats
+Street Fighter III: New Generation - fc Ibuki SA3 walk clHK inf, 5mp whiff, Sean SA3, 4mp whiff
+Street Fighter EX Plus - find strats
+Street Fighter III: 2nd Impact - fc Ibuki clHK walk clHK inf, SA3
+Street Fighter EX2 - find strats
+Street Fighter Alpha 3 - Karin/Rose/Vega, best game
+Street Fighter III: 3rd Strike - fc Chun-li 2mk sa2 sj jHPHP/j2MK jMK
+Street Fighter EX2 Plus - find strats
+Street Fighter EX3 - find strats
+Hyper Street Fighter II: the Anniversary Edition - fc Pick CE Bison, WW Guile. or Akuma code
+Street Fighter Alpha 3 Max - Just play Aism Dhalsim
+Street Fighter IV - Honest Abel 6mk dash
+Super Street Fighter IV - Honester Abel 6mk dash, u1
+Super Street Fighter IV: Arcade Edition - Honest Yun hell u1
+Super Street Fighter IV: 3D Edition - Honest walking boom
+Street Fighter X Tekken - Rolento 2lp 2lp 2mk rekka HK, Chun-li 2lp 4mk mk 28mk (check)
+Ultra Street Fighter IV - Honestest Abel 6mk dash, u1
+Street Fighter V - Chun-li, Lucia
+Ultra Street Fighter II: The Final Challengers - find strats
 all smash bros games
 Teenage Mutant Ninja Turtles: Tournament Fighters - shark op, ralph dank tho
 all tekken games
@@ -178,6 +206,8 @@ override 2 - steam l1 r1 r2 universal target combo, multi shoulder for specials
 ritual tournament - steam borderline not functional, but also an asset flip
 Top Fighter 2000 MK VIII - fc barely functions, 66B for special, 6mashstick6 for other special
 Top Fighter 2005 - fc runs much better, but otherwise is just TF2k in chinese
+DnF Duel - slow but long combos and pressure
+Cyan vs Magenta - https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -240,6 +270,9 @@ SCP- CROSS CONTAINMENT https://gamejolt.com/games/crosscontainment/551075
 HeroVersus https://www.thevs.co/
 Blazing Strike https://mobile.twitter.com/markarotGC
 Umbral Core https://www.umbralcore.com/
+Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/
+Blueblood Breakdown https://twitter.com/BlueBloodBDGame
+BitFrogHex (BoxFighter) https://twitter.com/digitalwatches/status/1264681165643866112
 
 -------------------------------------------------------
 Unplayed:
@@ -461,7 +494,7 @@ Bleach: the Blade of Fate / Darksouls
 Bloodstorm mame
 Blood Warrior / Ooedo Fight fc2
 Bloody Roar series (played some)
-Body blows series dos
+Body blows series dos ultimate body blows
 Buriki One mame
 Bushido Blade 1/2 ps1
 Capcom Fighting All Stars (wait for a copy to surface)
@@ -788,7 +821,8 @@ Armed Fighter ps1
 Asura Cross android
 Avatar Fighter xbla
 Aazhom Krypht atari
-Barbarian c64 Barbarian: The Ultimate Warrior GBA proto 
+Barbarian c64 
+Barbarian: The Ultimate Warrior GBA proto 
 Battle of the Eras dos
 Battle Arena Nitoshinden ps1
 Battle Beast dos
@@ -1143,3 +1177,10 @@ WWF Smackdown! Just Bring It ps2
 X-men: Next Dimension ps2
 Zoids Infinity Fuzors ps2
 Zoids Struggle ps2
+the zodiac saints pc (bootleg?)
+Gedou Fengyun / Fighting Storm / Gédòu Fēngyún dos
+Street Fighter DOS
+Violence Fighter dos violence fight 2???
+Ultimate Warriors dos
+Menticide dos
+God vs Satan: World Rumble https://gamejolt.com/games/god-vs-satan-world-rumble/108375
