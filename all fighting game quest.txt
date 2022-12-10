@@ -339,9 +339,7 @@ Blazing Strike https://mobile.twitter.com/markarotGC
 Umbral Core https://www.umbralcore.com/
 Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/
 Blueblood Breakdown https://twitter.com/BlueBloodBDGame
-BitFrogHex (BoxFighter) https://twitter.com/digitalwatches/status/1264681165643866112
 badzone bad zone https://twitter.com/cobalt_requin
-Knockout! https://twitter.com/ProjectK_O
 Unlight Fighters https://twitter.com/ashitaka1988
 Burning Souls https://burning-souls.com/
 Rising Spirit https://twitter.com/RisingSpiritVG
@@ -380,9 +378,8 @@ Xenophage: Alien Bloodsport dos
 VR troopers fc2
 The Black Heart steam
 Lord of the Rings - The Return of the King (Unl)
-Jinyong Kuaida
+Jinyong Kuaida dos
 Fight N Jokes dos (fight 'n' jokes)
-Violent Vengeance - The Universe Hero
 Tatsunoko Fight ps1
 Soul Edge vs. Samurai Spirits fc2
 Soul Falchion bootleg
@@ -425,14 +422,12 @@ Toy Fighter fc2
 Fist ps1 
 FIST saturn
 Flying Dragon n64
-fraymakers steam
 Jingi Storm fc2
 Hellish Quart steam
 Tao Taido fc2
 shadow warriors 3do
 shadow war of succession 3do
 Critical Blow ps1
-Mad Stalker: Full-Metal Force ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Flying Dragon SD N64
@@ -488,7 +483,6 @@ Metal Clash arc
 pop'n tanks! ps1 jp
 Sango fighter 1/2 dos superfighter.com
 Fengshen Bang dos
-jinyong kuaida dos
 Fengyun Tianxia: Sanguo Pian dos
 wulin zhengba-zhi yingxiong tie dos
 touhou 15.5
@@ -501,10 +495,8 @@ Battle Snakes
 Bio freaks n64 ps1
 Dark Rift n64
 Deadly Arts G.a.s.p!! n64
-Dual Heros n64
 Fighter Destiny 1/2 n64 (fighter's destiny)
 Mace The Dark Age n64
-Flying Dragon n64
 War Gods n64 ps1
 Ultraman 3do
 street overlord ZC-780
@@ -523,7 +515,6 @@ Asuka 120% LimitOver BURNING Fest the popular one
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc
 Tough Guy dos WACKLER IS THIS GAME
-Touhou Hisoutensoku 
 Touhou 7.5
 Warpath: Jurassic Park ps1
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
@@ -562,7 +553,6 @@ Avengers in Galactic Storm fc2 (tried to play with kooter but it was broken)
 Axel City 1/2 arcade (idk how to play)
 battlebots gcn
 battle high 1 (idk, maybe ask the dev Mattrified on twitter?)
-battle high 2 a+ steam (owned)
 Combat of Giants series https://en.wikipedia.org/wiki/Combat_of_Giants
 Battle Stadium D.o.n gcn/ps2
 Battle Tryst mame
@@ -732,14 +722,12 @@ Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
 Martial Champion fc2
 Yie Ar Kung-Fu 1/2 fc2
-Marvel Nemesis Rise of the Imperfects ps2/gcn/psp/ds
 Mayhem Combat android
 Medabots AX gba
 Metal combat Falcon's revenge snes fc2
 Masters of combat fc2
 ninja combat fc2
 Medieval Combat age of glory phone
-master axe amiga
 Megatudo 2096 ps1
 Metal Revolution steam (2022)
 Mighty Fight Federation steam
@@ -804,7 +792,6 @@ robo pit 2 ps1
 megaman fighters fc2
 Rokudenashi Blues - Taiketsu! Tokyo Shitennou snes fc2
 Maiden & spell steam owned
-Maximum Fighterz: Direct Offensive Act steam owned
 Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
@@ -856,7 +843,6 @@ Tenth Degree mame atari
 Terrordrome pc steam
 The Con psp
 The Fight: Lights Out ps3
-Simple 1500 Series The Kendo: Ken No Hanamichi ps1
 The Killing Blade fc2 (and plus fc2)
 The Queen of Duellist series pc98
 The Queen of Hearts '98/'99/2001 pc
@@ -883,7 +869,6 @@ Mega Monster Battle: Ultra Coliseum Dx: the Gathering of the Ultra Heroes!
 Ultraman: Hikari No Kyojin Densetsu saturn / Fighting Evolution / Hikari No Kuni No Shisha
 Ultraman Fighting Evolution 3 / Nexus / Rebirth
 Ultraman Tiga & Ultraman Dyna: Aratanaru Futatsu no Hikari ps1
-Ultra Space Battle Brawl steam owned
 Ultra Vortek jaguar
 Unholy Night: The Darkness Hunter snes (2017 game wtf)
 Urban Reign ps2
@@ -896,7 +881,7 @@ Xena Warrior Princess: the Talisman of Fate n64
 Xuan Dou Zhi Wang pc
 X-men Mutant Academy 1/2 ps1 / gbc
 Yatagarasu steam
-The Battle of Yu Yu Hakusho: Shitou! Ankoku Bujutsukai! 120% / Dark Tournament
+Yu Yu Hakusho: Dark Tournament
 Yu Yu Hakusho: Sunset Riders / Dai 4 Tama: Makai Touitsu
 Yu Yu Hakusho / Bakutou Ankoku Bujutsu Kai / Ii
 Yu Yu Hakusho Forever & Tokubetsu Hen
@@ -907,7 +892,6 @@ Zatchbell: Yuujou No Zakeru Dream Tag Tournament / Go! Go! Mamono Fight!!
 Zatchbell: Mamodo Battles & Mamodo Fury
 Zatchbell: Electric Arena 1&2
 Zatchbell: Yuujou Tag Battle & Full Power
-Zoids Struggle ps2
 Antagony dos pc
 Armed Fighter ps1
 Asura Cross android
@@ -1059,7 +1043,6 @@ Mtv's Celebrity Deathmatch ps1/ps2
 Overturn wii
 Olofight amiga
 Ooga Booga dreamcast
-Paperbound steam owned
 Pit-Fighter fc2
 Pray for Death dos
 ReadySet Heroes ps4
@@ -1070,7 +1053,6 @@ Shin Oh Ken: Ragnagard fc2
 Saber Marionette J: Battle Sabers ps1
 Saiyuki Reload: Gunlock ps2
 Sakigake!! Otokojuku ps2
-Schwarzerblitz steam
 SD Gundam Eiyuuden Daikessen!! Knight VS Musha ps1
 Shadow Fighter amiga
 Shanghai Karate c64
@@ -1131,7 +1113,6 @@ Versus Hero: Road to the King Fight gb
 Vicious Circle arcade cancelled
 Violent Fighter dos
 Violent Myth dos
-Violent Vengeance: The Universe Hero dos
 War of Currents arcade game
 Warrior mame
 Windy X Windam ds
@@ -1221,7 +1202,6 @@ The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% ps2
 Black and Bruised ps2
 Boxing Champions ps2 Simple 2000 Series Vol. 7: The Boxing - Real First Fighter
 Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing
-Gladiator Begins PSP
 Clan of Champions PS3/Steam
 Erementar Gerad: Matoe, Suifuu no Tsurugi ps2
 Erementar Gerad: Matoe, Suifu no Ken ps2
@@ -1438,20 +1418,20 @@ Zeus: Carnage Heart Second ps1
 5 Star Wrestling ps3 ps4
 Battle Rush: Build Up Robot Tournament nes
 Chiyounofuji no Ooichou nes
-The Karate Kid nes
+The Karate Kid nes fc2
 Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes
 Moero!! Juudou Warriors nes
-Pro Wrestling nes
-tag team wrestling / tag team pro wrestling nes
-Tecmo World wrestling nes
+Pro Wrestling nes fc2
+tag team wrestling / tag team pro wrestling nes fc2
+Tecmo World wrestling nes fc2
 Terao no Dosukoi Oozumou nes
 Toukon Club nes
 Tsuppari Oozumou nes
 Tsuppari Wars nes
-Urban Champion nes
-WCW world championship wrestling / super star pro wrestling nes
+Urban Champion nes fc2
+WCW world championship wrestling / super star pro wrestling fc2 nes
 World boxing nes
-World Champ / Great Boxing Rush Up nes
+World Champ / Great Boxing Rush Up nes fc2
 WWF King of the Ring nes
 WWF Wrestlemania nes
 WWF Wrestlemania challenge nes
