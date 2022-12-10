@@ -106,7 +106,7 @@ all Samurai Shodown games
 Rakugakids / Rakuga Kids - crayon cartoon style n64 fighter, played with Zak
 Animal Fight - steam single player 
 Cyberbots: Fullmetal Madness - fc vise j3BLx236W 2HxL+H, 623+P
-Joy Mech Fight - snes, the one that was famicom only, no joints, ball chars fc
+Joy Mech Fight - nes, the one that was famicom only, no joints, ball chars fc
 Shaq Fu - gen pick cyborg guy mash 2146AAAAA
 skullgirls - i hate big band
 Slap City - haha funny duck that everyone plays
@@ -145,7 +145,7 @@ Ultra Street Fighter II: The Final Challengers - find strats
 all smash bros games
 Smash 64 remix - piano funny, but also just do normal 64 stuff
 project m - I wish Ike was fun
-Teenage Mutant Ninja Turtles: Tournament Fighters - shark op, ralph dank tho
+Teenage Mutant Ninja Turtles: Tournament Fighters - snes shark op, ralph dank tho, nes idk
 all tekken games
 all main king of fighters
 Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) - fc
@@ -164,6 +164,7 @@ Ultra Fight Da Kyanta 2 - goty 3v3 ratio game, mspaint art, perfect game
 all under night in-birth games
 all virtua fighter games
 Virtua Fighter Kids 
+Virta Fighter 2 Genesis - fcbest vf, 66P+G, 236 wd, 33P+K splash, 2K 236pkg post retract
 Virya Fighter Remix saturn
 World Heroes 1/2/jet/perfect - pick dictator, redic jabs and redic pokes
 Alien Challenge - played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
@@ -219,6 +220,11 @@ Don Dong Never Die - truly art
 Fighter Dynasty - n64 pick Abdul, research more
 Power Moves / Power Athlete / Deadly Moves snes / gen fc2 - fc specials are P+K, fireballs suck
 Groove on Fight: Gouketsuji Ichizoku 3 - saturn easy tod w/ tag in
+robo pit - ps1 crossbow seems good, super r2+l2, strafe/turn changes normal attacks
+Icons - steam pick weishan, play him like chrom w/ marth 8b
+Fighters Legacy - steam Dae Hyun 214K unblockable 9 loop, ninja jK tow loop, 236P fb
+Black Emperor - steam, beat em up style, mash iori dp to infinite, ultraman can't block
+F*ckable Kim - steam, doesn't run
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -244,6 +250,7 @@ sky scrappers - steam jump around
 ultra space battle brawl - steam pong 4
 Maximum Fighterz: Direct Offensive Action - turn based
 BASTARD!! Ankoku no Hakaishin​ - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
+Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -505,7 +512,6 @@ Kasumi Ninja jaguar
 Fight for Life jaguar
 Tōkidenshō Angel Eyes toukidenshou angel eyes fc2
 Golden Axe The Duel arcade saturn 
-Revengers of Vengeance sega cd
 fx fighter pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
@@ -533,7 +539,7 @@ heaven's gate ps1
 Last Bronx saturn
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
-double dragon v fc2
+double dragon v the shadow falls fc2 jaguar, gen, snes
 Heavy Metal Geomatrix fc2
 motionsickness https://gamejolt.com/games/motionsickness/601247 
 EN-Eins Perfektewelt
@@ -564,7 +570,6 @@ Be-bop Bout msx2 mame
 Big Bang Beat / Revolve pc
 Black Belt Challenge gba
 Black Belt fc2 
-Black Clover: Quartet Knights steam (bamco shonen)
 Blade Arcus From Shining Ex steam (owned)
 blade strangers steam (don't buy, publisher is an ip thief)
 Bleach: Shattered Blade / Versus Crusade
@@ -706,7 +711,6 @@ Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist / bugi ps1
 Keriotosse saturn
 Kings of Kung-fu steam owned
-Fighters Legacy steam owned
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
 kinnikuman dirty challenger snes fc2
 Kinnikuman & Muscle Grand Prix 1/max/2
@@ -796,7 +800,7 @@ Poypoy 1/2 ps1
 Power Quest gbc
 Project Cerberus psp
 River City Rival Showdown kunio kun
-robo-pit 1/2 ps1
+robo pit 2 ps1
 megaman fighters fc2
 Rokudenashi Blues - Taiketsu! Tokyo Shitennou snes fc2
 Maiden & spell steam owned
@@ -1003,7 +1007,6 @@ Holosseum mame
 BEAT DOWN FIST OF VENGEANCE PS2
 Hyper Reverthion / Koutetsu Reiki: Steeldom saturn/ps1 (2 games, 2nd sequel)
 Reverthion ps1
-Icons steam
 Imkkeokjeong pc
 Janggun ui Adeul master system fc2
 Jotei Senki series x68k
@@ -1013,7 +1016,7 @@ Ka-ge-ki fists of steel gen fc2
 Kakoong pc dos
 Kamen No Maid Guy: Boyoyon Battle Royale psp
 Karate Phants: Gloves of Glory wii
-Karate Champ fc2
+Karate Champ nes fc2
 Karou Densetsu Honban x68k
 Katana Action; The Bushido; Simple 2000 Series Vol. 28: The Bushido - Tujigiri Ichidai ps2
 Shura No Mon ps1
@@ -1060,7 +1063,7 @@ Paperbound steam owned
 Pit-Fighter fc2
 Pray for Death dos
 ReadySet Heroes ps4
-Revengers of Vengeance sega cd
+Revengers of Vengeance / battle fantasy sega cd
 Rock'em Sock'em Robots Arena ps1
 Raging Fighter gb
 Shin Oh Ken: Ragnagard fc2
@@ -1079,7 +1082,7 @@ Istanbul Beyleri pc https://archive.org/details/istanbul-beyleri
 Shrek Super Slam / Fairy Tale Freakdown
 Skorecery ps4
 Slam Dragon ps1
-SD Battle Ozumo: Heisei Hero Basho
+SD Battle Ozumo: Heisei Hero Basho nes
 Small Arms xblig
 Spitting Image amiga
 Stake Fortune Fighters xbox
@@ -1200,7 +1203,7 @@ Robot Heroes pc https://gamejolt.com/games/robotheroes/593094
 Boxing MP1000
 Boxing atari 2600
 Konami's Boxing msx
-Ring King / King of Boxer arcade
+Ring King / King of Boxer arcade nes
 The Final Round fc2
 Low Blow dos
 Pro Boxing Simulator amiga
@@ -1432,3 +1435,25 @@ WWF War Zone ps1
 Zen Nippon Pro Wrestling Jou Densetsu: Yume no Taiko sen ps1
 Zen Nippon Pro Wrestling: Ouja no Kon ps1
 Zeus: Carnage Heart Second ps1
+5 Star Wrestling ps3 ps4
+Battle Rush: Build Up Robot Tournament nes
+Chiyounofuji no Ooichou nes
+The Karate Kid nes
+Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes
+Moero!! Juudou Warriors nes
+Pro Wrestling nes
+tag team wrestling / tag team pro wrestling nes
+Tecmo World wrestling nes
+Terao no Dosukoi Oozumou nes
+Toukon Club nes
+Tsuppari Oozumou nes
+Tsuppari Wars nes
+Urban Champion nes
+WCW world championship wrestling / super star pro wrestling nes
+World boxing nes
+World Champ / Great Boxing Rush Up nes
+WWF King of the Ring nes
+WWF Wrestlemania nes
+WWF Wrestlemania challenge nes
+WWF Wrestlemania: steel cage challenge nes
+Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
