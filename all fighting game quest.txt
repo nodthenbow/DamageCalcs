@@ -51,7 +51,16 @@ Solitary fighter / violence fight 2 - fc same strat as above, Ben Smith, p+jump
 Agressors of Dark Combat - fc played w/ kooter, 3d beat em up style, neat but not very fun.
 Akatsuki Blitzkampf - lots of notes on the internet about this game
 Battle Fantasia - early bad arcsys fighting game, played with toom
-all blazblue main series
+BlazBlue: Calamity Trigger
+BlazBlue: Continuum Shift
+BlazBlue: Continuum Shift II 
+BlazBlue: Continuum Shift Extend
+BlazBlue: Chrono Phantasma
+BlazBlue: Chrono Phantasma
+BlazBlue: Central Fiction
+BlazBlue: Cross Tag Battle
+BlayzBloo: Super Melee Brawlers Battle Royale - dsiware research more
+BlazBlue: Clone Phantasma - 3ds research more 
 breakers 1/2 - breakering
 all capcom vs snk games (including svc)
 Tatsunoko vs capcom - wii na version, neat but def more broken than the scene says.
@@ -65,13 +74,31 @@ Fighter’s History Dynamite Karnov's Revenge - It's Karnov's
 Fight of Gods - santa is a god apparently
 Fighting Vipers - played in judgement
 Granblue Fantasy: Versus - too slow, throws also are very reactable so only canned mixes
-all guilty gear main series
+Guilty Gear The Missing Link
+Guilty Gear X
+Guilty Gear X Plus - ps2 version of X
+Guilty Gear X2 / XX
+Guilty Gear X2 #Reload / XX #Reload
+Guilty Gear XX Slash 
+Guilty Gear XX Accent Core
+Guilty Gear XX Accent Core Plus - nearly +r
+Guilty Gear XX Accent Core Plus R
+Guilty Gear Xrd -Sign-
+Guilty Gear Xrd -Revelator-
+Guilty Gear Xrd Rev 2
+Guilty Gear Strive
+Guilty Gear Petit - research 
+Guilty Gear Petit 2 - research
+Guilty Gear Isuka - research
+Guilty Gear Dust Strikers - nds research
 Injustice Gods Among Us
 Injustice 2
 Jojo’s Bizzare Adventure capcom fc - unban petshop
 Justice League Task Force - blizzard made one version, flash top tier, injustice 0
 Kill La Kill -IF - has that kid girl with timerscam, bamco shonen tho
-Killer Instinct series
+Killer Instinct (1994) - research
+Killer Instinct 2 / Killer Instinct Gold - arcade n64 research
+Killer Instinct (2013)
 King of the Monsters 1 / 2 - fc not deep at all, mostly for kaiju movie fans
 Koihime Enbu series - steam, no movement, no pushback, boring neutral
 Kung Fu Panda: Showdown of Legendary Legends - ps4 played very generic but I got it free
@@ -218,13 +245,17 @@ Cyan vs Magenta - https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
 fighting run - fc car run around mash A, health top bar, stamina lower, 5B for rope hit 8B shock
 Don Dong Never Die - truly art
 Fighter Dynasty - n64 pick Abdul, research more
-Power Moves / Power Athlete / Deadly Moves snes / gen fc2 - fc specials are P+K, fireballs suck
+Power Moves / Power Athlete / Deadly Moves snes / gen fc - fc specials are P+K, fireballs suck
 Groove on Fight: Gouketsuji Ichizoku 3 - saturn easy tod w/ tag in
 robo pit - ps1 crossbow seems good, super r2+l2, strafe/turn changes normal attacks
 Icons - steam pick weishan, play him like chrom w/ marth 8b
 Fighters Legacy - steam Dae Hyun 214K unblockable 9 loop, ninja jK tow loop, 236P fb
 Black Emperor - steam, beat em up style, mash iori dp to infinite, ultraman can't block
 F*ckable Kim - steam, doesn't run
+VR troopers - fc Darkheart [ABC] full invuln, dive kicks on j6B/C universally, stamina on portrait
+Schmeiser Robo - fc Walkery clK AA, 624K +ob blanka ball
+chou aniki - snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=throw 46x, 236p/x fb 6pppp
+Blood Warrior / Ooedo Fight - fc kappa 16p for safety, dhalsim mostly cancelable, no fb blockstun
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -251,6 +282,7 @@ ultra space battle brawl - steam pong 4
 Maximum Fighterz: Direct Offensive Action - turn based
 BASTARD!! Ankoku no Hakaishin​ - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
 Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
+Nessa no Hoshi PS1 - Single player rpg(?) game
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -375,7 +407,6 @@ Theatre of Pain dos
 Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
 Xenophage: Alien Bloodsport dos
-VR troopers fc2
 The Black Heart steam
 Lord of the Rings - The Return of the King (Unl)
 Jinyong Kuaida dos
@@ -431,7 +462,6 @@ Critical Blow ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Flying Dragon SD N64
-Schmeiser Robo fc2
 Ninpu Sentai Hurricaneger ps1
 KemoFre Fight pc
 chaos generation steam
@@ -488,7 +518,6 @@ wulin zhengba-zhi yingxiong tie dos
 touhou 15.5
 touhou 13.5
 Full Metal Alchemist Dream Carnival
-Nessa no Hoshi PS1
 Animals Fight
 Battle High 2 A+ steam owned
 Battle Snakes
@@ -518,7 +547,6 @@ Tough Guy dos WACKLER IS THIS GAME
 Touhou 7.5
 Warpath: Jurassic Park ps1
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
-chou aniki snes fc2
 evil zone ps1
 Star Wars: Masters of Teras Kasi ps1
 Cardinal Syn ps1
@@ -569,7 +597,6 @@ Bleach: Heat the Soul 5 to 7
 Bleach Blade Battlers 1&2nd
 Bleach: the Blade of Fate / Darksouls
 Bloodstorm mame
-Blood Warrior / Ooedo Fight fc2
 Bloody Roar ps1
 Bloody Roar 2 ps1
 Bloody Roar 3 ps2
@@ -897,7 +924,8 @@ Armed Fighter ps1
 Asura Cross android
 Avatar Fighter xbla
 Aazhom Krypht atari
-Barbarian c64 
+Barbarian / Barbarian: The Ultimate Warrior / Death Sword c64 amiga
+Barbarian+ / Barbarian Plus amiga fan mod 
 Barbarian: The Ultimate Warrior GBA proto 
 Battle of the Eras dos
 Battle Arena Nitoshinden ps1
@@ -1437,3 +1465,4 @@ WWF Wrestlemania nes
 WWF Wrestlemania challenge nes
 WWF Wrestlemania: steel cage challenge nes
 Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
+frame gride dreamcast fromsoft game btw
