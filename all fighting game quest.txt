@@ -256,6 +256,12 @@ VR troopers - fc Darkheart [ABC] full invuln, dive kicks on j6B/C universally, s
 Schmeiser Robo - fc Walkery clK AA, 624K +ob blanka ball
 chou aniki - snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=throw 46x, 236p/x fb 6pppp
 Blood Warrior / Ooedo Fight - fc kappa 16p for safety, dhalsim mostly cancelable, no fb blockstun
+Natsuki Crisis Battle - snes fc 3rd lady 426HP damage, 6LK/4HK throws (only throws in the game)
+Top Ranking Stars - fc Bruce 869HP only good special in the game
+Death Brade / mutant fighter - fc direction + B to throw, mash B more to win 
+Seifuku Densetsu Pretty Fighter - fc 4th girl 214K does good chip, all throws blockable
+The Killing Blade - fc fun, Monk has rekka, B+C to switch
+Flash Hiders 2 Battle Tycoon - fc Seena is Guile, but buster
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -619,7 +625,6 @@ Deadliest Warrior: Legends Deadliest Warrior: Ancient Combat ps3
 Deadly Sport / Street Brawl / Deadly Splode unreleased, lost media
 Daemon Bride pc, on miz
 dead or alive series
-Death Brade / mutant fighter fc2
 def jam series
 Dengeki Bunko Fighting Climax ps3 (pretty sure I played and own it)
 Digimon Rumble Arena 1/2
@@ -678,7 +683,7 @@ Fighting Layer mame
 Fighting EX Layer ps4/steam
 Fighting Vipers 2 fc2
 Flame of Recca: Final Burning ps2
-Flash Hiders 1/2 (1 pce and tgfx, 2 aka battle tycoon battle tycoon fc2)
+Flash Hiders pce and tgfx, 
 Fuuka Taisen pc
 Gang Beasts steam (physics based so whatever, also I've seen a lot of it)
 Garōden Breakblow ps2 (garoden)
@@ -780,7 +785,6 @@ Naruto Shippuden Ultimate Ninja Storm Generations
 Naruto Shippuden Legends: Akatsuki Rising / Ultimate Ninja Heroes 3
 Naruto Shippuden Clash of Ninja Revolution Iii / Gekitou Ninja Taisen Ex
 Naruto Shippuden Ultimate Ninja Storm Revolution / Uns Trilogy / Uns 4 Road to Boruto
-Natsuki Crisis Battle snes fc2
 Nekketsu Kakutou Densetsu nes kunio kun game
 Neon Genesis Evangelion: Battle Orchestra psp/ps2
 Nitroplus Blasterz steam owned
@@ -823,8 +827,9 @@ Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn/gba
-Seifuku Densetsu Pretty Fighter fc2 (sequel x saturn)
+Seifuku Densetsu Pretty Fighter - fc 4th girl 214K does good chip, all throws blockable
 Pretty Fighter ps1
+Pretty Fighter X saturn 
 Sengoku Basara X / Cross ps2
 Sengoku Basara 2 heroes ps2
 Senko No Ronde 2 steam (owned)
@@ -870,7 +875,7 @@ Tenth Degree mame atari
 Terrordrome pc steam
 The Con psp
 The Fight: Lights Out ps3
-The Killing Blade fc2 (and plus fc2)
+The killing blade plus fc2
 The Queen of Duellist series pc98
 The Queen of Hearts '98/'99/2001 pc
 The Seven Deadly Sins ps4 bamco shonen
@@ -1217,7 +1222,6 @@ The Final Round fc2
 Low Blow dos
 Pro Boxing Simulator amiga
 TKO Super Championship Boxing / Kentou-Ou World Champion snes
-Top Ranking Stars fc2
 Best Bout Boxing arcade
 All Star Pro-Wrestling I/II/III ps2
 Ape Escape: Pumped & Primed ps2
