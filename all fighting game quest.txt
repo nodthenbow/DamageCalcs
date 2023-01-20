@@ -260,8 +260,10 @@ Natsuki Crisis Battle - snes fc 3rd lady 426HP damage, 6LK/4HK throws (only thro
 Top Ranking Stars - fc Bruce 869HP only good special in the game
 Death Brade / mutant fighter - fc direction + B to throw, mash B more to win 
 Seifuku Densetsu Pretty Fighter - fc 4th girl 214K does good chip, all throws blockable
-The Killing Blade - fc fun, Monk has rekka, B+C to switch
-Flash Hiders 2 Battle Tycoon - fc fun, Seena is Guile, but buster
+The Killing Blade - fc fun, Monk 236C-AAC/AD-super, big dude 623P overhead, B+C to switch, 4/6C throw
+The Killing Blade Plus - fc mostly same, Whip lady 421C nerfed hard, 2 guys boss 623A block infinite
+Flash Hiders 2 Battle Tycoon - fc fun, Seena is motion Guile
+kenju arcade prototype - fc hanuman 2LP2LP2HP5HK[4]6HP clHK236HP 2LP5HK624P clHK[4]6HP
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -392,7 +394,6 @@ Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
 Phantom Breaker Extra ps3/xb360
-kenju arcade prototype fc2
 knight games dos
 Zarigani-bu https://twitter.com/gurizuri_bu 
 Way of the Warrior 3DO
@@ -432,7 +433,7 @@ Tekken 3 Special (Unl) fc2
 Virtua fighter 2 vs tekken 2 bootleg fc2
 Overkill (MS DOS - 1996)
 Violent Vengeance: The Universe Hero (MS DOS - 1995)
-Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one fc2
+Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
 boombots ps1
 Zeiramzone ps1
 Chain & Combo: Chaos Light pc
@@ -875,7 +876,6 @@ Tenth Degree mame atari
 Terrordrome pc steam
 The Con psp
 The Fight: Lights Out ps3
-The killing blade plus fc2
 The Queen of Duellist series pc98
 The Queen of Hearts '98/'99/2001 pc
 The Seven Deadly Sins ps4 bamco shonen
@@ -1025,7 +1025,6 @@ BEAT DOWN FIST OF VENGEANCE PS2
 Hyper Reverthion / Koutetsu Reiki: Steeldom saturn/ps1 (2 games, 2nd sequel)
 Reverthion ps1
 Imkkeokjeong pc
-Janggun ui Adeul master system fc2
 Jotei Senki series x68k
 Reikai Doushi (The Last Apostle Puppet Show): Chinese Exorcist mame
 Kageki fc2
