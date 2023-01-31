@@ -6,9 +6,9 @@ outlaws of the lost dynasty / Dark Legend / Suiko Enbu - fun game, 2d, I play nu
 Suiko Enbu: Fuuun Saiki - saturn, pretty much the same
 Elan Doree Legend of Dragoon / Touryuu Densetsu Elan Doree - 3d dragon riding game
 Weaponlord - hold button special moves game, snes and gen diff, don't remember how
-Blood Storm fc2 - MK like game, played with Kooter
+Blood Storm - fc MK like game, played with Kooter
 Touhou Suimusou: Immaterial and Missing Power - the touhou one with grazing and cards
-Blandia fc2 - slow bland, throws on 1H, gladiators
+Blandia - fc slow bland, throws on 1H, gladiators
 Toribash pc - the weird joints physics one
 Psychic Force ps1 arcade - flying game 3d in a box
 Dark Edge - sprite based 3d game by sega, cursed inputs
@@ -263,7 +263,8 @@ Seifuku Densetsu Pretty Fighter - fc 4th girl 214K does good chip, all throws bl
 The Killing Blade - fc fun, Monk 236C-AAC/AD-super, big dude 623P overhead, B+C to switch, 4/6C throw
 The Killing Blade Plus - fc mostly same, Whip lady 421C nerfed hard, 2 guys boss 623A block infinite
 Flash Hiders 2 Battle Tycoon - fc fun, Seena is motion Guile
-kenju arcade prototype - fc hanuman 2LP2LP2HP5HK[4]6HP clHK236HP 2LP5HK624P clHK[4]6HP
+kenju arcade prototype - fc hanuman 2LP2LP2HP5HK[4]6HP clHK236HP, 2LP5HK624P clHK[4]6HP
+Hippodrome - fc 4a block 7/8/9j superjump, gives 8 way jump attacks,
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -853,7 +854,7 @@ Sonic Battle gba
 Sokko Seitokai: Sonic Council saturn
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
-Star Gladiator 1/2 ps1
+Star Gladiator 1/2 (plasma sword) ps1
 Star Wars Episode III: Revenge of the Sith ps2
 Steambot Chronicles ps2
 Soul Eater Battle Resonance ps2
@@ -1016,7 +1017,6 @@ Heavyweight Champ https://en.wikipedia.org/wiki/Heavyweight_Champ
 Hello Mr. President dos
 Hercequary pc98
 Highlander c64
-Hippodrome fc2
 Hiryu No Ken series https://en.wikipedia.org/wiki/Hiry%C5%AB_no_Ken
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
