@@ -251,7 +251,6 @@ robo pit - ps1 crossbow seems good, super r2+l2, strafe/turn changes normal atta
 Icons - steam pick weishan, play him like chrom w/ marth 8b
 Fighters Legacy - steam Dae Hyun 214K unblockable 9 loop, ninja jK tow loop, 236P fb
 Black Emperor - steam, beat em up style, mash iori dp to infinite, ultraman can't block
-F*ckable Kim - steam, doesn't run
 VR troopers - fc Darkheart [ABC] full invuln, dive kicks on j6B/C universally, stamina on portrait
 Schmeiser Robo - fc Walkery clK AA, 624K +ob blanka ball
 chou aniki - snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=throw 46x, 236p/x fb 6pppp
@@ -292,6 +291,7 @@ Maximum Fighterz: Direct Offensive Action - turn based
 BASTARD!! Ankoku no Hakaishin​ - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
 Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
 Nessa no Hoshi PS1 - Single player rpg(?) game
+F*ckable Kim - steam, beat em up
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -1112,6 +1112,8 @@ Street Neo Fighter II msx
 Street Smart fc2
 Strip Fighter IV pc
 Strip Fighter II fc2
+Strip Fighter 5 Chimpocon edition pc
+StudioS Fighters: Climax Champions pc ero
 Super Bikkuriman snes fc2
 Super Combat Fighter pc (kickstarter)
 Super Fighter dos
@@ -1121,7 +1123,7 @@ Superior Soldiers fc2
 Survival Arts mame
 Sword Dancer series pc98
 Tattoo Assassins fc2
-Tenkaichi Bushi Keru Nagūru nes
+Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch nes
 The Bread Pub Brawlers ps4
 Brawl Brothers 1/2 FC
 The Circle wii cancelled
@@ -1469,3 +1471,5 @@ WWF Wrestlemania challenge nes
 WWF Wrestlemania: steel cage challenge nes
 Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
 frame gride dreamcast fromsoft game btw
+Battle CAPacity pc fan game
+Verdict Guilty 유죄 평결 steam ps4 
