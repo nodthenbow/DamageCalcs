@@ -267,6 +267,8 @@ Hippodrome - fc 4a block 7/8/9j superjump, gives 8 way jump attacks,
 Mario Street fight - flash game, Peach is iori, rekka is safe. Barely functions
 Teen Titans GO! Jump Joust - flash game, starfire seems fine
 Godzilla: Monster War / Kaijū Daikessen SNES - played with toom
+Wii Sports Boxing - wii hook, uppercut, jab, high/low block, dodge left/right/back (counters).
+Toe II Toe - pc https://plazatin.itch.io/toe-20-toe jab minus, heavy punished by jab, dodge eh
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -295,6 +297,7 @@ BASTARD!! Ankoku no Hakaishin​ - fc more of a vs shmup I guess. Pick elf lady,
 Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
 Nessa no Hoshi PS1 - Single player rpg(?) game
 F*ckable Kim - steam, beat em up
+Virtual Taekwondo - ar/vr taekwondo sim, not video game enough to really count
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -1354,7 +1357,7 @@ The cute fighter steam ufe flip https://store.steampowered.com/app/2016290/The_C
 ZXE-D LEGEND OF PLASMATLITE ps1 toys to life
 Moon Lights 2 x68k https://archive.org/details/moon-lights-2
 Senran Kagura Shinovi Versus psvita / pc?
-WWF Wrestlemania: The Arcade Game Saturn ps1 fc2
+WWF Wrestlemania: The Arcade Game Saturn ps1 32x fc2
 WWF In Your House Saturn ps1
 Tactical Fighter saturn
 Fire Pro Wrestling Combination Tag wii/pce fc2
@@ -1487,3 +1490,4 @@ Titanic Kung-fu bot offensive flash
 Street Blaster 2 Pro nes bootleg
 KOF 20XX / KOF 20x2 http://maximoff.alreadyread.net/kof20x2/
 hero 108 hidden kingdom showdown flash
+Playstation Move Sports Champions 2 Boxing ps3
