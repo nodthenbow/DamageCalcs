@@ -272,7 +272,7 @@ Toe II Toe - pc https://plazatin.itch.io/toe-20-toe jab minus, heavy punished by
 Super Drink Bros - steam behind the back arena fighter, AAA unsafe, no throws?
 StudioS Fighters: Climax Champions - pc ero top left j214X dive kick crossup mix, special xx assist
 project gaiaray - ps1 Virtual On clone, first guy has bomb
-Fighting Eyes - ps1 4th guy 1K 9K vortex. Very bad VF
+Fighting Eyes - ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
 boombots - ps1 arena, melee r/l1 grab r/l2
 Shura No Mon - ps1 First dude, R2 4C grab
 Gundam: Battle Assault - ps1 research more
@@ -453,12 +453,11 @@ Chain & Combo: Chaos Light pc
 Fighting Dragon dos
 Quan Ba Tian Xia bootleg
 Blue Breaker Burst Bishou o Anata to / Egao no Asu ni (1/2) ps1
-Kamen Rider Agito ps1
 Kettou Beast Wars gbc
 Samurai Deeper Kyo ps1
 Gokuu Densetsu: Magic Beast Warriors ps1
 Metal & Lace 1/2 dos
-Gear Fighter Dendoh
+Gear Fighter Dendoh ps1
 Genkido
 Flash Bash PC
 Katekyō Hitman Reborn! Dream Hyper Battle! PS2
@@ -735,6 +734,8 @@ Kamen Rider One /
 Kamen Rider Ryuki ps1
 Kamen Rider ps1
 Kamen Rider Kuuga ps1
+Kamen Rider V3 ps1
+Kamen Rider Agito ps1
 Kid Station: Kamen Rider Heros ps1
 Kaiser Knuckle fc2
 Kakuge Yarou Fighting Game Creator ps1
@@ -1032,6 +1033,7 @@ Highlander c64
 Hiryu No Ken series https://en.wikipedia.org/wiki/Hiry%C5%AB_no_Ken
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
+Hokuto no Ken: Seiki Matsukyu Seishi Densetsu ps1
 Holosseum mame
 BEAT DOWN FIST OF VENGEANCE PS2
 Hyper Reverthion / Koutetsu Reiki: Steeldom saturn/ps1 (2 games, 2nd sequel)
@@ -1217,7 +1219,7 @@ André Panza Kick Boxing dos
 Foes of Ali 3DO
 Knockout Kings 99-2003 EA sports
 Fight Night 2004, Round 2, Round 3, Round 4, Champion EA sports
-Panzer Bandit ps1
+Panzer Bandits ps1
 Creep Clash dos
 Champion Boxing SG-1000
 Champion Pro Wrestling SG-1000
@@ -1438,7 +1440,9 @@ Simple 1500 Series Vol. 52: The Pro Wrestling 2 ps1
 Simple 1500 Series Vol. 58: The sumou ps1
 Simple 1500 Series Vol. 99: The Kendou: Ken no Hanamichi ps1
 The Simpsons Wrestling ps1
-Soukou Kihei Votoms Gaiden: Ao no Kishi Berserga Mongatari ps1
+Soukou Kihei Votoms Gaiden - Blue Knight Berserga Story ps1
+Soukou Kihei Votoms - Koutetsu no Gunzei / Armored Trooper Votoms - Steel Force ps1
+Soukou Kihei Votoms - Lightning Slash / Armored Trooper Votoms - Lightning Slash ps1
 Virtual Hiryuu no Ken ps1
 Virtual Pro Wrestling ps1
 WCW Backstage Assault ps1
@@ -1493,3 +1497,7 @@ Playstation Move Sports Champions 2 Boxing ps3
 The King of Fighters Extreme N-gage https://archive.org/details/Nokia_N-Gage_The_King_of_Fighters_Extreme_v1.0.24
 WWE Aftershock N-gage
 One n-gage
+The Adventure of Little Ralph ps1
+Gekido: Urban Fighters ps1
+Remote Control Dandy ps1
+Remote Control Dandy SF ps2
