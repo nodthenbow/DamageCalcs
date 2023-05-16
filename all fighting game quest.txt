@@ -9,14 +9,13 @@ Weaponlord - hold button special moves game, snes and gen diff, don't remember h
 Blood Storm - fc MK like game, played with Kooter
 Touhou Suimusou: Immaterial and Missing Power - the touhou one with grazing and cards
 Blandia - fc slow bland, throws on 1H, gladiators
-Toribash pc - the weird joints physics one
 Psychic Force ps1 arcade - flying game 3d in a box
 Dark Edge - sprite based 3d game by sega, cursed inputs
 Veteran Combat - pc fake vintage digitized sprites, bad
 Umineko: Golden Fantasia - steam vn fighter, tag, special meter building for tag
 Ougon Musou Kyoku / CROSS - Umineko's other name
 Double Dragon Neo Geo - fc boss characters real strong, weirdly great input handler
-Ninja Master's haoh ninpo cho - fc Raiga fun, Kasume walldive loops
+Ninja Master's haoh ninpo cho - fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp swap, hk AA
 Rage of the Dragons - fc Afro Bruce Lee 2v2
 Matrimelee - fc weird furry, Power Instinct series
 all power instinct games / Gouketsuji Ichizoku - 7 total
@@ -85,7 +84,7 @@ Fighter’s History Dynamite Karnov's Revenge - It's Karnov's
 Fight of Gods - santa is a god apparently
 Fighting Vipers - played in judgement
 Granblue Fantasy: Versus - too slow, throws also are very reactable so only canned mixes
-Guilty Gear The Missing Link
+Guilty Gear The Missing Link - Faust (2S2H 623R 66)*inf 
 Guilty Gear X
 Guilty Gear X Plus - ps2 version of X
 Guilty Gear X2 / XX
@@ -298,6 +297,8 @@ Shura No Mon - ps1 First dude, R2 4C grab
 Gundam: Battle Assault - ps1 research more
 Gundam: Battle Assault 2 - ps1 heavy arms (1st 4th row) j2LP 24P win :)
 Idol Showdown - steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
+Martial Masters - fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 6246P/K, kof gc/qr
+heaven's gate - ps1 Sasa 1P low, 3P mid 466P 2K 8P, PPP6K fast combo, 236PG, PKG 624PK or 22PKG
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -327,6 +328,7 @@ Black Clover: Quartet Knights steam (bamco shonen) - chivalry
 Nessa no Hoshi PS1 - Single player rpg(?) game
 F*ckable Kim - steam, beat em up
 Virtual Taekwondo - ar/vr taekwondo sim, not video game enough to really count
+Toribash pc - the weird joints physics one
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -598,8 +600,6 @@ Cardinal Syn ps1
 destrega ps1
 Fighting Bujutsu arcade
 tech romancer fc2 
-Martial Masters fc2
-heaven's gate ps1
 Last Bronx saturn
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
