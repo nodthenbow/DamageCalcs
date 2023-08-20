@@ -171,7 +171,7 @@ Super Street Fighter II - fc Sagat is good, but no O. Sagat 2nd hit cancels
 Super Street Fighter II Turbo - fc Vega walldive loops
 Street Fighter Alpha - Ken 2lk 5mk 623HP sometimes just does 70%
 Street Fighter: The Movie - fc Akuma air fireball, dp falling tatsu dp dp falling tatsu infinite
-Street Fighter: The Movie PS! - You can treat it like a more janky ST
+Street Fighter: The Movie PS1 - You can treat it like a more janky ST
 Street Fighter Alpha 2 - fc Rolento CC 2hk 19 mash kicks
 Street Fighter EX - find strats
 Street Fighter III: New Generation - fc Ibuki SA3 walk clHK inf, 5mp whiff, Sean SA3, 4mp whiff
@@ -304,6 +304,8 @@ Martial Masters - fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 624
 heaven's gate - ps1 Sasa 1P low, 3P mid 466P 2K 8P, PPP6K fast combo, 236PG, PKG 624PK or 22PKG
 Battle Monsters - Saturn Albiole 5A dash inf (p universal) 26a/b/c fireball [8]b ioh
 Advanced V.G. - PCE has nudity, ps1 / saturn clean, Kaori j2HP ioh, 2LP 236P, don't use 214HK
+Axel City 2 - vsav chains, throw pp/kk
+Inaho Town Dynamite Bomb: Yozu chain lp lk hk, lk hp 236lp-8hp lp lk hp 236hp-2hp, ioh jlk jhk otg 3hk
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -328,7 +330,7 @@ stick fight - steam physics based towerfall em up
 sky scrappers - steam jump around
 ultra space battle brawl - steam pong 4
 Maximum Fighterz: Direct Offensive Action - turn based
-BASTARD!! Ankoku no Hakaishin​ - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
+BASTARD!! Ankoku no Hakaishin - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
 Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
 Nessa no Hoshi PS1 - Single player rpg(?) game
 F*ckable Kim - steam, beat em up
@@ -410,7 +412,6 @@ Beat Down https://mobile.twitter.com/BeatDownGame
 Battle Integra https://mobile.twitter.com/garagepro7
 Drag Her https://mobile.twitter.com/ianipoos https://twitter.com/dragherthegame
 Earth Romancer https://mobile.twitter.com/earthromancer https://drive.google.com/file/d/1mc3kG8fXSPri3AhoB95HnJEfqWWWeUqV/view
-Inaho Town: Dynamite Bomb https://mobile.twitter.com/gietudou
 knockout! https://youtu.be/LIig-l7OVMQ
 T.I.P. Rumble https://youtube.com/user/TheLegendaryTorball
 Murder Kill Death Town https://mobile.twitter.com/MKDT_official
@@ -457,7 +458,7 @@ all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
 The Pro Wrestling 1/2 Simple Series PS1
 the untouchables 1/2 pc 
 SD Hiryu no Ken EX
-Burning Fists - Force Striker
+Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
 Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
@@ -626,7 +627,7 @@ Fighter Maker ps1
 Fighter maker 2 ps2
 Fighter Maker 2nd
 Avengers in Galactic Storm fc2 (tried to play with kooter but it was broken)
-Axel City 1/2 arcade (idk how to play)
+Axel City 1 arcade
 battlebots gcn
 battle high 1 (idk, maybe ask the dev Mattrified on twitter?)
 Combat of Giants series https://en.wikipedia.org/wiki/Combat_of_Giants
@@ -1021,7 +1022,6 @@ Dead Dance / Tuff E Nuff snes fc2
 Doomsday Warrior snes fc2
 Drawfighters ps4
 Dual Heroes n64
-Dynamite Bomb!! pc https://www.playism-games.com/games/inahodynamite/
 D-xhird saturn
 Elfmania amiga
 Shaolin Campus Kings dos
@@ -1535,3 +1535,12 @@ Madness Brutal Fighting: Mortal Fight Battle Attack Multiplayer switch
 Super Hero Fighting Legends: Anime Mortal Battle switch asset flip
 Dragon Fury switch asset flip
 Golden Knight Garo / Ōgon Kishi GARO ps2
+Onita Atsushi FMV snes
+Creyfish Club Kengani Friends pc
+Karateka gb
+Bukotsu https://drive.google.com/file/d/18P_2l1Hhhp5j8oexr87dnT_bEve84Lio/view
+The King of Fighters 2k (Kof2k) TI-84 Plus https://www.calculatorti.com/ti-games/ti-83-plus-ti-84-plus/ion/the-king-of-fighters-2k-kof2k/
+Super Smash Brothers TI-84 Plus https://www.calculatorti.com/ti-games/ti-83-plus-ti-84-plus/ion/super-smash-brothers/
+Sumo Wrestling TI-89 https://www.calculatorti.com/ti-games/ti-89/asm/sumo-wrestling/
+King of Fighters TI-89 https://www.calculatorti.com/ti-games/ti-89/asm/king-of-fighters/
+Anime Fighting Jam Wing flash 
