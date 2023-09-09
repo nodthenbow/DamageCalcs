@@ -1,4 +1,5 @@
 All fighting game quest
+(47 lines of confirmed non fighting games)
 Played:
 not listing stuff I am not going to forget I've played (SF main series, ect)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
@@ -484,7 +485,7 @@ Violent Vengeance: The Universe Hero (MS DOS - 1995)
 Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
 Zeiramzone ps1
 Chain & Combo: Chaos Light pc
-Fighting Dragon dos
+Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
 Blue Breaker Burst Bishou o Anata to / Egao no Asu ni (1/2) ps1
 Kettou Beast Wars gbc
@@ -500,7 +501,7 @@ Messiah End Revenge
 Sakura X Clash
 Mad Stalker: Full-Metal Force ps1
 Chaos Striker
-Eye of Typhoon 3do / fc2
+The Eye of Typhoon 3do / fc2
 Trajes Fatais: Suits of Fate steam
 Toy Fighter fc2
 Fist ps1 
@@ -573,7 +574,7 @@ Animals Fight
 Battle High 2 A+ steam owned
 Battle Snakes
 Bio freaks n64 ps1
-Dark Rift n64
+Dark Rift n64 / dos
 Deadly Arts G.a.s.p!! n64
 Fighter Destiny 1/2 n64 (fighter's destiny)
 Mace The Dark Age n64
@@ -584,7 +585,7 @@ Kasumi Ninja jaguar
 Fight for Life jaguar
 Tōkidenshō Angel Eyes toukidenshou angel eyes fc2
 Golden Axe The Duel arcade saturn 
-fx fighter pc
+fx fighter / fx fighter turbo pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
 Asuka 120% Maxima BURNING Fest. PCE
@@ -810,7 +811,7 @@ Metal Revolution steam (2022)
 Mighty Fight Federation steam
 Mighty Morphin Power Rangers megadrive fc2
 Musashi No Ken: Tadaima Shugyou Chuu nes
-Mutant Dna dos
+Mutant Dna / 뮤턴트 DNA dos
 My Hero Academia: Battle for All bamco shonen steam
 My Hero One’s Justice 1/2 bamco shonen steam
 Mystic Melee steam owned
@@ -1545,3 +1546,18 @@ Sumo Wrestling TI-89 https://www.calculatorti.com/ti-games/ti-89/asm/sumo-wrestl
 King of Fighters TI-89 https://www.calculatorti.com/ti-games/ti-89/asm/king-of-fighters/
 Anime Fighting Jam Wing flash 
 Majin Tantei Nougami Neuro: Battle Da Yo! Hannin Shūgō! ps2
+History Warriors steam UFGE asset flip
+Gwigyeon / 귀견 IBM PC korean
+Real Fighter / 리얼파이터 dos
+Blood on the Floor dos https://archive.org/details/msdos_Blood_on_the_Floor_1997
+The Gate of Destiny / 귀천도 / Gwicheondo dos
+Battle of the Martial Arts dos 
+Battling Butlers dos
+Cyborg dos 
+Fighter: Taklamakan Samak-pyeon dos https://archive.org/details/msdos_Fighter_-_Taklamakan_Samak-pyeon_1997
+No exit dos
+Supreme Warrior dos
+The Silent Levross pc 
+Rage of Tiger 2 dos 
+Fighter: Yeongung-eul Gidarimyeo dos
+Campus Heroes pc 
