@@ -1,5 +1,5 @@
 All fighting game quest
-(47 lines of confirmed non fighting games)
+(48 lines of confirmed non fighting games)
 Played:
 not listing stuff I am not going to forget I've played (SF main series, ect)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
@@ -37,7 +37,7 @@ The Alien Trials - steam no local multiplayer, yes online tho, ayy lmao
 Tekken 3 Special gen bootleg - fc great game! timerscam jump away
 Final Blow - fc boxing sim, boring
 Dragon Master - fc has a dude with jump hecksweep (j236k tho) hitting low
-Urban Street Fighter - steam
+Urban Street Fighter - steam ufge asset flip
 Battle Masters - fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 63214hp stun loop
 Fight Fever - fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
 Galactic Warriors - fc robot fighter, attack switch button, slow
@@ -337,6 +337,7 @@ Nessa no Hoshi PS1 - Single player rpg(?) game
 F*ckable Kim - steam, beat em up
 Virtual Taekwondo - ar/vr taekwondo sim, not video game enough to really count
 Toribash pc - the weird joints physics one
+Strikers Edge - dodgeball game
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -747,7 +748,7 @@ Heroes Vs. psp
 Higurashi Daybreak portable psp
 Hinokakera Fragment: Eclipse pc
 Hinokakera Chaotic Eclipse PC
-International Karate series fc2 one of them
+International Karate series (World Karate Championship) fc2 one of them
 Inuyasha Feudal Combat ps2
 Inuyasha a Feudal Fairy Tale ps1
 Jackie Chan series fc2 
@@ -782,6 +783,7 @@ Kings of Kung-fu steam owned
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
 kinnikuman dirty challenger snes fc2
 Kinnikuman & Muscle Grand Prix 1/max/2
+Kinnikuman Muscle Fight 2dfm pc 
 Kirby Battle Royale / kirby fighter 1/2 3ds switch
 Knuckle Heads mame
 Kung Fu Chaos xbox
@@ -976,6 +978,8 @@ Aazhom Krypht atari
 Barbarian / Barbarian: The Ultimate Warrior / Death Sword c64 amiga
 Barbarian+ / Barbarian Plus amiga fan mod 
 Barbarian: The Ultimate Warrior GBA proto 
+BARBARIAN 2: THE DUNGEON OF DRAX (GX4000) [Barbarian II: the Dungeon of Drax (GX4000)]
+BARBARIAN II [Axe Of Rage]
 Battle of the Eras dos
 Battle Arena Nitoshinden ps1
 Battle Beast dos
@@ -1045,6 +1049,7 @@ Funky Punch xl psp
 Fuuun Shaolin No Ken / Ankoku No Maou famicom disk system
 Barravento: Mestre Da Capoeira amiga
 Gladiators amiga
+Gladiator / Great Gurianos cpc/c64 
 Grand Class Melee 2 steam owned
 Gwigyeon pc
 Gladiator: Blades of Fury steam owned
@@ -1058,7 +1063,7 @@ Hard Knock High (Honoo No Kakutou Banchou) ps2
 Heavyweight Champ https://en.wikipedia.org/wiki/Heavyweight_Champ
 Hello Mr. President dos
 Hercequary pc98
-Highlander c64
+Highlander c64/cpc 
 Hiryu No Ken series https://en.wikipedia.org/wiki/Hiry%C5%AB_no_Ken
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
@@ -1129,7 +1134,7 @@ Saiyuki Reload: Gunlock ps2
 Sakigake!! Otokojuku ps2
 SD Gundam Eiyuuden Daikessen!! Knight VS Musha ps1
 Shadow Fighter amiga
-Shanghai Karate c64
+Shanghai Karate c64 cpc 
 Ringside Karate c64
 I Ludicrus atari st 
 The Ultimate Arena atari st
@@ -1137,7 +1142,7 @@ Swashbuckler fm-7
 Istanbul Beyleri pc https://archive.org/details/istanbul-beyleri
 Shrek Super Slam / Fairy Tale Freakdown
 Skorecery ps4
-Slam Dragon ps1
+Slam Dragon ps1 post round supers count 
 SD Battle Ozumo: Heisei Hero Basho nes
 Small Arms xblig
 Spitting Image amiga
@@ -1362,7 +1367,6 @@ Diskophoros itch
 Exploding Judo Federation itch
 Smash Bash 2 itch
 Smack Studio steam
-Strikers Edge steam
 Fighter Game https://mango4tango.itch.io/fighter-game
 Combo babies steam
 Dashwalk Dueling steam
@@ -1570,3 +1574,33 @@ SABAT Fight Arena jm2e
 Rupture Void https://archive.org/details/laptop-arcade-cracked.7z
 Fury Fight https://archive.org/details/laptop-arcade-cracked.7z
 Fighting Master Ultimate https://archive.org/details/laptop-arcade-cracked.7z
+Capoeira Fighter 1/2/3 flash
+Kombate Mexicano Elexiones https://store.steampowered.com/app/2515500/Kombate_Mexicano_Elexiones/
+Budokan: the Martial Spirit dos Electronic Arts game 
+Savage Warriors dos
+The Way of the Exploding Fist dos
+2LEGENDS dos https://cpcrulez.fr/GamesTest/2legends.htm
+BY FAIR MEANS OR FOUL [Professional Boxing Simulator]
+COMBAT TENDENCY https://cpcrulez.fr/GamesTest/combat_tendency.htm
+Fighting Warrior cpc
+ANOTHER WORLD cpc 
+Killing Fist cpc
+Kung-Fu cpc
+Lethal Move cpc 
+Ninja cpc 
+NINJA GRANNIES cpc 
+No Exit cpc 
+ORIENTAL GAMES cpc 
+PANZA KICK BOXING cpc 
+POPEYE 3: WRESTLE CRAZY [Popeye III: Wrestle Crazy] cpc 
+SUPER THORDERCAM cpc https://cpcrulez.fr/GamesTest/super_thordercam.htm
+SUPER WRESTLE cpc https://cpcrulez.fr/GamesTest/super_wrestle.htm
+SWORD SLAYER cpc 
+TAG TEAM WRESTLING [American Tag Team Wrestling] cpc 
+THAI BOXING cpc 
+THE LAST FIGHTER cpc https://cpcrulez.fr/GamesTest/the_last_fighter.htm
+THE WAY OF THE TIGER cpc 
+TWO FINGER DEATH NOW cpc https://cpcrulez.fr/GamesTest/twofingerdeathnow.htm
+UCHIMATA [Judo Uchi-mata] cpc 
+WWF WRESTLE MANIA [WWF Wrestlemania] cpc 
+XYPHOES FANTASY cpc
