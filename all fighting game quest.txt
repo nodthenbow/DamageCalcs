@@ -308,8 +308,12 @@ Battle Monsters - Saturn Albiole 5A dash inf (p universal) 26a/b/c fireball [8]b
 Advanced V.G. - PCE has nudity, ps1 / saturn clean, Kaori j2HP ioh, 2LP 236P, don't use 214HK
 Axel City 2 - vsav chains, throw pp/kk
 Inaho Town Dynamite Bomb: Yozu chain lp lk hk, lk hp 236lp-8hp lp lk hp 236hp-2hp, ioh jlk jhk otg 3hk
-Celebrity Kombat steam UFGE asset flip - snoop jGas, 4HKHK infinite 
-Phantom Breaker Omnia - steam Fin 6M5HHH6S/6S+H, blow bar on 4S+H, mash 4S/4S+L and 2S
+Celebrity Kombat - steam UFGE asset flip snoop jGas, 4HKHK infinite 
+Phantom Breaker Omnia - steam Fin-O 6/2M5HHH6S/6S+H, blow bar on 4S+H, mash 4S/4S+L and 2S
+Warrior Beneath Heaven - steam UFGE asset flip guard too good 
+Combo Babies - steam top left shoto j236A fly away, j2C dive kick, ioh 99A2C (9A2C)x4 426D, 6D throw
+Matsumura Kunihiro Den - snes fc no blocking, china cap guy jHK, 1 is a spot dodge, specials suck
+Kizuna Encounter - FC [c]46 mash throw. rosa j6B low, abc624c. Kim j6C b6b3c214b, bc oh, joker 6b426a inf
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -432,7 +436,7 @@ SCP- CROSS CONTAINMENT https://gamejolt.com/games/crosscontainment/551075
 HeroVersus https://www.thevs.co/
 Blazing Strike https://mobile.twitter.com/markarotGC
 Umbral Core https://www.umbralcore.com/
-Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/
+Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/ - demo iadL only safe move
 Blueblood Breakdown https://twitter.com/BlueBloodBDGame
 badzone bad zone https://twitter.com/cobalt_requin
 Unlight Fighters https://twitter.com/ashitaka1988
@@ -550,7 +554,6 @@ Kakutou Haou Densetsu Algunos PCE
 astral bout 1-3 fc2
 Draglade series DS
 nb heartbreakers advanced PC
-Kizuna Encounter FC2
 Azumanga Fighter pc
 Zero Divide ps1
 Zero Divide 2: The Secret Wish ps1
@@ -1115,7 +1118,6 @@ fighting hero 1/3 nes bootleg
 fighting heart steam owned
 fighting mad lads steam owned
 fisticubes steam owned
-Matsumura Kunihiro Den snes fc2
 Metal Masters atari st
 Mighty Warriors fc2
 Monster: Ancient Cline pc unreleased
@@ -1372,7 +1374,6 @@ Exploding Judo Federation itch
 Smash Bash 2 itch
 Smack Studio steam
 Fighter Game https://mango4tango.itch.io/fighter-game
-Combo babies steam
 Dashwalk Dueling steam
 Kronian Titans itch
 Mutant Karate Canary steam
