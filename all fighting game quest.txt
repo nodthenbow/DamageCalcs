@@ -200,6 +200,8 @@ Teenage Mutant Ninja Turtles: Tournament Fighters - snes shark op, ralph dank th
 all tekken games
 Tekken Advance - gba yoshi fc3k fc1kkkkk6k low, 3p 4ppp 66 4ppp 66p+k oki 0ob mid, fc1p sc2 stonefist 1p great unblockable. hei unlockable 623+p 623p 5p4pp mid plus, bad lows
 all main king of fighters
+The King of Fighters EX - gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C ob inf, Bao clC 66 inf, joe
+The King of Fighters EX 2 - gba Leona Iori Athena normal stuff, Miu striker
 Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) - fc
 Art of Fighting (Ryuuko no Ken) - fc
 Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) - fc
@@ -314,6 +316,11 @@ Warrior Beneath Heaven - steam UFGE asset flip guard too good
 Combo Babies - steam top left shoto j236A fly away, j2C dive kick, ioh 99A2C (9A2C)x4 426D, 6D throw
 Matsumura Kunihiro Den - snes fc no blocking, china cap guy jHK, 1 is a spot dodge, specials suck
 Kizuna Encounter - FC [c]46 mash throw. rosa j6B low, abc624c. Kim j6C b6b3c214b, bc oh, joker 6b426a inf
+Inflatality - steam try to make the arms go in a circle
+Zero Divide - ps1 fun vf-ish, 22/88g ss, getup 5/2k, Eos 4p6p mid 26p low 26p+k gb, 2p+k cthrow no whiff
+Zero Divide 2: The Secret Wish - ps1 fun 43p6p46p+k mid, 646p+g throw, 66k low
+Input Chaos - steam fighter lite, r/l1 activates arm, r/l2 grips, rstick moves arm, circles when unarmed
+Kings of Kung Fu - steam bad top row right jab walk infinite
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -555,8 +562,6 @@ astral bout 1-3 fc2
 Draglade series DS
 nb heartbreakers advanced PC
 Azumanga Fighter pc
-Zero Divide ps1
-Zero Divide 2: The Secret Wish ps1
 Zero Divide: The Final Conflict Sega Saturn 
 Secret Meeting 2 pc 
 Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen ps1
@@ -787,7 +792,6 @@ Kakuto Chojin: Back Alley Brutal Kakutō Chōjin: Fighting Super Heroes xbox
 Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist / bugi ps1
 Keriotosse saturn
-Kings of Kung-fu steam owned
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
 kinnikuman dirty challenger snes fc2
 Kinnikuman & Muscle Grand Prix 1/max/2
@@ -1368,7 +1372,6 @@ Evolver steam
 Beatdown Dungeon / demon day itch
 VRast! https://rc-cobalt.itch.io/vrast-vrm-fighting-game
 Family Battle steam
-Inflatality steam
 Diskophoros itch
 Exploding Judo Federation itch
 Smash Bash 2 itch
@@ -1610,3 +1613,8 @@ UCHIMATA [Judo Uchi-mata] cpc
 WWF WRESTLE MANIA [WWF Wrestlemania] cpc 
 XYPHOES FANTASY cpc
 Kunio no Nekketsu School Fighters gen https://usagiru-orochi.itch.io/kunio-no-nekketsu-school-fighters
+Spirit Warrior / 魔域幻鬥 pc https://www.old-games.com/download/2872/spirit-warrior
+Mythic Blades pc https://www.abandonsocios.org/index.php?topic=18092
+Quest Fighter 2 https://radiant.itch.io/quest-fighter-2
+Fearless Pinocchio IGS PGM
+Shadow Fighters Dutech Inc. 1993
