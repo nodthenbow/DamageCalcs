@@ -321,6 +321,10 @@ Zero Divide - ps1 fun vf-ish, 22/88g ss, getup 5/2k, Eos 4p6p mid 26p low 26p+k 
 Zero Divide 2: The Secret Wish - ps1 fun 43p6p46p+k mid, 646p+g throw, 66k low
 Input Chaos - steam fighter lite, r/l1 activates arm, r/l2 grips, rstick moves arm, circles when unarmed
 Kings of Kung Fu - steam bad top row right jab walk infinite
+Hand2Hand Project - steam, everything very minus on hit, move/jump in most hitstun, chopstick best?
+Chaos Code - steam Lupinus both sp, mid abc624d426kk5c624b, crn 426kk/236a-k (jA) jCC land*2 jC9D214C
+Nitroplus Blasterz - steam Ouka franko/blood fB2[c]2AclB9bab9b6c623a(jC/623ab[e]623a/blood 2626bc/623a, a+b6d66b6ac214bbc623b
+Blade Arcus From Shining Ex - steam Pairon+X 2a2b6c236c crn2a2b623b623a6c236c 22x/623b rev, ctech 4/bc rc
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -652,7 +656,6 @@ Be-bop Bout msx2 mame
 Big Bang Beat / Revolve pc
 Black Belt Challenge gba
 Black Belt fc2 
-Blade Arcus From Shining Ex steam (owned)
 blade strangers steam (don't buy, publisher is an ip thief)
 Bleach: Shattered Blade / Versus Crusade
 Bleach Tasogare Ni Mamieru Shinigami
@@ -673,7 +676,6 @@ Bushido Blade 2 ps1
 Capcom Fighting All Stars (wait for a copy to surface)
 Capcom Fighting Evolution ps2
 Castlevania Judgement wii
-Chaos Code steam
 Chu’s Dynasty xb360
 Clash of Elementalists dsiware
 Combat Core steam owned
@@ -847,7 +849,6 @@ Naruto Shippuden Clash of Ninja Revolution Iii / Gekitou Ninja Taisen Ex
 Naruto Shippuden Ultimate Ninja Storm Revolution / Uns Trilogy / Uns 4 Road to Boruto
 Nekketsu Kakutou Densetsu nes kunio kun game
 Neon Genesis Evangelion: Battle Orchestra psp/ps2
-Nitroplus Blasterz steam owned
 Nitro Royale: Heroines Duels pc
 Nurarihyon no Mago: Hyakki Ryouran Taisen ps3
 Omen of Sorrow steam ps4 2022
@@ -1618,3 +1619,5 @@ Mythic Blades pc https://www.abandonsocios.org/index.php?topic=18092
 Quest Fighter 2 https://radiant.itch.io/quest-fighter-2
 Fearless Pinocchio IGS PGM
 Shadow Fighters Dutech Inc. 1993
+DOGMA (ドグマ) pc https://archive.org/details/dogma_20210717
+Artemis Blade pc https://archive.org/details/artemis-blade-digital-hawk
