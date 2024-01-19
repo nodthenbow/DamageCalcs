@@ -89,6 +89,7 @@ Fighter’s History Dynamite Karnov's Revenge - It's Karnov's
 Fight of Gods - santa is a god apparently
 Fighting Vipers - played in judgement
 Granblue Fantasy: Versus - too slow, throws also are very reactable so only canned mixes
+Granblue Fantasy: Versus Rising - same as 1 but has Siegfried
 Guilty Gear The Missing Link - Faust (2S2H 623R 66)*inf 
 Guilty Gear X
 Guilty Gear X Plus - ps2 version of X
@@ -146,12 +147,12 @@ Power Rangers: Battle for the Grid - absurdly good
 Primal Rage 1 - see 2
 Primal Rage 2 - mame them, kinda meh but weirdly hard to really break
 Real Steel - the sgf video has 1 mil views
-Red Earth / Warzard - Tessa is great
+Red Earth / Warzard - Tessa is great 4632123544
 Rising Thunder - slow movement
 Rival Schools - kinda just a worse version of 2 (project justice)
 Project Justice - would be better if it wasn't so busted and sluggish
 Rivals of Aether - tank snake's difficulty is greatly exaggerated
-Rabbit - fc stands
+Rabbit - fc stands, 6ABC to use bottom row, 5ABC to stand on, fan lady 6hp 623hk-k
 Sailor Moon S snes - chibi backdash full invuln
 all Samurai Shodown games
 Rakugakids / Rakuga Kids - crayon cartoon style n64 fighter, played with Zak
@@ -325,6 +326,8 @@ Hand2Hand Project - steam, everything very minus on hit, move/jump in most hitst
 Chaos Code - steam Lupinus both sp, mid abc624d426kk5c624b, crn 426kk/236a-k (jA) jCC land*2 jC9D214C
 Nitroplus Blasterz - steam Ouka franko/blood fB2[c]2AclB9bab9b6c623a(jC/623ab[e]623a/blood 2626bc/623a, a+b6d66b6ac214bbc623b
 Blade Arcus From Shining Ex - steam Pairon+X 2a2b6c236c crn2a2b623b623a6c236c 22x/623b rev, ctech 4/bc rc
+Battle High 2 A+ - steam Ryken 214lk214hk loop, 214lk*5, combos only 1 214hk, crn2hp2hp623lp214hk214lk
+Dual Souls: The Last Bearer - steam Efe M214[K]2H214M2H, jT really funny fast fall, fireball zoner M AA
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -589,7 +592,6 @@ touhou 15.5
 touhou 13.5
 Full Metal Alchemist Dream Carnival
 Animals Fight
-Battle High 2 A+ steam owned
 Battle Snakes
 Bio freaks n64 ps1
 Dark Rift n64 / dos
@@ -723,7 +725,7 @@ Dragon Ball Z Buyuu Retsuden /
 Dragon Ball Z: Idanairu Son Goku Densetsu
 Dragon Ball Z: Idainaru Dragon Ball Densetsu
 Dragonball Xenoverse 1 / 2
-Dual Souls: The Last Bearer / Dual Blades gba steam 
+Dual Blades gba 
 Dynasty Warriors 1 ps1
 Dragon’s Heaven snk unreleased
 Dreammix Tv: World Fighters gcn
@@ -1621,3 +1623,4 @@ Fearless Pinocchio IGS PGM
 Shadow Fighters Dutech Inc. 1993
 DOGMA (ドグマ) pc https://archive.org/details/dogma_20210717
 Artemis Blade pc https://archive.org/details/artemis-blade-digital-hawk
+black lotus: void pc https://fantia.jp/fanclubs/3156
