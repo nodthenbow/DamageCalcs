@@ -203,6 +203,9 @@ Tekken Advance - gba yoshi fc3k fc1kkkkk6k low, 3p 4ppp 66 4ppp 66p+k oki 0ob mi
 all main king of fighters
 The King of Fighters EX - gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C ob inf, Bao clC 66 inf, joe
 The King of Fighters EX 2 - gba Leona Iori Athena normal stuff, Miu striker
+Mobile Suit Gundam Seed: Battle Assault - gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable
+Mobile Suit Gundam SEED: Destiny - gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
+Hajime no Ippo The Fighting - gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
 Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) - fc
 Art of Fighting (Ryuuko no Ken) - fc
 Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) - fc
@@ -328,6 +331,11 @@ Nitroplus Blasterz - steam Ouka franko/blood fB2[c]2AclB9bab9b6c623a(jC/623ab[e]
 Blade Arcus From Shining Ex - steam Pairon+X 2a2b6c236c crn2a2b623b623a6c236c 22x/623b rev, ctech 4/bc rc
 Battle High 2 A+ - steam Ryken 214lk214hk loop, 214lk*5, combos only 1 214hk, crn2hp2hp623lp214hk214lk
 Dual Souls: The Last Bearer - steam Efe M214[K]2H214M2H, jT really funny fast fall, fireball zoner M AA
+Tattoo Assassins - fc Hannah 444/2LK sub grd freeze, 66hp fb, 442hk roll, 22hk tp strike, 44lp fart
+Makeruna! Makendo 2 - snes fc last person, evil lady. 236p/k fb, all AAs are bad, 46P cmd grab, 214R heal
+Shin Kidō Senki Gundam W: Endless Duel - snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
+Riddick Bowe Boxing / Chavez snes/gen - fc l+r block (research gen)
+Boxing Legends of the Ring / Chavez II / Final Knockout - snes/gen fc select for super punch 8blk 2dodge
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -342,7 +350,7 @@ Gaiapolis - top down vertical walking shmup/beat em up
 penguin wars - throw all the balls away game
 Lethal League and blaze - neat dodgeball em ups
 The outfoxies - vomit commet camera, but neat platforming side view shoot vs game
-Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad sp fighter gameplay
+Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad ly fighter gameplay
 Mutation Nation - NeoGeo fc beat em up
 Monster Maulers - fc red earth em up, but co op 2p
 Fight Party - steam it's like a shooter w/o guns
@@ -813,14 +821,13 @@ Magical Girl Lyrical Nanoha a’s Portable the Battles of Aces & the Gears of De
 Mahou Sensei Negima Neo Pactio Fight wii
 Mai-otome Hime: Otome Butou Shi ps2
 Mai-hime Bakuretsu! Fuuka Gakuen Gekitoushi?! & Senretsu! Shin Fuuka Gakuen Gekitoushi!! ps2 psp?
-Makeruna! Makendo 2 Makeruna! Makendō 2: Kimero Youkai Souri ps1 (1/2 snes fc2) ps1
+Makeruna! Makendō 2: Kimero Youkai Souri ps1 (1/2 snes fc2) ps1
 Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
 Martial Champion fc2
 Yie Ar Kung-Fu 1/2 fc2
 Mayhem Combat android
 Medabots AX gba
-Metal combat Falcon's revenge snes fc2
 Masters of combat fc2
 ninja combat fc2
 Medieval Combat age of glory phone
@@ -1181,7 +1188,6 @@ Super Robot Spirits n64
 Superior Soldiers fc2
 Survival Arts mame
 Sword Dancer series pc98
-Tattoo Assassins fc2
 Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch nes
 The Bread Pub Brawlers ps4
 Brawl Brothers 1/2 FC
@@ -1353,11 +1359,9 @@ God vs Satan: World Rumble https://gamejolt.com/games/god-vs-satan-world-rumble/
 Shin Senki Van-Gale: The War of Neo-Century ps1 the worst camera
 real robots final attack ps1 (gundam)
 Sento dos
-Riddick Bowe Boxing / Chavez snes/gen fc
-Boxing Legends of the Ring / Chavez II / Final Knockout snes/gen fc
-Greatest Heavyweights gen fc
-Evander Holyfield's "Real Deal" Boxing gen fc
-Cutie Suzuki no Ringside Angel gen fc
+Greatest Heavyweights gen fc2
+Evander Holyfield's "Real Deal" Boxing gen fc2
+Cutie Suzuki no Ringside Angel gen fc2
 Presidents Fight steam
 Topdown Showdown steam
 Fightcrab steam
@@ -1450,7 +1454,6 @@ Mobile Suit Gundam fc2
 Mobile Suit Gundam: EX Revue fc2 
 Mobile Suit Victory Gundam snes fc2 
 SD Gundam Force: Showdown! ps2 
-Shin Kidō Senki Gundam Wing: Endless Duel snes fc2 
 Simple Characters 2000 Series vol.13 - Kidou Senki Gundam W - The Battle ps1
 Simple Characters 2000 Series vol.12 - Kidou Butouden G Gundam ps1
 Champion Wrestler: Jikkyou Live ps1
