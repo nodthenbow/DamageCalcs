@@ -1,5 +1,5 @@
 All fighting game quest
-(48 lines of confirmed non fighting games)
+(49 lines of not definitely fighting games, 140 lines extra total)
 Played:
 not listing stuff I am not going to forget I've played (SF main series, ect)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
@@ -339,6 +339,7 @@ Boxing Legends of the Ring / Chavez II / Final Knockout - snes/gen fc select/a+c
 Mighty Morphin Power Rangers - megadrive fc red ranger A 624A loop, no throws, dragonzord [4]6p
 Mobile Suit Gundam (1993) - fc Pick a Zaku, no throws
 TKO Super Championship Boxing / Kentou-Ou World Champion - snes fc lp/hp more damage close/far, r to block, no range diff in buttons
+Superior Soldiers / Perfect Soldiers - fc Stardude shoto, 2mp 2mp (66lp)xInf blk too, jHK 66HP 236HP tos
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -1187,7 +1188,6 @@ Super Combat Fighter pc (kickstarter)
 Super Fighter dos
 Swords wii
 Super Robot Spirits n64
-Superior Soldiers fc2
 Survival Arts mame
 Sword Dancer series pc98
 Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch nes
