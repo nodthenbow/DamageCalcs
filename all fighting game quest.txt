@@ -1,8 +1,8 @@
 All fighting game quest
 (49 lines of not definitely fighting games, 140 lines extra total)
-Played:
-not listing stuff I am not going to forget I've played (SF main series, ect)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
+Played:
+not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu - Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki - saturn, has jLK chains, mash them
 Elan Doree Legend of Dragoon / Touryuu Densetsu Elan Doree - 3d dragon riding game
@@ -63,24 +63,24 @@ BlazBlue: Chrono Phantasma
 BlazBlue: Chrono Phantasma
 BlazBlue: Central Fiction
 BlazBlue: Cross Tag Battle
-BlayzBloo: Super Melee Brawlers Battle Royale - dsiware research more
-BlazBlue: Clone Phantasma - 3ds research more 
+BlayzBloo: Super Melee Brawlers Battle Royale - dsiware TODO lab more
+BlazBlue: Clone Phantasma - 3ds TODO lab more 
 breakers - fc, p much a worse version of 2
 Breakers Revenge - fc breakering
-SNK vs. Capcom: The Match of the Millennium - ngpc/switch/steam lab more
-SNK vs. Capcom: SVC Chaos - fc lab more
-Capcom Vs. SNK 1 - fc lab more, Nak good, Guile good?
-Capcom vs. SNK Pro - fc ps1 lab more
-Capcom vs. SNK 2 - fc K Nak Vega Chun-li lab more
-Capcom vs. SNK 2 EO - GCN/Xbox lab more
+SNK vs. Capcom: The Match of the Millennium - ngpc/switch/steam TODO lab more
+SNK vs. Capcom: SVC Chaos - fc TODO lab more
+Capcom Vs. SNK 1 - fc TODO lab more, Nak good, Guile good?
+Capcom vs. SNK Pro - fc ps1 TODO lab more
+Capcom vs. SNK 2 - fc K Nak Vega Chun-li TODO lab more
+Capcom vs. SNK 2 EO - GCN/Xbox TODO lab more
 Tatsunoko vs. Capcom: Ultimate All-Stars - arcade/jp wii version, tons of infinites
 Tatsunoko vs. Capcom: Cross Generation of Heroes - na wii version, giants woo, 6M4M 28H 623XX
 ClayFighter - fc SNES and Genesis different
-ClayFighter: Tournament Edition - fc SNES lab more
-ClayFighter 2: Judgment Clay - fc SNES lab more
-ClayFighter 63 1/3 - n64 lab more
-ClayFighter: Sculptor's Cut - n64 lab more
-custom robo gcn
+ClayFighter: Tournament Edition - fc SNES TODO lab more
+ClayFighter 2: Judgment Clay - fc SNES TODO lab more
+ClayFighter 63 1/3 - n64 TODO lab more
+ClayFighter: Sculptor's Cut - n64 TODO lab more
+custom robo - gcn TODO lab more
 Divekick - dive and kick baby, literally only two buttons
 Fantasy Strike - sirloin's game
 Garou: Mark of the Wolves - grant, gato, goons. Freeman is fun but sucks
@@ -91,30 +91,30 @@ Fighting Vipers - played in judgement
 Granblue Fantasy: Versus - too slow, throws also are very reactable so only canned mixes
 Granblue Fantasy: Versus Rising - same as 1 but has Siegfried
 Guilty Gear The Missing Link - Faust (2S2H 623R 66)*inf 
-Guilty Gear X
+Guilty Gear X - TODO lab more
 Guilty Gear X Plus - ps2 version of X
-Guilty Gear X2 / XX
-Guilty Gear X2 #Reload / XX #Reload
-Guilty Gear XX Slash 
-Guilty Gear XX Accent Core
-Guilty Gear XX Accent Core Plus - nearly +r
+Guilty Gear X2 / XX - TODO lab more
+Guilty Gear X2 #Reload / XX #Reload - TODO lab more
+Guilty Gear XX Slash - TODO lab more
+Guilty Gear XX Accent Core - TODO lab more
+Guilty Gear XX Accent Core Plus - nearly +r TODO lab more
 Guilty Gear XX Accent Core Plus R
-Guilty Gear Xrd -Sign-
-Guilty Gear Xrd -Revelator-
-Guilty Gear Xrd Rev 2
-Guilty Gear Strive
-Guilty Gear Petit - research 
-Guilty Gear Petit 2 - research
-Guilty Gear Isuka - research
-Guilty Gear Dust Strikers - nds research
-Injustice Gods Among Us
-Injustice 2
+Guilty Gear Xrd -Sign- - TODO lab more
+Guilty Gear Xrd -Revelator- - TODO lab more
+Guilty Gear Xrd Rev 2 - TODO lab more
+Guilty Gear Strive - TODO lab more
+Guilty Gear Petit - TODO lab more 
+Guilty Gear Petit 2 - TODO lab more
+Guilty Gear Isuka - TODO lab more
+Guilty Gear Dust Strikers - nds TODO lab more
+Injustice Gods Among Us - Why did I learn Ares?
+Injustice 2 - just pick gun dude 
 Jojo’s Bizzare Adventure capcom fc - unban petshop
 Justice League Task Force - blizzard made one version, flash top tier, injustice 0
 Kill La Kill -IF - has that kid girl with timerscam, bamco shonen tho
-Killer Instinct (1994) - research
-Killer Instinct 2 / Killer Instinct Gold - arcade n64 research
-Killer Instinct (2013)
+Killer Instinct (1994) - TODO lab more
+Killer Instinct 2 / Killer Instinct Gold - arcade n64 TODO lab more
+Killer Instinct (2013) - Omen go brrr
 King of the Monsters 1 / 2 - fc not deep at all, mostly for kaiju movie fans
 Koihime Enbu series - steam, no movement, no pushback, boring neutral
 Kung Fu Panda: Showdown of Legendary Legends - ps4 played very generic but I got it free
@@ -125,16 +125,35 @@ X-Men vs. Street Fighter - fc Mag 214k fly, 2mp 624HK (5HK(1) 624HK)*n, gambit 2
 Marvel Super Heroes vs. Street Fighter - fc Wolv sjMP*n meter, 214PP 2HP*21, cyclops 2hk 632p/pp
 Marvel vs. Capcom 1 - fc at Gief draw 5, up first to gief, draw 6 then down right up above, s+mp
 Marvel vs. Capcom 2 - fc Spiral C, Ruby B, Sent C
-Marvel vs. Capcom 3
-Ultimate Marvel vs. Capcom 3
-Marvel vs. Capcom: Infinite
+Marvel vs. Capcom 3 - Just do umvc3 stuff 
+Ultimate Marvel vs. Capcom 3 - Modok Doom Ammy 
+Marvel vs. Capcom: Infinite - Firebrand Monster Hunter / Chris
 Sonic the Fighters - gun go brrr. Really not fun
 all melty blood games
 Million Arthur: Arcana Blood - iori
-all Mortal Kombat games
-Neogeo Battle Coliseum - https://www.youtube.com/watch?v=MwxTReFjxg4&t=134s
-nidhogg 1/2 - stabby joust run to end eaten by worm em up
-One Must Fall 2097 dos - epicmegagames
+Mortal Kombat (1992) - todo write strats
+Mortal Kombat II - todo write strats
+Mortal Kombat 3 - todo write strats
+Ultimate Mortal Kombat 3 - todo write strats
+Mortal Kombat Trilogy - todo write strats
+Mortal Kombat 4 - todo write strats
+Mortal Kombat Gold - todo write strats
+Mortal Kombat Advance (gba mk3) - todo write strats
+Mortal Kombat: Deadly Alliance - todo write strats
+Mortal Kombat: Tournament Edition (gba mkda) - todo write strats
+Mortal Kombat: Deception - todo write strats
+Mortal Kombat: Armageddon - todo write strats
+Mortal Kombat: Unchained (psp mkd) - todo write strats
+Ultimate Mortal Kombat (ds umk3) - todo write strats
+Mortal Kombat vs. DC Universe - todo write strats
+Mortal Kombat 9 (2011) - todo write strats
+Mortal Kombat X / XL - todo write strats
+Mortal Kombat 11 / Aftermath / Ultimate - todo write strats
+Mortal Kombat 1 (2023) - todo write strats
+Neogeo Battle Coliseum - https://www.youtube.com/watch?v=MwxTReFjxg4&t=134s TODO lab more
+nidhogg 1 - stabby joust run to end eaten by worm em up
+nidhogg 2 - ugly stabby joust run to end eaten by worm em up
+One Must Fall 2097 dos - epicmegagames TODO lab more
 persona 4 arena series - shadow labrys go brr
 One Strike - switch played, has the Footsies (hifight) problem
 Footsies (hifight) - neutral is wiggletron, needs a lot of stuff
@@ -175,15 +194,15 @@ Street Fighter Alpha - Ken 2lk 5mk 623HP sometimes just does 70%
 Street Fighter: The Movie - fc Akuma air fireball, dp falling tatsu dp dp falling tatsu infinite
 Street Fighter: The Movie PS1 - You can treat it like a more janky ST
 Street Fighter Alpha 2 - fc Rolento CC 2hk 19 mash kicks
-Street Fighter EX - find strats
+Street Fighter EX - todo find strats
 Street Fighter III: New Generation - fc Ibuki SA3 walk clHK inf, 5mp whiff, Sean SA3, 4mp whiff
-Street Fighter EX Plus - find strats
+Street Fighter EX Plus - todo find strats
 Street Fighter III: 2nd Impact - fc Ibuki clHK walk clHK inf, SA3
-Street Fighter EX2 - find strats
+Street Fighter EX2 - todo find strats
 Street Fighter Alpha 3 - Karin/Rose/Vega, best game
 Street Fighter III: 3rd Strike - fc Chun-li 2mk sa2 sj jHPHP/j2MK jMK
-Street Fighter EX2 Plus - find strats
-Street Fighter EX3 - find strats
+Street Fighter EX2 Plus - todo find strats
+Street Fighter EX3 - todo find strats
 Hyper Street Fighter II: the Anniversary Edition - fc Pick CE Bison, WW Guile. or Akuma code
 Street Fighter Alpha 3 Max - Just play Aism Dhalsim
 Street Fighter IV - Honest Abel 6mk dash
@@ -193,12 +212,25 @@ Super Street Fighter IV: 3D Edition - Honest walking boom
 Street Fighter X Tekken - Rolento 2lp 2lp 2mk rekka HK, Chun-li 2lp 4mk mk 28mk (check)
 Ultra Street Fighter IV - Honestest Abel 6mk dash, u1
 Street Fighter V - Chun-li, Lucia
-Ultra Street Fighter II: The Final Challengers - find strats
-all smash bros games
+Ultra Street Fighter II: The Final Challengers - todo find strats
+Super Smash Bros. - n64 mario sh uair uair nair shield break, dash grabs op
+Super Smash Bros. Melee - marf
+Super Smash Bros. Brawl - Ike unless you want to win, then MK
+Super Smash Bros. 3DS / for Wii U / 4 - Ike 
+Super Smash Bros. Ultimate - Ike
 Smash 64 remix - piano funny, but also just do normal 64 stuff
 project m - I wish Ike was fun
 Teenage Mutant Ninja Turtles: Tournament Fighters - snes shark op, ralph dank tho, nes idk
-all tekken games
+Tekken (1994) - todo find strats
+Tekken 2 - todo find strats
+Tekken 3 - todo find strats
+Tekken Tag Tournament 1 - ogres baby
+Tekken 4 - Jin baby
+Tekken 5 / DR 
+Tekken 6
+Tekken Tag Tournament 2 
+Tekken 7 
+Tekken 8 
 Tekken Advance - gba yoshi fc3k fc1kkkkk6k low, 3p 4ppp 66 4ppp 66p+k oki 0ob mid, fc1p sc2 stonefist 1p great unblockable. hei unlockable 623+p 623p 5p4pp mid plus, bad lows
 all main king of fighters
 The King of Fighters EX - gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C ob inf, Bao clC 66 inf, joe
@@ -275,7 +307,7 @@ DnF Duel - slow but long combos and pressure
 Cyan vs Magenta - https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
 fighting run - fc car run around mash A, health top bar, stamina lower, 5B for rope hit 8B shock
 Don Dong Never Die - truly art
-Fighter Dynasty - n64 pick Abdul, research more
+Fighter Dynasty - n64 pick Abdul, TODO lab more
 Power Moves / Power Athlete / Deadly Moves snes / gen fc - fc specials are P+K, fireballs suck
 robo pit - ps1 crossbow seems good, super r2+l2, strafe/turn changes normal attacks
 Icons - steam pick weishan, play him like chrom w/ marth 8b
@@ -305,7 +337,7 @@ project gaiaray - ps1 Virtual On clone, first guy has bomb
 Fighting Eyes - ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
 boombots - ps1 arena, melee r/l1 grab r/l2
 Shura No Mon - ps1 First dude, R2 4C grab
-Gundam: Battle Assault - ps1 research more
+Gundam: Battle Assault - ps1 TODO lab more
 Gundam: Battle Assault 2 - ps1 heavy arms (1st 4th row) j2LP 24P win :)
 Idol Showdown - steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
 Martial Masters - fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 6246P/K, kof gc/qr
