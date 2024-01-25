@@ -334,8 +334,11 @@ Dual Souls: The Last Bearer - steam Efe M214[K]2H214M2H, jT really funny fast fa
 Tattoo Assassins - fc Hannah 444/2LK sub grd freeze, 66hp fb, 442hk roll, 22hk tp strike, 44lp fart
 Makeruna! Makendo 2 - snes fc last person, evil lady. 236p/k fb, all AAs are bad, 46P cmd grab, 214R heal
 Shin Kidō Senki Gundam W: Endless Duel - snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
-Riddick Bowe Boxing / Chavez snes/gen - fc l+r block (research gen)
-Boxing Legends of the Ring / Chavez II / Final Knockout - snes/gen fc select for super punch 8blk 2dodge
+Riddick Bowe Boxing / Chavez - snes fc l+r block (game gear multiplayer?)
+Boxing Legends of the Ring / Chavez II / Final Knockout - snes/gen fc select/a+c for super, 8blk 2dodge
+Mighty Morphin Power Rangers - megadrive fc red ranger A 624A loop, no throws, dragonzord [4]6p
+Mobile Suit Gundam (1993) - fc Pick a Zaku, no throws
+TKO Super Championship Boxing / Kentou-Ou World Champion - snes fc lp/hp more damage close/far, r to block, no range diff in buttons
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -834,7 +837,6 @@ Medieval Combat age of glory phone
 Megatudo 2096 ps1
 Metal Revolution steam (2022)
 Mighty Fight Federation steam
-Mighty Morphin Power Rangers megadrive fc2
 Musashi No Ken: Tadaima Shugyou Chuu nes
 Mutant Dna / 뮤턴트 DNA dos
 My Hero Academia: Battle for All bamco shonen steam
@@ -1282,11 +1284,10 @@ Robot Heroes pc https://gamejolt.com/games/robotheroes/593094
 Boxing MP1000
 Boxing atari 2600
 Konami's Boxing msx
-Ring King / King of Boxer arcade nes
+Ring King / King of Boxer arcade (family boxing nes)
 The Final Round fc2
 Low Blow dos
 Pro Boxing Simulator amiga
-TKO Super Championship Boxing / Kentou-Ou World Champion snes
 Best Bout Boxing arcade
 All Star Pro-Wrestling I/II/III ps2
 Ape Escape: Pumped & Primed ps2
@@ -1450,7 +1451,6 @@ Gundam: Battle Assault 3 Featuring Gundam SEED ps2
 Gundam the battle master ps1
 Kidou Butouden G Gundam ps1 
 Mobile Fighter G Gundam snes fc2 
-Mobile Suit Gundam fc2 
 Mobile Suit Gundam: EX Revue fc2 
 Mobile Suit Victory Gundam snes fc2 
 SD Gundam Force: Showdown! ps2 
