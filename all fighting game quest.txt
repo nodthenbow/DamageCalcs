@@ -374,6 +374,7 @@ Mobile Suit Gundam (1993) - fc Pick a Zaku, no throws
 TKO Super Championship Boxing / Kentou-Ou World Champion - snes fc lp/hp more damage close/far, r to block, no range diff in buttons
 Superior Soldiers / Perfect Soldiers - fc Stardude shoto, 2mp 2mp (66lp)xInf blk too, jHK 66HP 236HP tos
 Ring King / Family Boxing NES / King of Boxer arcade - 46/66P to slide 6punch, whiffs up close
+Ranma 1/2: Hard Battle - fc far right girl, 7/9j7/9j 4/6 steer, deep crossup GBs, 6P throw loop, P+K DP
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -542,7 +543,6 @@ Tatsunoko Fight ps1
 Soul Edge vs. Samurai Spirits fc2
 Soul Falchion bootleg
 Ranma 1/2: Battle Renaissance ps1
-Ranma 1/2: Hard Battle fc2
 Ranma 1/2: Hard Battle II fc2
 Mighty Morphin Power Rangers - The Fighting Edition (Unl) fc2
 kof '97 nes bootleg
@@ -563,14 +563,14 @@ Samurai Deeper Kyo ps1
 Gokuu Densetsu: Magic Beast Warriors ps1
 Metal & Lace 1/2 dos
 Gear Fighter Dendoh ps1
-Genkido
+Gekido ps1
 Flash Bash PC
 Katekyō Hitman Reborn! Dream Hyper Battle! PS2
 TV Animation X: Unmei no Sentaku ps1
-Messiah End Revenge
-Sakura X Clash
+Messiah End Revenge pc fm2k
+Sakura X Clash pc https://team-project-sakura-x.itch.io/sakura-x-clash-last-millenial-spring
 Mad Stalker: Full-Metal Force ps1
-Chaos Striker
+Chaos Striker pc 2dfm https://archive.org/details/chaos-striker
 The Eye of Typhoon 3do / fc2
 Trajes Fatais: Suits of Fate steam
 Toy Fighter fc2
