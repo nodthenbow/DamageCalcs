@@ -1,5 +1,5 @@
 All fighting game quest
-(49 lines of not definitely fighting games, 140 lines extra total)
+(51 lines of not definitely fighting games, 142 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -337,7 +337,7 @@ StudioS Fighters: Climax Champions - pc ero top left j214X dive kick crossup mix
 project gaiaray - ps1 Virtual On clone, first guy has bomb
 Fighting Eyes - ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
 boombots - ps1 arena, melee r/l1 grab r/l2
-Shura No Mon - ps1 First dude, R2 4C grab
+Shura No Mon - ps1 First dude, R2 4C grab. Emo dude 6KK grab 2LP mash LP no break?
 Gundam: Battle Assault - ps1 TODO lab more
 Gundam: Battle Assault 2 - ps1 heavy arms (1st 4th row) j2LP 24P win :)
 Idol Showdown - steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
@@ -378,7 +378,18 @@ Ranma 1/2: Hard Battle - fc far right girl, 7/9j7/9j 4/6 steer, deep crossup GBs
 Ranma 1/2: Chougi Ranbu Hen - fc 4pp throw, china dress 7/9>dj, j2HK, 236P AA grab, cheerleader j478p
 Battle Blaze - snes fc Lady (race), [1]46P fireball, throw loop tho 6P
 Advance Guardian Heroes - GBA Enn matk dump stat, R+J to magic, L cycle to bouncy ball, a+b hyper
-Sonic Battle - gba cream air set op, 3rd pick is an autoguard against the opponent's that
+Sonic Battle - gba cream air set op, 3rd pick is an autoguard against the opponent's version of it
+The Final Round - fc stamina = recovery 5% min 24% max, power = health, speed = movement speed, clB KOs
+Sougou Kakutougi: astral bout 1 - fc Judo seems best, 66Y to tackle throw, X to otg, grapplers > strikers 
+Sougou Kakutougi: astral bout 2 - fc In sub hold L/R to walk, goldman 6A/B-A/B-6982X, R for cmd normals
+Sougou Kakutougi: astral bout 3 - fc dead center guy, 236K unblockable, 236P superman 6HK R+HK, 642LP otg
+kinnikuman dirty challenger - snes fc 1st 28A gets to grapple, R = super, pick purple, ice stage funny
+Fight.exe - pc Duffa Snick jab infinite 
+Fight of Animals - steam Dachsund 2L2L5H4S6S66 5H4S6S66 5H4S6S66 5H4S6S2S/SU, 5S uoh, no throws
+Fight of Animals Arena - steam Tricky Fox seems best, universal PP infinite?, dash invuln, V recovery bad
+AAH! HARIMANADA (AA HARIMANADA) - gen fc 1st in 2nd row 360B loop [4]6A+B ro, grab 214B/684B, 1AB counter
+Doomsday Warrior - snes fc Numetal j2H strong, 8LP great AA with invuln maybe, 6J+L throw (char specific)
+Avengers in Galactic Storm - fc Crystal thor 2LP inf mid, 623HK crn otg inf, 214P236P safe, 236PP/KK assist/su, 93 hop, zoner
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -410,6 +421,9 @@ F*ckable Kim - steam, beat em up
 Virtual Taekwondo - ar/vr taekwondo sim, not video game enough to really count
 Toribash pc - the weird joints physics one
 Strikers Edge - dodgeball game
+Yie Ar Kung-Fu 1/2 - beat em ups, would be fg if they had a 2p hack 
+Shura No Mon genesis version - cinematic fg and it's single player 
+Zeiramzone ps1 - beat em up I think, single player only 
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -555,7 +569,6 @@ Virtua fighter 2 vs tekken 2 bootleg fc2
 Overkill (MS DOS - 1996)
 Violent Vengeance: The Universe Hero (MS DOS - 1995)
 Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
-Zeiramzone ps1
 Chain & Combo: Chaos Light pc
 Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
@@ -613,14 +626,12 @@ xmen vs street fighter snes bootleg
 Taekwon-Do snes
 Dark Awake The King Has No Name / chaos breaker arcade ps3
 Kakutou Haou Densetsu Algunos PCE
-astral bout 1-3 fc2
 Draglade series DS
 nb heartbreakers advanced PC
 Azumanga Fighter pc
 Zero Divide: The Final Conflict Sega Saturn 
 Secret Meeting 2 pc 
 Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen ps1
-Shadow Struggle ps1
 Possible others in the Variable Geo series https://archive.org/details/variablegeogamecollection
 V.G. Variable Geo pc98 (has nudity)
 V.G. II - THE BOUT OF CABALISTIC GODDESS pc98
@@ -686,7 +697,6 @@ Marvel Nemesis: Rise of the Imperfects psp, nds, gcn, ps2, xbox
 Fighters' Impact ps1
 Vs. ps1
 Million Knights Vermilion PC (in games folder)
-AAH! HARIMANADA (AA HARIMANADA) FC2
 Aquapazza ps3
 Arcana Heart series
 Art of Fighting Series
@@ -695,7 +705,6 @@ AbalaBurn ps1
 Fighter Maker ps1
 Fighter maker 2 ps2
 Fighter Maker 2nd
-Avengers in Galactic Storm fc2 (tried to play with kooter but it was broken)
 Axel City 1 arcade
 battlebots gcn
 battle high 1 (idk, maybe ask the dev Mattrified on twitter?)
@@ -786,8 +795,6 @@ Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighter’s History series fc2 (played karnov's)
 Fighter's History: Mizoguchi Kiki Ippatsu!! fc2
-Fight of Animals steam owned
-Fight of Animals Arena steam owned
 Final Fight Revenge saturn
 Fighting Layer mame
 Fighting EX Layer ps4/steam
@@ -845,7 +852,6 @@ Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist / bugi ps1
 Keriotosse saturn
 Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
-kinnikuman dirty challenger snes fc2
 Kinnikuman & Muscle Grand Prix 1/max/2
 Kinnikuman Muscle Fight 2dfm pc 
 Kirby Battle Royale / kirby fighter 1/2 3ds switch
@@ -865,7 +871,6 @@ Makeruna! Makendō 2: Kimero Youkai Souri ps1 (1/2 snes fc2) ps1
 Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
 Martial Champion fc2
-Yie Ar Kung-Fu 1/2 fc2
 Mayhem Combat android
 Medabots AX gba
 Masters of combat fc2
@@ -1082,7 +1087,6 @@ Dangerous Streets dos
 Dark Presence in dev unreleased arcade game 
 Kung-fu Live ps3
 Dead Dance / Tuff E Nuff snes fc2
-Doomsday Warrior snes fc2
 Drawfighters ps4
 Dual Heroes n64
 D-xhird saturn
@@ -1141,7 +1145,6 @@ Karate Phants: Gloves of Glory wii
 Karate Champ nes fc2
 Karou Densetsu Honban x68k
 Katana Action; The Bushido; Simple 2000 Series Vol. 28: The Bushido - Tujigiri Ichidai ps2
-Shura No Mon gen fc2
 Kengo / sword of the samurai series https://en.wikipedia.org/wiki/Kengo
 Kiai Resonance steam owned
 Kickbox Vigilante spectrum
@@ -1318,7 +1321,6 @@ Robot Heroes pc https://gamejolt.com/games/robotheroes/593094
 Boxing MP1000
 Boxing atari 2600
 Konami's Boxing msx
-The Final Round fc2
 Low Blow dos
 Pro Boxing Simulator amiga
 Best Bout Boxing arcade
