@@ -3,58 +3,58 @@ All fighting game quest
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
-outlaws of the lost dynasty / Dark Legend / Suiko Enbu - Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
-Suiko Enbu: Fuuun Saiki - saturn, has jLK chains, mash them
-Elan Doree Legend of Dragoon / Touryuu Densetsu Elan Doree - 3d dragon riding game
-Weaponlord - hold button special moves game, snes and gen diff, don't remember how
-Blood Storm - fc MK like game, played with Kooter
-Touhou Suimusou: Immaterial and Missing Power - the touhou one with grazing and cards
-Blandia - fc slow bland, throws on 1H, gladiators
-Psychic Force ps1 arcade - flying game 3d in a box
-Dark Edge - sprite based 3d game by sega, cursed inputs
-Veteran Combat - pc fake vintage digitized sprites, bad
-Umineko: Golden Fantasia - steam vn fighter, tag, special meter building for tag
-Ougon Musou Kyoku / CROSS - Umineko's other name
-Double Dragon Neo Geo - fc boss characters real strong, weirdly great input handler
-Ninja Master's haoh ninpo cho - fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp swap, hk AA
-Rage of the Dragons - fc Billy 6B 214D 214D clC 236A 236A 623D, Jones clC 3B 236A, 214A safe
-Battle K-Road - fc great, hold heavies
-Daraku Tenshi The Fallen Angels - fc unreleased Battle K-Road em up
-3 Count Bout - fc wrestling, hcf/bP only special input, R Bradley top tier
-Cute Fighter - fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC
-SD Fighters - fc, top right best, just mash jabs, a lesser cute fighter
-Dino Rex - fc dino, wack af, styg 1/3k unblockable
-Power Instinct - fc ew, it's that one
-Power Instinct 2 - fc 
-Gouketsuji Gaiden Legends - fc
-Groove on Fight: Gouketsuji Ichizoku 3 - saturn easy tod w/ tag in
-Matrimelee - fc weird furry, Power Instinct series
-Shin Gouketsuji Ichizoku: Bonnou Kaihou - ps2 Matrimelee update
-Gouketsuji Ichizoku Matsuri Senzo Kuyou - mame
-Best of Best - fc Statue of Liberty, Tango 896P, 28P and 236P unblockable 6P on hit. No blockstun
-Shaolin vs Wutang - steam Lotus Palm top tier, 8W, 2P 6 2P loops, WW overhead, ninja 236w pew
-The Alien Trials - steam no local multiplayer, yes online tho, ayy lmao
-Tekken 3 Special gen bootleg - fc great game! timerscam jump away
-Final Blow - fc boxing sim, boring
-Dragon Master - fc has a dude with jump hecksweep (j236k tho) hitting low
-Urban Street Fighter - steam ufge asset flip
-Battle Masters - fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 63214hp stun loop
-Fight Fever - fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
-Galactic Warriors - fc robot fighter, attack switch button, slow
-Astra Superstars - sunsoft, flying game, has santa girl
-waku waku 7 - fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
-Galaxy Fight - 1 second rounds tournament game, viable to solve some day
-Slap Happy Rhythm Busters - ps1, rhythm game supers
-Eternal Champions - gen fc has yin yang stamina bars
-Eternal Champions 2 - sega cd version of ec pretty much
-Asura Buster - fc big sword guy named goat
-Asura Blade - fc no throws only unblockables on 22abc
-Heavy Nova - gen fc hold down to be invincible, 7min rounds
-Violence fight - on fc but no character graphics. Pick rapid punchy guy, P+jump
-Solitary fighter / violence fight 2 - fc same strat as above, Ben Smith, p+jump
-Agressors of Dark Combat - fc played w/ kooter, 3d beat em up style, neat but not very fun.
-Akatsuki Blitzkampf - lots of notes on the internet about this game
-Battle Fantasia - early bad arcsys fighting game, played with toom
+outlaws of the lost dynasty / Dark Legend / Suiko Enbu :- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
+Suiko Enbu: Fuuun Saiki :- saturn, has jLK chains, mash them
+Elan Doree Legend of Dragoon / Touryuu Densetsu Elan Doree :- 3d dragon riding game
+Weaponlord :- Divada 66B/C +ob gb install, H xx X/Y842 cash out, 2C/5Y y842 y862, gen talazia c y882 inf
+Blood Storm :- fc MK like game, played with Kooter
+Touhou Suimusou: Immaterial and Missing Power :- the touhou one with grazing and cards
+Blandia :- fc slow bland, throws on 1H, gladiators
+Psychic Force ps1 arcade :- flying game 3d in a box
+Dark Edge :- sprite based 3d game by sega, cursed inputs
+Veteran Combat :- pc fake vintage digitized sprites, bad
+Umineko: Golden Fantasia :- steam vn fighter, tag, special meter building for tag
+Ougon Musou Kyoku / CROSS :- Umineko's other name
+Double Dragon Neo Geo :- fc boss characters real strong, weirdly great input handler
+Ninja Master's haoh ninpo cho :- fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp swap, hk AA
+Rage of the Dragons :- fc Billy 6B 214D 214D clC 236A 236A 623D, Jones clC 3B 236A, 214A safe
+Battle K-Road :- fc great, hold heavies
+Daraku Tenshi The Fallen Angels :- fc unreleased Battle K-Road em up
+3 Count Bout :- fc wrestling, hcf/bP only special input, R Bradley top tier
+Cute Fighter :- fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC
+SD Fighters :- fc, top right best, just mash jabs, a lesser cute fighter
+Dino Rex :- fc dino, wack af, styg 1/3k unblockable
+Power Instinct :- fc ew, it's that one
+Power Instinct 2 :- fc 
+Gouketsuji Gaiden Legends :- fc
+Groove on Fight: Gouketsuji Ichizoku 3 :- saturn easy tod w/ tag in
+Matrimelee :- fc weird furry, Power Instinct series
+Shin Gouketsuji Ichizoku: Bonnou Kaihou :- ps2 Matrimelee update
+Gouketsuji Ichizoku Matsuri Senzo Kuyou :- mame
+Best of Best :- fc Statue of Liberty, Tango 896P, 28P and 236P unblockable 6P on hit. No blockstun
+Shaolin vs Wutang :- steam Lotus Palm top tier, 8W, 2P 6 2P loops, WW overhead, ninja 236w pew
+The Alien Trials :- steam no local multiplayer, yes online tho, ayy lmao
+Tekken 3 Special gen bootleg :- fc great game! timerscam jump away
+Final Blow :- fc boxing sim, boring
+Dragon Master :- fc has a dude with jump hecksweep (j236k tho) hitting low
+Urban Street Fighter :- steam ufge asset flip
+Battle Masters :- fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 63214hp stun loop
+Fight Fever :- fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
+Galactic Warriors :- fc robot fighter, attack switch button, slow
+Astra Superstars :- sunsoft, flying game, has santa girl
+waku waku 7 :- fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
+Galaxy Fight :- 1 second rounds tournament game, viable to solve some day
+Slap Happy Rhythm Busters :- ps1, rhythm game supers
+Eternal Champions :- gen fc has yin yang stamina bars
+Eternal Champions 2 :- sega cd version of ec pretty much
+Asura Buster :- fc big sword guy named goat
+Asura Blade :- fc no throws only unblockables on 22abc
+Heavy Nova :- gen fc hold down to be invincible, 7min rounds
+Violence fight :- on fc but no character graphics. Pick rapid punchy guy, P+jump
+Solitary fighter / violence fight 2 :- fc same strat as above, Ben Smith, p+jump
+Agressors of Dark Combat :- fc played w/ kooter, 3d beat em up style, neat but not very fun.
+Akatsuki Blitzkampf :- lots of notes on the internet about this game
+Battle Fantasia :- early bad arcsys fighting game, played with toom
 BlazBlue: Calamity Trigger
 BlazBlue: Continuum Shift
 BlazBlue: Continuum Shift II 
@@ -63,372 +63,381 @@ BlazBlue: Chrono Phantasma
 BlazBlue: Chrono Phantasma
 BlazBlue: Central Fiction
 BlazBlue: Cross Tag Battle
-BlayzBloo: Super Melee Brawlers Battle Royale - dsiware TODO lab more
-BlazBlue: Clone Phantasma - 3ds TODO lab more 
-breakers - fc, p much a worse version of 2
-Breakers Revenge - fc breakering
-SNK vs. Capcom: The Match of the Millennium - ngpc/switch/steam TODO lab more
-SNK vs. Capcom: SVC Chaos - fc TODO lab more
-Capcom Vs. SNK 1 - fc TODO lab more, Nak good, Guile good?
-Capcom vs. SNK Pro - fc ps1 TODO lab more
-Capcom vs. SNK 2 - fc K Nak Vega Chun-li TODO lab more
-Capcom vs. SNK 2 EO - GCN/Xbox TODO lab more
-Tatsunoko vs. Capcom: Ultimate All-Stars - arcade/jp wii version, tons of infinites
-Tatsunoko vs. Capcom: Cross Generation of Heroes - na wii version, giants woo, 6M4M 28H 623XX
-ClayFighter - fc SNES and Genesis different
-ClayFighter: Tournament Edition - fc SNES TODO lab more
-ClayFighter 2: Judgment Clay - fc SNES TODO lab more
-ClayFighter 63 1/3 - n64 TODO lab more
-ClayFighter: Sculptor's Cut - n64 TODO lab more
-custom robo - gcn TODO lab more
-Divekick - dive and kick baby, literally only two buttons
-Fantasy Strike - sirloin's game
-Garou: Mark of the Wolves - grant, gato, goons. Freeman is fun but sucks
-Fate Unlimited Codes - 3d fate game with the command grab infinite (and many others) psp ver too
-Fighter’s History Dynamite Karnov's Revenge - It's Karnov's
-Fight of Gods - santa is a god apparently
-Fighting Vipers - played in judgement
-Granblue Fantasy: Versus - too slow, throws also are very reactable so only canned mixes
-Granblue Fantasy: Versus Rising - same as 1 but has Siegfried
-Guilty Gear The Missing Link - Faust (2S2H 623R 66)*inf 
-Guilty Gear X - TODO lab more
-Guilty Gear X Plus - ps2 version of X
-Guilty Gear X2 / XX - TODO lab more
-Guilty Gear X2 #Reload / XX #Reload - TODO lab more
-Guilty Gear XX Slash - TODO lab more
-Guilty Gear XX Accent Core - TODO lab more
-Guilty Gear XX Accent Core Plus - nearly +r TODO lab more
+BlayzBloo: Super Melee Brawlers Battle Royale :- dsiware TODO lab more
+BlazBlue: Clone Phantasma :- 3ds TODO lab more 
+breakers :- fc, p much a worse version of 2
+Breakers Revenge :- fc breakering
+SNK vs. Capcom: The Match of the Millennium :- ngpc/switch/steam TODO lab more
+SNK vs. Capcom: SVC Chaos :- fc TODO lab more
+Capcom Vs. SNK 1 :- fc TODO lab more, Nak good, Guile good?
+Capcom vs. SNK Pro :- fc ps1 TODO lab more
+Capcom vs. SNK 2 :- fc K Nak Vega Chun-li TODO lab more
+Capcom vs. SNK 2 EO :- GCN/Xbox TODO lab more
+Tatsunoko vs. Capcom: Ultimate All-Stars :- arcade/jp wii version, tons of infinites
+Tatsunoko vs. Capcom: Cross Generation of Heroes :- na wii version, giants woo, 6M4M 28H 623XX
+ClayFighter :- fc SNES and Genesis different
+ClayFighter: Tournament Edition :- fc SNES TODO lab more
+ClayFighter 2: Judgment Clay :- fc SNES TODO lab more
+ClayFighter 63 1/3 :- n64 TODO lab more
+ClayFighter: Sculptor's Cut :- n64 TODO lab more
+custom robo :- gcn TODO lab more
+Divekick :- dive and kick baby, literally only two buttons
+Fantasy Strike :- sirloin's game
+Garou: Mark of the Wolves :- grant, gato, goons. Freeman is fun but sucks
+Fate Unlimited Codes :- 3d fate game with the command grab infinite (and many others) psp ver too
+Fighter’s History Dynamite Karnov's Revenge :- It's Karnov's
+Fight of Gods :- santa is a god apparently
+Fighting Vipers :- played in judgement
+Granblue Fantasy: Versus :- too slow, throws also are very reactable so only canned mixes
+Granblue Fantasy: Versus Rising :- same as 1 but has Siegfried
+Guilty Gear The Missing Link :- Faust (2S2H 623R 66)*inf 
+Guilty Gear X :- TODO lab more
+Guilty Gear X Plus :- ps2 version of X
+Guilty Gear X2 / XX :- TODO lab more
+Guilty Gear X2 #Reload / XX #Reload :- TODO lab more
+Guilty Gear XX Slash :- TODO lab more
+Guilty Gear XX Accent Core :- TODO lab more
+Guilty Gear XX Accent Core Plus :- nearly +r TODO lab more
 Guilty Gear XX Accent Core Plus R
-Guilty Gear Xrd -Sign- - TODO lab more
-Guilty Gear Xrd -Revelator- - TODO lab more
-Guilty Gear Xrd Rev 2 - TODO lab more
-Guilty Gear Strive - TODO lab more
-Guilty Gear Petit - TODO lab more 
-Guilty Gear Petit 2 - TODO lab more
-Guilty Gear Isuka - TODO lab more
-Guilty Gear Dust Strikers - nds TODO lab more
-Injustice Gods Among Us - Why did I learn Ares?
-Injustice 2 - just pick gun dude 
-Jojo’s Bizzare Adventure capcom fc - unban petshop
-Justice League Task Force - blizzard made one version, flash top tier, injustice 0
-Kill La Kill -IF - has that kid girl with timerscam, bamco shonen tho
-Killer Instinct (1994) - TODO lab more
-Killer Instinct 2 / Killer Instinct Gold - arcade n64 TODO lab more
-Killer Instinct (2013) - Omen go brrr
-King of the Monsters 1 / 2 - fc not deep at all, mostly for kaiju movie fans
-Koihime Enbu series - steam, no movement, no pushback, boring neutral
-Kung Fu Panda: Showdown of Legendary Legends - ps4 played very generic but I got it free
+Guilty Gear Xrd -Sign- :- TODO lab more
+Guilty Gear Xrd -Revelator- :- TODO lab more
+Guilty Gear Xrd Rev 2 :- TODO lab more
+Guilty Gear Strive :- TODO lab more
+Guilty Gear Petit :- TODO lab more 
+Guilty Gear Petit 2 :- TODO lab more
+Guilty Gear Isuka :- TODO lab more
+Guilty Gear Dust Strikers :- nds TODO lab more
+Injustice Gods Among Us :- Why did I learn Ares?
+Injustice 2 :- just pick gun dude 
+Jojo’s Bizzare Adventure capcom fc :- unban petshop
+Justice League Task Force :- blizzard made one version, flash top tier, injustice 0
+Kill La Kill -IF :- has that kid girl with timerscam, bamco shonen tho
+Killer Instinct (1994) :- TODO lab more
+Killer Instinct 2 / Killer Instinct Gold :- arcade n64 TODO lab more
+Killer Instinct (2013) :- Omen go brrr
+King of the Monsters 1 / 2 :- fc not deep at all, mostly for kaiju movie fans
+Koihime Enbu series :- steam, no movement, no pushback, boring neutral
+Kung Fu Panda: Showdown of Legendary Legends :- ps4 played very generic but I got it free
 Capcom Marvel vs series (cota, xvsf included)
-X-Men: Children of the Atom - fc Omega Red LP 66 LP 66... 5MK 236LP 3P 3P, corner MP (sjLP*nHK)*n
-Marvel Super Heroes - fc Iron man 214KK mash PPP, 2MP sj6PPP (peak) jLPLKMP8HP (9LPMP8HP)*n 412P roll
-X-Men vs. Street Fighter - fc Mag 214k fly, 2mp 624HK (5HK(1) 624HK)*n, gambit 236P 66 (LPLK)*n
-Marvel Super Heroes vs. Street Fighter - fc Wolv sjMP*n meter, 214PP 2HP*21, cyclops 2hk 632p/pp
-Marvel vs. Capcom 1 - fc at Gief draw 5, up first to gief, draw 6 then down right up above, s+mp
-Marvel vs. Capcom 2 - fc Spiral C, Ruby B, Sent C
-Marvel vs. Capcom 3 - Just do umvc3 stuff 
-Ultimate Marvel vs. Capcom 3 - Modok Doom Ammy 
-Marvel vs. Capcom: Infinite - Firebrand Monster Hunter / Chris
-Sonic the Fighters - gun go brrr. Really not fun
+X-Men: Children of the Atom :- fc Omega Red LP 66 LP 66... 5MK 236LP 3P 3P, corner MP (sjLP*nHK)*n
+Marvel Super Heroes :- fc Iron man 214KK mash PPP, 2MP sj6PPP (peak) jLPLKMP8HP (9LPMP8HP)*n 412P roll
+X-Men vs. Street Fighter :- fc Mag 214k fly, 2mp 624HK (5HK(1) 624HK)*n, gambit 236P 66 (LPLK)*n
+Marvel Super Heroes vs. Street Fighter :- fc Wolv sjMP*n meter, 214PP 2HP*21, cyclops 2hk 632p/pp
+Marvel vs. Capcom 1 :- fc at Gief draw 5, up first to gief, draw 6 then down right up above, s+mp
+Marvel vs. Capcom 2 :- fc Spiral C, Ruby B, Sent C
+Marvel vs. Capcom 3 :- Just do umvc3 stuff 
+Ultimate Marvel vs. Capcom 3 :- Modok Doom Ammy 
+Marvel vs. Capcom: Infinite :- Firebrand Monster Hunter / Chris
+Sonic the Fighters :- gun go brrr. Really not fun
 all melty blood games
-Million Arthur: Arcana Blood - iori
-Mortal Kombat (1992) - todo write strats
-Mortal Kombat II - todo write strats
-Mortal Kombat 3 - todo write strats
-Ultimate Mortal Kombat 3 - todo write strats
-Mortal Kombat Trilogy - todo write strats
-Mortal Kombat 4 - todo write strats
-Mortal Kombat Gold - todo write strats
-Mortal Kombat Advance (gba mk3) - todo write strats
-Mortal Kombat: Deadly Alliance - todo write strats
-Mortal Kombat: Deadly Alliance GBA - Jax stance swap into judo 6L 6L 5L 5L 44L
-Mortal Kombat: Tournament Edition (gba mkda) - todo write strats
-Mortal Kombat: Deception - todo write strats
-Mortal Kombat: Armageddon - todo write strats
-Mortal Kombat: Unchained (psp mkd) - todo write strats
-Ultimate Mortal Kombat (ds umk3) - todo write strats
-Mortal Kombat vs. DC Universe - todo write strats
-Mortal Kombat 9 (2011) - todo write strats
-Mortal Kombat X / XL - todo write strats
-Mortal Kombat 11 / Aftermath / Ultimate - todo write strats
-Mortal Kombat 1 (2023) - todo write strats
-Neogeo Battle Coliseum - https://www.youtube.com/watch?v=MwxTReFjxg4&t=134s TODO lab more
-nidhogg 1 - stabby joust run to end eaten by worm em up
-nidhogg 2 - ugly stabby joust run to end eaten by worm em up
-One Must Fall 2097 dos - epicmegagames TODO lab more
-persona 4 arena series - shadow labrys go brr
-One Strike - switch played, has the Footsies (hifight) problem
-Footsies (hifight) - neutral is wiggletron, needs a lot of stuff
-Playstation All-stars Battle Royale - i miss it now tbh
-Playstation Move Sports Champions Gladiator Duel - legit fun motion based sword fight
-Pocket Fighter - Sakura can't block on wakeup, Chun-li blatantly top tier
-Power Stone series - not that fun competitive
-Pokken - bamco shonen p much tbh
-Power Rangers: Battle for the Grid - absurdly good
-Primal Rage 1 - see 2
-Primal Rage 2 - mame them, kinda meh but weirdly hard to really break
-Real Steel - the sgf video has 1 mil views
-Red Earth / Warzard - Tessa is great 4632123544
-Rising Thunder - slow movement
-Rival Schools - kinda just a worse version of 2 (project justice)
-Project Justice - would be better if it wasn't so busted and sluggish
-Rivals of Aether - tank snake's difficulty is greatly exaggerated
-Rabbit - fc stands, 6ABC to use bottom row, 5ABC to stand on, fan lady 6hp 623hk-k
-Sailor Moon S snes - chibi backdash full invuln
+Million Arthur: Arcana Blood :- iori
+Mortal Kombat (1992) :- todo write strats
+Mortal Kombat II :- todo write strats
+Mortal Kombat 3 :- todo write strats
+Ultimate Mortal Kombat 3 :- todo write strats
+Mortal Kombat Trilogy :- todo write strats
+Mortal Kombat 4 :- todo write strats
+Mortal Kombat Gold :- todo write strats
+Mortal Kombat Advance (gba mk3) :- todo write strats
+Mortal Kombat: Deadly Alliance :- todo write strats
+Mortal Kombat: Deadly Alliance GBA :- Jax stance swap into judo 6L 6L 5L 5L 44L
+Mortal Kombat: Tournament Edition (gba mkda) :- todo write strats
+Mortal Kombat: Deception :- todo write strats
+Mortal Kombat: Armageddon :- todo write strats
+Mortal Kombat: Unchained (psp mkd) :- todo write strats
+Ultimate Mortal Kombat (ds umk3) :- todo write strats
+Mortal Kombat vs. DC Universe :- todo write strats
+Mortal Kombat 9 (2011) :- todo write strats
+Mortal Kombat X / XL :- todo write strats
+Mortal Kombat 11 / Aftermath / Ultimate :- todo write strats
+Mortal Kombat 1 (2023) :- todo write strats
+Neogeo Battle Coliseum :- https://www.youtube.com/watch?v=MwxTReFjxg4&t=134s TODO lab more
+nidhogg 1 :- stabby joust run to end eaten by worm em up
+nidhogg 2 :- ugly stabby joust run to end eaten by worm em up
+One Must Fall 2097 dos :- epicmegagames TODO lab more
+persona 4 arena series :- shadow labrys go brr
+One Strike :- switch played, has the Footsies (hifight) problem
+Footsies (hifight) :- neutral is wiggletron, needs a lot of stuff
+Playstation All-stars Battle Royale :- i miss it now tbh
+Playstation Move Sports Champions Gladiator Duel :- legit fun motion based sword fight
+Pocket Fighter :- Sakura can't block on wakeup, Chun-li blatantly top tier
+Power Stone series :- not that fun competitive
+Pokken :- bamco shonen p much tbh
+Power Rangers: Battle for the Grid :- absurdly good
+Primal Rage 1 :- see 2
+Primal Rage 2 :- mame them, kinda meh but weirdly hard to really break
+Real Steel :- the sgf video has 1 mil views
+Red Earth / Warzard :- Tessa is great 4632123544
+Rising Thunder :- slow movement
+Rival Schools :- kinda just a worse version of 2 (project justice)
+Project Justice :- would be better if it wasn't so busted and sluggish
+Rivals of Aether :- tank snake's difficulty is greatly exaggerated
+Rabbit :- fc stands, 6ABC to use bottom row, 5ABC to stand on, fan lady 6hp 623hk-k
+Sailor Moon S snes :- chibi backdash full invuln
 all Samurai Shodown games
-Rakugakids / Rakuga Kids - crayon cartoon style n64 fighter, played with Zak
-Animal Fight - steam single player 
-Cyberbots: Fullmetal Madness - fc vise j3BLx236W 2HxL+H, 623+P
-Joy Mech Fight - nes, the one that was famicom only, no joints, ball chars fc
-Shaq Fu - gen pick cyborg guy mash 2146AAAAA
-skullgirls - i hate big band
-Slap City - haha funny duck that everyone plays
-Snk Heroines Tag Team Frenzy - requires analog stick for item toss angles
+Rakugakids / Rakuga Kids :- crayon cartoon style n64 fighter, played with Zak
+Animal Fight :- steam single player 
+Cyberbots: Fullmetal Madness :- fc vise j3BLx236W 2HxL+H, 623+P
+Joy Mech Fight :- nes, the one that was famicom only, no joints, ball chars fc
+Shaq Fu :- gen pick cyborg guy mash 2146AAAAA
+skullgirls :- i hate big band
+Slap City :- haha funny duck that everyone plays
+Snk Heroines Tag Team Frenzy :- requires analog stick for item toss angles
 all soulcalibur games (soul edge/blade included)
-Spectral Vs. Generation - fc no fireball limit, I liked the charlotte like char
-Street Fighter - fc, negative edge specials, DP full invuln including recovery
-Street Fighter II - fc World Warrior Guile mash jab ToD, Dhalsim beats him, chun beats sim
-Street Fighter II: Champion Edition - fc Dict jHK 2MP 5HK stun 2hk whiff 2lp 2lp 5lp 46mk 2mp 5hk
-Street Fighter II: Hyper Fighting - fc Ryu jHP 2HP fireball stun, repeat. Fireballs strong
-Super Street Fighter II - fc Sagat is good, but no O. Sagat 2nd hit cancels
-Super Street Fighter II Turbo - fc Vega walldive loops
-Street Fighter Alpha - Ken 2lk 5mk 623HP sometimes just does 70%
-Street Fighter: The Movie - fc Akuma air fireball, dp falling tatsu dp dp falling tatsu infinite
-Street Fighter: The Movie PS1 - You can treat it like a more janky ST
-Street Fighter Alpha 2 - fc Rolento CC 2hk 19 mash kicks
-Street Fighter EX - todo find strats
-Street Fighter III: New Generation - fc Ibuki SA3 walk clHK inf, 5mp whiff, Sean SA3, 4mp whiff
-Street Fighter EX Plus - todo find strats
-Street Fighter III: 2nd Impact - fc Ibuki clHK walk clHK inf, SA3
-Street Fighter EX2 - todo find strats
-Street Fighter Alpha 3 - Karin/Rose/Vega, best game
-Street Fighter III: 3rd Strike - fc Chun-li 2mk sa2 sj jHPHP/j2MK jMK
-Street Fighter EX2 Plus - todo find strats
-Street Fighter EX3 - todo find strats
-Hyper Street Fighter II: the Anniversary Edition - fc Pick CE Bison, WW Guile. or Akuma code
-Street Fighter Alpha 3 Max - Just play Aism Dhalsim
-Street Fighter IV - Honest Abel 6mk dash
-Super Street Fighter IV - Honester Abel 6mk dash, u1
-Super Street Fighter IV: Arcade Edition - Honest Yun hell u1
-Super Street Fighter IV: 3D Edition - Honest walking boom
-Street Fighter X Tekken - Rolento 2lp 2lp 2mk rekka HK, Chun-li 2lp 4mk mk 28mk (check)
-Ultra Street Fighter IV - Honestest Abel 6mk dash, u1
-Street Fighter V - Chun-li, Lucia
-Ultra Street Fighter II: The Final Challengers - todo find strats
-Super Smash Bros. - n64 mario sh uair uair nair shield break, dash grabs op
-Super Smash Bros. Melee - marf
-Super Smash Bros. Brawl - Ike unless you want to win, then MK
-Super Smash Bros. 3DS / for Wii U / 4 - Ike 
-Super Smash Bros. Ultimate - Ike
-Smash 64 remix - piano funny, but also just do normal 64 stuff
-project m - I wish Ike was fun
-Teenage Mutant Ninja Turtles: Tournament Fighters - snes shark op, ralph dank tho, nes idk
-Tekken (1994) - todo find strats
-Tekken 2 - todo find strats
-Tekken 3 - todo find strats
-Tekken Tag Tournament 1 - ogres baby
-Tekken 4 - Jin baby
+Spectral Vs. Generation :- fc no fireball limit, I liked the charlotte like char
+Street Fighter :- fc, negative edge specials, DP full invuln including recovery
+Street Fighter II :- fc World Warrior Guile mash jab ToD, Dhalsim beats him, chun beats sim
+Street Fighter II: Champion Edition :- fc Dict jHK 2MP 5HK stun 2hk whiff 2lp 2lp 5lp 46mk 2mp 5hk
+Street Fighter II: Hyper Fighting :- fc Ryu jHP 2HP fireball stun, repeat. Fireballs strong
+Super Street Fighter II :- fc Sagat is good, but no O. Sagat 2nd hit cancels
+Super Street Fighter II Turbo :- fc Vega walldive loops
+Street Fighter Alpha :- Ken 2lk 5mk 623HP sometimes just does 70%
+Street Fighter: The Movie :- fc Akuma air fireball, dp falling tatsu dp dp falling tatsu infinite
+Street Fighter: The Movie PS1 :- You can treat it like a more janky ST
+Street Fighter Alpha 2 :- fc Rolento CC 2hk 19 mash kicks
+Street Fighter EX :- todo find strats
+Street Fighter III: New Generation :- fc Ibuki SA3 walk clHK inf, 5mp whiff, Sean SA3, 4mp whiff
+Street Fighter EX Plus :- todo find strats
+Street Fighter III: 2nd Impact :- fc Ibuki clHK walk clHK inf, SA3
+Street Fighter EX2 :- todo find strats
+Street Fighter Alpha 3 :- Karin/Rose/Vega, best game
+Street Fighter III: 3rd Strike :- fc Chun-li 2mk sa2 sj jHPHP/j2MK jMK
+Street Fighter EX2 Plus :- todo find strats
+Street Fighter EX3 :- todo find strats
+Hyper Street Fighter II: the Anniversary Edition :- fc Pick CE Bison, WW Guile. or Akuma code
+Street Fighter Alpha 3 Max :- Just play Aism Dhalsim
+Street Fighter IV :- Honest Abel 6mk dash
+Super Street Fighter IV :- Honester Abel 6mk dash, u1
+Super Street Fighter IV: Arcade Edition :- Honest Yun hell u1
+Super Street Fighter IV: 3D Edition :- Honest walking boom
+Street Fighter X Tekken :- Rolento 2lp 2lp 2mk rekka HK, Chun-li 2lp 4mk mk 28mk (check)
+Ultra Street Fighter IV :- Honestest Abel 6mk dash, u1
+Street Fighter V :- Chun-li, Lucia
+Ultra Street Fighter II: The Final Challengers :- todo find strats
+Super Smash Bros. :- n64 mario sh uair uair nair shield break, dash grabs op
+Super Smash Bros. Melee :- marf
+Super Smash Bros. Brawl :- Ike jab cc unless you want to win, then MK
+Super Smash Bros. 3DS / for Wii U / 4 :- Ike 
+Super Smash Bros. Ultimate :- Ike
+Smash 64 remix :- piano funny, but also just do normal 64 stuff
+project m :- I wish Ike was fun
+Teenage Mutant Ninja Turtles: Tournament Fighters :- snes shark op, ralph dank tho, nes idk
+Tekken (1994) :- todo find strats
+Tekken 2 :- todo find strats
+Tekken 3 :- todo find strats
+Tekken Tag Tournament 1 :- ogres baby
+Tekken 4 :- Jin baby
 Tekken 5 / DR 
 Tekken 6
 Tekken Tag Tournament 2 
 Tekken 7 
 Tekken 8 
-Tekken Advance - gba yoshi fc3k fc1kkkkk6k low, 3p 4ppp 66 4ppp 66p+k oki 0ob mid, fc1p sc2 stonefist 1p great unblockable. hei unlockable 623+p 623p 5p4pp mid plus, bad lows
+Tekken Advance :- gba yoshi fc3k fc1kkkkk6k low, 3p 4ppp 66 4ppp 66p+k oki 0ob mid, fc1p sc2 stonefist 1p great unblockable. hei unlockable 623+p 623p 5p4pp mid plus, bad lows
 all main king of fighters
-The King of Fighters EX - gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C ob inf, Bao clC 66 inf, joe
-The King of Fighters EX 2 - gba Leona Iori Athena normal stuff, Miu striker
-kof maximum impact 1/rev a/2 - 3d
-kof r1/r2 - portables
-Mobile Suit Gundam Seed: Battle Assault - gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable
-Mobile Suit Gundam SEED: Destiny - gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
-Hajime no Ippo The Fighting - gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
-Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) - fc
-Art of Fighting (Ryuuko no Ken) - fc
-Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) - fc
-Fatal Fury Special - fc
+The King of Fighters EX :- gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C ob inf, Bao clC 66 inf, joe
+The King of Fighters EX 2 :- gba Leona Iori Athena normal stuff, Miu striker
+kof maximum impact 1/rev a/2 :- 3d
+kof r1/r2 :- portables
+Mobile Suit Gundam Seed: Battle Assault :- gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable
+Mobile Suit Gundam SEED: Destiny :- gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
+Hajime no Ippo The Fighting :- gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
+Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) :- fc
+Art of Fighting (Ryuuko no Ken) :- fc
+Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) :- fc
+Fatal Fury Special :- fc
 all Darkstalkers games
-Chatan Yarakuu Shanku / The Karate Tournament - played with kooter, smear hell
-The Last Blade - fc meh 
-The Last Blade 2 - pick hat dude mash jA+B for infinite
-Them's fightin' herds - the uni version of skullgirls
-Twin Goddesses - half live action half cartoon ps1 game, evil boss dp 236s all red gem page 2 buy
-Ultra Fight Da Kyanta 2 - goty 3v3 ratio game, mspaint art, perfect game
+Chatan Yarakuu Shanku / The Karate Tournament :- played with kooter, smear hell
+The Last Blade :- fc meh 
+The Last Blade 2 :- pick hat dude mash jA+B for infinite
+Them's fightin' herds :- the uni version of skullgirls
+Twin Goddesses :- half live action half cartoon ps1 game, evil boss dp 236s all red gem page 2 buy
+Ultra Fight Da Kyanta 2 :- goty 3v3 ratio game, mspaint art, perfect game
 all under night in-birth games
 all virtua fighter games
 Virtua Fighter Kids 
-Virtua Fighter 2 Genesis - fc best vf, 66P+G, 236 wd, 33P+K splash, 2K 236pkg post retract
+Virtua Fighter 2 Genesis :- fc best vf, 66P+G, 236 wd, 33P+K splash, 2K 236pkg post retract
 Virtua Fighter Remix saturn
-World Heroes 1/2/jet/perfect - pick dictator, redic jabs and redic pokes
-Alien Challenge - played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
-Ballz series - ballz
-Rise of the Robots - mantis dude has jump ins that hit low
-Rise 2 - also bad, I confuse it with 1 a lot 
-Shaman King: Spirit of Shamans - ps1 played with zak, r1/l1 k was buster
-HYPERFIGHT - steam, fun few button fighter
-Punch Planet - great 6 button slow fighter
-TMNT Heavy x Justice League Turbo - t5, kame, and more goons' game
-Tough Love Arena https://toughlovearena.com/ - 1 sided rollback, unfun neutral
-E's Laf / ++ - pc hitboxes are cursed af
-ROBO OH - steam neat very retro fighter, 3 buttons w/ motions, monkey top tier
-Fighters History: Dynasties - Kame's game http://kamekaze.world/
-Schwarzerblitz - steam 3d tekken em up, skull dude's jT is redic, wack juggle system
-The Tale of Fighting Nymphs - steam, 6LP 6LK infinite for everyone, can't burst juggles lol
-Clash of the Monsters - steam they forgot to add throws, same engine/pack as urban fighter
-UCHU MEGA FIGHT http://uchuzine.com/umf/ - ds4 controller works, floaty, 1f throws 6p
-Brief Karate Foolish - steam Garigara-kun jABC infinite vs grounded tall
-Dynasty Feud - steam worse brawlhalla
-brawlhalla - worse RoA
-robo pocket - steam K one button infinite, needs xbox controller spoof
-Combate Monero - steam esteban besteban, 214lp unblockable, 236P absurd fireball combo/inf?
-One Must Fall 1.0 shareware - throw peeps in blockstun. 214P/K fireballs good
-Slaughter Sport - fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
-SD Hiryu no Ken - fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
-Slashers the Power Battle - android, 632 is a valid dp input
-Game & Watch Boxing - dodge is OP, good to gain advantage and little recovery
-Vanguard Princess - pigtails blue shirt has karin rekka 236X B A launch, meh game
-Def Jam Icons - L2+shake stick env dam kill con, RS up up grab, R2 RS blocks
-SLAYERS FOR HIRE - steam floaty smash like
-Fighting Friends - steam top down fighting game, match directions for combo breaker
-slice, dice & rice - parry instead of guard, Bruce Lee good because he is too fast
-Super Bout Champion's Tour - steam vf inspired and really solid
-sub and punch - steam no char sel pdp P/PP/PPP block infinite, walk forwards auto block
-steel fight - steam no jump 2 button + dashes 1f hitstun
-samurai gunn - steam two buttons no bullet regen, towerfall em up
-rushdown revolt - super floaty platform fighter with weirdly small hitboxes
-roof rage - steam very good platform fighter ninja girl seems strongest but not broke
-robot88 - steam make a fighter
-River City Melee Match!! - steam what you'd expect, kunio vs mode
-kaia resonance - steam 3 stances, bot attack, top hold gb, left parry, right neutral guard
-nair - steam has a dodge too actually
-override mech city brawl - steam x+shoulder = special move one bar, shield has parry
-override 2 - steam l1 r1 r2 universal target combo, multi shoulder for specials
-ritual tournament - steam borderline not functional, but also an asset flip
-Top Fighter 2000 MK VIII - fc barely functions, 66B for special, 6mashstick6 for other special
-Top Fighter 2005 - fc runs much better, but otherwise is just TF2k in chinese
-DnF Duel - slow but long combos and pressure
-Cyan vs Magenta - https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
-fighting run - fc car run around mash A, health top bar, stamina lower, 5B for rope hit 8B shock
-Don Dong Never Die - truly art
-Fighter Dynasty - n64 pick Abdul, TODO lab more
-Power Moves / Power Athlete / Deadly Moves snes / gen fc - fc specials are P+K, fireballs suck
-robo pit - ps1 crossbow seems good, super r2+l2, strafe/turn changes normal attacks
-Icons - steam pick weishan, play him like chrom w/ marth 8b
-Fighters Legacy - steam Dae Hyun 214K unblockable 9 loop, ninja jK tow loop, 236P fb
-Black Emperor - steam, beat em up style, mash iori dp to infinite, ultraman can't block
-VR troopers - fc Darkheart [ABC] full invuln, dive kicks on j6B/C universally, stamina on portrait
-Schmeiser Robo - fc Walkery clK AA, 624K +ob blanka ball
-chou aniki - snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=throw 46x, 236p/x fb 6pppp
-Blood Warrior / Ooedo Fight - fc kappa 16p for safety, dhalsim mostly cancelable, no fb blockstun
-Natsuki Crisis Battle - snes fc 3rd lady 426HP damage, 6LK/4HK throws (only throws in the game)
-Top Ranking Stars - fc Bruce 869HP only good special in the game
-Death Brade / mutant fighter - fc direction + B to throw, mash B more to win 
-Seifuku Densetsu Pretty Fighter - fc 4th girl 214K does good chip, all throws blockable
-The Killing Blade - fc fun, Monk 236C-AAC/AD-super, big dude 623P overhead, B+C to switch, 4/6C throw
-The Killing Blade Plus - fc mostly same, Whip lady 421C nerfed hard, 2 guys boss 623A block infinite
-Flash Hiders 2 Battle Tycoon - fc fun, Seena is motion Guile
-kenju arcade prototype - fc hanuman 2LP2LP2HP5HK[4]6HP clHK236HP, 2LP5HK624P clHK[4]6HP
-Hippodrome - fc 4a block 7/8/9j superjump, gives 8 way jump attacks,
-Mario Street fight - flash game, Peach is iori, rekka is safe. Barely functions
-Teen Titans GO! Jump Joust - flash game, starfire seems fine
-Godzilla: Monster War / Kaijū Daikessen SNES - played with toom
-Wii Sports Boxing - wii hook, uppercut, jab, high/low block, dodge left/right/back (counters).
-Toe II Toe - pc https://plazatin.itch.io/toe-20-toe jab minus, heavy punished by jab, dodge eh
-Super Drink Bros - steam behind the back arena fighter, AAA unsafe, no throws?
-StudioS Fighters: Climax Champions - pc ero top left j214X dive kick crossup mix, special xx assist
-project gaiaray - ps1 Virtual On clone, first guy has bomb
-Fighting Eyes - ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
-boombots - ps1 arena, melee r/l1 grab r/l2
-Shura No Mon - ps1 First dude, R2 4C grab. Emo dude 6KK grab 2LP mash LP no break?
-Gundam: Battle Assault - ps1 TODO lab more
-Gundam: Battle Assault 2 - ps1 heavy arms (1st 4th row) j2LP 24P win :)
-Idol Showdown - steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
-Martial Masters - fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 6246P/K, kof gc/qr
-heaven's gate - ps1 Sasa 1P low, 3P mid 466P 2K 8P, PPP6K fast combo, 236PG, PKG 624PK or 22PKG
-Battle Monsters - Saturn Albiole 5A dash inf (p universal) 26a/b/c fireball [8]b ioh
-Advanced V.G. - PCE has nudity, ps1 / saturn clean, Kaori j2HP ioh, 2LP 236P, don't use 214HK
-Axel City 2 - vsav chains, throw pp/kk
+World Heroes 1/2/jet/perfect :- pick dictator, redic jabs and redic pokes
+Alien Challenge :- played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
+Ballz series :- ballz
+Rise of the Robots :- mantis dude has jump ins that hit low
+Rise 2 :- also bad, I confuse it with 1 a lot 
+Shaman King: Spirit of Shamans :- ps1 played with zak, r1/l1 k was buster
+HYPERFIGHT :- steam, fun few button fighter
+Punch Planet :- great 6 button slow fighter
+TMNT Heavy x Justice League Turbo :- t5, kame, and more goons' game
+Tough Love Arena https://toughlovearena.com/ :- 1 sided rollback, unfun neutral
+E's Laf / ++ :- pc hitboxes are cursed af
+ROBO OH :- steam neat very retro fighter, 3 buttons w/ motions, monkey top tier
+Fighters History: Dynasties :- Kame's game http://kamekaze.world/
+Schwarzerblitz :- steam 3d tekken em up, skull dude's jT is redic, wack juggle system
+The Tale of Fighting Nymphs :- steam, 6LP 6LK infinite for everyone, can't burst juggles lol
+Clash of the Monsters :- steam they forgot to add throws, same engine/pack as urban fighter
+UCHU MEGA FIGHT http://uchuzine.com/umf/ :- ds4 controller works, floaty, 1f throws 6p
+Brief Karate Foolish :- steam Garigara-kun jABC infinite vs grounded tall
+Dynasty Feud :- steam worse brawlhalla
+brawlhalla :- worse RoA
+robo pocket :- steam K one button infinite, needs xbox controller spoof
+Combate Monero :- steam esteban besteban, 214lp unblockable, 236P absurd fireball combo/inf?
+One Must Fall 1.0 shareware :- throw peeps in blockstun. 214P/K fireballs good
+Slaughter Sport :- fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
+SD Hiryu no Ken :- fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
+Slashers the Power Battle :- android, 632 is a valid dp input
+Game & Watch Boxing :- dodge is OP, good to gain advantage and little recovery
+Vanguard Princess :- pigtails blue shirt has karin rekka 236X B A launch, meh game
+Def Jam Icons :- L2+shake stick env dam kill con, RS up up grab, R2 RS blocks
+SLAYERS FOR HIRE :- steam floaty smash like
+Fighting Friends :- steam top down fighting game, match directions for combo breaker
+slice, dice & rice :- parry instead of guard, Bruce Lee good because he is too fast
+Super Bout Champion's Tour :- steam vf inspired and really solid
+sub and punch :- steam no char sel pdp P/PP/PPP block infinite, walk forwards auto block
+steel fight :- steam no jump 2 button + dashes 1f hitstun
+samurai gunn :- steam two buttons no bullet regen, towerfall em up
+rushdown revolt :- super floaty platform fighter with weirdly small hitboxes
+roof rage :- steam very good platform fighter ninja girl seems strongest but not broke
+robot88 :- steam make a fighter
+River City Melee Match!! :- steam what you'd expect, kunio vs mode
+kaia resonance :- steam 3 stances, bot attack, top hold gb, left parry, right neutral guard
+nair :- steam has a dodge too actually
+override mech city brawl :- steam x+shoulder = special move one bar, shield has parry
+override 2 :- steam l1 r1 r2 universal target combo, multi shoulder for specials
+ritual tournament :- steam borderline not functional, but also an asset flip
+Top Fighter 2000 MK VIII :- fc barely functions, 66B for special, 6mashstick6 for other special
+Top Fighter 2005 :- fc runs much better, but otherwise is just TF2k in chinese
+DnF Duel :- slow but long combos and pressure
+Cyan vs Magenta :- https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
+fighting run :- fc car run around mash A, health top bar, stamina lower, 5B for rope hit 8B shock
+Don Dong Never Die :- truly art
+Fighter Dynasty :- n64 pick Abdul, TODO lab more
+Power Moves / Power Athlete / Deadly Moves snes / gen fc :- fc specials are P+K, fireballs suck
+robo pit :- ps1 crossbow seems good, super r2+l2, strafe/turn changes normal attacks
+Icons :- steam pick weishan, play him like chrom w/ marth 8b
+Fighters Legacy :- steam Dae Hyun 214K unblockable 9 loop, ninja jK tow loop, 236P fb
+Black Emperor :- steam, beat em up style, mash iori dp to infinite, ultraman can't block
+VR troopers :- fc Darkheart [ABC] full invuln, dive kicks on j6B/C universally, stamina on portrait
+Schmeiser Robo :- fc Walkery clK AA, 624K +ob blanka ball
+chou aniki :- snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=throw 46x, 236p/x fb 6pppp
+Blood Warrior / Ooedo Fight :- fc kappa 16p for safety, dhalsim mostly cancelable, no fb blockstun
+Natsuki Crisis Battle :- snes fc 3rd lady 426HP damage, 6LK/4HK throws (only throws in the game)
+Top Ranking Stars :- fc Bruce 869HP only good special in the game
+Death Brade / mutant fighter :- fc direction + B to throw, mash B more to win 
+Seifuku Densetsu Pretty Fighter :- fc 4th girl 214K does good chip, all throws blockable
+The Killing Blade :- fc fun, Monk 236C-AAC/AD-super, big dude 623P overhead, B+C to switch, 4/6C throw
+The Killing Blade Plus :- fc mostly same, Whip lady 421C nerfed hard, 2 guys boss 623A block infinite
+Flash Hiders 2 Battle Tycoon :- fc fun, Seena is motion Guile
+kenju arcade prototype :- fc hanuman 2LP2LP2HP5HK[4]6HP clHK236HP, 2LP5HK624P clHK[4]6HP
+Hippodrome :- fc 4a block 7/8/9j superjump, gives 8 way jump attacks,
+Mario Street fight :- flash game, Peach is iori, rekka is safe. Barely functions
+Teen Titans GO! Jump Joust :- flash game, starfire seems fine
+Godzilla: Monster War / Kaijū Daikessen SNES :- played with toom
+Wii Sports Boxing :- wii hook, uppercut, jab, high/low block, dodge left/right/back (counters).
+Toe II Toe :- pc https://plazatin.itch.io/toe-20-toe jab minus, heavy punished by jab, dodge eh
+Super Drink Bros :- steam behind the back arena fighter, AAA unsafe, no throws?
+StudioS Fighters: Climax Champions :- pc ero top left j214X dive kick crossup mix, special xx assist
+project gaiaray :- ps1 Virtual On clone, first guy has bomb
+Fighting Eyes :- ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
+boombots :- ps1 arena, melee r/l1 grab r/l2
+Shura No Mon :- ps1 First dude, R2 4C grab. Emo dude 6KK grab 2LP mash LP no break?
+Gundam: Battle Assault :- ps1 TODO lab more
+Gundam: Battle Assault 2 :- ps1 heavy arms (1st 4th row) j2LP 24P win :)
+Idol Showdown :- steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
+Martial Masters :- fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 6246P/K, kof gc/qr
+heaven's gate :- ps1 Sasa 1P low, 3P mid 466P 2K 8P, PPP6K fast combo, 236PG, PKG 624PK or 22PKG
+Battle Monsters :- Saturn Albiole 5A dash inf (p universal) 26a/b/c fireball [8]b ioh
+Advanced V.G. :- PCE has nudity, ps1 / saturn clean, Kaori j2HP ioh, 2LP 236P, don't use 214HK
+Axel City 2 :- vsav chains, throw pp/kk
 Inaho Town Dynamite Bomb: Yozu chain lp lk hk, lk hp 236lp-8hp lp lk hp 236hp-2hp, ioh jlk jhk otg 3hk
-Celebrity Kombat - steam UFGE asset flip snoop jGas, 4HKHK infinite 
-Phantom Breaker Omnia - steam Fin-O 6/2M5HHH6S/6S+H, blow bar on 4S+H, mash 4S/4S+L and 2S
-Warrior Beneath Heaven - steam UFGE asset flip guard too good 
-Combo Babies - steam top left shoto j236A fly away, j2C dive kick, ioh 99A2C (9A2C)x4 426D, 6D throw
-Matsumura Kunihiro Den - snes fc no blocking, china cap guy jHK, 1 is a spot dodge, specials suck
-Kizuna Encounter - FC [c]46 mash throw. rosa j6B low, abc624c. Kim j6C b6b3c214b, bc oh, joker 6b426a inf
-Inflatality - steam try to make the arms go in a circle
-Zero Divide - ps1 fun vf-ish, 22/88g ss, getup 5/2k, Eos 4p6p mid 26p low 26p+k gb, 2p+k cthrow no whiff
-Zero Divide 2: The Secret Wish - ps1 fun 43p6p46p+k mid, 646p+g throw, 66k low
-Input Chaos - steam fighter lite, r/l1 activates arm, r/l2 grips, rstick moves arm, circles when unarmed
-Kings of Kung Fu - steam bad top row right jab walk infinite
-Hand2Hand Project - steam, everything very minus on hit, move/jump in most hitstun, chopstick best?
-Chaos Code - steam Lupinus both sp, mid abc624d426kk5c624b, crn 426kk/236a-k (jA) jCC land*2 jC9D214C
-Nitroplus Blasterz - steam Ouka franko/blood fB2[c]2AclB9bab9b6c623a(jC/623ab[e]623a/blood 2626bc/623a, a+b6d66b6ac214bbc623b
-Blade Arcus From Shining Ex - steam Pairon+X 2a2b6c236c crn2a2b623b623a6c236c 22x/623b rev, ctech 4/bc rc
-Battle High 2 A+ - steam Ryken 214lk214hk loop, 214lk*5, combos only 1 214hk, crn2hp2hp623lp214hk214lk
-Dual Souls: The Last Bearer - steam Efe M214[K]2H214M2H, jT really funny fast fall, fireball zoner M AA
-Tattoo Assassins - fc Hannah 444/2LK sub grd freeze, 66hp fb, 442hk roll, 22hk tp strike, 44lp fart
-Makeruna! Makendo 2 - snes fc last person, evil lady. 236p/k fb, all AAs are bad, 46P cmd grab, 214R heal
-Shin Kidō Senki Gundam W: Endless Duel - snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
-Riddick Bowe Boxing / Chavez - snes fc l+r block (game gear multiplayer?)
-Boxing Legends of the Ring / Chavez II / Final Knockout - snes/gen fc select/a+c for super, 8blk 2dodge
-Mighty Morphin Power Rangers - megadrive fc red ranger A 624A loop, no throws, dragonzord [4]6p
-Mobile Suit Gundam (1993) - fc Pick a Zaku, no throws
-TKO Super Championship Boxing / Kentou-Ou World Champion - snes fc lp/hp more damage close/far, r to block, no range diff in buttons
-Superior Soldiers / Perfect Soldiers - fc Stardude shoto, 2mp 2mp (66lp)xInf blk too, jHK 66HP 236HP tos
-Ring King / Family Boxing NES / King of Boxer arcade - 46/66P to slide 6punch, whiffs up close
-Ranma 1/2: Hard Battle - fc far right girl, 7/9j7/9j 4/6 steer, deep crossup GBs, 6P throw loop, P+K DP
-Ranma 1/2: Chougi Ranbu Hen - fc 4pp throw, china dress 7/9>dj, j2HK, 236P AA grab, cheerleader j478p
-Battle Blaze - snes fc Lady (race), [1]46P fireball, throw loop tho 6P
-Advance Guardian Heroes - GBA Enn matk dump stat, R+J to magic, L cycle to bouncy ball, a+b hyper
-Sonic Battle - gba cream air set op, 3rd pick is an autoguard against the opponent's version of it
-The Final Round - fc stamina = recovery 5% min 24% max, power = health, speed = movement speed, clB KOs
-Sougou Kakutougi: astral bout 1 - fc Judo seems best, 66Y to tackle throw, X to otg, grapplers > strikers 
-Sougou Kakutougi: astral bout 2 - fc In sub hold L/R to walk, goldman 6A/B-A/B-6982X, R for cmd normals
-Sougou Kakutougi: astral bout 3 - fc dead center guy, 236K unblockable, 236P superman 6HK R+HK, 642LP otg
-kinnikuman dirty challenger - snes fc 1st 28A gets to grapple, R = super, pick purple, ice stage funny
-Fight.exe - pc Duffa Snick jab infinite 
-Fight of Animals - steam Dachsund 2L2L5H4S6S66 5H4S6S66 5H4S6S66 5H4S6S2S/SU, 5S uoh, no throws
-Fight of Animals Arena - steam Tricky Fox seems best, universal PP infinite?, dash invuln, V recovery bad
-AAH! HARIMANADA (AA HARIMANADA) - gen fc 1st in 2nd row 360B loop [4]6A+B ro, grab 214B/684B, 1AB counter
-Doomsday Warrior - snes fc Numetal j2H strong, 8LP great AA with invuln maybe, 6J+L throw (char specific)
-Avengers in Galactic Storm - fc Crystal thor 2LP inf mid, 623HK crn otg inf, 214P236P safe, 236PP/KK assist/su, 93 hop, zoner
+Celebrity Kombat :- steam UFGE asset flip snoop jGas, 4HKHK infinite 
+Phantom Breaker Omnia :- steam Fin-O 6/2M5HHH6S/6S+H, blow bar on 4S+H, mash 4S/4S+L and 2S
+Warrior Beneath Heaven :- steam UFGE asset flip guard too good 
+Combo Babies :- steam top left shoto j236A fly away, j2C dive kick, ioh 99A2C (9A2C)x4 426D, 6D throw
+Matsumura Kunihiro Den :- snes fc no blocking, china cap guy jHK, 1 is a spot dodge, specials suck
+Kizuna Encounter :- FC [c]46 mash throw. rosa j6B low, abc624c. Kim j6C b6b3c214b, bc oh, joker 6b426a inf
+Inflatality :- steam try to make the arms go in a circle
+Zero Divide :- ps1 fun vf-ish, 22/88g ss, getup 5/2k, Eos 4p6p mid 26p low 26p+k gb, 2p+k cthrow no whiff
+Zero Divide 2: The Secret Wish :- ps1 fun 43p6p46p+k mid, 646p+g throw, 66k low
+Input Chaos :- steam fighter lite, r/l1 activates arm, r/l2 grips, rstick moves arm, circles when unarmed
+Kings of Kung Fu :- steam bad top row right jab walk infinite
+Hand2Hand Project :- steam, everything very minus on hit, move/jump in most hitstun, chopstick best?
+Chaos Code :- steam Lupinus both sp, mid abc624d426kk5c624b, crn 426kk/236a-k (jA) jCC land*2 jC9D214C
+Nitroplus Blasterz :- steam Ouka franko/blood fB2[c]2AclB9bab9b6c623a(jC/623ab[e]623a/blood 2626bc/623a, a+b6d66b6ac214bbc623b
+Blade Arcus From Shining Ex :- steam Pairon+X 2a2b6c236c crn2a2b623b623a6c236c 22x/623b rev, ctech 4/bc rc
+Battle High 2 A+ :- steam Ryken 214lk214hk loop, 214lk*5, combos only 1 214hk, crn2hp2hp623lp214hk214lk
+Dual Souls: The Last Bearer :- steam Efe M214[K]2H214M2H, jT really funny fast fall, fireball zoner M AA
+Tattoo Assassins :- fc Hannah 444/2LK sub grd freeze, 66hp fb, 442hk roll, 22hk tp strike, 44lp fart
+Makeruna! Makendo 2 :- snes fc last person, evil lady. 236p/k fb, all AAs are bad, 46P cmd grab, 214R heal
+Shin Kidō Senki Gundam W: Endless Duel :- snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
+Riddick Bowe Boxing / Chavez :- snes fc l+r block (game gear multiplayer?)
+Boxing Legends of the Ring / Chavez II / Final Knockout :- snes/gen fc select/a+c for super, 8blk 2dodge
+Mighty Morphin Power Rangers :- megadrive fc red ranger A 624A loop, no throws, dragonzord [4]6p
+Mobile Suit Gundam (1993) :- fc Pick a Zaku, no throws
+TKO Super Championship Boxing / Kentou-Ou World Champion :- snes fc lp/hp more damage close/far, r to block, no range diff in buttons
+Superior Soldiers / Perfect Soldiers :- fc Stardude shoto, 2mp 2mp (66lp)xInf blk too, jHK 66HP 236HP tos
+Ring King / Family Boxing NES / King of Boxer arcade :- 46/66P to slide 6punch, whiffs up close
+Ranma 1/2: Hard Battle :- fc far right girl, 7/9j7/9j 4/6 steer, deep crossup GBs, 6P throw loop, P+K DP
+Ranma 1/2: Chougi Ranbu Hen :- fc 4pp throw, china dress 7/9>dj, j2HK, 236P AA grab, cheerleader j478p
+Battle Blaze :- snes fc Lady (race), [1]46P fireball, throw loop tho 6P
+Advance Guardian Heroes :- GBA Enn matk dump stat, R+J to magic, L cycle to bouncy ball, a+b hyper
+Sonic Battle :- gba cream air set op, 3rd pick is an autoguard against the opponent's version of it
+The Final Round :- fc stamina = recovery 5% min 24% max, power = health, speed = movement speed, clB KOs
+Sougou Kakutougi: astral bout 1 :- fc Judo seems best, 66Y to tackle throw, X to otg, grapplers > strikers 
+Sougou Kakutougi: astral bout 2 :- fc In sub hold L/R to walk, goldman 6A/B-A/B-6982X, R for cmd normals
+Sougou Kakutougi: astral bout 3 :- fc dead center guy, 236K unblockable, 236P superman 6HK R+HK, 642LP otg
+kinnikuman dirty challenger :- snes fc 1st 28A gets to grapple, R = super, pick purple, ice stage funny
+Fight.exe :- pc Duffa Snick jab infinite 
+Fight of Animals :- steam Dachsund 2L2L5H4S6S66 5H4S6S66 5H4S6S66 5H4S6S2S/SU, 5S uoh, no throws
+Fight of Animals Arena :- steam Tricky Fox seems best, universal PP infinite?, dash invuln, V recovery bad
+AAH! HARIMANADA (AA HARIMANADA) :- gen fc 1st in 2nd row 360B loop [4]6A+B ro, grab 214B/684B, 1AB counter
+Doomsday Warrior :- snes fc Numetal j2H strong, 8LP great AA with invuln maybe, 6J+L throw (char specific)
+Avengers in Galactic Storm :- fc Crystal thor 2LP inf mid, 623HK crn otg inf, 214P236P safe, 236PP/KK assist/su, 93 hop, zoner
+Jingi Storm :- fc Paolo 66P+G ch 3P 6P+K 1KP 66PPPPP/P+K, 39P fireball, 4/1/2P+K parry, P+K flip out burst
+Kaiser Knuckle / Global Champion :- fc Wulong 623LP op 426P fb, L+M=S, M+H=E, Bartz 28P/k fb/k, 46LP+ob
+Dan-Ku-Ga :- fc Kazuya clMK/LK 2MK 214HP wait j2KKK for crossup,, clMK meaty, 623LK dp, 236P fb
+Dead Dance / Tuff E Nuff :- snes fc throw through blockstun, shoto dp = 43P, only safe on hit dp, boss code enables mirror match, bosses Jade > Dolf > BioArm > shotos > rest
+Golden war spirit :- steam 3rd dude 66I
+Monkey king vs transformers :- steam 2nd last 1st page hold the dash attack button
+Prehistoric warcraft :- 1st boy, mash I, hold E/mana regen, dash attack strictly better than attack
+Verdict Guilty 유죄 평결 :- steam ps4 pick woman [lp] dog fb, jHPHP ioh safe, just mash 5LK infinite
+Seifuku Densetsu Pretty Fighter :- fc 3rd girl 236LK overhead, all throws blockable
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
-Warriors of Zypar - GOTY c64
-Band Bead - pong 3
-Battle Flip Shot - pong 2
-Buck up and Drive - has vs mode
-Cyborg Justice - beat em up
-Bull Fight - 2d beat em up and boxing sim, single player afaik
-Gaia Crusaders - beat em up, looked neat, didn't explore
-Gaiapolis - top down vertical walking shmup/beat em up 
-penguin wars - throw all the balls away game
-Lethal League and blaze - neat dodgeball em ups
-The outfoxies - vomit commet camera, but neat platforming side view shoot vs game
-Honey Rose: Underdog Fighter Extraordinaire - steam VN with bad ly fighter gameplay
-Mutation Nation - NeoGeo fc beat em up
-Monster Maulers - fc red earth em up, but co op 2p
-Fight Party - steam it's like a shooter w/o guns
-paperbound - steam one button and right stick projectile
-rounds - steam physics based towerfall em up with neat card gimmick
-stick fight - steam physics based towerfall em up
-sky scrappers - steam jump around
-ultra space battle brawl - steam pong 4
-Maximum Fighterz: Direct Offensive Action - turn based
-BASTARD!! Ankoku no Hakaishin - fc more of a vs shmup I guess. Pick elf lady, hold R to spell
-Black Clover: Quartet Knights steam (bamco shonen) - chivalry 
-Nessa no Hoshi PS1 - Single player rpg(?) game
-F*ckable Kim - steam, beat em up
-Virtual Taekwondo - ar/vr taekwondo sim, not video game enough to really count
-Toribash pc - the weird joints physics one
-Strikers Edge - dodgeball game
-Yie Ar Kung-Fu 1/2 - beat em ups, would be fg if they had a 2p hack 
-Shura No Mon genesis version - cinematic fg and it's single player 
-Zeiramzone ps1 - beat em up I think, single player only 
+Warriors of Zypar :- GOTY c64
+Band Bead :- pong 3
+Battle Flip Shot :- pong 2
+Buck up and Drive :- has vs mode
+Cyborg Justice :- beat em up
+Bull Fight :- 2d beat em up and boxing sim, single player afaik
+Gaia Crusaders :- beat em up, looked neat, didn't explore
+Gaiapolis :- top down vertical walking shmup/beat em up 
+penguin wars :- throw all the balls away game
+Lethal League and blaze :- neat dodgeball em ups
+The outfoxies :- vomit commet camera, but neat platforming side view shoot vs game
+Honey Rose: Underdog Fighter Extraordinaire :- steam VN with bad ly fighter gameplay
+Mutation Nation :- NeoGeo fc beat em up
+Monster Maulers :- fc red earth em up, but co op 2p
+Fight Party :- steam it's like a shooter w/o guns
+paperbound :- steam one button and right stick projectile
+rounds :- steam physics based towerfall em up with neat card gimmick
+stick fight :- steam physics based towerfall em up
+sky scrappers :- steam jump around
+ultra space battle brawl :- steam pong 4
+Maximum Fighterz: Direct Offensive Action :- turn based
+BASTARD!! Ankoku no Hakaishin :- fc more of a vs shmup I guess. Pick elf lady, hold R to spell
+Black Clover: Quartet Knights steam (bamco shonen) :- chivalry 
+Nessa no Hoshi PS1 :- Single player rpg(?) game
+F*ckable Kim :- steam, beat em up
+Virtual Taekwondo :- ar/vr taekwondo sim, not video game enough to really count
+Toribash pc :- the weird joints physics one
+Strikers Edge :- dodgeball game
+Yie Ar Kung-Fu 1/2 :- beat em ups, would be fg if they had a 2p hack 
+Shura No Mon genesis version :- cinematic fg and it's single player 
+Zeiramzone ps1 :- beat em up I think, single player only 
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
-Dino Crisis 2 - Dino Duel clear bonus
-Xenogears - battle mode
+Dino Crisis 2 :- Dino Duel clear bonus
+Xenogears :- battle mode
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -515,7 +524,7 @@ SCP- CROSS CONTAINMENT https://gamejolt.com/games/crosscontainment/551075
 HeroVersus https://www.thevs.co/
 Blazing Strike https://mobile.twitter.com/markarotGC
 Umbral Core https://www.umbralcore.com/
-Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/ - demo iadL only safe move
+Resistatance 204X https://store.steampowered.com/app/1829140/Resistance_204X/ :- demo iadL only safe move
 Blueblood Breakdown https://twitter.com/BlueBloodBDGame
 badzone bad zone https://twitter.com/cobalt_requin
 Unlight Fighters https://twitter.com/ashitaka1988
@@ -566,8 +575,8 @@ kof 98' bootleg gen
 The King of Fighters '99 (Unl)
 Tekken 3 Special (Unl) fc2
 Virtua fighter 2 vs tekken 2 bootleg fc2
-Overkill (MS DOS - 1996)
-Violent Vengeance: The Universe Hero (MS DOS - 1995)
+Overkill (MS DOS 1996)
+Violent Vengeance: The Universe Hero (MS DOS 1995)
 Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
 Chain & Combo: Chaos Light pc
 Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
@@ -592,7 +601,6 @@ Toy Fighter fc2
 Fist ps1 
 FIST saturn
 Flying Dragon n64
-Jingi Storm fc2
 Hellish Quart steam
 Tao Taido fc2
 shadow warriors 3do
@@ -841,7 +849,6 @@ Kamen Rider Kuuga ps1
 Kamen Rider V3 ps1
 Kamen Rider Agito ps1
 Kid Station: Kamen Rider Heros ps1
-Kaiser Knuckle fc2
 Kakuge Yarou Fighting Game Creator ps1
 Katekyo Hitman Reborn! Ds Flame Rumble X / Ds Flame Rumble Xx / Kizuna No Tag Battle
 Katekyo Hitman Reborn! Flame Rumble / Kaien Ring Soudatsusen! / Moeyo Mirai
@@ -940,7 +947,6 @@ Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn/gba
-Seifuku Densetsu Pretty Fighter - fc 3rd girl 236LK overhead, all throws blockable
 Pretty Fighter ps1
 Pretty Fighter X saturn 
 Sengoku Basara X / Cross ps2
@@ -1086,7 +1092,6 @@ Tokyo 2029 a.d. xb360
 Dangerous Streets dos
 Dark Presence in dev unreleased arcade game 
 Kung-fu Live ps3
-Dead Dance / Tuff E Nuff snes fc2
 Drawfighters ps4
 Dual Heroes n64
 D-xhird saturn
@@ -1234,7 +1239,8 @@ The Circle wii cancelled
 The Great Fighter pc korean
 The Grim Adventures of Billy and Mandy wii gcn ps2
 각개 겹파 (Gakgae Gyeokpa) pc
-The Masters Fighter ps1
+The Masters Fighter (The Master's Fighter) ps1
+Master's Fury arcade
 Thrill Kill ps1
 Time Killers fc2
 Time Warriors dos
@@ -1563,7 +1569,6 @@ WWF Wrestlemania: steel cage challenge nes
 Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
 frame gride dreamcast fromsoft game btw
 Battle CAPacity pc fan game
-Verdict Guilty 유죄 평결 steam ps4 
 FNAW Fighters / Five Nights at Wario's fighter https://gamejolt.com/games/fnawfighters/555913
 How to Train Your Dragon wii/ps3/360
 mk too mugen
@@ -1662,3 +1667,4 @@ Shadow Fighters Dutech Inc. 1993
 DOGMA (ドグマ) pc https://archive.org/details/dogma_20210717
 Artemis Blade pc https://archive.org/details/artemis-blade-digital-hawk
 black lotus: void pc https://fantia.jp/fanclubs/3156
+同人GAME CDソフト THE SPIRIT FIGHTERS XI -スピリットファイターズサイ ちょっとだけXIII伝説- :- pc https://www.suruga-ya.com/en/product/186078903
