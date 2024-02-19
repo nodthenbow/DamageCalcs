@@ -369,7 +369,7 @@ Makeruna! Makendo 2 =- snes fc last person, evil lady. 236p/k fb, all AAs are ba
 Shin Kidō Senki Gundam W: Endless Duel =- snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
 Riddick Bowe Boxing / Chavez =- snes fc l+r block (game gear multiplayer?)
 Boxing Legends of the Ring / Chavez II / Final Knockout =- snes/gen fc select/a+c for super, 8blk 2dodge
-Mighty Morphin Power Rangers =- megadrive fc red ranger A 624A loop, no throws, dragonzord [4]6p
+Mighty Morphin Power Rangers =- gen fc red ranger A 624A loop, no throws, dragonzord [4]6p
 Mobile Suit Gundam (1993) =- fc Pick a Zaku, no throws
 TKO Super Championship Boxing / Kentou-Ou World Champion =- snes fc lp/hp more damage close/far, r to block, no range diff in buttons
 Superior Soldiers / Perfect Soldiers =- fc Stardude shoto, 2mp 2mp (66lp)xInf blk too, jHK 66HP 236HP tos
@@ -398,15 +398,21 @@ Golden war spirit =- steam 3rd dude 66I
 Monkey king vs transformers =- steam 2nd last 1st page hold the dash attack button
 Prehistoric warcraft =- 1st boy, mash I, hold E/mana regen, dash attack strictly better than attack
 Verdict Guilty 유죄 평결 =- steam ps4 pick woman [lp] dog fb, jHPHP ioh safe, just mash 5LK infinite
-Seifuku Densetsu Pretty Fighter =- fc 3rd girl 236LK overhead, all throws blockable
 Karate Champ =- nes fc B/A are soft left/right attacks, only 5A/B and 2A+B are the only good attacks
-Rokudenashi Blues - Taiketsu! Tokyo Shitennou - snes fc :D guy, 2HP low stun at 3-4cl, 214HP punisher
-Dual Blades - gba Kanae (11) j46S dive kick, H hc xx 26K/(64L 26H)/(26P 9H H46H), 4ss burst, ss rc bad
-Taiketsu! Ultra Hero - gba 2nd monster L+B unblockable loops
+Rokudenashi Blues - Taiketsu! Tokyo Shitennou =- snes fc :D guy, 2HP low stun at 3-4cl, 214HP punisher
+Dual Blades =- gba Kanae (11) j46S dive kick, H hc xx 26K/(64L 26H)/(26P 9H H46H), 4ss burst, ss rc bad
+Taiketsu! Ultra Hero =- gba 2nd monster L+B unblockable loops
 Greatest Heavyweights =- gen fc (Evander Holyfield's Real Deal Boxing 2) switch hit L/R to guard break
 Savage Reign =- fc King Leo 146P/K 6328K+C, [2]8K+C, invuln hitstun, 624646P hsdm, 6P gc
+X-men Mutant Academy =- gbc Cyclops > Storm > Mag, air block op, [x] = hx, Cyc all HP fb, no inulnv wakeup
 Dragon Ball Z: Taiketsu =- gba universal normals, specials bad, trunks [hp]6 throw 8,9hk [hp]6 throw loop
 Dragon Ball Z: Supersonic Warriors =- gba goku1 trunks2 piccolo1, throw a+b, su a+b+r, [a/b] block, goku throw wait a+b to side su, gotenks a+b a a exactly under su, a a 66a, gotenks death timer 25s/45s/65s, piccolo r+a v tracks, below super op. gotenks can throw charge su charge loop, but bad dps
+Bobobo-bo Bo-bobo Bakutou Hajike Taisen =- gba 6A throw R block, spikey hair kid BAAAAAAAA
+Power Quest =- gbc Speed 86X ioh dive kick, 2l 5l 5h 24h, I wrote the faq for it: https://gamefaqs.gamespot.com/gbc/574750-power-quest/faqs/81129
+Evander Holyfield's "Real Deal" Boxing gen fc =- same as 2, but uppercut is A+B/B+C
+Cutie Suzuki no Ringside Angel =- gen fc normal wrestling game, C only used in takedowns/v hidden supers
+Musashi No Ken: Tadaima Shugyou Chuu =- nes 8/5/2A/[A] to poke, B specials, auto guard
+Tao Taido =- fc The most uncouth of games. A+B hold then each level has unique atks for all 8 directions
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -574,7 +580,7 @@ Lord of the Rings - The Return of the King (Unl)
 Jinyong Kuaida dos
 Fight N Jokes dos (fight 'n' jokes)
 Tatsunoko Fight ps1
-Soul Edge vs. Samurai Spirits fc2
+Soul Edge vs. Samurai Spirits gen unl fc2 NOT WORKING
 Soul Falchion bootleg
 Ranma 1/2: Battle Renaissance ps1
 Mighty Morphin Power Rangers - The Fighting Edition (Unl) fc2
@@ -603,14 +609,13 @@ Messiah End Revenge pc fm2k
 Sakura X Clash pc https://team-project-sakura-x.itch.io/sakura-x-clash-last-millenial-spring
 Mad Stalker: Full-Metal Force ps1
 Chaos Striker pc 2dfm https://archive.org/details/chaos-striker
-The Eye of Typhoon 3do / fc2
+The Eye of Typhoon 3do / (beta on fc2)
 Trajes Fatais: Suits of Fate steam
 Toy Fighter fc2
 Fist ps1 
 FIST saturn
 Flying Dragon n64
 Hellish Quart steam
-Tao Taido fc2
 shadow warriors 3do
 shadow war of succession 3do
 Critical Blow ps1
@@ -892,7 +897,6 @@ Medieval Combat age of glory phone
 Megatudo 2096 ps1
 Metal Revolution steam (2022)
 Mighty Fight Federation steam
-Musashi No Ken: Tadaima Shugyou Chuu nes
 Mutant Dna / 뮤턴트 DNA dos
 My Hero Academia: Battle for All bamco shonen steam
 My Hero One’s Justice 1/2 bamco shonen steam
@@ -942,7 +946,6 @@ Indie Pogo steam
 The Chaos Gene steam
 Wonderful World pc on miz
 Poypoy 1/2 ps1
-Power Quest gbc
 Project Cerberus psp
 River City Rival Showdown kunio kun
 robo pit 2 ps1
@@ -1004,7 +1007,6 @@ Tobal 1/2/3 ps1
 Toriko Gourmet Ga Battle 3ds
 Battle Arena Toshinden 1/2/ura/plus/3/4/wii/GB/remix
 Tough: Dark Fight ps2
-Touhou
 Touhou Sky Arena -matsuri- Climax
 Touhou Hisoutensoku
 Touhou Hopeless Masquerade
@@ -1030,7 +1032,7 @@ War of the Monsters ps2
 Wu-tang: Shaolin Style ps1
 Xena Warrior Princess: the Talisman of Fate n64
 Xuan Dou Zhi Wang pc
-X-men Mutant Academy 1/2 ps1 / gbc
+X-men Mutant Academy 1/2 ps1
 Yatagarasu steam
 Yu Yu Hakusho: Dark Tournament
 Yu Yu Hakusho: Sunset Riders / Dai 4 Tama: Makai Touitsu
@@ -1070,7 +1072,6 @@ Master Ninja c64
 Spartacus: Sword Slayer c64
 Bloodbath steam
 Boboboubo Boubobo Dassutsu! Hajike Royale gcn
-Bobobo-bo Bo-bobo Bakutou Hajike Taisen gba
 Brudal Baddle dos
 Buster Fight gg fc2
 Cheonha Mujeok dos
@@ -1121,7 +1122,6 @@ Barravento: Mestre Da Capoeira amiga
 Gladiators amiga
 Gladiator / Great Gurianos cpc/c64 
 Grand Class Melee 2 steam owned
-Gwigyeon pc
 Gladiator: Blades of Fury steam owned
 Godzilla & Destroy All Monsters & Monster Mayhem
 Godzilla Destroy All Monsters Melee & Domination!
@@ -1403,8 +1403,6 @@ God vs Satan: World Rumble https://gamejolt.com/games/god-vs-satan-world-rumble/
 Shin Senki Van-Gale: The War of Neo-Century ps1 the worst camera
 real robots final attack ps1 (gundam)
 Sento dos
-Evander Holyfield's "Real Deal" Boxing gen fc2
-Cutie Suzuki no Ringside Angel gen fc2
 Presidents Fight steam
 Topdown Showdown steam
 Fightcrab steam
@@ -1625,7 +1623,6 @@ Fighter: Yeongung-eul Gidarimyeo dos
 Campus Heroes pc 
 Ответный удар / Counter attack / Strike Back dos (lan multiplayer)
 PCP-936 6 in 1 GAME: King Boxing 
-SABAT Fight Arena jm2e
 Rupture Void https://archive.org/details/laptop-arcade-cracked.7z
 Fury Fight https://archive.org/details/laptop-arcade-cracked.7z
 Fighting Master Ultimate https://archive.org/details/laptop-arcade-cracked.7z
