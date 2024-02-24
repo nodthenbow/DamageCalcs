@@ -413,6 +413,17 @@ Evander Holyfield's "Real Deal" Boxing gen fc =- same as 2, but uppercut is A+B/
 Cutie Suzuki no Ringside Angel =- gen fc normal wrestling game, C only used in takedowns/v hidden supers
 Musashi No Ken: Tadaima Shugyou Chuu =- nes 8/5/2A/[A] to poke, B specials, auto guard
 Tao Taido =- fc The most uncouth of games. A+B hold then each level has unique atks for all 8 directions
+Sugoi Hebereke =- snes fc arena fighter special w/ 360p/k, 66p/k, or P+K. Tanooki > Green > Pink
+Rave Master =- GBA King best easy, 8B op, 5R stronk
+Battle Crusher =- gb 1st team, 4th dude, pharoah guy, 236A fb, 5/6B st chun em up
+Raging Fighter =- gb Shades 246A/B fake dp, 426A/B fb, 646B throw, 666A tackle, Ruoh same but no Bdp 5X oh
+Fly Punch Boom =- steam barely in the genre, but closer in gameplay than others
+Toukon Club =- nes luch and spikes are worst, everyone else same, timed K to parry, speed stat meh
+Tsuppari Oozumou =- nes cute sumo game, ever character is the same, 2B might not work, 4B in grapple
+Tsuppari Wars =- nes rcr style, mash K, has a run and jump kick
+Urban Champion =- nes fc2 standard boxing game rules, only ring outs ko
+World Boxing =- nes punch out style, dir to atk, [B] for strongs, [A] for dodge/parry
+World Champ / Great Boxing Rush Up =- nes fc2 hook dump stat, only happens off axis
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -885,7 +896,7 @@ Magical Girl Lyrical Nanoha a’s Portable the Battles of Aces & the Gears of De
 Mahou Sensei Negima Neo Pactio Fight wii
 Mai-otome Hime: Otome Butou Shi ps2
 Mai-hime Bakuretsu! Fuuka Gakuen Gekitoushi?! & Senretsu! Shin Fuuka Gakuen Gekitoushi!! ps2 psp?
-Makeruna! Makendō 2: Kimero Youkai Souri ps1 (1/2 snes fc2) ps1
+Makeruna! Makendō 2: Kimero Youkai Souri ps1
 Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
 Martial Champion fc2
@@ -983,7 +994,6 @@ Steambot Chronicles ps2
 Soul Eater Battle Resonance ps2
 Stick Fight: the Game steam owned
 Subscribe and Punch steam (owned)
-Sugoi Hebereke snes fc2
 Super Chinese Fighter fc2
 Sunday Vs Magazine psp
 Super Cosplay War Ultra Infinity pc
@@ -1059,7 +1069,6 @@ Battle of the Eras dos
 Battle Arena Nitoshinden ps1
 Battle Beast dos
 BCV: Battle Construction Vehicles ps2
-Battle Crusher gbc
 Battle Wrath dos
 Bayani: Fighting Game Bayani: Kanino Ka Kakampi steam
 Bikini Karate Babes 1/2 pc
@@ -1194,7 +1203,6 @@ Pray for Death dos
 ReadySet Heroes ps4
 Revengers of Vengeance / battle fantasy sega cd
 Rock'em Sock'em Robots Arena ps1
-Raging Fighter gb
 Shin Oh Ken: Ragnagard fc2
 Saber Marionette J: Battle Sabers ps1
 Saiyuki Reload: Gunlock ps2
@@ -1442,7 +1450,6 @@ Clash of the Metal steam
 52 beatup itch
 Blindsight itch 
 Angels of Battle itch
-Fly Punch Boom steam
 MindArms pc https://archive.org/details/mind-arms-076
 Fight for Vengeance gen 2021 fc2
 The cute fighter steam ufe flip https://store.steampowered.com/app/2016290/The_Cute_Fighter/
@@ -1554,13 +1561,7 @@ Pro Wrestling nes fc2
 tag team wrestling / tag team pro wrestling nes fc2
 Tecmo World wrestling nes fc2
 Terao no Dosukoi Oozumou nes
-Toukon Club nes
-Tsuppari Oozumou nes
-Tsuppari Wars nes
-Urban Champion nes fc2
 WCW world championship wrestling / super star pro wrestling fc2 nes
-World boxing nes
-World Champ / Great Boxing Rush Up nes fc2
 WWF King of the Ring nes
 WWF Wrestlemania nes
 WWF Wrestlemania challenge nes
