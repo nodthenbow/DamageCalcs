@@ -244,7 +244,8 @@ Hajime no Ippo The Fighting =- gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6
 Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) =- fc
 Art of Fighting (Ryuuko no Ken) =- fc
 Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) =- fc
-Fatal Fury Special =- fc
+Fatal Fury Special =- fc Kim clAAA 2C 214B / hsdm 21416KK, 214B safe, AB lane, laneL better than laneH
+Real Bout Fatal Fury Special =- Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob
 all Darkstalkers games
 Chatan Yarakuu Shanku / The Karate Tournament =- played with kooter, smear hell
 The Last Blade =- fc meh 
@@ -421,9 +422,21 @@ Fly Punch Boom =- steam barely in the genre, but closer in gameplay than others
 Toukon Club =- nes luch and spikes are worst, everyone else same, timed K to parry, speed stat meh
 Tsuppari Oozumou =- nes cute sumo game, ever character is the same, 2B might not work, 4B in grapple
 Tsuppari Wars =- nes rcr style, mash K, has a run and jump kick
-Urban Champion =- nes fc2 standard boxing game rules, only ring outs ko
+Urban Champion =- nes fc standard boxing game rules, only ring outs ko
 World Boxing =- nes punch out style, dir to atk, [B] for strongs, [A] for dodge/parry
-World Champ / Great Boxing Rush Up =- nes fc2 hook dump stat, only happens off axis
+World Champ / Great Boxing Rush Up =- nes fc hook dump stat, only happens off axis
+Terao no Dosukoi Oozumou =- nes slaps are way better than anything else
+Nekketsu Kakutou Densetsu =- nes standard belt kunio kun vs game, c1r2 best, has wlP, P, rjK/6 specials
+Fighting Masters =- gen fc Crab best, jthrow meaty jJxxj2P jthrow inf, Rotundo 2nd best same inf good j2P
+Fujiyama Busters / Shogun Warriors =- fc 1st samurai best, 6hp, pp/kk op throw, sp all oh, cr all low
+Masters of Combat =- sms fc (Ported as Buster Fight to GG) Voltman 79P/13P, 17P fake dp, st=oh/high cr=low
+Buster Fight =- gg fc (Masters of Combat port) Voltman 48P/42P sagat, 28P fake dp, st=oh/high, cr=low
+Dragon Ball Z Super Butouden =- snes Cell 624K long cmd grab, 624S cmd grab, gc specials, no throws, no h/l in fly, can only fly (no crouch) when screen split. Freeza 426K block inf, but punishable w/ gc specials
+Dragon Ball Z Super Butouden 2 =- snes while thrown out of not 4/1 do 6LL/RR (towards) to punish, Piccolo j62K/iohjK/2K vortex, in fly no crouching, 42S (p+k) 0dam stun inf, also no recovery and can only hit hit
+Dragon Ball Z Super Butouden 3 =- snes if dashes collide 37P, Gohan 646P for chip, j62K ioh, same throws as 2
+Dragon Ball Z Buyuu Retsuden =- gen 66P counter throws, included out of block, Goku/Gohan/Piccolo 62K/2K, j62K vortex, throws are lows. No crouch in fly so 62K unb loop. Gohan prob best for 646K and small size.
+Mighty Morphin Power Rangers - The Fighting Edition (Unl) =- gen fc Goldar shoto, just frame jump attacks
+Naruto Ninja Council 2 =- gba everyone same, hitboxes way bigger than they look and are universal 8/2J = TP
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -463,6 +476,7 @@ Zeiramzone ps1 =- beat em up I think, single player only
 Fighting game minigames in unrelated genres
 Dino Crisis 2 =- Dino Duel clear bonus
 Xenogears =- battle mode
+Onmyou Taisenki - Hasha no in =- battle mode
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -594,11 +608,9 @@ Tatsunoko Fight ps1
 Soul Edge vs. Samurai Spirits gen unl fc2 NOT WORKING
 Soul Falchion bootleg
 Ranma 1/2: Battle Renaissance ps1
-Mighty Morphin Power Rangers - The Fighting Edition (Unl) fc2
 kof '97 nes bootleg
 kof 98' bootleg gen
 The King of Fighters '99 (Unl)
-Tekken 3 Special (Unl) fc2
 Virtua fighter 2 vs tekken 2 bootleg fc2
 Overkill (MS DOS 1996)
 Violent Vengeance: The Universe Hero (MS DOS 1995)
@@ -645,8 +657,8 @@ Kabuki Ittou Ryoudan (PC engine)
 les miserables Arm Joe Les Misérables pc http://takase.syuriken.jp/ArmJoe.htm 
 dot fighters http://takase.syuriken.jp/DF_index.html
 Fighter Street VI. 12 Peoples bootleg nes
-Jang Pung II gen/ms/gg bootleg
-Jang Pung 3 gen/ms bootleg
+Jang Pung II gen/sms/gg bootleg
+Jang Pung 3 gen/sms bootleg
 kart fighter nes bootleg
 Mareo GO Kart Galaxy Strikers 40/5 pc mugen itch
 mortal kombat ii yoko pirate
@@ -789,7 +801,6 @@ Dragon Ball Z Tv Game & Dragon Ball Gekitou Tenkaichi Budokai
 Dragon Ball Z & Dragon Ball Z 2 Super Battle
 Dragon Ball Z V.r.v.s 
 Dragon Ball Z: Evolution
-Dragon Ball Z Super Butoden 1/2/3
 Dragon Ball Z Hyper Dimension 
 Dragon Ball Z Shin Butouden 
 Dragon Ball Z: Ultimate Battle 22
@@ -808,8 +819,7 @@ Super Dragon Ball Z & Infinite World
 Dragon Ball Z Burst Limit
 Dragon Ball Z: Supersonic Warriors 2 ds
 Dragon Ball Z Raging Blast 1&2
-Dragon Ball Zenkai Battle Royale
-Dragon Ball Z Buyuu Retsuden / 
+Dragon Ball Zenkai Battle Royale 
 Dragon Ball Z: Idanairu Son Goku Densetsu
 Dragon Ball Z: Idainaru Dragon Ball Densetsu
 Dragonball Xenoverse 1 / 2
@@ -902,7 +912,6 @@ Maribato! Maribato! / Maribato! Plus pc
 Martial Champion fc2
 Mayhem Combat android
 Medabots AX gba
-Masters of combat fc2
 ninja combat fc2
 Medieval Combat age of glory phone
 Megatudo 2096 ps1
@@ -928,7 +937,6 @@ Naruto Shippuden Ultimate Ninja Storm Generations
 Naruto Shippuden Legends: Akatsuki Rising / Ultimate Ninja Heroes 3
 Naruto Shippuden Clash of Ninja Revolution Iii / Gekitou Ninja Taisen Ex
 Naruto Shippuden Ultimate Ninja Storm Revolution / Uns Trilogy / Uns 4 Road to Boruto
-Nekketsu Kakutou Densetsu nes kunio kun game
 Neon Genesis Evangelion: Battle Orchestra psp/ps2
 Nitro Royale: Heroines Duels pc
 Nurarihyon no Mago: Hyakki Ryouran Taisen ps3
@@ -965,7 +973,7 @@ Maiden & spell steam owned
 Rozen Maiden: Gebetgarten ps2
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
-Rave Master gcn/gba
+Rave Master gcn
 Pretty Fighter ps1
 Pretty Fighter X saturn 
 Sengoku Basara X / Cross ps2
@@ -1082,7 +1090,6 @@ Spartacus: Sword Slayer c64
 Bloodbath steam
 Boboboubo Boubobo Dassutsu! Hajike Royale gcn
 Brudal Baddle dos
-Buster Fight gg fc2
 Cheonha Mujeok dos
 Chi-yon ps1 unreleased
 Chinese Karate anmiga
@@ -1119,12 +1126,10 @@ Fatality mobile (java phone?)
 Fight Club ps2
 Fighting Fury ps2
 Fighting Angels ps2
-Fighting Beauty Wulong Kakutou Bijin Wulong ps2
-Fighting Masters gen fc2
+Fighting Beauty Wulong Kakutou Bijin Wulong ps2 
 Fightin Spirit amiga cd32
 Fist Fighter amiga
 Flappy Fighter phones
-Fujiyama Busters / Shogun Warriors fc2
 Funky Punch xl psp
 Fuuun Shaolin No Ken / Ankoku No Maou famicom disk system
 Barravento: Mestre Da Capoeira amiga
@@ -1560,7 +1565,6 @@ Moero!! Juudou Warriors nes
 Pro Wrestling nes fc2
 tag team wrestling / tag team pro wrestling nes fc2
 Tecmo World wrestling nes fc2
-Terao no Dosukoi Oozumou nes
 WCW world championship wrestling / super star pro wrestling fc2 nes
 WWF King of the Ring nes
 WWF Wrestlemania nes
