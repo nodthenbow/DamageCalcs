@@ -437,6 +437,11 @@ Dragon Ball Z Super Butouden 3 =- snes if dashes collide 37P, Gohan 646P for chi
 Dragon Ball Z Buyuu Retsuden =- gen 66P counter throws, included out of block, Goku/Gohan/Piccolo 62K/2K, j62K vortex, throws are lows. No crouch in fly so 62K unb loop. Gohan prob best for 646K and small size.
 Mighty Morphin Power Rangers - The Fighting Edition (Unl) =- gen fc Goldar shoto, just frame jump attacks
 Naruto Ninja Council 2 =- gba everyone same, hitboxes way bigger than they look and are universal 8/2J = TP
+Ninku 2: Tenkuryu-e no Michi =- gg 1st Lady 4P throw, 26P fb, 24P oki, dashes inv, PK gain bar, 24K tp, mash P
+Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes =- brocken(4) and hat(1), get the ball asap
+Medabots AX =- gba both versions same enough, standard platform arena fighter, no motions L to change weapon
+Tough Guy =- dos (Wackler game) Lee 46P fb 64P dp, j22K dive kick, throw(6p) through blockstun safe jump loop
+Martial Champion =- fc zen (kabuki) 236m fb, 2m/5m poke, jH lol, 6M throw
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -471,6 +476,8 @@ Strikers Edge =- dodgeball game
 Yie Ar Kung-Fu 1/2 =- beat em ups, would be fg if they had a 2p hack 
 Shura No Mon genesis version =- cinematic fg and it's single player 
 Zeiramzone ps1 =- beat em up I think, single player only 
+Black Belt =- beat em up sms
+ninja combat =- neogeo beat em up
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -594,7 +601,7 @@ gado fight steam
 all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
 The Pro Wrestling 1/2 Simple Series PS1
 the untouchables 1/2 pc 
-SD Hiryu no Ken EX
+SD Hiryu no Ken EX gbc
 Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
 Time Slaughter dos
@@ -645,14 +652,14 @@ Critical Blow ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Flying Dragon SD N64
-Ninpu Sentai Hurricaneger ps1
+Ninpuu Sentai Hurricanger ps1
 KemoFre Fight pc
 Sango Guardian Chaos Generation steam
 Violence Vengeance dos
 Burning Rival arcade sega am2
 Line-kill! Spirits http://gpsc.sakura.ne.jp/gsr1/index_e.html wack jp panty shot fighting game 
 Battle Master ps1
-Ninku: Tsuyokina Yatsura no Daigekitotsu! Sega Saturn (2 on game gear)
+Ninku: Tsuyokina Yatsura no Daigekitotsu! Sega Saturn
 Kabuki Ittou Ryoudan (PC engine)
 les miserables Arm Joe Les Misérables pc http://takase.syuriken.jp/ArmJoe.htm 
 dot fighters http://takase.syuriken.jp/DF_index.html
@@ -717,8 +724,7 @@ Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
 Asuka 120% Limited BURNING Fest. saturn
 Asuka 120% LimitOver BURNING Fest the popular one 
 Asuka 120% Final BURNING Fest. ps1
-Asuka 120% Return BURNING Fest. pc
-Tough Guy dos WACKLER IS THIS GAME
+Asuka 120% Return BURNING Fest. pc 
 Touhou 7.5
 Warpath: Jurassic Park ps1
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
@@ -758,7 +764,6 @@ Battle Tryst mame
 Be-bop Bout msx2 mame
 Big Bang Beat / Revolve pc
 Black Belt Challenge gba
-Black Belt fc2 
 blade strangers steam (don't buy, publisher is an ip thief)
 Bleach: Shattered Blade / Versus Crusade
 Bleach Tasogare Ni Mamieru Shinigami
@@ -909,10 +914,7 @@ Mai-hime Bakuretsu! Fuuka Gakuen Gekitoushi?! & Senretsu! Shin Fuuka Gakuen Geki
 Makeruna! Makendō 2: Kimero Youkai Souri ps1
 Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
-Martial Champion fc2
 Mayhem Combat android
-Medabots AX gba
-ninja combat fc2
 Medieval Combat age of glory phone
 Megatudo 2096 ps1
 Metal Revolution steam (2022)
@@ -1560,7 +1562,6 @@ Zeus: Carnage Heart Second ps1
 Battle Rush: Build Up Robot Tournament nes
 Chiyounofuji no Ooichou nes
 The Karate Kid nes fc2
-Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes
 Moero!! Juudou Warriors nes
 Pro Wrestling nes fc2
 tag team wrestling / tag team pro wrestling nes fc2
