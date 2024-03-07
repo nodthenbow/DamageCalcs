@@ -442,6 +442,10 @@ Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes =- brocken(4) an
 Medabots AX =- gba both versions same enough, standard platform arena fighter, no motions L to change weapon
 Tough Guy =- dos (Wackler game) Lee 46P fb 64P dp, j22K dive kick, throw(6p) through blockstun safe jump loop
 Martial Champion =- fc zen (kabuki) 236m fb, 2m/5m poke, jH lol, 6M throw
+SD Hiryu no Ken EX =- gbc Suzaku 236P fb j214P fb 632K dp 1/3/6P throw, jumps -ob, 2p*8, Syoryu j24K crn inf
+knight games =- dos/c64 1379 parries, 2468 attacks, button+4/6 to move, stance based blocking, strikes>parry
+Time Slaughter / Timeslaughter =- dos mojumbo 236*4k fb*3, Asylum 236P fb, 623P dp, 16LK very +ob
+Dragon - the Bruce Lee Story =- fc gen/snes/jaguar 2LK unblockable, 9HP strong, L/R/M+xyz/123 stance swap (bad)
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -587,7 +591,6 @@ Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
 Phantom Breaker Extra ps3/xb360
-knight games dos
 Zarigani-bu https://twitter.com/gurizuri_bu 
 Way of the Warrior 3DO
 mizuki shigeru no yokai butouden ps1
@@ -601,10 +604,8 @@ gado fight steam
 all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
 The Pro Wrestling 1/2 Simple Series PS1
 the untouchables 1/2 pc 
-SD Hiryu no Ken EX gbc
 Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
-Time Slaughter dos
 Mad Stalker: Full Metal Forth (Gen)
 Xenophage: Alien Bloodsport dos
 The Black Heart steam
@@ -800,7 +801,6 @@ Digimon Battle Spirit 1/1.5/2
 Digimon All-star Rumble
 Dissidia series
 Doodle Hex ds
-Dragon – the Bruce Lee Story fc2 / jaguar
 Dragon Ball series of games (played a ton of them already, multiple on fc2)
 Dragon Ball Z Tv Game & Dragon Ball Gekitou Tenkaichi Budokai
 Dragon Ball Z & Dragon Ball Z 2 Super Battle
