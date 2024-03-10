@@ -1,5 +1,5 @@
 All fighting game quest
-(51 lines of not definitely fighting games, 142 lines extra total)
+(57 lines of not definitely fighting games, 146 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -281,8 +281,8 @@ brawlhalla =- worse RoA
 robo pocket =- steam K one button infinite, needs xbox controller spoof
 Combate Monero =- steam esteban besteban, 214lp unblockable, 236P absurd fireball combo/inf?
 One Must Fall 1.0 shareware =- throw peeps in blockstun. 214P/K fireballs good
-Slaughter Sport =- fc Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
-SD Hiryu no Ken =- fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
+Slaughter Sport =- fc gen Tongue of the Fatman Mondu's Fight Palace. Bad game, jump to dodge
+SD Hiryū no Ken =- snes fc Kasumi lookalike is fun, ken clHK 623LP 5LP 214HK stun jump over x2 ToD
 Slashers the Power Battle =- android, 632 is a valid dp input
 Game & Watch Boxing =- dodge is OP, good to gain advantage and little recovery
 Vanguard Princess =- pigtails blue shirt has karin rekka 236X B A launch, meh game
@@ -303,8 +303,8 @@ nair =- steam has a dodge too actually
 override mech city brawl =- steam x+shoulder = special move one bar, shield has parry
 override 2 =- steam l1 r1 r2 universal target combo, multi shoulder for specials
 ritual tournament =- steam borderline not functional, but also an asset flip
-Top Fighter 2000 MK VIII =- fc barely functions, 66B for special, 6mashstick6 for other special
-Top Fighter 2005 =- fc runs much better, but otherwise is just TF2k in chinese
+Top Fighter 2000 MK VIII =- gen fc barely functions, 66B for special, 6mashstick6 for other special
+Top Fighter 2005 =- gen fc runs much better, but otherwise is just TF2k in chinese
 DnF Duel =- slow but long combos and pressure
 Cyan vs Magenta =- https://gamejolt.com/games/cyan-vs-magenta/70175 game jam game
 fighting run =- fc car run around mash A, health top bar, stamina lower, 5B for rope hit 8B shock
@@ -321,8 +321,8 @@ chou aniki =- snes fc px/kd g = l/r 3rd guy (buff) x360=charge 646p=super pk=thr
 Blood Warrior / Ooedo Fight =- fc kappa 16p for safety, dhalsim mostly cancelable, no fb blockstun
 Natsuki Crisis Battle =- snes fc 3rd lady 426HP damage, 6LK/4HK throws (only throws in the game)
 Top Ranking Stars =- fc Bruce 869HP only good special in the game
-Death Brade / mutant fighter =- fc direction + B to throw, mash B more to win 
-Seifuku Densetsu Pretty Fighter =- fc 4th girl 214K does good chip, all throws blockable
+Death Brade / mutant fighter =- snes fc direction + B to throw, mash B more to win 
+Seifuku Densetsu Pretty Fighter =- snes fc 4th girl 214K does good chip, all throws blockable
 The Killing Blade =- fc fun, Monk 236C-AAC/AD-super, big dude 623P overhead, B+C to switch, 4/6C throw
 The Killing Blade Plus =- fc mostly same, Whip lady 421C nerfed hard, 2 guys boss 623A block infinite
 Flash Hiders 2 Battle Tycoon =- fc fun, Seena is motion Guile
@@ -442,10 +442,12 @@ Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes =- brocken(4) an
 Medabots AX =- gba both versions same enough, standard platform arena fighter, no motions L to change weapon
 Tough Guy =- dos (Wackler game) Lee 46P fb 64P dp, j22K dive kick, throw(6p) through blockstun safe jump loop
 Martial Champion =- fc zen (kabuki) 236m fb, 2m/5m poke, jH lol, 6M throw
-SD Hiryu no Ken EX =- gbc Suzaku 236P fb j214P fb 632K dp 1/3/6P throw, jumps -ob, 2p*8, Syoryu j24K crn inf
+SD Hiryū no Ken EX =- gbc Suzaku 236P fb j214P fb 632K dp 1/3/6P throw, jumps -ob, 2p*8, Syoryu j24K crn inf
 knight games =- dos/c64 1379 parries, 2468 attacks, button+4/6 to move, stance based blocking, strikes>parry
 Time Slaughter / Timeslaughter =- dos mojumbo 236*4k fb*3, Asylum 236P fb, 623P dp, 16LK very +ob
 Dragon - the Bruce Lee Story =- fc gen/snes/jaguar 2LK unblockable, 9HP strong, L/R/M+xyz/123 stance swap (bad)
+Flying Dragon / Hiryū no Ken Twin =- n64 virtual: Ryuhi 3C 66 3KKK 24KKK, clC throw. SD: Suzaku 2C 8C 2C 2C KKKKK, Shouryu 8C/6K 46C, 26C/28C fb, Robot sumo 6K/360C PPPPP, and good pokes
+SD Hiryū no Ken Densetsu =- n64 Mummy 2/4/5/nj/7jC fb, 6K 665P*6 KKK / 8C C, Robot 6K/360C PPPPP, also good pokes, Red Child (right of random) 4C inf, clC 66 4C*inf
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -645,14 +647,12 @@ Trajes Fatais: Suits of Fate steam
 Toy Fighter fc2
 Fist ps1 
 FIST saturn
-Flying Dragon n64
 Hellish Quart steam
 shadow warriors 3do
 shadow war of succession 3do
 Critical Blow ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
-Flying Dragon SD N64
 Ninpuu Sentai Hurricanger ps1
 KemoFre Fight pc
 Sango Guardian Chaos Generation steam
@@ -1150,7 +1150,19 @@ Heavyweight Champ https://en.wikipedia.org/wiki/Heavyweight_Champ
 Hello Mr. President dos
 Hercequary pc98
 Highlander c64/cpc 
-Hiryu No Ken series https://en.wikipedia.org/wiki/Hiry%C5%AB_no_Ken
+Shanghai Kid / Hokuha Syourin Hiryū no Ken arcade
+Flying Dragon: The Secret Scroll / Hiryū no Ken: Ougi no Sho nes
+Hiryū no Ken II: Dragon no Tsubasa nes
+Hiryu no Ken III: 5 Nin no Ryū Senshi nes
+Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden gb 
+Hiryū no Ken Special: Fighting Wars nes
+Ultimate Fighter / Hiryū no Ken S: Golden Fighter snes 
+Hiryū no Ken S: Hyper Version snes 
+SD Hiryū no Ken Gaiden gb
+SD Hiryū no Ken Gaiden 2 gb
+Virtual Hiryū no Ken ps1
+Hiryū no Ken Retsuden GB gbc
+Flying Warriors nes 
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
 Hokuto no Ken: Seiki Matsukyu Seishi Densetsu ps1
@@ -1544,7 +1556,6 @@ The Simpsons Wrestling ps1
 Soukou Kihei Votoms Gaiden - Blue Knight Berserga Story ps1
 Soukou Kihei Votoms - Koutetsu no Gunzei / Armored Trooper Votoms - Steel Force ps1
 Soukou Kihei Votoms - Lightning Slash / Armored Trooper Votoms - Lightning Slash ps1
-Virtual Hiryuu no Ken ps1
 Virtual Pro Wrestling ps1
 WCW Backstage Assault ps1
 WCW Mayhem ps1
@@ -1672,3 +1683,4 @@ DOGMA (ドグマ) pc https://archive.org/details/dogma_20210717
 Artemis Blade pc https://archive.org/details/artemis-blade-digital-hawk
 black lotus: void pc https://fantia.jp/fanclubs/3156
 同人GAME CDソフト THE SPIRIT FIGHTERS XI -スピリットファイターズサイ ちょっとだけXIII伝説- =- pc https://www.suruga-ya.com/en/product/186078903
+Rakugaki Showtime ps1 
