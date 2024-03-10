@@ -1,5 +1,5 @@
 All fighting game quest
-(57 lines of not definitely fighting games, 146 lines extra total)
+(60 lines of not definitely fighting games, 149 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -446,8 +446,10 @@ SD Hiryū no Ken EX =- gbc Suzaku 236P fb j214P fb 632K dp 1/3/6P throw, jumps -
 knight games =- dos/c64 1379 parries, 2468 attacks, button+4/6 to move, stance based blocking, strikes>parry
 Time Slaughter / Timeslaughter =- dos mojumbo 236*4k fb*3, Asylum 236P fb, 623P dp, 16LK very +ob
 Dragon - the Bruce Lee Story =- fc gen/snes/jaguar 2LK unblockable, 9HP strong, L/R/M+xyz/123 stance swap (bad)
-Flying Dragon / Hiryū no Ken Twin =- n64 virtual: Ryuhi 3C 66 3KKK 24KKK, clC throw. SD: Suzaku 2C 8C 2C 2C KKKKK, Shouryu 8C/6K 46C, 26C/28C fb, Robot sumo 6K/360C PPPPP, and good pokes
-SD Hiryū no Ken Densetsu =- n64 Mummy 2/4/5/nj/7jC fb, 6K 665P*6 KKK / 8C C, Robot 6K/360C PPPPP, also good pokes, Red Child (right of random) 4C inf, clC 66 4C*inf
+Flying Dragon / Hiryū no Ken Twin =- n64 virtual: Ryuhi 3C 66 3KKK 24KKK, 6C throw. SD: Suzaku 2C 8C 2C 2C KKKKK, Shouryu 8C/6K 46C, 26C/28C fb, Robot sumo 6K PPPPP, and good pokes
+SD Hiryū no Ken Densetsu =- n64 Mummy 2/4/5/nj/7jC fb, 6K 665P*6 KKK / 8C C, Robot 6K/360C PPPPP, also good pokes, Red Child (right of random) 4C inf, throw (clC) 66 4C*inf
+Ultimate Fighter / Hiryū no Ken S: Golden Fighter =- snes saucer off, no throws, normals chip, muay thai best
+Hiryū no Ken S: Hyper Version =- snes 1st op, lows unblockable, no throws, woman best, tiny invis guard bar
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -484,6 +486,9 @@ Shura No Mon genesis version =- cinematic fg and it's single player
 Zeiramzone ps1 =- beat em up I think, single player only 
 Black Belt =- beat em up sms
 ninja combat =- neogeo beat em up
+Hiryū no Ken II: Dragon no Tsubasa =- nes turn based who gets to attack snd who defends
+Hiryū no Ken Special: Fighting Wars nes =- nes turn based who gets to have hitboxes/hurtboxes
+Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -1151,18 +1156,11 @@ Hello Mr. President dos
 Hercequary pc98
 Highlander c64/cpc 
 Shanghai Kid / Hokuha Syourin Hiryū no Ken arcade
-Flying Dragon: The Secret Scroll / Hiryū no Ken: Ougi no Sho nes
-Hiryū no Ken II: Dragon no Tsubasa nes
-Hiryu no Ken III: 5 Nin no Ryū Senshi nes
 Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden gb 
-Hiryū no Ken Special: Fighting Wars nes
-Ultimate Fighter / Hiryū no Ken S: Golden Fighter snes 
-Hiryū no Ken S: Hyper Version snes 
 SD Hiryū no Ken Gaiden gb
 SD Hiryū no Ken Gaiden 2 gb
 Virtual Hiryū no Ken ps1
 Hiryū no Ken Retsuden GB gbc
-Flying Warriors nes 
 Fist of the North Star / Hokuto No Ken 6/7 fc2
 Hokuto No Ken Raoh Gaiden psp
 Hokuto no Ken: Seiki Matsukyu Seishi Densetsu ps1
