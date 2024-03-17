@@ -450,6 +450,13 @@ Flying Dragon / Hiryū no Ken Twin =- n64 virtual: Ryuhi 3C 66 3KKK 24KKK, 6C th
 SD Hiryū no Ken Densetsu =- n64 Mummy 2/4/5/nj/7jC fb, 6K 665P*6 KKK / 8C C, Robot 6K/360C PPPPP, also good pokes, Red Child (right of random) 4C inf, throw (clC) 66 4C*inf
 Ultimate Fighter / Hiryū no Ken S: Golden Fighter =- snes saucer off, no throws, normals chip, muay thai best
 Hiryū no Ken S: Hyper Version =- snes 1st op, lows unblockable, no throws, woman best, tiny invis guard bar
+SD Hiryū no Ken Gaiden =- gb Suzaka 236236P/j26P fb, 19K dp, PK AA
+SD Hiryū no Ken Gaiden 2 =- gb same strats as 1. Dava HSDM 426P is nuts tho 
+HAL Wrestling / Pro Wrestling =- bg start to run, chars same enough, stick + buttons mash out
+Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen =- gbc select to transform, 22P shoot bullet (3/game), AB8 hyper mode, AB2 charge, SDM 2624P, HSDM 2426K, Tank best, armor tank mode, 426[P] chip, 426K
+Kidou Butouden G Gundam snes fc2 Rose George, throw through blockstun jHP safe jump loop, 214HP DP
+Onita Atsushi FMV =- snes fc throw meter, 8/4/2+abxY in grab, [y]=run 4th dude best, njK iframes rec, K unblk
+Taekwon-Do =- snes fc power bandana guy, L stance up, R belt move, nj good, fast far normals rare, 44 good
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -489,6 +496,7 @@ ninja combat =- neogeo beat em up
 Hiryū no Ken II: Dragon no Tsubasa =- nes turn based who gets to attack snd who defends
 Hiryū no Ken Special: Fighting Wars nes =- nes turn based who gets to have hitboxes/hurtboxes
 Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
+Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as 2Flying Warriors
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -634,7 +642,6 @@ Chain & Combo: Chaos Light pc
 Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
 Blue Breaker Burst Bishou o Anata to / Egao no Asu ni (1/2) ps1
-Kettou Beast Wars gbc
 Samurai Deeper Kyo ps1
 Gokuu Densetsu: Magic Beast Warriors ps1
 Metal & Lace 1/2 dos
@@ -680,7 +687,6 @@ Namco Super Heroes pc fan game http://hiro.blue.coocan.jp/products/NSH/NSH.html
 V.R Fighter VS Taken 2 gen bootleg
 world heroes 2 nes bootleg
 xmen vs street fighter snes bootleg
-Taekwon-Do snes
 Dark Awake The King Has No Name / chaos breaker arcade ps3
 Kakutou Haou Densetsu Algunos PCE
 Draglade series DS
@@ -1156,9 +1162,6 @@ Hello Mr. President dos
 Hercequary pc98
 Highlander c64/cpc 
 Shanghai Kid / Hokuha Syourin Hiryū no Ken arcade
-Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden gb 
-SD Hiryū no Ken Gaiden gb
-SD Hiryū no Ken Gaiden 2 gb
 Virtual Hiryū no Ken ps1
 Hiryū no Ken Retsuden GB gbc
 Fist of the North Star / Hokuto No Ken 6/7 fc2
@@ -1276,7 +1279,7 @@ Tongue of the Fatman dos
 Tournament of Legends wii
 Tournament of Warriors dos
 Zulula trilogy dos
-Transformers: Beast Wars Transmetals n64
+Transformers: Beast Wars Transmetals n64 jp version different
 Tube Warriors amiga
 Unlimited Warriors dos
 Vagrant Fighter FX
@@ -1367,7 +1370,7 @@ Barbarian ps2 Warrior Blade: Rastan vs. Barbarian
 The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% ps2
 Black and Bruised ps2
 Boxing Champions ps2 Simple 2000 Series Vol. 7: The Boxing - Real First Fighter
-Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing
+Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing ps1
 Clan of Champions PS3/Steam
 Erementar Gerad: Matoe, Suifuu no Tsurugi ps2
 Erementar Gerad: Matoe, Suifu no Ken ps2
@@ -1514,9 +1517,7 @@ All Japan Pro Wrestling Featuring Virtua saturn
 Gundam: Battle Assault 3 Featuring Gundam SEED ps2 
 Gundam the battle master ps1
 Kidou Butouden G Gundam ps1 
-Mobile Fighter G Gundam snes fc2 
 Mobile Suit Gundam: EX Revue fc2 
-Mobile Suit Victory Gundam snes fc2 
 SD Gundam Force: Showdown! ps2 
 Simple Characters 2000 Series vol.13 - Kidou Senki Gundam W - The Battle ps1
 Simple Characters 2000 Series vol.12 - Kidou Butouden G Gundam ps1
@@ -1608,7 +1609,6 @@ Madness Brutal Fighting: Mortal Fight Battle Attack Multiplayer switch
 Super Hero Fighting Legends: Anime Mortal Battle switch asset flip
 Dragon Fury switch asset flip
 Golden Knight Garo / Ōgon Kishi GARO ps2
-Onita Atsushi FMV snes
 Creyfish Club Kengani Friends pc
 Karateka gb
 Bukotsu https://drive.google.com/file/d/18P_2l1Hhhp5j8oexr87dnT_bEve84Lio/view
@@ -1682,3 +1682,9 @@ Artemis Blade pc https://archive.org/details/artemis-blade-digital-hawk
 black lotus: void pc https://fantia.jp/fanclubs/3156
 同人GAME CDソフト THE SPIRIT FIGHTERS XI -スピリットファイターズサイ ちょっとだけXIII伝説- =- pc https://www.suruga-ya.com/en/product/186078903
 Rakugaki Showtime ps1 
+Bloody Rage flash 
+Bloody Rage 2 flash 
+Teen Titans Battle Blitz flash
+Super Smash Flash flash
+Super Smash Flash 2 flash
+Nick Super Brawl series flash
