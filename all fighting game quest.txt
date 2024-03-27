@@ -438,7 +438,7 @@ Dragon Ball Z Buyuu Retsuden =- gen 66P counter throws, included out of block, G
 Mighty Morphin Power Rangers - The Fighting Edition (Unl) =- gen fc Goldar shoto, just frame jump attacks
 Naruto Ninja Council 2 =- gba everyone same, hitboxes way bigger than they look and are universal 8/2J = TP
 Ninku 2: Tenkuryu-e no Michi =- gg 1st Lady 4P throw, 26P fb, 24P oki, dashes inv, PK gain bar, 24K tp, mash P
-Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes =- brocken(4) and hat(1), get the ball asap
+Tag Team Match: M.U.S.C.L.E. / Kinnikuman: Muscle Tag Match nes =- brocken(4) and warsman(1) get the ball asap
 Medabots AX =- gba both versions same enough, standard platform arena fighter, no motions L to change weapon
 Tough Guy =- dos (Wackler game) Lee 46P fb 64P dp, j22K dive kick, throw(6p) through blockstun safe jump loop
 Martial Champion =- fc zen (kabuki) 236m fb, 2m/5m poke, jH lol, 6M throw
@@ -454,9 +454,20 @@ SD Hiryū no Ken Gaiden =- gb Suzaka 236236P/j26P fb, 19K dp, PK AA
 SD Hiryū no Ken Gaiden 2 =- gb same strats as 1. Dava HSDM 426P is nuts tho 
 HAL Wrestling / Pro Wrestling =- bg start to run, chars same enough, stick + buttons mash out
 Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen =- gbc select to transform, 22P shoot bullet (3/game), AB8 hyper mode, AB2 charge, SDM 2624P, HSDM 2426K, Tank best, armor tank mode, 426[P] chip, 426K
-Kidou Butouden G Gundam snes fc2 Rose George, throw through blockstun jHP safe jump loop, 214HP DP
+Kidou Butouden G Gundam snes fc Rose George, throw through blockstun jHP safe jump loop, 214HP DP
 Onita Atsushi FMV =- snes fc throw meter, 8/4/2+abxY in grab, [y]=run 4th dude best, njK iframes rec, K unblk
 Taekwon-Do =- snes fc power bandana guy, L stance up, R belt move, nj good, fast far normals rare, 44 good
+Oozumou Spirits =- snes fc huge downgrade from nes, Y charge bar, all other walk up and grab, B or L+R w/o bar
+Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen =- ps1 2nd guy 3K(66 2K) low, 46P (3K 66 2K) mid, no whiff throws
+Simple 1500 Series Vol. 22: The Pro Wrestling =- ps1 top left dude mash otg strikes, guard auto counters mash thows to chain
+Simple 1500 Series Vol. 52: The Pro Wrestling 2 =- ps1 same as 1, face paint woman same strats 
+Street Battle / Ranma 1/2 Chounai Gekitou Hen =- snes fc2 L+R+start over 2p option to char select, both games the same, it was edited for NA. Dozo/Kodachi good, njX fb, [p]8P full screen kd, P+K AA, damage gives invuln
+Zero Divide: The Final Conflict =- Saturn E button, Zero 66PK (hitconfirm) mid, 66K low, 46P cmd grab. Crab 254P/61P fb, 43P meaty low, 22K low, P+K (3P) mid. 256G+P cmd grab
+Last Bronx =- saturn Kurosawa 3PPG (4PP 3PPG 8P) mid, 43P (3PPG 3P) low, 624P+K cmd grab, no nc strings, rng oh
+Golden Axe The Duel =- arcade saturn Zoma clHK 236P inf, 236P/j73P fb. Green 5LK inf
+Final Fight Revenge =- saturn El Gado [4]6P/K fb no limit, manual trap on PP/KK, 2lp2lp2lp2hk46hk/236236K. E to pick up items LL to swap HH to throw. Rolento also fine, has normals and rekka
+Asuka 120% LimitOver BURNING Fest =- sat 2 button + sp + dash/sj, 2D hop, Asuka 214H crazy, 6H6H/4H throw, tech same, 2LLLL6L6H 6L6H inf, gc movements, sj invuln, 88/66 ground/wall tech, tk air throw crouchers lol 
+The Karate Kid =- nes fc jK mash to nearly instant kill, counter with 2P or 5K
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -617,7 +628,6 @@ Dragon Blast: Project Soul Gainer pc
 Dragon Blast SE pc
 gado fight steam
 all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
-The Pro Wrestling 1/2 Simple Series PS1
 the untouchables 1/2 pc 
 Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
@@ -692,9 +702,7 @@ Kakutou Haou Densetsu Algunos PCE
 Draglade series DS
 nb heartbreakers advanced PC
 Azumanga Fighter pc
-Zero Divide: The Final Conflict Sega Saturn 
 Secret Meeting 2 pc 
-Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen ps1
 Possible others in the Variable Geo series https://archive.org/details/variablegeogamecollection
 V.G. Variable Geo pc98 (has nudity)
 V.G. II - THE BOUT OF CABALISTIC GODDESS pc98
@@ -726,7 +734,6 @@ street overlord ZC-780
 Kasumi Ninja jaguar
 Fight for Life jaguar
 Tōkidenshō Angel Eyes toukidenshou angel eyes fc2
-Golden Axe The Duel arcade saturn 
 fx fighter / fx fighter turbo pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
@@ -734,7 +741,6 @@ Asuka 120% Maxima BURNING Fest. PCE
 Asuka 120% Special BURNING Fest.
 Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
 Asuka 120% Limited BURNING Fest. saturn
-Asuka 120% LimitOver BURNING Fest the popular one 
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc 
 Touhou 7.5
@@ -746,7 +752,6 @@ Cardinal Syn ps1
 destrega ps1
 Fighting Bujutsu arcade
 tech romancer fc2 
-Last Bronx saturn
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
 double dragon v the shadow falls fc2 jaguar, gen, snes
@@ -774,7 +779,7 @@ Combat of Giants series https://en.wikipedia.org/wiki/Combat_of_Giants
 Battle Stadium D.o.n gcn/ps2
 Battle Tryst mame
 Be-bop Bout msx2 mame
-Big Bang Beat / Revolve pc
+Big Bang Beat / Revolve pc https://drive.google.com/file/d/1HI93zGlshX4Q5SW8Jqq0QKQuETcygtnV/view
 Black Belt Challenge gba
 blade strangers steam (don't buy, publisher is an ip thief)
 Bleach: Shattered Blade / Versus Crusade
@@ -851,7 +856,6 @@ Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighter’s History series fc2 (played karnov's)
 Fighter's History: Mizoguchi Kiki Ippatsu!! fc2
-Final Fight Revenge saturn
 Fighting Layer mame
 Fighting EX Layer ps4/steam
 Fighting Vipers 2 fc2
@@ -1138,7 +1142,7 @@ Fatal Challenge dos
 Fatality mobile (java phone?)
 Fight Club ps2
 Fighting Fury ps2
-Fighting Angels ps2
+Fighting Angels / Simple 2000 Series Vol. 55: The Catfight: Joneko Densetsu ps2
 Fighting Beauty Wulong Kakutou Bijin Wulong ps2 
 Fightin Spirit amiga cd32
 Fist Fighter amiga
@@ -1547,8 +1551,6 @@ Robot X Robot ps1
 Shin Nippon Pro Wrestling: Toukon Restsuden ps1
 Shin Nippon Pro Wrestling: Toukon Restsuden 2 ps1
 Shin Nippon Pro Wrestling: Toukon Restsuden 3 ps1
-Simple 1500 Series Vol. 22: The Pro Wrestling ps1
-Simple 1500 Series Vol. 52: The Pro Wrestling 2 ps1
 Simple 1500 Series Vol. 58: The sumou ps1
 Simple 1500 Series Vol. 99: The Kendou: Ken no Hanamichi ps1
 The Simpsons Wrestling ps1
@@ -1571,7 +1573,6 @@ Zeus: Carnage Heart Second ps1
 5 Star Wrestling ps3 ps4
 Battle Rush: Build Up Robot Tournament nes
 Chiyounofuji no Ooichou nes
-The Karate Kid nes fc2
 Moero!! Juudou Warriors nes
 Pro Wrestling nes fc2
 tag team wrestling / tag team pro wrestling nes fc2
