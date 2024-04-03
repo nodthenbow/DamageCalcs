@@ -461,13 +461,21 @@ Oozumou Spirits =- snes fc huge downgrade from nes, Y charge bar, all other walk
 Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen =- ps1 2nd guy 3K(66 2K) low, 46P (3K 66 2K) mid, no whiff throws
 Simple 1500 Series Vol. 22: The Pro Wrestling =- ps1 top left dude mash otg strikes, guard auto counters mash thows to chain
 Simple 1500 Series Vol. 52: The Pro Wrestling 2 =- ps1 same as 1, face paint woman same strats 
-Street Battle / Ranma 1/2 Chounai Gekitou Hen =- snes fc2 L+R+start over 2p option to char select, both games the same, it was edited for NA. Dozo/Kodachi good, njX fb, [p]8P full screen kd, P+K AA, damage gives invuln
+Street Combat / Ranma 1/2 Chounai Gekitou Hen =- snes fc L+R+start over 2p option to char select, both games the same, it was edited for NA. Dozo/Kodachi good, njX fb, [p]8P full screen kd, P+K AA, damage gives invuln
 Zero Divide: The Final Conflict =- Saturn E button, Zero 66PK (hitconfirm) mid, 66K low, 46P cmd grab. Crab 254P/61P fb, 43P meaty low, 22K low, P+K (3P) mid. 256G+P cmd grab
 Last Bronx =- saturn Kurosawa 3PPG (4PP 3PPG 8P) mid, 43P (3PPG 3P) low, 624P+K cmd grab, no nc strings, rng oh
 Golden Axe The Duel =- arcade saturn Zoma clHK 236P inf, 236P/j73P fb. Green 5LK inf
 Final Fight Revenge =- saturn El Gado [4]6P/K fb no limit, manual trap on PP/KK, 2lp2lp2lp2hk46hk/236236K. E to pick up items LL to swap HH to throw. Rolento also fine, has normals and rekka
 Asuka 120% LimitOver BURNING Fest =- sat 2 button + sp + dash/sj, 2D hop, Asuka 214H crazy, 6H6H/4H throw, tech same, 2LLLL6L6H 6L6H inf, gc movements, sj invuln, 88/66 ground/wall tech, tk air throw crouchers lol 
 The Karate Kid =- nes fc jK mash to nearly instant kill, counter with 2P or 5K
+Asuka 120% Limited BURNING Fest. =- sat same as LO but less, tennis 2LLLL2H214H
+Mobile Suit Gundam: EX Revue =- fc Char's Zaku 2A 6/66 2A inf, j2B/C unblk if low enough, 44/2369X invuln
+Pro Wrestling =- nes fc Pick anyone but corn mash buttons to break, can only reenter from bottom
+Super Bikkuriman =- snes fc Phoenix 6A+X spam, 2 to block, no throws/oh but normals do chip
+Tough: Dark Fight =- ps2 no throw tech, pp slow mid thr, 1/3cr, Kiryu mid 3rp lprprplppp 1rk 1rk, low 2lklprp
+Shinkon Gattai Godannar!! =- ps2 full mask + child best, 8 starters until IPS, 426LM super, 4M/5H poke
+Virtua fighter 2 vs tekken 2 =- unl fc Akira best, 3K low, 66P/236P mid, jump back timerscam
+Black & Bruised =- ps2 Tiny good, R1 to lower arms, l2+r2 to activate, sq/tri always high, L1 blocks 
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -644,7 +652,6 @@ Ranma 1/2: Battle Renaissance ps1
 kof '97 nes bootleg
 kof 98' bootleg gen
 The King of Fighters '99 (Unl)
-Virtua fighter 2 vs tekken 2 bootleg fc2
 Overkill (MS DOS 1996)
 Violent Vengeance: The Universe Hero (MS DOS 1995)
 Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
@@ -740,7 +747,6 @@ Asuka 120% Excellent BURNING Fest. ps1 / fm towns
 Asuka 120% Maxima BURNING Fest. PCE
 Asuka 120% Special BURNING Fest.
 Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
-Asuka 120% Limited BURNING Fest. saturn
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc 
 Touhou 7.5
@@ -869,7 +875,6 @@ Getamped 1 / 2 splash fighters fogfighters switch pc
 Girl Fight xb360
 Gladiator Begins psp (Gladiux is a remake apparently coming soon 2022)
 Glove on Fight 1/2 pc (Gleam of Force is 2, proto melty)
-Godannar ps2
 Goddess’ Blazon x68k
 Goiken Muyou: Anarchy in the Nippon saturn
 Goiken Muyou 2 ps1
@@ -1041,7 +1046,6 @@ A Certain Magical Virtual-On ps4/vita removed from sale
 Tobal 1/2/3 ps1
 Toriko Gourmet Ga Battle 3ds
 Battle Arena Toshinden 1/2/ura/plus/3/4/wii/GB/remix
-Tough: Dark Fight ps2
 Touhou Sky Arena -matsuri- Climax
 Touhou Hisoutensoku
 Touhou Hopeless Masquerade
@@ -1198,7 +1202,6 @@ Deadly Tournament pc
 Desembarcament pc
 Ninja Warrior Genesis pc
 Kabuki Warriors xbox
-Shinkon Gattai Godannar!! ps2
 Long Life c64
 Loons the Fight for Fame xbox
 Lucky Fight Vs. Ika Musume 3X pc
@@ -1251,7 +1254,6 @@ Steel Lords wii u
 Steel Rivals pc wii u
 Street Chaves pc
 Street Count 2+ dos
-Street Combat snes fc2
 Street Heroes nes bootleg
 Street Master gen bootleg
 Street Neo Fighter II msx
@@ -1259,7 +1261,6 @@ Street Smart fc2
 Strip Fighter IV pc
 Strip Fighter II fc2
 Strip Fighter 5 Chimpocon edition pc
-Super Bikkuriman snes fc2
 Super Combat Fighter pc (kickstarter)
 Super Fighter dos
 Swords wii
@@ -1372,14 +1373,12 @@ Backyard Wrestling: Don't Try This at Home ps2
 Backyard Wrestling 2: There Goes the Neighborhood ps2
 Barbarian ps2 Warrior Blade: Rastan vs. Barbarian
 The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% ps2
-Black and Bruised ps2
 Boxing Champions ps2 Simple 2000 Series Vol. 7: The Boxing - Real First Fighter
 Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing ps1
 Clan of Champions PS3/Steam
 Erementar Gerad: Matoe, Suifuu no Tsurugi ps2
 Erementar Gerad: Matoe, Suifu no Ken ps2
 Fightbox ps2
-Fu'un Super Combo ps2
 Galactic Wrestling: Featuring Ultimate Muscle ps2
 Hajime no Ippo Victorious Boxers / 2 ps2
 Heartbeat boxing ps2 Simple 2000 Series Ultimate Vol. 6 Love * Upper!
@@ -1521,7 +1520,6 @@ All Japan Pro Wrestling Featuring Virtua saturn
 Gundam: Battle Assault 3 Featuring Gundam SEED ps2 
 Gundam the battle master ps1
 Kidou Butouden G Gundam ps1 
-Mobile Suit Gundam: EX Revue fc2 
 SD Gundam Force: Showdown! ps2 
 Simple Characters 2000 Series vol.13 - Kidou Senki Gundam W - The Battle ps1
 Simple Characters 2000 Series vol.12 - Kidou Butouden G Gundam ps1
@@ -1574,7 +1572,6 @@ Zeus: Carnage Heart Second ps1
 Battle Rush: Build Up Robot Tournament nes
 Chiyounofuji no Ooichou nes
 Moero!! Juudou Warriors nes
-Pro Wrestling nes fc2
 tag team wrestling / tag team pro wrestling nes fc2
 Tecmo World wrestling nes fc2
 WCW world championship wrestling / super star pro wrestling fc2 nes
