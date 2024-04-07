@@ -476,6 +476,11 @@ Tough: Dark Fight =- ps2 no throw tech, pp slow mid thr, 1/3cr, Kiryu mid 3rp lp
 Shinkon Gattai Godannar!! =- ps2 full mask + child best, 8 starters until IPS, 426LM super, 4M/5H poke
 Virtua fighter 2 vs tekken 2 =- unl fc Akira best, 3K low, 66P/236P mid, jump back timerscam
 Black & Bruised =- ps2 Tiny good, R1 to lower arms, l2+r2 to activate, sq/tri always high, L1 blocks 
+Yu Yu Hakusho Makyō Tōitsusen =- gen fc Sensui fb zoning 236l/h/g 2L*n22H, lane y/g8, game has idj inf vs tall
+Lord of the Rings - The Return of the King =- unl gen fc 236236B = super (or just A for legolas), air blocking, no overheads, legolas grind supers w/ whiffs, 5K (6 5P) ob good, funny looking cancels off it too 
+Hinokakera Fragment: Eclipse =- pc https://archive.org/download/c-73-reddish-region-hinokakera-fragment-eclipse Malakh Assault, same as next game, but no loops and no 214A214C (do 214632146C), also do 2ABC not 2AB2BC
+Hinokakera Chaotic Eclipse =- pc Malakh Assault, 4C throw, [D]2/8 steps, air loops = jB66jC 5AC dl 9B66jC 5AC dl 9B66jC 5AC 9BC8C8C623B214C (D jC 5C dl 9B66B 5AC dl air loops), cl2C dl 5C dl 9B66B 5AC dl air loops, blah 214C D 66B 5AC air loops, 623C exdp, 4B6D jB 5AAC 9B66B 5AC9BC8C623B214C, 66BC 2A5B2B5C214A214C 66BC 5A9ABC8BC214B214C. Kasumi vs cr 5AC 236B-6C
+Fighter's History =- snes fc Lee stuff mostly same (236(4)P66MP only now, no 4613PP), also 6 buttons wow
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -642,7 +647,6 @@ Theatre of Pain dos
 Mad Stalker: Full Metal Forth (Gen)
 Xenophage: Alien Bloodsport dos
 The Black Heart steam
-Lord of the Rings - The Return of the King (Unl)
 Jinyong Kuaida dos
 Fight N Jokes dos (fight 'n' jokes)
 Tatsunoko Fight ps1
@@ -654,7 +658,6 @@ kof 98' bootleg gen
 The King of Fighters '99 (Unl)
 Overkill (MS DOS 1996)
 Violent Vengeance: The Universe Hero (MS DOS 1995)
-Yu Yu Hakusho Makyō Tōitsusen (the double jump infinite one) fc2
 Chain & Combo: Chaos Light pc
 Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
@@ -860,7 +863,7 @@ Fatal Fury Wild Ambition ps1
 Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
-Fighter’s History series fc2 (played karnov's)
+Fighter’s History arcade fc2 
 Fighter's History: Mizoguchi Kiki Ippatsu!! fc2
 Fighting Layer mame
 Fighting EX Layer ps4/steam
@@ -883,8 +886,6 @@ guts steam
 Heavy Metal Thunder ps2
 Heroes Vs. psp
 Higurashi Daybreak portable psp
-Hinokakera Fragment: Eclipse pc
-Hinokakera Chaotic Eclipse PC
 International Karate series (World Karate Championship) fc2 one of them
 Inuyasha Feudal Combat ps2
 Inuyasha a Feudal Fairy Tale ps1
