@@ -348,6 +348,7 @@ Battle Monsters =- Saturn Albiole 5A dash inf (p universal) 26a/b/c fireball [8]
 Advanced V.G. =- PCE has nudity, ps1 / saturn clean, Kaori j2HP ioh, 2LP 236P, don't use 214HK
 Axel City 2 =- vsav chains, throw pp/kk
 Inaho Town Dynamite Bomb: Yozu chain lp lk hk, lk hp 236lp-8hp lp lk hp 236hp-2hp, ioh jlk jhk otg 3hk
+Magical Battle Arena Fiesta =- steam played and forgot notes lol whoops todo find notes
 Celebrity Kombat =- steam UFGE asset flip snoop jGas, 4HKHK infinite 
 Phantom Breaker Omnia =- steam Fin-O 6/2M5HHH6S/6S+H, blow bar on 4S+H, mash 4S/4S+L and 2S
 Warrior Beneath Heaven =- steam UFGE asset flip guard too good 
@@ -480,7 +481,11 @@ Yu Yu Hakusho Makyō Tōitsusen =- gen fc Sensui fb zoning 236l/h/g 2L*n22H, lan
 Lord of the Rings - The Return of the King =- unl gen fc 236236B = super (or just A for legolas), air blocking, no overheads, legolas grind supers w/ whiffs, 5K (6 5P) ob good, funny looking cancels off it too 
 Hinokakera Fragment: Eclipse =- pc https://archive.org/download/c-73-reddish-region-hinokakera-fragment-eclipse Malakh Assault, same as next game, but no loops and no 214A214C (do 214632146C), also do 2ABC not 2AB2BC
 Hinokakera Chaotic Eclipse =- pc Malakh Assault, 4C throw, [D]2/8 steps, air loops = jB66jC 5AC dl 9B66jC 5AC dl 9B66jC 5AC 9BC8C8C623B214C (D jC 5C dl 9B66B 5AC dl air loops), cl2C dl 5C dl 9B66B 5AC dl air loops, blah 214C D 66B 5AC air loops, 623C exdp, 4B6D jB 5AAC 9B66B 5AC9BC8C623B214C, 66BC 2A5B2B5C214A214C 66BC 5A9ABC8BC214B214C. Kasumi vs cr 5AC 236B-6C
+Warpath: Jurassic Park =- ps1 jX and T+O unblk, face=guard box, 252 realign, sidestep unblk. Anky 66S unblk loop
 Fighter's History =- snes fc Lee stuff mostly same (236(4)P66MP only now, no 4613PP), also 6 buttons wow
+Fighter’s History =- arcade fc same as snes, do Lee stuff
+Fighter's History: Mizoguchi Kiki Ippatsu!! =- snes fc Mizoguchi 2LK 236HK236HK inf (236HK rekka up to 3)
+Evil Zone =- ps1 2 button, G/P, PPXP/clPXP never combo, clP2P loses to mash, G tech far throw + flip out, 2P throw, 2PP sidestep catch throw, cl2P techs cl2P, 44/22/66/88P super/lch/dash attack (stun/jug cash out)/jump in, 88G emp jump, 4/6/8PP, cl6G side swap, [X]P alt supers, [P] charge. Setsuna 8P safe, 4PP good
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -730,9 +735,8 @@ Fengyun Tianxia: Sanguo Pian dos
 wulin zhengba-zhi yingxiong tie dos
 touhou 15.5
 touhou 13.5
-Full Metal Alchemist Dream Carnival
-Animals Fight
-Battle Snakes
+Full Metal Alchemist Dream Carnival ps2
+Battle Snakes steam
 Bio freaks n64 ps1
 Dark Rift n64 / dos
 Deadly Arts G.a.s.p!! n64
@@ -753,9 +757,7 @@ Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc 
 Touhou 7.5
-Warpath: Jurassic Park ps1
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
-evil zone ps1
 Star Wars: Masters of Teras Kasi ps1
 Cardinal Syn ps1
 destrega ps1
@@ -863,8 +865,6 @@ Fatal Fury Wild Ambition ps1
 Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
-Fighter’s History arcade fc2 
-Fighter's History: Mizoguchi Kiki Ippatsu!! fc2
 Fighting Layer mame
 Fighting EX Layer ps4/steam
 Fighting Vipers 2 fc2
@@ -927,7 +927,7 @@ LastFight steam
 Lightning Legend: Daigo no Daibouken ps1
 little wizard gp32
 lobo unreleased fc2
-Magical Battle Arena / Fiesta steam owned
+Magical Battle Arena pc
 Magical Girl Lyrical Nanoha a’s Portable the Battles of Aces & the Gears of Destiny psp
 Mahou Sensei Negima Neo Pactio Fight wii
 Mai-otome Hime: Otome Butou Shi ps2
@@ -1687,3 +1687,4 @@ Teen Titans Battle Blitz flash
 Super Smash Flash flash
 Super Smash Flash 2 flash
 Nick Super Brawl series flash
+Nope Nope Nurses Melee steam AO
