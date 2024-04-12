@@ -339,7 +339,7 @@ project gaiaray =- ps1 Virtual On clone, first guy has bomb
 Fighting Eyes =- ps1 4th guy 1K 9K vortex. Very bad VF, El/Shimui 3P infinite
 boombots =- ps1 arena, melee r/l1 grab r/l2
 Shura No Mon =- ps1 First dude, R2 4C grab. Emo dude 6KK grab 2LP mash LP no break?
-Gundam: Battle Assault =- ps1 TODO lab more
+Gundam: Battle Assault =- ps1 Hygogg 2lp5lk2hp214p low, jlplkhk236hp high, super sucks, (j)214P good, r1=boost
 Gundam: Battle Assault 2 =- ps1 heavy arms (1st 4th row) j2LP 24P win :)
 Idol Showdown =- steam Aki, nut assist 3H 214L 2M 6M 214L 66 2L2M2H 2L5H 2L2M2H 
 Martial Masters =- fc Reika 2b/2a+b 2a6c 623d ... 623d 2362236a, 214B+C, monk 6246P/K, kof gc/qr
@@ -486,6 +486,9 @@ Fighter's History =- snes fc Lee stuff mostly same (236(4)P66MP only now, no 461
 Fighter’s History =- arcade fc same as snes, do Lee stuff
 Fighter's History: Mizoguchi Kiki Ippatsu!! =- snes fc Mizoguchi 2LK 236HK236HK inf (236HK rekka up to 3)
 Evil Zone =- ps1 2 button, G/P, PPXP/clPXP never combo, clP2P loses to mash, G tech far throw + flip out, 2P throw, 2PP sidestep catch throw, cl2P techs cl2P, 44/22/66/88P super/lch/dash attack (stun/jug cash out)/jump in, 88G emp jump, 4/6/8PP, cl6G side swap, [X]P alt supers, [P] charge. Setsuna 8P safe, 4PP good
+Abalaburn =- ps1 6/4gLP grab, no standing combos, crossups unblockable. Bian 1 bar 268HP big grab, 26P fb, pokes
+Mad Stalker - Full Metal Forth =- x68 no boost, blue 66lH/hL dash, 2L6H236lH, 22X dp, 236x fb, 66L/H punish oh
+Mad Stalker - Full Metal Force =- ps1 has boost, jXB 9 way ad, gcB, B a/g techs. neutral guard, near universal j3bL ioh, 2L jc j3bL inf. Red dude 66L inf ob/oh. red/yellow/rabbit top 3, gun/black worst
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -649,7 +652,7 @@ all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
 the untouchables 1/2 pc 
 Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
-Mad Stalker: Full Metal Forth (Gen)
+Mad Stalker: Full Metal Forth (gen 2020 release)
 Xenophage: Alien Bloodsport dos
 The Black Heart steam
 Jinyong Kuaida dos
@@ -677,7 +680,6 @@ Katekyō Hitman Reborn! Dream Hyper Battle! PS2
 TV Animation X: Unmei no Sentaku ps1
 Messiah End Revenge pc fm2k
 Sakura X Clash pc https://team-project-sakura-x.itch.io/sakura-x-clash-last-millenial-spring
-Mad Stalker: Full-Metal Force ps1
 Chaos Striker pc 2dfm https://archive.org/details/chaos-striker
 The Eye of Typhoon 3do / (beta on fc2)
 Trajes Fatais: Suits of Fate steam
@@ -778,7 +780,6 @@ Million Knights Vermilion PC (in games folder)
 Aquapazza ps3
 Arcana Heart series
 Art of Fighting Series
-AbalaBurn ps1
 2d Fighter Maker
 Fighter Maker ps1
 Fighter maker 2 ps2
@@ -1520,7 +1521,6 @@ Bishōjo Senshi Sailor Moon SuperS: Shin Shuyaku Sōdatsusen saturn / ps1
 All Japan Pro Wrestling Featuring Virtua saturn
 Gundam: Battle Assault 3 Featuring Gundam SEED ps2 
 Gundam the battle master ps1
-Kidou Butouden G Gundam ps1 
 SD Gundam Force: Showdown! ps2 
 Simple Characters 2000 Series vol.13 - Kidou Senki Gundam W - The Battle ps1
 Simple Characters 2000 Series vol.12 - Kidou Butouden G Gundam ps1
@@ -1688,3 +1688,4 @@ Super Smash Flash flash
 Super Smash Flash 2 flash
 Nick Super Brawl series flash
 Nope Nope Nurses Melee steam AO
+Oni Fight pc https://www.dlsite.com/home/work/=/product_id/RJ01102139.html/?locale=en_US
