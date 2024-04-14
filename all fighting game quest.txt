@@ -489,6 +489,8 @@ Evil Zone =- ps1 2 button, G/P, PPXP/clPXP never combo, clP2P loses to mash, G t
 Abalaburn =- ps1 6/4gLP grab, no standing combos, crossups unblockable. Bian 1 bar 268HP big grab, 26P fb, pokes
 Mad Stalker - Full Metal Forth =- x68 no boost, blue 66lH/hL dash, 2L6H236lH, 22X dp, 236x fb, 66L/H punish oh
 Mad Stalker - Full Metal Force =- ps1 has boost, jXB 9 way ad, gcB, B a/g techs. neutral guard, near universal j3bL ioh, 2L jc j3bL inf. Red dude 66L inf ob/oh. red/yellow/rabbit top 3, gun/black worst
+Gundam - The Battle Master =- ps1 (BA0) inf boost, no low/oh/throw, HP unblk no hitstun, Sazabi > Ziong/Hygog
+Double Dragon V - The Shadow Falls =- fc gen, T Happy [4/1/7]]4[6P/214K fb, 632P dp, 214mp poke, 4/6mp throw
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -767,7 +769,7 @@ Fighting Bujutsu arcade
 tech romancer fc2 
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
-double dragon v the shadow falls fc2 jaguar, gen, snes
+double dragon v the shadow falls jaguar, snes (snes not working on fightcade)
 Heavy Metal Geomatrix fc2
 motionsickness https://gamejolt.com/games/motionsickness/601247 
 EN-Eins Perfektewelt
@@ -1520,7 +1522,6 @@ Blast Chamber saturn
 Bishōjo Senshi Sailor Moon SuperS: Shin Shuyaku Sōdatsusen saturn / ps1
 All Japan Pro Wrestling Featuring Virtua saturn
 Gundam: Battle Assault 3 Featuring Gundam SEED ps2 
-Gundam the battle master ps1
 SD Gundam Force: Showdown! ps2 
 Simple Characters 2000 Series vol.13 - Kidou Senki Gundam W - The Battle ps1
 Simple Characters 2000 Series vol.12 - Kidou Butouden G Gundam ps1
