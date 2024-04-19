@@ -1,5 +1,5 @@
 All fighting game quest
-(60 lines of not definitely fighting games, 149 lines extra total)
+(61 lines of not definitely fighting games, 150 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -490,7 +490,13 @@ Abalaburn =- ps1 6/4gLP grab, no standing combos, crossups unblockable. Bian 1 b
 Mad Stalker - Full Metal Forth =- x68 no boost, blue 66lH/hL dash, 2L6H236lH, 22X dp, 236x fb, 66L/H punish oh
 Mad Stalker - Full Metal Force =- ps1 has boost, jXB 9 way ad, gcB, B a/g techs. neutral guard, near universal j3bL ioh, 2L jc j3bL inf. Red dude 66L inf ob/oh. red/yellow/rabbit top 3, gun/black worst
 Gundam - The Battle Master =- ps1 (BA0) inf boost, no low/oh/throw, HP unblk no hitstun, Sazabi > Ziong/Hygog
-Double Dragon V - The Shadow Falls =- fc gen, T Happy [4/1/7]]4[6P/214K fb, 632P dp, 214mp poke, 4/6mp throw
+Double Dragon V - The Shadow Falls =- fc gen/snes T Happy [4/1/7]]4[6P/214K fb, 632P dp, 214mp poke, 4/6mp throw
+Blue Breaker Burst Bishou/Hohoemi o Anata to =- ps1 L+H throw, 28/22 step, G+S super (slow but hits pre flash). Karmi (headband) 66H LLL 8H 8S oki, 2LL low (nerfed heavily in sequel)
+Blue Breaker Burst Egao no Asu ni =- ps1 Same mechanics as other. Top right scythe lady, 6H/2H tracking, 26H LL6L 8H safe mid launch, 24S good fb tracking launch, throw has dead zone
+Voltage Fighter gowcaizer / Choujin Gakuen Gowcaizer =- fc Karin (3rd) 624C mini faust, 426P fb car 4/6p turn around 2X dismount, sfxt rolento them (5A*n 2147B), 56C/D throw
+Kageki =- fc game over > 2p start to pvp for the credit. L+H (hold okay) to duck (iframes), L better than H
+Mighty Warriors =- fc Mc-Datho 2nd last, P1's w2L unblk. Eteocles (3rd last) has mid fb, no OHs, no throws until unarmed, everything does chip, 236H fbs done in 6-8f skips startup, meaty = unblk, LHK to swap out.
+Critical Blow =- ps1 berserker 4p 66 inf vs stand, 4p 6p236p, oh[6]k 66 jk 4p236p, fast oh 4k(2)236p 236p, 2k236p low, A+P/K i2 throw no techs, 236236P super. Everything is unsafe if close, dash 4p/ect to punish
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -517,7 +523,7 @@ ultra space battle brawl =- steam pong 4
 Maximum Fighterz: Direct Offensive Action =- turn based
 BASTARD!! Ankoku no Hakaishin =- fc more of a vs shmup I guess. Pick elf lady, hold R to spell
 Black Clover: Quartet Knights steam (bamco shonen) =- chivalry 
-Nessa no Hoshi PS1 =- Single player rpg(?) game
+Nessa no Hoshi ps1 =- Single player rpg(?) game
 F*ckable Kim =- steam, beat em up
 Virtual Taekwondo =- ar/vr taekwondo sim, not video game enough to really count
 Toribash pc =- the weird joints physics one
@@ -537,6 +543,7 @@ Fighting game minigames in unrelated genres
 Dino Crisis 2 =- Dino Duel clear bonus
 Xenogears =- battle mode
 Onmyou Taisenki - Hasha no in =- battle mode
+Shadow Tower =- ps1 has a fg mode if you collect enough monster data or w/e
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -671,7 +678,6 @@ Violent Vengeance: The Universe Hero (MS DOS 1995)
 Chain & Combo: Chaos Light pc
 Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
-Blue Breaker Burst Bishou o Anata to / Egao no Asu ni (1/2) ps1
 Samurai Deeper Kyo ps1
 Gokuu Densetsu: Magic Beast Warriors ps1
 Metal & Lace 1/2 dos
@@ -691,7 +697,6 @@ FIST saturn
 Hellish Quart steam
 shadow warriors 3do
 shadow war of succession 3do
-Critical Blow ps1
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Ninpuu Sentai Hurricanger ps1
@@ -769,7 +774,7 @@ Fighting Bujutsu arcade
 tech romancer fc2 
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
-double dragon v the shadow falls jaguar, snes (snes not working on fightcade)
+double dragon v the shadow falls jaguar
 Heavy Metal Geomatrix fc2
 motionsickness https://gamejolt.com/games/motionsickness/601247 
 EN-Eins Perfektewelt
@@ -1069,7 +1074,6 @@ Ultra Vortek jaguar
 Unholy Night: The Darkness Hunter snes (2017 game wtf)
 Urban Reign ps2
 Viewtiful Joe - Red Hot Rumble psp gcn
-Voltage Fighter gowcaizer / Choujin Gakuen Gowcaizer fc2
 Valkyrie: The Power Beauties pc98
 War of the Monsters ps2
 Wu-tang: Shaolin Style ps1
@@ -1083,7 +1087,7 @@ Yu Yu Hakusho / Bakutou Ankoku Bujutsu Kai / Ii
 Yu Yu Hakusho Forever & Tokubetsu Hen
 Yu Yu Hakusho & Yu Yu Hakusho Final
 Yu Yu Hakusho Dai Ni Tama & Kakutou No Shou
-Ys Vs. Sora No Kiseki: Alternative Saga psp
+Ys Vs. Sora No Kiseki: Alternative Saga / Ys vs. Trails in the Sky psp
 Zatchbell: Yuujou No Zakeru Dream Tag Tournament / Go! Go! Mamono Fight!!
 Zatchbell: Mamodo Battles & Mamodo Fury
 Zatchbell: Electric Arena 1&2
@@ -1186,7 +1190,6 @@ Reverthion ps1
 Imkkeokjeong pc
 Jotei Senki series x68k
 Reikai Doushi (The Last Apostle Puppet Show): Chinese Exorcist mame
-Kageki fc2
 Ka-ge-ki fists of steel gen fc2
 Kakoong pc dos
 Kamen No Maid Guy: Boyoyon Battle Royale psp
@@ -1220,7 +1223,6 @@ fighting heart steam owned
 fighting mad lads steam owned
 fisticubes steam owned
 Metal Masters atari st
-Mighty Warriors fc2
 Monster: Ancient Cline pc unreleased
 zoku sonohigurashi vs touhou universe 2 steam
 Mortal Szombat pc
