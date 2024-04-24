@@ -497,6 +497,12 @@ Voltage Fighter gowcaizer / Choujin Gakuen Gowcaizer =- fc Karin (3rd) 624C mini
 Kageki =- fc game over > 2p start to pvp for the credit. L+H (hold okay) to duck (iframes), L better than H
 Mighty Warriors =- fc Mc-Datho 2nd last, P1's w2L unblk. Eteocles (3rd last) has mid fb, no OHs, no throws until unarmed, everything does chip, 236H fbs done in 6-8f skips startup, meaty = unblk, LHK to swap out.
 Critical Blow =- ps1 berserker 4p 66 inf vs stand, 4p 6p236p, oh[6]k 66 jk 4p236p, fast oh 4k(2)236p 236p, 2k236p low, A+P/K i2 throw no techs, 236236P super. Everything is unsafe if close, dash 4p/ect to punish
+Genei Tougi: Shadow Struggle =- ps1 no whiff throws (A+P). Niel (PK/6K)214A dl PK 28A 62P, 624P (cmd grab) 9P 6P28A 62P, ioh 9P 624P 6P28A 62P, 214A safe low. Reymond (PK/[4]K)46A K46A PK 624K 6 8P ToD
+Mizuki Shigeru no Yokai Butouden =- ps1 scythe weasle, 96X ioh, 2HK low, 5HP28HK combos, 426HP fb, HP+HK throw
+Ninku: Tsuyokina Yatsura no Daigekitotsu! =- sat 64/46L throw, blonde guy j236X fb, 22L/M fb, 22H super, 66M/5M
+Hana No Keiji: Kumo No Kanata =- snes fc 1st guy 236X cmd grab, blocking sucks, 236X otg loop in corner
+Sokko Seitokai: Sonic Council =- sat Rika 2lk5mp2hp/236pp low, tkj214p ioh. Aya 214x unblk loop, j2mk divekick
+Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan =- fc spear dude MK MK 66PK, [4]6P fb, 6PP throw, 22P super, AAs bad, PP = hp, KK = hk
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -649,11 +655,9 @@ Crimson Alive pc
 Phantom Breaker Extra ps3/xb360
 Zarigani-bu https://twitter.com/gurizuri_bu 
 Way of the Warrior 3DO
-mizuki shigeru no yokai butouden ps1
 Kakugo no Susume ps1
 Shaolin / Lord of Fist ps1
 head 2 head steam
-Genei Tougi: Shadow Struggle ps1
 Dragon Blast: Project Soul Gainer pc
 Dragon Blast SE pc
 gado fight steam
@@ -706,7 +710,6 @@ Violence Vengeance dos
 Burning Rival arcade sega am2
 Line-kill! Spirits http://gpsc.sakura.ne.jp/gsr1/index_e.html wack jp panty shot fighting game 
 Battle Master ps1
-Ninku: Tsuyokina Yatsura no Daigekitotsu! Sega Saturn
 Kabuki Ittou Ryoudan (PC engine)
 les miserables Arm Joe Les Misérables pc http://takase.syuriken.jp/ArmJoe.htm 
 dot fighters http://takase.syuriken.jp/DF_index.html
@@ -772,7 +775,6 @@ Cardinal Syn ps1
 destrega ps1
 Fighting Bujutsu arcade
 tech romancer fc2 
-Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan fc2
 Kabuki Ichito Ryodan PCE
 double dragon v the shadow falls jaguar
 Heavy Metal Geomatrix fc2
@@ -833,7 +835,7 @@ def jam series
 Dengeki Bunko Fighting Climax ps3 (pretty sure I played and own it)
 Digimon Rumble Arena 1/2
 Digimon Battle Spirit 1/1.5/2
-Digimon All-star Rumble
+Digimon All-star Rumble ps3/360
 Dissidia series
 Doodle Hex ds
 Dragon Ball series of games (played a ton of them already, multiple on fc2)
@@ -1024,7 +1026,6 @@ Silver Knights pc
 Skyscrappers steam owned
 Slam Masters series (fc2 for 1)
 Snk Gals Fighters neogeo pocket color
-Sokko Seitokai: Sonic Council saturn
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
 Star Gladiator 1/2 (plasma sword) ps1
@@ -1170,7 +1171,6 @@ Godzilla & Destroy All Monsters & Monster Mayhem
 Godzilla Destroy All Monsters Melee & Domination!
 Godzilla Save the Earth & Unleashed
 Godzilla / Vs
-Hana No Keiji: Kumo No Kanata snes fc2
 Human Killing Machine dos hkm
 Hard Knock High (Honoo No Kakutou Banchou) ps2
 Heavyweight Champ https://en.wikipedia.org/wiki/Heavyweight_Champ
@@ -1692,3 +1692,4 @@ Super Smash Flash 2 flash
 Nick Super Brawl series flash
 Nope Nope Nurses Melee steam AO
 Oni Fight pc https://www.dlsite.com/home/work/=/product_id/RJ01102139.html/?locale=en_US
+Traintracks Combat https://squigglez.itch.io/traintracks-combat
