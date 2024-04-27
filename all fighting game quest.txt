@@ -1,5 +1,5 @@
 All fighting game quest
-(61 lines of not definitely fighting games, 150 lines extra total)
+(63 lines of not definitely fighting games, 152 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -503,6 +503,12 @@ Ninku: Tsuyokina Yatsura no Daigekitotsu! =- sat 64/46L throw, blonde guy j236X 
 Hana No Keiji: Kumo No Kanata =- snes fc 1st guy 236X cmd grab, blocking sucks, 236X otg loop in corner
 Sokko Seitokai: Sonic Council =- sat Rika 2lk5mp2hp/236pp low, tkj214p ioh. Aya 214x unblk loop, j2mk divekick
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan =- fc spear dude MK MK 66PK, [4]6P fb, 6PP throw, 22P super, AAs bad, PP = hp, KK = hk
+Battle Master =- ps1 l1/l2+T to dodge, repeated move staling, 2nd dude, any two fast attacks work, no guard
+Moero!! Juudou Warriors =- nes A to buff chance, B to toss when chance is max, no nootch, only grapple
+Master Fighter II =- nes unl meaties unblk, Chun > Guile, can combo grab on hit, grab punishable in blockstun
+MASTER FIGHTER III =- nes unl MF2, but with Bison as a hidden character, easy best too, specials sucks still
+Mario Fighter III =- nes unl MF3, but with trans icon Mario. Mario is a Zangief clone. Bison best
+SD Battle Ozumo: Heisei Hero Basho =- nes worse Tsuppari Oozumou, 4B in grapples, no whiff slap w/ A always
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -543,6 +549,7 @@ Hiryū no Ken II: Dragon no Tsubasa =- nes turn based who gets to attack snd who
 Hiryū no Ken Special: Fighting Wars nes =- nes turn based who gets to have hitboxes/hurtboxes
 Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
 Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as 2Flying Warriors
+Kamen Rider SD: Shutsugeki!! Rider Machine snes =- belt scrolling beat em up with weird vs mode
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -550,6 +557,7 @@ Dino Crisis 2 =- Dino Duel clear bonus
 Xenogears =- battle mode
 Onmyou Taisenki - Hasha no in =- battle mode
 Shadow Tower =- ps1 has a fg mode if you collect enough monster data or w/e
+Zombie Revenge =- dc has fg mode
 
 -------------------------------------------------------
 Special gundam section because I don't know what they are until I play them
@@ -645,6 +653,9 @@ Rising Spirit https://twitter.com/RisingSpiritVG
 Sentinels Inc https://twitter.com/SentinelsInc
 Cerebrawl https://cerebrawl.itch.io/cerebrawl
 Checkmate Showdown https://twitter.com/Checkm8Showdown
+Axel City 2 The Final Storm https://x.com/atsukinman/status/1784173926958145849
+Asuka 120% Exalent in exa arcadia jail
+Breakers Revenge Shika Mamoru / Chicago in exa arcadia jail
 
 -------------------------------------------------------
 Unplayed:
@@ -709,7 +720,6 @@ Sango Guardian Chaos Generation steam
 Violence Vengeance dos
 Burning Rival arcade sega am2
 Line-kill! Spirits http://gpsc.sakura.ne.jp/gsr1/index_e.html wack jp panty shot fighting game 
-Battle Master ps1
 Kabuki Ittou Ryoudan (PC engine)
 les miserables Arm Joe Les Misérables pc http://takase.syuriken.jp/ArmJoe.htm 
 dot fighters http://takase.syuriken.jp/DF_index.html
@@ -906,16 +916,25 @@ Jojo’s Bizarre Adventure: Last Survivor
 J-stars Victory Vs
 Jump Force
 Jump Superstars & Ultimate Stars
-Kamen Rider Climax Scramble Zi-o / Climax Heroes / Fourze
-Kamen Rider / Sss / 555 / blade / hibiki ps2
-Kamen Riders Climax Fighters
-Kamen Rider: Climax Heroes/ooo/dragon Knight
-Kamen Rider One / 
+Kamen Rider: Climax Scramble (Zi-o) switch 
+Kamen Rider: Climax Heroes ps2
+Kamen Rider: Climax Heroes W wii 
+Kamen Rider: Climax Heroes Fourze wii/psp
+Kamen Rider: Climax Heroes 000 psp 
+Kamen Rider 555 ps2 / 
+Kamen Rider Blade ps2 
+Kamen Rider Hibiki ps2
+Kamen Rider: Climax Fighters ps4 
+Kamen Rider: Super Climax Heroes wii
+Kamen Rider Dragon Knight wii/ds
+Kamen Rider ps1 
 Kamen Rider Ryuki ps1
 Kamen Rider ps1
 Kamen Rider Kuuga ps1
 Kamen Rider V3 ps1
 Kamen Rider Agito ps1
+Kamen Rider Kabuto ps2
+Kamen Rider Kiva: Hiragana Sūji Chie Battle!! sega advanced pico beena
 Kid Station: Kamen Rider Heros ps1
 Kakuge Yarou Fighting Game Creator ps1
 Katekyo Hitman Reborn! Ds Flame Rumble X / Ds Flame Rumble Xx / Kizuna No Tag Battle
@@ -1215,8 +1234,6 @@ Lucky Fight Vs. Ika Musume 3X pc
 Legend of the Dragon wii ps2 psp
 Marvel Super Hero Squad: The Infinity Gauntlet wii ps3 xb360
 Master Axe the Genesis of Mysterx amiga
-Master Fighter II nes bootleg
-MASTER FIGHTER III nes bootleg
 Moon Fighter x68k
 fighting hero 1/3 nes bootleg
 fighting heart steam owned
@@ -1251,7 +1268,6 @@ Istanbul Beyleri pc https://archive.org/details/istanbul-beyleri
 Shrek Super Slam / Fairy Tale Freakdown
 Skorecery ps4
 Slam Dragon ps1 post round supers count 
-SD Battle Ozumo: Heisei Hero Basho nes
 Small Arms xblig
 Spitting Image amiga
 Stake Fortune Fighters xbox
@@ -1575,7 +1591,6 @@ Zeus: Carnage Heart Second ps1
 5 Star Wrestling ps3 ps4
 Battle Rush: Build Up Robot Tournament nes
 Chiyounofuji no Ooichou nes
-Moero!! Juudou Warriors nes
 tag team wrestling / tag team pro wrestling nes fc2
 Tecmo World wrestling nes fc2
 WCW world championship wrestling / super star pro wrestling fc2 nes
