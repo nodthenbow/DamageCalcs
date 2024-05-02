@@ -509,6 +509,18 @@ Master Fighter II =- nes unl meaties unblk, Chun > Guile, can combo grab on hit,
 MASTER FIGHTER III =- nes unl MF2, but with Bison as a hidden character, easy best too, specials sucks still
 Mario Fighter III =- nes unl MF3, but with trans icon Mario. Mario is a Zangief clone. Bison best
 SD Battle Ozumo: Heisei Hero Basho =- nes worse Tsuppari Oozumou, 4B in grapples, no whiff slap w/ A always
+Street Blaster II Pro =- nes unl Sim j3K oh/unblk dive kick, 5P+K fb
+Street Blaster IV Pro 10 =- nes unl sequel to II, has balrog and vega, Sim j3K still OP tho
+Street Blaster V - Turbo 20 =- nes unl same as IV, but doubles the roster with clone chars
+Street Fighter - 60 Players =- nes unl same as Street Blaster V, but more clones and sim j3K is a low
+Teenage Mutant Ninja Turtles: Tournament Fighters =- nes Shredder 62P fb, clP AA, 2P grab orb, 26P throw
+The Unholy War =- ps1 standard arena fighter, both teams fairly balanced, homing shots and runaway strong
+Destrega =- ps1 Zauber too good. L1 blocks, timed parries, charge>L1 auto parry, R1 dash (guard cancelable)
+Toy Fighter =- fc frog 8K 6PK 13P2222PPP, parry on 6/3P+K, works as burst in juggle
+Aqua Kids =- ps2 standard arena fighter with a focus on projectiles. Shield doesn't work up close
+Ra.One =- ps2 arena fighter, trivial inf from not doing light enders. Red boy super is nuts, Women dodge fast
+Garōden Breakblow =- ps2 (garoden) top row left of center PPKPPPPPK, can walk during hitstun, 5 to auto guard
+Garōden Breakblow Fist or Twist =- ps2 (garoden) same as 1, but bottom row. P+G-A wall hit is crazy, mid do P
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -550,6 +562,7 @@ Hiryū no Ken Special: Fighting Wars nes =- nes turn based who gets to have hitb
 Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
 Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as 2Flying Warriors
 Kamen Rider SD: Shutsugeki!! Rider Machine snes =- belt scrolling beat em up with weird vs mode
+David Douillet Judo =- ps2 RPS plus rhythm game stuff, 1>2>3>1, both walk dirs chooses set of options
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -560,7 +573,7 @@ Shadow Tower =- ps1 has a fg mode if you collect enough monster data or w/e
 Zombie Revenge =- dc has fg mode
 
 -------------------------------------------------------
-Special gundam section because I don't know what they are until I play them
+Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
 G-Saviour ps2
 Gundam Assault Survive psp
 Gundam Battle Chronicle psp
@@ -656,10 +669,11 @@ Checkmate Showdown https://twitter.com/Checkm8Showdown
 Axel City 2 The Final Storm https://x.com/atsukinman/status/1784173926958145849
 Asuka 120% Exalent in exa arcadia jail
 Breakers Revenge Shika Mamoru / Chicago in exa arcadia jail
+Rage of the Dragons W exa arcadia jail
+Fallen Angel Revenge exa arcadia jail
 
 -------------------------------------------------------
 Unplayed:
-the unholy war ps1
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -706,7 +720,6 @@ Sakura X Clash pc https://team-project-sakura-x.itch.io/sakura-x-clash-last-mill
 Chaos Striker pc 2dfm https://archive.org/details/chaos-striker
 The Eye of Typhoon 3do / (beta on fc2)
 Trajes Fatais: Suits of Fate steam
-Toy Fighter fc2
 Fist ps1 
 FIST saturn
 Hellish Quart steam
@@ -782,7 +795,6 @@ Touhou 7.5
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
 Star Wars: Masters of Teras Kasi ps1
 Cardinal Syn ps1
-destrega ps1
 Fighting Bujutsu arcade
 tech romancer fc2 
 Kabuki Ichito Ryodan PCE
@@ -892,8 +904,6 @@ Flame of Recca: Final Burning ps2
 Flash Hiders pce and tgfx, 
 Fuuka Taisen pc
 Gang Beasts steam (physics based so whatever, also I've seen a lot of it)
-Garōden Breakblow ps2 (garoden)
-Garōden Breakblow Fist or Twist ps2 (garoden) Garouden break blow fist or twist
 Getamped 1 / 2 splash fighters fogfighters switch pc
 Girl Fight xb360
 Gladiator Begins psp (Gladiux is a remake apparently coming soon 2022)
@@ -1291,7 +1301,7 @@ Survival Arts mame
 Sword Dancer series pc98
 Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch nes
 The Bread Pub Brawlers ps4
-Brawl Brothers 1/2 FC
+Brawl Brothers 1/2 snes fc2
 The Circle wii cancelled
 The Great Fighter pc korean
 The Grim Adventures of Billy and Mandy wii gcn ps2
@@ -1331,7 +1341,7 @@ FateAxis -OMEGA Edition- https://www.vector.co.jp/soft/win95/game/se360675.html
 FateAxis 2 ~ The Fragment http://platform.xsrv.jp/rokusuijo/DL/download.htm
 FateAxis 1, enlargement edition, and 2
 Ever Nights エバー・ナイツ PC http://www.vector.co.jp/soft/dl/win95/game/se387396.html
-SMBZ-G
+SMBZ-G pc fan game
 Ohneachan pc
 2v2 vs memorial https://archive.org/details/2vs2-vs-memorial
 Samurai gunn 2 steam
@@ -1389,7 +1399,6 @@ Pro Boxing Simulator amiga
 Best Bout Boxing arcade
 All Star Pro-Wrestling I/II/III ps2
 Ape Escape: Pumped & Primed ps2
-Aqua Kids ps2
 Ashita no Joe: Masshiro ni Moe Tsukiro ps2
 Backyard Wrestling: Don't Try This at Home ps2
 Backyard Wrestling 2: There Goes the Neighborhood ps2
@@ -1609,7 +1618,6 @@ craft fighter https://lutris.net/games/craft-fighter/
 battle cross fever https://battlecrossfever.com/
 Bleach Vs Naruto flash
 Titanic Kung-fu bot offensive flash
-Street Blaster 2 Pro nes bootleg
 KOF 20XX / KOF 20x2 http://maximoff.alreadyread.net/kof20x2/
 hero 108 hidden kingdom showdown flash
 Playstation Move Sports Champions 2 Boxing ps3
