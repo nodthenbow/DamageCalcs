@@ -44,7 +44,7 @@ Galactic Warriors =- fc robot fighter, attack switch button, slow
 Astra Superstars =- sunsoft, flying game, has santa girl
 waku waku 7 =- fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
 Galaxy Fight =- 1 second rounds tournament game, viable to solve some day
-Slap Happy Rhythm Busters =- ps1, rhythm game supers
+Slap Happy Rhythm Busters =- ps1 Mia LKHP2HP (4HP 46HP)/(95HK 22KK)/(crn 2HP 46HP/22KK). Bosses, Merc 6LPLK inf, Stealth 662 (L/R) 2LPLK5HP(46P cmd grab/5HK2HK oh/2HK low)
 Eternal Champions =- gen fc has yin yang stamina bars
 Eternal Champions 2 =- sega cd version of ec pretty much
 Asura Buster =- fc big sword guy named goat
@@ -92,6 +92,7 @@ Granblue Fantasy: Versus =- too slow, throws also are very reactable so only can
 Granblue Fantasy: Versus Rising =- same as 1 but has Siegfried
 Guilty Gear The Missing Link =- Faust (2S2H 623R 66)*inf 
 Guilty Gear X =- TODO lab more
+Guilty Gear X =- GBA Venom 624X place, j236S, 623H hkd, throw 5h 46h, k p set 5p/2h, fdc maybe, 214236S nuts
 Guilty Gear X Plus =- ps2 version of X
 Guilty Gear X2 / XX =- TODO lab more
 Guilty Gear X2 #Reload / XX #Reload =- TODO lab more
@@ -258,7 +259,10 @@ all virtua fighter games
 Virtua Fighter Kids 
 Virtua Fighter 2 Genesis =- fc best vf, 66P+G, 236 wd, 33P+K splash, 2K 236pkg post retract
 Virtua Fighter Remix saturn
-World Heroes 1/2/jet/perfect =- pick dictator, redic jabs and redic pokes
+World Heroes =- fc race to Broken 2lp2lp... tod, tap = light, 46p fb, 263p aa, hogan 2nd best, 46p 360p, rasputin j236p really good though
+World Heroes 2 =- fc Rasputin 2LK*3 426P j236P good, IB reflects, Broken and football are Sagats
+World Heroes Jet =- fc Broken 214P great for pressure/chip, dashes added
+World Heroes Perfect =- fc Ryoko 662PP inf, 4 button game, PP/KK=HP/HK, 426P cmd grab, hsdm 6426BCD, IB gone
 Alien Challenge =- played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
 Ballz series =- ballz
 Rise of the Robots =- mantis dude has jump ins that hit low
@@ -521,6 +525,28 @@ Aqua Kids =- ps2 standard arena fighter with a focus on projectiles. Shield does
 Ra.One =- ps2 arena fighter, trivial inf from not doing light enders. Red boy super is nuts, Women dodge fast
 Garōden Breakblow =- ps2 (garoden) top row left of center PPKPPPPPK, can walk during hitstun, 5 to auto guard
 Garōden Breakblow Fist or Twist =- ps2 (garoden) same as 1, but bottom row. P+G-A wall hit is crazy, mid do P
+Saturday Night Slam Masters / Muscle Bomber: The Body Explosion =- fc snes/gen/arc haggar best A+J, luche 2nd
+Ring of Destruction: Slam Masters II / Super Muscle Bomber: The International Blowout =- fc Saber 66lk lp lk inf vs crouch, 66lk 5lk inf vs stand, 46p okay fb, g37g untechable if timed right, g to tech throws
+Battle Stadium D.O.N =- gcn/ps2 luffy AAA6S, j8S, kill off top with 8A jc jAS if needed, never super
+Tech Romancer =- fc dc Wise Duck (boss if unlocked), no jump, sent armor, G66/6B 46A/46A+J, item abj, gb w/ abg, ik w/ abgj (combo after g66), boss gets gj fast side dodge, j land mine good 
+Gekido: Urban Fighters =- ps1 no combos, only heavy hits crouch is oh, 1st dude good, abuse items and crouch
+Tōkidenshō Angel Eyes toukidenshou angel eyes =- fc M Power far left, 66HP/jKKhp 2lp5lkhp(1)2hk236hp 65lp2lp5lphp(2)8hkhk tod usually, 2lp low, kk homing dash, 4 jumps inf air actions, round start jlk~j2hk-KK jHP~jHK 5LP2HP(j)5HK 6LK6HK tod usually, chicken guard like mad, infinite stages
+Tecmo World Wrestling =- nes fc everyone same, mash constantly when down, moving bar is who wins grapples
+Fight Club =- ps2 8/6/2G HML counter, breaks combos, Lou/Richard if unlocked 1LK strings low starter, 2LP/2HP mid strings, LK pokes, throws high and untechable, 4 or G blocks HM, 2G blocks L
+WWF Wrestlemania: steel cage challenge =- nes all dudes same, K -oh, but you can walk out of range after
+WWF Wrestlemania =- nes Andore the Giant best, K good knd, 6P+K to throw, pins w/ P, kinda weird to hit
+WWF Wrestlemania challenge =- nes Hogan, Rick Rude > Big Boss Man, A+B good, no meaties, select to switch
+Knockout Kings =- GBC start to cheat, jab best, no blocking, A+B to grapple for time/hp, powerups meh
+Fire Pro Wrestling Combination Tag =- wii/pce fc Luchador best, start is 3rd button up close, grapple 2H
+Chiyounofuji no Ooichou =- nes same as other sumo games, 2 to charge, no slaps
+Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch =- nes 4th down left side mash 5bA
+Shin Oh Ken: Ragnagard =- fc Igret 66LP2LK2LP2LP2HK/[2]8HK all chains, 46K low drills, [2]8k fk, j2LP+LK divekick 2LP+LK jHP 2LP 28HK Chicken block like mad. Chichi-Nene 646P free seiei enbu. ABC/BCD charge bar
+Best of the Best: Championship Karate =- nes hold button changes moveset, [x]6 strong 
+Tag Team Wrestling / Tag Team Pro Wrestling =- nes fc P only horizontal, sets up grab, b to scroll through
+Drag Her! Failure to Launch =- steam, 1st char, L(2)4A confirm, 2H4B 5L2B, crn L+A 5L2H+B, 2A/B dp, 2G good af
+Mobile Suit Gundam: Char's Counterattack (1998) =- ps1 Sazabi, T target, R2 swap, R1+s/x/o sub, x boost, o guard, r1+t swap part target, l1/l2 rise/lower, shoot locks movement, tiers kinda flat
+Ossu!! Karate Bu =- snes fc tall+trench solid, vega best 5lk inf, sjc blockstun then pjc into normals
+kart fighter =- nes unl peach best I guess, meaties unblockable, hummer team sf2 engine standard
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -563,6 +589,7 @@ Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
 Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as 2Flying Warriors
 Kamen Rider SD: Shutsugeki!! Rider Machine snes =- belt scrolling beat em up with weird vs mode
 David Douillet Judo =- ps2 RPS plus rhythm game stuff, 1>2>3>1, both walk dirs chooses set of options
+Street Smart gen/arc both beat em ups, gen Yie Ar Kung-Fu style, arc belt
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -571,6 +598,7 @@ Xenogears =- battle mode
 Onmyou Taisenki - Hasha no in =- battle mode
 Shadow Tower =- ps1 has a fg mode if you collect enough monster data or w/e
 Zombie Revenge =- dc has fg mode
+Konamic Sports in Seoul/Track & Field II (コナミックスポーツ イン ソウル) =- nes Fencing 2A best, guard broken by being closer. Taekwondo front kick and jump kick best moves
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -599,7 +627,6 @@ Mobile Suit Gundam Online pc
 Mobile Suit Gundam SEED: Federation vs. Z.A.F.T. Portable
 Mobile Suit Gundam Seed Destiny: Rengou vs. Z.A.F.T. II
 Mobile Suit Gundam Z: AEUG vs. Titans
-Mobile Suit Gundam: Char's Counterattack (1998) ps1
 Mobile Suit Gundam: Crossfire (a.k.a. Mobile Suit Gundam: Target in Sight) ps3
 Mobile Suit Gundam: Extreme Vs.
 Mobile Suit Gundam: Extreme Vs. 2
@@ -642,7 +669,6 @@ Trajes Fatais https://mobile.twitter.com/trajesfatais
 Pocket Bravery steam
 Beat Down https://mobile.twitter.com/BeatDownGame
 Battle Integra https://mobile.twitter.com/garagepro7
-Drag Her https://mobile.twitter.com/ianipoos https://twitter.com/dragherthegame
 Earth Romancer https://mobile.twitter.com/earthromancer https://drive.google.com/file/d/1mc3kG8fXSPri3AhoB95HnJEfqWWWeUqV/view
 knockout! https://youtu.be/LIig-l7OVMQ
 T.I.P. Rumble https://youtube.com/user/TheLegendaryTorball
@@ -739,7 +765,6 @@ dot fighters http://takase.syuriken.jp/DF_index.html
 Fighter Street VI. 12 Peoples bootleg nes
 Jang Pung II gen/sms/gg bootleg
 Jang Pung 3 gen/sms bootleg
-kart fighter nes bootleg
 Mareo GO Kart Galaxy Strikers 40/5 pc mugen itch
 mortal kombat ii yoko pirate
 Mortal Kombat 3 sms brazil only release
@@ -782,7 +807,6 @@ Ultraman 3do
 street overlord ZC-780
 Kasumi Ninja jaguar
 Fight for Life jaguar
-Tōkidenshō Angel Eyes toukidenshou angel eyes fc2
 fx fighter / fx fighter turbo pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
@@ -796,7 +820,6 @@ Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
 Star Wars: Masters of Teras Kasi ps1
 Cardinal Syn ps1
 Fighting Bujutsu arcade
-tech romancer fc2 
 Kabuki Ichito Ryodan PCE
 double dragon v the shadow falls jaguar
 Heavy Metal Geomatrix fc2
@@ -819,7 +842,6 @@ Axel City 1 arcade
 battlebots gcn
 battle high 1 (idk, maybe ask the dev Mattrified on twitter?)
 Combat of Giants series https://en.wikipedia.org/wiki/Combat_of_Giants
-Battle Stadium D.o.n gcn/ps2
 Battle Tryst mame
 Be-bop Bout msx2 mame
 Big Bang Beat / Revolve pc https://drive.google.com/file/d/1HI93zGlshX4Q5SW8Jqq0QKQuETcygtnV/view
@@ -1017,7 +1039,6 @@ One Piece Super Grand Battle X
 One Punch Man: a Hero Nobody Knows
 Onimusha Blade Warriors ps2
 Onna Sanshirou: Typhoon Gal mame
-Ossu!! Karate Bu snes fc2
 Pacific Rim: the Video Game ps3
 Pen 1 Grand Prix: Penguin No Mondai Special ds
 Rekishi Taisen Gettenka Tenkaichi battle royale ds
@@ -1053,7 +1074,6 @@ Shonen Jump Jikkyou Janjan Stadium android
 Shovel Knight Showdown steam
 Silver Knights pc
 Skyscrappers steam owned
-Slam Masters series (fc2 for 1)
 Snk Gals Fighters neogeo pocket color
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
@@ -1182,7 +1202,6 @@ Fighter amiga
 Gate of Destiny amiga
 Fatal Challenge dos
 Fatality mobile (java phone?)
-Fight Club ps2
 Fighting Fury ps2
 Fighting Angels / Simple 2000 Series Vol. 55: The Catfight: Joneko Densetsu ps2
 Fighting Beauty Wulong Kakutou Bijin Wulong ps2 
@@ -1263,7 +1282,6 @@ Pray for Death dos
 ReadySet Heroes ps4
 Revengers of Vengeance / battle fantasy sega cd
 Rock'em Sock'em Robots Arena ps1
-Shin Oh Ken: Ragnagard fc2
 Saber Marionette J: Battle Sabers ps1
 Saiyuki Reload: Gunlock ps2
 Sakigake!! Otokojuku ps2
@@ -1288,8 +1306,7 @@ Street Chaves pc
 Street Count 2+ dos
 Street Heroes nes bootleg
 Street Master gen bootleg
-Street Neo Fighter II msx
-Street Smart fc2
+Street Fighter II Neo: The World Warrior msx
 Strip Fighter IV pc
 Strip Fighter II fc2
 Strip Fighter 5 Chimpocon edition pc
@@ -1299,7 +1316,6 @@ Swords wii
 Super Robot Spirits n64
 Survival Arts mame
 Sword Dancer series pc98
-Tenkaichi Bushi Keru Nagūru The Greatest Warrior on Earth Kick and Punch nes
 The Bread Pub Brawlers ps4
 Brawl Brothers 1/2 snes fc2
 The Circle wii cancelled
@@ -1376,7 +1392,7 @@ Bare Fists PDC200
 Fencing PDC200
 Mofumofu Front switch https://store-jp.nintendo.com/list/software/70010000049499.html
 Boobytales pc 
-Best of the Best: Championship Karate nes/snes/gen fc2
+Best of the Best: Championship Karate snes/gen fc2
 Funky Head Boxers saturn / arc
 Funky Head Boxers Plus saturn
 Rock'n Wrestle c64
@@ -1402,9 +1418,9 @@ Ape Escape: Pumped & Primed ps2
 Ashita no Joe: Masshiro ni Moe Tsukiro ps2
 Backyard Wrestling: Don't Try This at Home ps2
 Backyard Wrestling 2: There Goes the Neighborhood ps2
-Barbarian ps2 Warrior Blade: Rastan vs. Barbarian
+Barbarian / Warrior Blade: Rastan vs. Barbarian ps2
 The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% ps2
-Boxing Champions ps2 Simple 2000 Series Vol. 7: The Boxing - Real First Fighter
+Boxing Champions / Simple 2000 Series Vol. 7: The Boxing - Real First Fighter ps2 
 Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing ps1
 Clan of Champions PS3/Steam
 Erementar Gerad: Matoe, Suifuu no Tsurugi ps2
@@ -1412,7 +1428,7 @@ Erementar Gerad: Matoe, Suifu no Ken ps2
 Fightbox ps2
 Galactic Wrestling: Featuring Ultimate Muscle ps2
 Hajime no Ippo Victorious Boxers / 2 ps2
-Heartbeat boxing ps2 Simple 2000 Series Ultimate Vol. 6 Love * Upper!
+Heartbeat boxing / Simple 2000 Series Ultimate Vol. 6 Love * Upper! ps2
 Jikuu Bouken Zentrix ps2
 K.O. King ps2
 K-1 Premium 2004 Dynamite! ps2
@@ -1513,7 +1529,6 @@ Senran Kagura Shinovi Versus psvita / pc?
 WWF Wrestlemania: The Arcade Game Saturn ps1 32x fc2
 WWF In Your House Saturn ps1
 Tactical Fighter saturn
-Fire Pro Wrestling Combination Tag wii/pce fc2
 Fire Pro Wrestling 2nd Bout wii/pce fc2
 Super Fire Pro Wrestling snes fc2
 Thunder Pro Wrestling Retsuden gen fc2
@@ -1599,14 +1614,8 @@ Zen Nippon Pro Wrestling: Ouja no Kon ps1
 Zeus: Carnage Heart Second ps1
 5 Star Wrestling ps3 ps4
 Battle Rush: Build Up Robot Tournament nes
-Chiyounofuji no Ooichou nes
-tag team wrestling / tag team pro wrestling nes fc2
-Tecmo World wrestling nes fc2
 WCW world championship wrestling / super star pro wrestling fc2 nes
 WWF King of the Ring nes
-WWF Wrestlemania nes
-WWF Wrestlemania challenge nes
-WWF Wrestlemania: steel cage challenge nes
 Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
 frame gride dreamcast fromsoft game btw
 Battle CAPacity pc fan game
@@ -1625,7 +1634,6 @@ The King of Fighters Extreme N-gage https://archive.org/details/Nokia_N-Gage_The
 WWE Aftershock N-gage
 One n-gage
 The Adventure of Little Ralph ps1
-Gekido: Urban Fighters ps1
 Remote Control Dandy ps1
 Remote Control Dandy SF ps2
 Boxing Champs switch/steam
@@ -1716,3 +1724,16 @@ Nick Super Brawl series flash
 Nope Nope Nurses Melee steam AO
 Oni Fight pc https://www.dlsite.com/home/work/=/product_id/RJ01102139.html/?locale=en_US
 Traintracks Combat https://squigglez.itch.io/traintracks-combat
+Muscle Bomber Duo: Ultimate Team Battle fc2
+Street Master msx
+Frieve Present Disk 2 msx
+Fantasy Attraction msx
+Brain Drive msx
+South Town's Hero Turbo msx
+South Town's Hero II msx
+Dream Fighters msx
+Street Fighter msx
+Super Fighter's Street Densetsu no Ken Dynamite msx
+The King of Super Fighter's Street Densetsu no Ken Dynamite '95: Great Grapple msx
+Fighter's Ragnarok msx
+Pointless Fighting! msx
