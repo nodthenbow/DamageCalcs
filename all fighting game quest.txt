@@ -107,7 +107,7 @@ Guilty Gear Strive =- TODO lab more
 Guilty Gear Petit =- TODO lab more 
 Guilty Gear Petit 2 =- TODO lab more
 Guilty Gear Isuka =- TODO lab more
-Guilty Gear Dust Strikers =- nds TODO lab more
+Guilty Gear Dust Strikers =- nds testament stuff, facing matters for a lot of stuff
 Injustice Gods Among Us =- Why did I learn Ares?
 Injustice 2 =- just pick gun dude 
 Jojo’s Bizzare Adventure capcom fc =- unban petshop
@@ -146,7 +146,7 @@ Mortal Kombat: Tournament Edition (gba mkda) =- todo write strats
 Mortal Kombat: Deception =- todo write strats
 Mortal Kombat: Armageddon =- todo write strats
 Mortal Kombat: Unchained (psp mkd) =- todo write strats
-Ultimate Mortal Kombat (ds umk3) =- todo write strats
+Ultimate Mortal Kombat (nds umk3) =- todo write strats
 Mortal Kombat vs. DC Universe =- todo write strats
 Mortal Kombat 9 (2011) =- todo write strats
 Mortal Kombat X / XL =- todo write strats
@@ -547,6 +547,9 @@ Drag Her! Failure to Launch =- steam, 1st char, L(2)4A confirm, 2H4B 5L2B, crn L
 Mobile Suit Gundam: Char's Counterattack (1998) =- ps1 Sazabi, T target, R2 swap, R1+s/x/o sub, x boost, o guard, r1+t swap part target, l1/l2 rise/lower, shoot locks movement, tiers kinda flat
 Ossu!! Karate Bu =- snes fc tall+trench solid, vega best 5lk inf, sjc blockstun then pjc into normals
 kart fighter =- nes unl peach best I guess, meaties unblockable, hummer team sf2 engine standard
+Psychic Force 2012 =- fc Emilio, g+l+h charge, 66l 360l screen filler, 360h cash out, h good, 5l+h superdash, xl+h reg dash, stutter step
+Windy X Windam =- nds spear lady, 2H*6ish xx 2146L inf, or launch (2H 623L) walk 5h inf, 6H throw 2H. Ground block/hitstun is fake, air stuff is good, but you turbo die to AA juggle infinites
+Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash half way to enemy side to force ball drop mash
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -561,6 +564,7 @@ Gaiapolis =- top down vertical walking shmup/beat em up
 penguin wars =- throw all the balls away game
 Lethal League and blaze =- neat dodgeball em ups
 The outfoxies =- vomit commet camera, but neat platforming side view shoot vs game
+Metal Warriors =- snes platforming side view shoot vs game 
 Honey Rose: Underdog Fighter Extraordinaire =- steam VN with bad ly fighter gameplay
 Mutation Nation =- NeoGeo fc beat em up
 Monster Maulers =- fc red earth em up, but co op 2p
@@ -774,7 +778,8 @@ world heroes 2 nes bootleg
 xmen vs street fighter snes bootleg
 Dark Awake The King Has No Name / chaos breaker arcade ps3
 Kakutou Haou Densetsu Algunos PCE
-Draglade series DS
+Draglade 1 nds 
+Draglade 2 nds 
 nb heartbreakers advanced PC
 Azumanga Fighter pc
 Secret Meeting 2 pc 
@@ -785,7 +790,6 @@ Super Variable Geo snes fc2
 Advanced V.G. 2 ps1
 V.G. Custom pc
 V.G. Max pc
-Psychic Force 2012 fc2
 Psychic Force 2 ps1
 Metal Clash arc
 pop'n tanks! ps1 jp
@@ -803,6 +807,7 @@ Deadly Arts G.a.s.p!! n64
 Fighter Destiny 1/2 n64 (fighter's destiny)
 Mace The Dark Age n64
 War Gods n64 ps1
+Neon Genesis Evangelion n64
 Ultraman 3do
 street overlord ZC-780
 Kasumi Ninja jaguar
@@ -881,7 +886,7 @@ Digimon Rumble Arena 1/2
 Digimon Battle Spirit 1/1.5/2
 Digimon All-star Rumble ps3/360
 Dissidia series
-Doodle Hex ds
+Doodle Hex nds
 Dragon Ball series of games (played a ton of them already, multiple on fc2)
 Dragon Ball Z Tv Game & Dragon Ball Gekitou Tenkaichi Budokai
 Dragon Ball Z & Dragon Ball Z 2 Super Battle
@@ -903,7 +908,7 @@ Dragon Ball Z Ultimate Tenkaichi
 Dragon Ball Z Trilogy & Dragon Ball Z for Kinect
 Super Dragon Ball Z & Infinite World
 Dragon Ball Z Burst Limit
-Dragon Ball Z: Supersonic Warriors 2 ds
+Dragon Ball Z: Supersonic Warriors 2 nds
 Dragon Ball Z Raging Blast 1&2
 Dragon Ball Zenkai Battle Royale 
 Dragon Ball Z: Idanairu Son Goku Densetsu
@@ -958,7 +963,7 @@ Kamen Rider Blade ps2
 Kamen Rider Hibiki ps2
 Kamen Rider: Climax Fighters ps4 
 Kamen Rider: Super Climax Heroes wii
-Kamen Rider Dragon Knight wii/ds
+Kamen Rider Dragon Knight wii/nds
 Kamen Rider ps1 
 Kamen Rider Ryuki ps1
 Kamen Rider ps1
@@ -1040,8 +1045,8 @@ One Punch Man: a Hero Nobody Knows
 Onimusha Blade Warriors ps2
 Onna Sanshirou: Typhoon Gal mame
 Pacific Rim: the Video Game ps3
-Pen 1 Grand Prix: Penguin No Mondai Special ds
-Rekishi Taisen Gettenka Tenkaichi battle royale ds
+Pen 1 Grand Prix: Penguin No Mondai Special nds
+Rekishi Taisen Gettenka Tenkaichi battle royale nds
 Pokémon Type Wild pc
 Pocket Rumble steam
 Indie Pogo steam
@@ -1111,7 +1116,7 @@ Touhou Hopeless Masquerade
 touhou Shinpiroku: Urban Legend in Limbo
 Touhou Hisouten ~ Scarlet Weather Rhapsody
 Touhou Kobuto V: Burst Battle
-Original Story From Fairy Tail: Gekitotsu! Kardia Daiseidou / Tv Anime Fairy Tail: Gekitou! Madoushi Kessen ds
+Original Story From Fairy Tail: Gekitotsu! Kardia Daiseidou / Tv Anime Fairy Tail: Gekitou! Madoushi Kessen nds
 Twinkle Queens wii
 Ultraman Fighting Evolution / Fighting Evolution 2 / Zero
 Ultraman Powered / the Ultimate Fighting
@@ -1342,7 +1347,6 @@ Violent Fighter dos
 Violent Myth dos
 War of Currents arcade game
 Warrior mame
-Windy X Windam ds
 Xiaolin Showdown ps2
 Vita Fighters android steam
 5 force fighters steam
@@ -1737,3 +1741,5 @@ Super Fighter's Street Densetsu no Ken Dynamite msx
 The King of Super Fighter's Street Densetsu no Ken Dynamite '95: Great Grapple msx
 Fighter's Ragnarok msx
 Pointless Fighting! msx
+Babel Sword pc (mugen)
+Metal Gun III: Shout of the Arms (mugen?)
