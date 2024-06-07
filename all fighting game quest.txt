@@ -549,7 +549,6 @@ Ossu!! Karate Bu =- snes fc tall+trench solid, vega best 5lk inf, sjc blockstun 
 kart fighter =- nes unl peach best I guess, meaties unblockable, hummer team sf2 engine standard
 Psychic Force 2012 =- fc Emilio, g+l+h charge, 66l 360l screen filler, 360h cash out, h good, 5l+h superdash, xl+h reg dash, stutter step
 Windy X Windam =- nds spear lady, 2H*6ish xx 2146L inf, or launch (2H 623L) walk 5h inf, 6H throw 2H. Ground block/hitstun is fake, air stuff is good, but you turbo die to AA juggle infinites
-Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash half way to enemy side to force ball drop mash
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -594,6 +593,7 @@ Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as
 Kamen Rider SD: Shutsugeki!! Rider Machine snes =- belt scrolling beat em up with weird vs mode
 David Douillet Judo =- ps2 RPS plus rhythm game stuff, 1>2>3>1, both walk dirs chooses set of options
 Street Smart gen/arc both beat em ups, gen Yie Ar Kung-Fu style, arc belt
+Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash to enemy side to force ball drop mash
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
