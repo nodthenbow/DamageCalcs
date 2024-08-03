@@ -531,7 +531,7 @@ Battle Stadium D.O.N =- gcn/ps2 luffy AAA6S, j8S, kill off top with 8A jc jAS if
 Tech Romancer =- fc dc Wise Duck (boss if unlocked), no jump, sent armor, G66/6B 46A/46A+J, item abj, gb w/ abg, ik w/ abgj (combo after g66), boss gets gj fast side dodge, j land mine good 
 Gekido: Urban Fighters =- ps1 no combos, only heavy hits crouch is oh, 1st dude good, abuse items and crouch
 Tōkidenshō Angel Eyes toukidenshou angel eyes =- fc M Power far left, 66HP/jKKhp 2lp5lkhp(1)2hk236hp 65lp2lp5lphp(2)8hkhk tod usually, 2lp low, kk homing dash, 4 jumps inf air actions, round start jlk~j2hk-KK jHP~jHK 5LP2HP(j)5HK 6LK6HK tod usually, chicken guard like mad, infinite stages
-Tecmo World Wrestling =- nes fc everyone same, mash constantly when down, moving bar is who wins grapples
+Gekitou Pro Resu!! Toukon Densetsu / Tecmo World Wrestling =- nes fc everyone same, mash constantly when down, moving bar is who wins grapples
 Fight Club =- ps2 8/6/2G HML counter, breaks combos, Lou/Richard if unlocked 1LK strings low starter, 2LP/2HP mid strings, LK pokes, throws high and untechable, 4 or G blocks HM, 2G blocks L
 WWF Wrestlemania: steel cage challenge =- nes all dudes same, K -oh, but you can walk out of range after
 WWF Wrestlemania =- nes Andore the Giant best, K good knd, 6P+K to throw, pins w/ P, kinda weird to hit
@@ -549,7 +549,9 @@ Ossu!! Karate Bu =- snes fc tall+trench solid, vega best 5lk inf, sjc blockstun 
 kart fighter =- nes unl peach best I guess, meaties unblockable, hummer team sf2 engine standard
 Psychic Force 2012 =- fc Emilio, g+l+h charge, 66l 360l screen filler, 360h cash out, h good, 5l+h superdash, xl+h reg dash, stutter step
 Windy X Windam =- nds spear lady, 2H*6ish xx 2146L inf, or launch (2H 623L) walk 5h inf, 6H throw 2H. Ground block/hitstun is fake, air stuff is good, but you turbo die to AA juggle infinites
-
+Breakers Revenge Shika Mamoru / Chicago =- in exa arcadia jail, only minor balance changes, boss nerfed hard
+Bam Boom Blade =- steam swing sword spin towards center of own bamboo
+Transformers: Beast Wars Transmetals =- n64 jp ver has wider screen limits, beast recharges robo, block only in robo, cheetah best but everyone is meh, burst thing on R
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
 Warriors of Zypar =- GOTY c64
@@ -603,6 +605,8 @@ Onmyou Taisenki - Hasha no in =- battle mode
 Shadow Tower =- ps1 has a fg mode if you collect enough monster data or w/e
 Zombie Revenge =- dc has fg mode
 Konamic Sports in Seoul/Track & Field II (コナミックスポーツ イン ソウル) =- nes Fencing 2A best, guard broken by being closer. Taekwondo front kick and jump kick best moves
+Magical Date - Doki Doki Kakuhaku ps1 =- frog fight minigame, main game is dating/board game
+Elsword mmo =- beat em up mmo with platform fighter pvp, real bad https://worldsbe.st/plus-on-whiff/
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -698,7 +702,6 @@ Cerebrawl https://cerebrawl.itch.io/cerebrawl
 Checkmate Showdown https://twitter.com/Checkm8Showdown
 Axel City 2 The Final Storm https://x.com/atsukinman/status/1784173926958145849
 Asuka 120% Exalent in exa arcadia jail
-Breakers Revenge Shika Mamoru / Chicago in exa arcadia jail
 Rage of the Dragons W exa arcadia jail
 Fallen Angel Revenge exa arcadia jail
 
@@ -758,7 +761,7 @@ shadow war of succession 3do
 Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Ninpuu Sentai Hurricanger ps1
-KemoFre Fight pc
+KemoFre Fight / Kemono of Friends pc
 Sango Guardian Chaos Generation steam
 Violence Vengeance dos
 Burning Rival arcade sega am2
@@ -1337,7 +1340,7 @@ Tongue of the Fatman dos
 Tournament of Legends wii
 Tournament of Warriors dos
 Zulula trilogy dos
-Transformers: Beast Wars Transmetals n64 jp version different
+Transformers Beast Wars Metals: Gekitotsu! Gangan Battle ps1
 Tube Warriors amiga
 Unlimited Warriors dos
 Vagrant Fighter FX
@@ -1743,3 +1746,7 @@ Fighter's Ragnarok msx
 Pointless Fighting! msx
 Babel Sword pc (mugen)
 Metal Gun III: Shout of the Arms (mugen?)
+Gekifu Bakegyamon - Ayakashi Fighting nds
+Beyblade: Metal Masters nds
+MGCM Combat Edition pc
+Virgin Blade ―純潔の刃― mugen https://freegame-mugen.jp/fighting/game_10643.html
