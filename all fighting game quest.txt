@@ -83,7 +83,6 @@ ClayFighter: Sculptor's Cut =- n64 TODO lab more
 custom robo =- gcn TODO lab more
 Divekick =- dive and kick baby, literally only two buttons
 Fantasy Strike =- sirloin's game
-Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
 Fate Unlimited Codes =- 3d fate game with the command grab infinite (and many others) psp ver too
 Fighter’s History Dynamite Karnov's Revenge =- It's Karnov's
 Fight of Gods =- santa is a god apparently
@@ -242,11 +241,17 @@ kof r1/r2 =- portables
 Mobile Suit Gundam Seed: Battle Assault =- gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable
 Mobile Suit Gundam SEED: Destiny =- gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
 Hajime no Ippo The Fighting =- gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
-Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) =- fc
 Art of Fighting (Ryuuko no Ken) =- fc
+Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) =- fc
 Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) =- fc
 Fatal Fury Special =- fc Kim clAAA 2C 214B / hsdm 21416KK, 214B safe, AB lane, laneL better than laneH
-Real Bout Fatal Fury Special =- Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob
+Fatal Fury Wild Ambition =- ps1 Kim SS xx 214S / 2KS ob, ioh 9P2K3K, cancel confirm 2K 28P2P, (6E) PPP28P2P, 66 pushblock, PKS burst/ublk, 6PK gccd
+Fatal Fury 3 =- fc Terry 2C 214D infinite, 1C/623K AA
+Real Bout Fatal Fury =- fc Kim 2A*n5BBCC far C link 2A5BB... if close, 28B2B AA/dp, 6B 2C link, jB crossup
+Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround
+Real Bout Fatal Fury 2 =- fc
+Fatal Fury: First Contact =- ngpc steam
+Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
 all Darkstalkers games
 Chatan Yarakuu Shanku / The Karate Tournament =- played with kooter, smear hell
 The Last Blade =- fc meh 
@@ -704,6 +709,7 @@ Axel City 2 The Final Storm https://x.com/atsukinman/status/1784173926958145849
 Asuka 120% Exalent in exa arcadia jail
 Rage of the Dragons W exa arcadia jail
 Fallen Angel Revenge exa arcadia jail
+Battle Queen pc korean maybe ao ix9.net
 
 -------------------------------------------------------
 Unplayed:
@@ -922,8 +928,6 @@ Dragon’s Heaven snk unreleased
 Dreammix Tv: World Fighters gcn
 Ehrgeiz: God Bless the Ring ps1
 Eternal Fighter Zero series on miz pc
-Fatal Fury series (almost if not all on fc2 played a few already)
-Fatal Fury Wild Ambition ps1
 Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
@@ -1082,7 +1086,7 @@ Shonen Jump Jikkyou Janjan Stadium android
 Shovel Knight Showdown steam
 Silver Knights pc
 Skyscrappers steam owned
-Snk Gals Fighters neogeo pocket color
+Snk Gals Fighters ngpc 
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
 Star Gladiator 1/2 (plasma sword) ps1
@@ -1750,3 +1754,11 @@ Gekifu Bakegyamon - Ayakashi Fighting nds
 Beyblade: Metal Masters nds
 MGCM Combat Edition pc
 Virgin Blade ―純潔の刃― mugen https://freegame-mugen.jp/fighting/game_10643.html
+Miyaku Impact mugen
+King of the Streets steam 
+Fight Angel Special Edition steam (a/o?)
+Chao Ji Ge Dou 2001 Alpha unl neo geo pocket fighters
+Unlimited Fight steam
+Unlimited Fight: Ultimate Strike steam
+Shadow Strikers steam
+Monster pc https://archive.org/details/monster-version-1.11-b
