@@ -1,5 +1,5 @@
 All fighting game quest
-(63 lines of not definitely fighting games, 152 lines extra total)
+(64 lines of not definitely fighting games, 153 lines extra total)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played:
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -242,14 +242,14 @@ Mobile Suit Gundam Seed: Battle Assault =- gba Buster auto, 66P inf hard, 5W6W5L
 Mobile Suit Gundam SEED: Destiny =- gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
 Hajime no Ippo The Fighting =- gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
 Art of Fighting (Ryuuko no Ken) =- fc
-Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) =- fc
-Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) =- fc
+Fatal Fury: King of Fighters (Garou Densetsu: Shukumei no Tatakai) =- fc Andy 46P (16P jp ver) block inf
+Fatal Fury 2 (Garou Densetsu 2: Arata-naru Tatakai) =- fc invuln in hitstun, kim 214b 0ob, 21416KK hsdm unblk point blank, 28K charge longer than expected, 214d max damage w/o hsdm
 Fatal Fury Special =- fc Kim clAAA 2C 214B / hsdm 21416KK, 214B safe, AB lane, laneL better than laneH
 Fatal Fury Wild Ambition =- ps1 Kim SS xx 214S / 2KS ob, ioh 9P2K3K, cancel confirm 2K 28P2P, (6E) PPP28P2P, 66 pushblock, PKS burst/ublk, 6PK gccd
 Fatal Fury 3 =- fc Terry 2C 214D infinite, 1C/623K AA
 Real Bout Fatal Fury =- fc Kim 2A*n5BBCC far C link 2A5BB... if close, 28B2B AA/dp, 6B 2C link, jB crossup
 Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround
-Real Bout Fatal Fury 2 =- fc
+Real Bout Fatal Fury 2 =- fc Kim abc2b+c 5d (2b28a2a) / 2d oh/low mix, ja2b3b fuzzy oh, j2B3B really j52B53B, 21416C ppower good, 22B 214B/21416C, 28B aa, clCABC 28A2A, gc specials cost bar, d/8d unsafe quick rise
 Fatal Fury: First Contact =- ngpc steam
 Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
 all Darkstalkers games
@@ -557,6 +557,8 @@ Windy X Windam =- nds spear lady, 2H*6ish xx 2146L inf, or launch (2H 623L) walk
 Breakers Revenge Shika Mamoru / Chicago =- in exa arcadia jail, only minor balance changes, boss nerfed hard
 Bam Boom Blade =- steam swing sword spin towards center of own bamboo
 Transformers: Beast Wars Transmetals =- n64 jp ver has wider screen limits, beast recharges robo, block only in robo, cheetah best but everyone is meh, burst thing on R
+Body Slam =- fc Dump matsumoto licenced wrestling game. P+K to run, only run A good, thin chars better K
+
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
 Warriors of Zypar =- GOTY c64
@@ -596,11 +598,12 @@ ninja combat =- neogeo beat em up
 Hiryū no Ken II: Dragon no Tsubasa =- nes turn based who gets to attack snd who defends
 Hiryū no Ken Special: Fighting Wars nes =- nes turn based who gets to have hitboxes/hurtboxes
 Flying Warriors nes =- same as Hiryū no Ken II: Dragon no Tsubasa
-Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as 2Flying Warriors
+Fighting Simulator: 2-in-1: Flying Warriors / Hiryū no Ken Gaiden =- gb same as Flying Warriors
 Kamen Rider SD: Shutsugeki!! Rider Machine snes =- belt scrolling beat em up with weird vs mode
 David Douillet Judo =- ps2 RPS plus rhythm game stuff, 1>2>3>1, both walk dirs chooses set of options
 Street Smart gen/arc both beat em ups, gen Yie Ar Kung-Fu style, arc belt
 Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash to enemy side to force ball drop mash
+Wolkenkratzer Shinpan No Tou =- ps1 rpg with fight game battles, 1p only 
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -612,6 +615,7 @@ Zombie Revenge =- dc has fg mode
 Konamic Sports in Seoul/Track & Field II (コナミックスポーツ イン ソウル) =- nes Fencing 2A best, guard broken by being closer. Taekwondo front kick and jump kick best moves
 Magical Date - Doki Doki Kakuhaku ps1 =- frog fight minigame, main game is dating/board game
 Elsword mmo =- beat em up mmo with platform fighter pvp, real bad https://worldsbe.st/plus-on-whiff/
+Gooch Grundy's X-Decathlon =- pc sci-fantasy sports minigame collection
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -710,6 +714,8 @@ Asuka 120% Exalent in exa arcadia jail
 Rage of the Dragons W exa arcadia jail
 Fallen Angel Revenge exa arcadia jail
 Battle Queen pc korean maybe ao ix9.net
+Ketsu Battler https://twitter.com/KetsuBattler https://x.com/KetsuBattler/status/1846023321084912071
+Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 
 -------------------------------------------------------
 Unplayed:
@@ -1762,3 +1768,6 @@ Unlimited Fight steam
 Unlimited Fight: Ultimate Strike steam
 Shadow Strikers steam
 Monster pc https://archive.org/details/monster-version-1.11-b
+Big Challenge! Judo Senshuken / ビッグチャレンジ! 柔道選手権 fds nes (Moero!! Juudou Warriors series)
+Tokidoki https://archive.org/details/tokidoki_202302
+Color Magic Pencils https://www.vector.co.jp/soft/winnt/game/se520026.html pc? 
