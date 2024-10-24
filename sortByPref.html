@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Paste your list in this area (each item on a new line):</p>
+<textarea id="textInput" rows="4" cols="50"></textarea><br/>
+<p>
+Then click this button:
+</p>
+<button id="bt0">Start</button> <br/>
+<p>
+Click the better one of the two (or worse, just be consistant):
+</p>
+<button id="bt1" onclick="buttonDoThing(0)">wait</button> <br/>
+<button id="bt2" onclick="buttonDoThing(1)">wait</button><br/>
+
+<textarea id="textOutput" rows="4" cols="50"></textarea><br/>
+
+<script>
+async function merge(left, right) {
+	let sortedArr = [];
+	//console.log(sortedArr, left, right, "merge top top");
+	while(left.length && right.length) {
+		//console.log(sortedArr, left, right, "merge while top");
+		if(await userInputSorter(left[0], right[0])) {
+			sortedArr.push(left.shift());
+		} else {
+			sortedArr.push(right.shift());
+		}
+		//console.log(sortedArr, left, right, "merge bot while");
+	}
+	//console.log(sortedArr, left, right, "merge post while");
+	return [...sortedArr, ...left, ...right]
+}
+
+async function mergeSort(arr) {
+	if(arr.length <= 1) return arr;
+	let mid = Math.floor(arr.length / 2);
+	let left = await mergeSort(arr.slice(0, mid));
+	let right = await mergeSort(arr.slice(mid));
+	//console.log(left, right, "mergeSort cut");
+	return await merge(left, right)
+}
+
+async function userInputSorter(left, right) {
+	// change buttons text
+	//console.log(5474582);
+	document.getElementById("bt1").innerHTML = left;
+	document.getElementById("bt2").innerHTML = right;
+	return await btResults();
+}
+
+const timeout = async ms => new Promise(res => setTimeout(res, ms));
+
+let btClicked = false;
+let lrSelection = 2;
+async function btResults() {
+	while(btClicked === false) await timeout(100);
+	btClicked = false;
+	if(lrSelection === 0) {
+		lrSelection = 2;
+		return 0;
+	} else {
+		lrSelection = 2;
+		return 1;
+	}
+}
+
+async function buttonDoThing(c) {
+	lrSelection = c;
+	btClicked = true;
+	//console.log(4325);
+}
+
+async function mergeSortTop(arr) {
+	var temp = await mergeSort(arr);
+	document.getElementById("bt1").innerHTML = "done, stop clicking you goon";
+	document.getElementById("bt2").innerHTML = "done, stop clicking you goon";
+	tempa = temp;
+	return temp;
+}
+/*
+console.log(123);
+let tempa = mergeSortTop([3, 6, 8, 5, 99, 1]);
+console.log(tempa);
+console.log(1234);
+*/
+async function startSort() {
+	var tinp = document.getElementById("textInput").value.toString();
+	//console.log(tinp, "tinp");
+	var tarr = tinp.split('\n');
+	//console.log(tarr);
+	var outputList = await mergeSortTop(tarr);
+	var trueOutputList = "";
+	//console.log(outputList, "oplist", outputList.length, "len");
+	for(let i = 0; i < outputList.length; i++) {
+		//console.log(i, "i");
+		//console.log(outputList[i], "ele i");
+		trueOutputList = trueOutputList.concat(outputList[i].toString(), '\n');
+		//console.log(trueOutputList, 'h');
+	}
+	//console.log(trueOutputList, "post for");
+	document.getElementById("textOutput").innerHTML = trueOutputList;
+
+}
+document.getElementById("bt0").onclick = async () => {
+	//console.log(544534);
+	await startSort();
+};
+</script>
+
+</body>
+</html>
