@@ -1,7 +1,7 @@
 All fighting game quest
-(64 lines of not definitely fighting games, 153 lines extra total)
+(66 lines of not definitely fighting games, 155 lines extra total, 1781 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played:
+Played (553):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -52,7 +52,7 @@ Asura Blade =- fc no throws only unblockables on 22abc
 Heavy Nova =- gen fc hold down to be invincible, 7min rounds
 Violence fight =- on fc but no character graphics. Pick rapid punchy guy, P+jump
 Solitary fighter / violence fight 2 =- fc same strat as above, Ben Smith, p+jump
-Agressors of Dark Combat =- fc played w/ kooter, 3d beat em up style, neat but not very fun.
+Aggressors of Dark Combat =- fc played w/ kooter, 3d beat em up style, neat but not very fun.
 Akatsuki Blitzkampf =- lots of notes on the internet about this game
 Battle Fantasia =- early bad arcsys fighting game, played with toom
 BlazBlue: Calamity Trigger
@@ -175,7 +175,7 @@ Rivals of Aether =- tank snake's difficulty is greatly exaggerated
 Rabbit =- fc stands, 6ABC to use bottom row, 5ABC to stand on, fan lady 6hp 623hk-k
 Sailor Moon S snes =- chibi backdash full invuln
 all Samurai Shodown games
-Rakugakids / Rakuga Kids =- crayon cartoon style n64 fighter, played with Zak
+Rakugakids / Rakuga Kids =- crayon cartoon style n64 fighter, beartank 5mp2mk5mp2mk5mp236hkhkhk, 236236k/p super dash through guard breaks maybe, fireball oki seems worse than just slayer oki-ing
 Animal Fight =- steam single player 
 Cyberbots: Fullmetal Madness =- fc vise j3BLx236W 2HxL+H, 623+P
 Joy Mech Fight =- nes, the one that was famicom only, no joints, ball chars fc
@@ -558,6 +558,9 @@ Breakers Revenge Shika Mamoru / Chicago =- in exa arcadia jail, only minor balan
 Bam Boom Blade =- steam swing sword spin towards center of own bamboo
 Transformers: Beast Wars Transmetals =- n64 jp ver has wider screen limits, beast recharges robo, block only in robo, cheetah best but everyone is meh, burst thing on R
 Body Slam =- fc Dump matsumoto licenced wrestling game. P+K to run, only run A good, thin chars better K
+Orbital Combat =- steam Dr Citrus 2A walk inf combo, no throws, blocking barely works (pvp online only)
+Cruz Brothers =- steam pick the 1400hp guy, mash fast move then combo with slow move, 2dodge > block
+Nickelodeon All-Star Brawl =- forgot this game existed for a bit. Leo stuff
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -616,6 +619,7 @@ Konamic Sports in Seoul/Track & Field II (コナミックスポーツ イン ソ
 Magical Date - Doki Doki Kakuhaku ps1 =- frog fight minigame, main game is dating/board game
 Elsword mmo =- beat em up mmo with platform fighter pvp, real bad https://worldsbe.st/plus-on-whiff/
 Gooch Grundy's X-Decathlon =- pc sci-fantasy sports minigame collection
+Crash 'n' the Boys: Street Challenge/Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal =- nes "swimming" is a fight to the death, not a race
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -718,7 +722,7 @@ Ketsu Battler https://twitter.com/KetsuBattler https://x.com/KetsuBattler/status
 Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 
 -------------------------------------------------------
-Unplayed:
+Unplayed (1228):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -770,7 +774,7 @@ FIST saturn
 Hellish Quart steam
 shadow warriors 3do
 shadow war of succession 3do
-Paws of Fury fc2
+Brutal: Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Ninpuu Sentai Hurricanger ps1
 KemoFre Fight / Kemono of Friends pc
@@ -959,11 +963,14 @@ Higurashi Daybreak portable psp
 International Karate series (World Karate Championship) fc2 one of them
 Inuyasha Feudal Combat ps2
 Inuyasha a Feudal Fairy Tale ps1
-Jackie Chan series fc2 
+Jackie Chan in Fists of Fire fc2
+Jackie Chan the Kung Fu Master fc2
 Jojo’s Bizzare Adventure: All-star Battle
+Jojo’s Bizzare Adventure: All-star Battle R
 Jojo’s Bizarre Adventure / Eyes of Heaven
 Jojo’s Bizarre Adventure: Last Survivor
 J-stars Victory Vs
+J-stars Victory Vs+ ps4
 Jump Force
 Jump Superstars & Ultimate Stars
 Kamen Rider: Climax Scramble (Zi-o) switch 
@@ -1072,6 +1079,7 @@ robo pit 2 ps1
 megaman fighters fc2
 Maiden & spell steam owned
 Rozen Maiden: Gebetgarten ps2
+ALIBAT / Record of Rozen War - Alibat: Anecdote of Alice pc
 Rumble Fish 1/2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn
@@ -1202,7 +1210,6 @@ Forza Infernis xbox android
 Zombie Smashers X4: Guitarpocalypse xb360
 Colosseum xblig
 Criticom ps1/saturn
-Cruz Brothers steam
 Cyber Gladiators pc (1995)
 Powerup Heroes xb360
 Tokyo 2029 a.d. xb360
@@ -1323,6 +1330,7 @@ Steel Rivals pc wii u
 Street Chaves pc
 Street Count 2+ dos
 Street Heroes nes bootleg
+Janggun-ui Adeul nes bootleg
 Street Master gen bootleg
 Street Fighter II Neo: The World Warrior msx
 Strip Fighter IV pc
@@ -1394,7 +1402,6 @@ Interstellar Wrestling League Hyperscan
 GigaBash ps4/5
 DragonBlast SE PC
 Kokoro Ultimate steam
-Orbital Combat steam
 Pixel Game Maker Series KINGDOM FIGHTER switch
 Pixel Game Maker Series DANDAN Z switch
 Real sports boxing atari
@@ -1488,6 +1495,8 @@ WWF Smackdown! Just Bring It ps2
 X-men: Next Dimension ps2
 Zoids Infinity Fuzors ps2
 Zoids Struggle ps2
+Zoids gcn
+Zoids Wild switch 
 the zodiac saints pc (bootleg?)
 Gedou Fengyun / Fighting Storm / Gédòu Fēngyún dos
 Street Fighter DOS
@@ -1771,3 +1780,157 @@ Monster pc https://archive.org/details/monster-version-1.11-b
 Big Challenge! Judo Senshuken / ビッグチャレンジ! 柔道選手権 fds nes (Moero!! Juudou Warriors series)
 Tokidoki https://archive.org/details/tokidoki_202302
 Color Magic Pencils https://www.vector.co.jp/soft/winnt/game/se520026.html pc? 
+2XKO  
+Acceleration of Suguri steam
+Acceleration of Suguri 2 steam
+Akatsuki pc
+Angel Star Road: Champion☆Carnival pc
+Angel Star Road: Champion☆Carnival GP 2008 pc
+Angry Parliament Fight / Ξύλο στη Βουλή android
+Animelee android 
+Antinomy of Common Flowers / Touhou Hyouibana Eastern Blooms of Possession ps4
+The Art of Breaking Heads amega
+Bash Land android 
+Battle-SX xbla 
+Battle-X xbla 
+Battle for Presidency pc (candax, 2014)
+Beyond Fighting 2 android
+Beyond Fighting 3 android
+Billy's Bad Day tgx16 
+Bima-X android 
+Black Salt Coreuption steam
+Blade Arcus Rebellion from Shining ps4 
+Bladelords android 
+Blade Symphony =- steam, rps but runaways is op frfr
+Bleach: Rebirth of Souls steam 
+Brawlout steam 
+Bruce Lee: Dragon Warrior ios
+Brutal: Above the Claw 32x dos 
+Busou Shinki: Battle Masters psp 
+Busou Shinki: Battle Masters Mk.2 psp 
+Champions of Zulula dos 
+Champions of Zulula: Elite Edition dos 
+Competitive Fencing plug and play 2009 
+Croket! gba
+Croket! Great Jupiter gba
+Croket! 2 gba 
+Croket! 3 gba 
+Croket! 4 gba 
+Croket! DS no 
+Crucis Fatal+Fake pc
+Dan pc win98
+Dan Dan 3 pc win2000 
+Dan Dan Z pc win98 
+Dan Dan Z vs. Geki pc win99
+Death Fighter pc 04
+Death Fighter 2 pc 06
+Death Fighter 3 pc 08
+Death Fighter 4 pc 09
+Denshō Tenshi Valforce pc 09
+Double Dragon Duel in River City: Rival Showdown ps4
+Dragon snes
+Dragon Ball: Sparking! Zero steam
+Dysnomia pc 08 
+EF-12 pc 2016 
+Elemental Battle Academy pc 2010 
+Everron steam  
+Exploding Fist+ c64 
+Exploding Fist nes 
+Fatal Fury: City of the Wolves steam ps5
+Fate Axis pc 2002 
+Fate Axis - The Fragment pc 2015 
+Fighter - 4 in 1 - 12 game king
+Fighter (1997) dos
+Fighting of School dos 
+Fist 2 c64 
+Fostiator dos 
+Further Beyond Fighting android 
+Fēng Shén Bǎng nes 
+Fēng Shén Bǎng dos 
+Fēngyún Tiānxià dos 
+Gangan!! Battle Rush! android 
+Geki pc 1999
+Geki 2 pc 1999 
+Girlfight 2024 pc 
+Gormiti Arena / Gormiti: Aggualo nella Valle 2005 
+Haymaker linux 2013
+Hercules android
+The Hero/ 파이터: 영웅을 기다리며 (Fighter: Waiting for a Hero) dos 1995
+Hunters All Star Battle pc 2020 
+Infinite Stratos: Versus Colors pc 2014/2015  
+Jikū Sasatsu-kan Hayate pc98
+Karate atari2600
+Kimetsu no Yaiba ps4 
+King Boxing (PCP-926) 
+King Boxing (PCP-936) 
+King Boxing YD game player 
+Kizuna Fighters Zero pc 2005 
+Kuài Dǎ Chuánshuō nes 
+Lady Fight! CβT pc 2017 
+LEGO Brawls ios
+Lego DC Comics Super Heroes android 
+Majewel 3do 
+Majewel: Second Story pc 2000 
+Majewel: Second Story - Like a Sky pc 2000
+Majewelune World Special pc 2004
+Majewelune World pc 2003 
+Medarot G gba (might be metabots AX) 
+Miki the Fighting Girl pc  
+Nickelodeon All-Star Brawl 2 ps4 
+Ningyō Tsukai 2 pc98 
+Ninku gb
+Origin of Storms pc 2024 
+OverHeats4 pc 2017
+Pencil Royale -Heroines Collection- pc 2010 
+The Powerpuff Girls n64 ps1
+the Queen of Battlers pc 
+the Queen of Battlers 2 pc
+Rakan Tenmu-kai '96 Heroines Festival pc98 
+Rakan Tenmu-kai LT Heroines Festival pc98 
+Ranma 1/2: Datou, Ganso Musabetsu Kakutou-ryuu! turbo cd 
+Rivals of Aether 2 steam 
+School Fighter!! ios  
+Sclash steam
+SD Ultra Battle: Seven Densetsu snes 
+SD Ultra Battle: Ultraman Densetsu snes 
+Shadow Fight 2 android  
+Shadow Fight 3 android  
+Shin Koihime Musō pc  
+Shòu Shè Gédòu Qiánchuán pc  
+Shōwa Yūgeki-den pc98 
+Shūkan Shōnen Jump Jikkyō Jan-jan Stadium android 
+Simple 2000 Vol. 104: The Robot Tsukurou-ze! ps2 
+Sinag android 
+Soul Saber pc 2005 
+Spartacus ios
+Streets of the Damned atari2600 
+SuperBoys android  
+Super Dragon Punch Force 3 steam  
+Super Homebrew War nes 
+Super Kid / Jageun Sindeul-ui Jeonjaeng, Kid God Fighters pc 1997 
+Super Ultimate Fighters switch 
+Sān Guózhì nes  
+The Taekwondo Game android 
+Them's Fightin Herds steam  
+Touhou Genso Rondo ps4 
+The Tournament of Zulula dos
+Toy Hunter pc switch 
+TV Anime: Fairy Tail nds 
+Tzompantli pc 2016 
+Ultraman ps2
+Umihara Kawase BaZooKa! ps4 
+Underground Fighting pc 2006 
+WarTech Senkō no Ronde Rev. X naomi / 360 
+World Heroins pc98
+World Heroins Another Story pc98
+Xīngjì Wǔshì 星际武士 Xingji Wushi nes 
+Yang 2020 linux 
+Yīngxióng Chuán 英雄传 Kung-Fu Legend nes bootleg
+Yūgekitai Bangai-hen: Jigoku no Dopplegänger pc98 
+Yūgekitai Bangai-hen: Rekkyō Kara no Raihō-sha pc98 
+Yūgekitai Kakuto-hen 1 pc98 
+Yu Yu Hakusho Dai-Ni-Dan gb
+Yu Yu Hakusho Dai-Yon-Dan gb
+Zettai Muteki Raijin-Oh gb 
+Zhēn Běn Xī Yóu Jì nes  
+Zoids Wild switch 
