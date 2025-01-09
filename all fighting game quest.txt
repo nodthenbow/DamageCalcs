@@ -1,7 +1,7 @@
 All fighting game quest
-(66 lines of not definitely fighting games, 155 lines extra total, 1781 fighting games)
+(68 lines of not definitely fighting games, 157 lines extra total, 1783 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (553):
+Played (556):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -250,7 +250,7 @@ Fatal Fury 3 =- fc Terry 2C 214D infinite, 1C/623K AA
 Real Bout Fatal Fury =- fc Kim 2A*n5BBCC far C link 2A5BB... if close, 28B2B AA/dp, 6B 2C link, jB crossup
 Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround
 Real Bout Fatal Fury 2 =- fc Kim abc2b+c 5d (2b28a2a) / 2d oh/low mix, ja2b3b fuzzy oh, j2B3B really j52B53B, 21416C ppower good, 22B 214B/21416C, 28B aa, clCABC 28A2A, gc specials cost bar, d/8d unsafe quick rise
-Fatal Fury: First Contact =- ngpc steam
+Fatal Fury: First Contact =- ngpc steam Rick 214A unblk loop 1st bounce. Kim 2/5A2B5A hc 28A2A, x2B quick oh
 Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
 all Darkstalkers games
 Chatan Yarakuu Shanku / The Karate Tournament =- played with kooter, smear hell
@@ -264,6 +264,8 @@ all virtua fighter games
 Virtua Fighter Kids 
 Virtua Fighter 2 Genesis =- fc best vf, 66P+G, 236 wd, 33P+K splash, 2K 236pkg post retract
 Virtua Fighter Remix saturn
+Virtua Fighter 5 Final Showdown =- Vanessa fun times
+Virtua Fighter 5 Ultimate Showdown / REVO =- Vanessa fun times still
 World Heroes =- fc race to Broken 2lp2lp... tod, tap = light, 46p fb, 263p aa, hogan 2nd best, 46p 360p, rasputin j236p really good though
 World Heroes 2 =- fc Rasputin 2LK*3 426P j236P good, IB reflects, Broken and football are Sagats
 World Heroes Jet =- fc Broken 214P great for pressure/chip, dashes added
@@ -561,6 +563,7 @@ Body Slam =- fc Dump matsumoto licenced wrestling game. P+K to run, only run A g
 Orbital Combat =- steam Dr Citrus 2A walk inf combo, no throws, blocking barely works (pvp online only)
 Cruz Brothers =- steam pick the 1400hp guy, mash fast move then combo with slow move, 2dodge > block
 Nickelodeon All-Star Brawl =- forgot this game existed for a bit. Leo stuff
+Yu Yu Hakusho Dai-Ni-Dan =- gb Dai 2 Dan samurai 2k(1) unblk as p2, red hair 2p same, loops, p1 old lady best 66k 5k unblk. 64p throw, some wakeup invuln. Kuwabara 426P funny
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -620,6 +623,7 @@ Magical Date - Doki Doki Kakuhaku ps1 =- frog fight minigame, main game is datin
 Elsword mmo =- beat em up mmo with platform fighter pvp, real bad https://worldsbe.st/plus-on-whiff/
 Gooch Grundy's X-Decathlon =- pc sci-fantasy sports minigame collection
 Crash 'n' the Boys: Street Challenge/Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal =- nes "swimming" is a fight to the death, not a race
+Devolver Bootleg (Absolver) =- 4block with no throw or lows, 412A (dp) unbl, costs bar gained from blocking
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -722,7 +726,7 @@ Ketsu Battler https://twitter.com/KetsuBattler https://x.com/KetsuBattler/status
 Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 
 -------------------------------------------------------
-Unplayed (1228):
+Unplayed (1227):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -835,7 +839,7 @@ fx fighter / fx fighter turbo pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
 Asuka 120% Maxima BURNING Fest. PCE
-Asuka 120% Special BURNING Fest.
+Asuka 120% Special BURNING Fest. ps1 
 Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc 
@@ -1929,7 +1933,6 @@ Yīngxióng Chuán 英雄传 Kung-Fu Legend nes bootleg
 Yūgekitai Bangai-hen: Jigoku no Dopplegänger pc98 
 Yūgekitai Bangai-hen: Rekkyō Kara no Raihō-sha pc98 
 Yūgekitai Kakuto-hen 1 pc98 
-Yu Yu Hakusho Dai-Ni-Dan gb
 Yu Yu Hakusho Dai-Yon-Dan gb
 Zettai Muteki Raijin-Oh gb 
 Zhēn Běn Xī Yóu Jì nes  
