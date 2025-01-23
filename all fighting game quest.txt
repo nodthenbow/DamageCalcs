@@ -1,7 +1,7 @@
 All fighting game quest
-(68 lines of not definitely fighting games, 157 lines extra total, 1783 fighting games)
+(68 lines of not definitely fighting games, 157 lines extra total, 1784 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (556):
+Played (557):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -24,9 +24,9 @@ Daraku Tenshi The Fallen Angels =- fc unreleased Battle K-Road em up
 Cute Fighter =- fc sd game, mid far right top tier, st/cr moves overhead/low, 6BBB, 2/dqcf/bABC
 SD Fighters =- fc, top right best, just mash jabs, a lesser cute fighter
 Dino Rex =- fc dino, wack af, styg 1/3k unblockable
-Power Instinct =- fc ew, it's that one
-Power Instinct 2 =- fc 
-Gouketsuji Gaiden Legends =- fc
+Power Instinct =- fc doesn't have the kid 
+Power Instinct 2 =- fc ew, it's that one
+Gouketsuji Gaiden Legends =- fc also ew
 Groove on Fight: Gouketsuji Ichizoku 3 =- saturn easy tod w/ tag in
 Matrimelee =- fc weird furry, Power Instinct series
 Shin Gouketsuji Ichizoku: Bonnou Kaihou =- ps2 Matrimelee update
@@ -41,9 +41,9 @@ Urban Street Fighter =- steam ufge asset flip
 Battle Masters =- fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 63214hp stun loop
 Fight Fever =- fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
 Galactic Warriors =- fc robot fighter, attack switch button, slow
-Astra Superstars =- sunsoft, flying game, has santa girl
+Astra Superstars =- sunsoft, flying game, has santa girl TODO lab 
 waku waku 7 =- fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
-Galaxy Fight =- 1 second rounds tournament game, viable to solve some day
+Galaxy Fight =- 1 second rounds tournament game, viable to solve some day TODO lab 
 Slap Happy Rhythm Busters =- ps1 Mia LKHP2HP (4HP 46HP)/(95HK 22KK)/(crn 2HP 46HP/22KK). Bosses, Merc 6LPLK inf, Stealth 662 (L/R) 2LPLK5HP(46P cmd grab/5HK2HK oh/2HK low)
 Eternal Champions =- gen fc has yin yang stamina bars
 Eternal Champions 2 =- sega cd version of ec pretty much
@@ -66,7 +66,7 @@ BlazBlue: Cross Tag Battle
 BlayzBloo: Super Melee Brawlers Battle Royale =- dsiware TODO lab more
 BlazBlue: Clone Phantasma =- 3ds TODO lab more 
 breakers =- fc, p much a worse version of 2
-Breakers Revenge =- fc breakering
+Breakers Revenge =- fc breakering, Sho j2D, 214kkk dp, PP cancelable overhead, 214c+k throw dp os, 646p damage
 SNK vs. Capcom: The Match of the Millennium =- ngpc/switch/steam TODO lab more
 SNK vs. Capcom: SVC Chaos =- fc TODO lab more
 Capcom Vs. SNK 1 =- fc TODO lab more, Nak good, Guile good?
@@ -81,12 +81,12 @@ ClayFighter 2: Judgment Clay =- fc SNES TODO lab more
 ClayFighter 63 1/3 =- n64 TODO lab more
 ClayFighter: Sculptor's Cut =- n64 TODO lab more
 custom robo =- gcn TODO lab more
-Divekick =- dive and kick baby, literally only two buttons
-Fantasy Strike =- sirloin's game
+Divekick =- dive and kick baby, literally only two buttons, SKill hard best, Shoals easy best
+Fantasy Strike =- sirloin's game, mash dive kicks
 Fate Unlimited Codes =- 3d fate game with the command grab infinite (and many others) psp ver too
-Fighter’s History Dynamite Karnov's Revenge =- It's Karnov's
-Fight of Gods =- santa is a god apparently
-Fighting Vipers =- played in judgement
+Fighter’s History Dynamite Karnov's Revenge =- fc It's Karnov's, Zazie stuff woo
+Fight of Gods =- santa is a god apparently, TODO lab current patch
+Fighting Vipers =- sat playable in judgement, Candy/Honey, 3k 2kk k+g 3p safe mid, 33p 8p run2k lows, throw 16p+g, 2pkg 3p 3p, 2ppppp otg, pkg flipout, pppp qrise, vf2gen throw rules, white flash autoguards
 Granblue Fantasy: Versus =- too slow, throws also are very reactable so only canned mixes
 Granblue Fantasy: Versus Rising =- same as 1 but has Siegfried
 Guilty Gear The Missing Link =- Faust (2S2H 623R 66)*inf 
@@ -134,7 +134,7 @@ Million Arthur: Arcana Blood =- iori
 Mortal Kombat (1992) =- todo write strats
 Mortal Kombat II =- todo write strats
 Mortal Kombat 3 =- todo write strats
-Ultimate Mortal Kombat 3 =- todo write strats
+Ultimate Mortal Kombat 3 =- fc Kabal 447+fp iagb, p 5r run jab, aa fpfp 46bk fpfpjk44fp, spin 8k fkbkfpfp2fp jk44p, spin i1, 4/1g throw tech. Crossup with throws (6bp), pushback at 4th hit so leave gap/clFK
 Mortal Kombat Trilogy =- todo write strats
 Mortal Kombat 4 =- todo write strats
 Mortal Kombat Gold =- todo write strats
@@ -248,10 +248,11 @@ Fatal Fury Special =- fc Kim clAAA 2C 214B / hsdm 21416KK, 214B safe, AB lane, l
 Fatal Fury Wild Ambition =- ps1 Kim SS xx 214S / 2KS ob, ioh 9P2K3K, cancel confirm 2K 28P2P, (6E) PPP28P2P, 66 pushblock, PKS burst/ublk, 6PK gccd
 Fatal Fury 3 =- fc Terry 2C 214D infinite, 1C/623K AA
 Real Bout Fatal Fury =- fc Kim 2A*n5BBCC far C link 2A5BB... if close, 28B2B AA/dp, 6B 2C link, jB crossup
-Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround
+Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround, 412D tech roll lane switch (costs bar, an be cmd grab punished)
 Real Bout Fatal Fury 2 =- fc Kim abc2b+c 5d (2b28a2a) / 2d oh/low mix, ja2b3b fuzzy oh, j2B3B really j52B53B, 21416C ppower good, 22B 214B/21416C, 28B aa, clCABC 28A2A, gc specials cost bar, d/8d unsafe quick rise
 Fatal Fury: First Contact =- ngpc steam Rick 214A unblk loop 1st bounce. Kim 2/5A2B5A hc 28A2A, x2B quick oh
 Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
+SNK Gals' Fighters =- ngpc Mai 214k AA juggle 2426k, 2lk 2hp 3hk 426k, fb solid, ioh j2hk, 2hp 2hp links kinda
 all Darkstalkers games
 Chatan Yarakuu Shanku / The Karate Tournament =- played with kooter, smear hell
 The Last Blade =- fc meh 
