@@ -28,7 +28,7 @@ function findBestKBDall(kbdA, kbdT){
 		kbdDist = kbdDist/((kbdT + i+1)*1.0);
 		if (kbdDist >= maxSpeed){
 			maxSpeed = kbdDist;
-			bestFrame = i+1;
+			bestFrame = i;
 		}
 	}
 	return outputList + bestFrame + ": " + maxSpeed + " (120f ave dist: " + (maxSpeed*120) + ')\n';
@@ -48,7 +48,7 @@ function findBestKBD(kbdA, kbdT){
 		kbdDist = kbdDist/((kbdT + i)*1.0);
 		if (kbdDist >= maxSpeed){
 			maxSpeed = kbdDist;
-			bestFrame = i+1;
+			bestFrame = i;
 		}
 		outputList = outputList + kbdDist + " (120f ave dist: " + (kbdDist*120) + ')\n';
 	}
