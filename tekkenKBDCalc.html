@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Enter the velocity of each frame in order, seperated with a single space:</p>
+<textarea id="textInput" rows="4" cols="100">0 0.01 0.03 0.04 0.04 0.06 0.06 0.07 0.06 0.06 0.05 0.05 0.04 0.03 0.02 0.01 0.01 0 0 0 0 0 0 0 0 0 0 0 0</textarea><br/>
+<p>Enter the number of frames it takes to do another bd after canceling it, include the crouch input frame and include everything before the second back input (do not count the second back input)</p>
+<textarea id="textInput2" rows="2" cols="10">9</textarea><br/>
+
+<p>
+Then click this button:
+</p>
+<button id="bt0">Start</button> <br/>
+<textarea id="textOutput" rows="50" cols="100"></textarea><br/>
+<p>btw the defaults are Clive's backdash and my kbd speed with about 7 years of rust built up lol</p>
+<p>The way I got the values was to take a 60fps video of me mashing backdash in training and then I manually put the on screen distance into a spreadsheet (and did some spreadsheet magic to turn distance into velocity)</p>
+<script>
+//yes, I did just rip the bones from another thing I did. I'm not rewriting stuff for this lol
+function findBestKBDall(kbdA, kbdT){
+	let maxSpeed = 0;
+	let outputList = "";
+	let kbdDist = 0;
+	let bestFrame = 0;
+	for(let i = 0; i < kbdA.length; i++) {
+		kbdDist = 0;
+		for (let j = 0; j < i; j++){
+			kbdDist += kbdA[j];
+		}
+		kbdDist = kbdDist/((kbdT + i+1)*1.0);
+		if (kbdDist >= maxSpeed){
+			maxSpeed = kbdDist;
+			bestFrame = i+1;
+		}
+	}
+	return outputList + bestFrame + ": " + maxSpeed + " (120f ave dist: " + (maxSpeed*120) + ')\n';
+}
+
+function findBestKBD(kbdA, kbdT){
+	let maxSpeed = 0;
+	let outputList = "";
+	let kbdDist = 0;
+	let bestFrame = 0;
+	for(let i = 1; i < kbdA.length; i++) {
+		outputList = outputList + "KBD on frame " + i + ": ";
+		kbdDist = 0;
+		for (let j = 0; j < i; j++){
+			kbdDist += kbdA[j];
+		}
+		kbdDist = kbdDist/((kbdT + i)*1.0);
+		if (kbdDist >= maxSpeed){
+			maxSpeed = kbdDist;
+			bestFrame = i+1;
+		}
+		outputList = outputList + kbdDist + " (120f ave dist: " + (kbdDist*120) + ')\n';
+	}
+	outputList = "The best frame to KBD on is frame " + bestFrame + " and the speed is " + maxSpeed + " (120f ave dist: " + (maxSpeed*120) + ')\n\n' + outputList;
+	kbdDist = 0;
+	for(let i = 0; i < kbdA.length; i++) {
+		kbdDist = kbdDist + kbdA[i];
+	}
+	outputList = outputList + '\n' + "Also for fun (assuming the full bd was entered): " + '\n' + "ave speed of mashing backdash: " + (kbdDist/(kbdA.length*1.0)) + " (120f ave dist: " + (kbdDist/(kbdA.length*1.0)*120) + ')\n';
+	outputList = outputList + "Also Also for fun, the best frame and speed for KBD input speeds 3f to 15f: " + '\n';
+	for (let i = 3; i < 16; i++){
+		outputList = outputList + i + "f input: " + findBestKBDall(kbdA,i);
+	}
+	return outputList;
+}
+
+async function startSort() {
+	
+	var tinp = document.getElementById("textInput").value.toString();
+	var tinp2 = document.getElementById("textInput2").value.toString();
+	tinp2 = Number(tinp2);
+	var tarr = tinp.match(/\S+/g);
+	for(let i = 0; i < tarr.length; i++) {
+		tarr[i] = Number(tarr[i]);
+	}
+	var trueOutputList = "";
+	trueOutputList = findBestKBD(tarr,tinp2);
+	document.getElementById("textOutput").innerHTML = trueOutputList;
+	
+
+}
+document.getElementById("bt0").onclick = async () => {
+	await startSort();
+};
+</script>
+
+</body>
+</html>
