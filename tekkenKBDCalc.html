@@ -40,7 +40,7 @@ function findBestKBD(kbdA, kbdT){
 	let kbdDist = 0;
 	let bestFrame = 0;
 	for(let i = 1; i < kbdA.length; i++) {
-		outputList = outputList + "KBD on frame " + i + ": ";
+		outputList = outputList + "KBD after frame " + i + ": ";
 		kbdDist = 0;
 		for (let j = 0; j < i; j++){
 			kbdDist += kbdA[j];
@@ -52,7 +52,7 @@ function findBestKBD(kbdA, kbdT){
 		}
 		outputList = outputList + kbdDist + " (120f ave dist: " + (kbdDist*120) + ')\n';
 	}
-	outputList = "The best frame to KBD on is frame " + bestFrame + " and the speed is " + maxSpeed + " (120f ave dist: " + (maxSpeed*120) + ')\n\n' + outputList;
+	outputList = "The best frame to KBD after is frame " + bestFrame + " and the speed is " + maxSpeed + " (120f ave dist: " + (maxSpeed*120) + ')\n\n' + outputList;
 	kbdDist = 0;
 	for(let i = 0; i < kbdA.length; i++) {
 		kbdDist = kbdDist + kbdA[i];
