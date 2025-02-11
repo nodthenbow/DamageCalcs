@@ -1,0 +1,102 @@
+Ed notes:
+kk6P = fast
+kk-6p = fast too
+kk 6p = slow
+kk, 6p = slow
+2hkhp xx 214214lp kk +13 uses 5/7 hits
+
+214mp 66 66 +1 throw range
+214mp kk +8 no throw
+214mp dr both
+
+mp hp kk6p 623mp and mp hp kk 6p 236lk do the same damage, neither go into super midscreen
+
+bnbs:
+
+2lk 623mp
+2lp/5lp lp lp 214mp 
+
+crn 2mk 5mp-hp 236hk 214mp 2450 safe jump 
+crn 2mk 5mp-hp kk 6p 623hp 2480 max damage
+2mk 5mp 214hp 236236p max damage no drive lvl3
+
+2mk 5mp 66 5hk walk 2f 5hk 2mp 66 5hk walk 2f 5hk 2mp 66 5hk walk 2f 5hk 2mp 214hp 236236p 5532
+
+2mk mp hp kk6p 623mp and mp hp kk 6p 236lk 
+2mk mp hp 623hp kk walk throw oki, +9 -40ish damage
+2mk mp hp 214hp kk 5hp meaty +7/0 in range for mp on hit, -100ish damage
+di 6 5hp 236[lk] 623hp
+and juggle 236[lk] 214hp 9hp safe jump, -20ish damage
+crn mp hp 236hk 214mp 9hp safe jump, -20ish damage 
+crn mp hp kk 6p 623hp more damage, +38
+crn 236kk 236p-lp rdr hp kk 6p 623lp 214lp 9hp safe jump, 2642
+dr/pc 5hp 2mp kk 6p 623hp
+dr/pc 5hp 2mp kk 6p 214hp kk oki, +9 throw range -70ish damage
+pc crn 5hp 2mk 236kk 236hk rdr mp 214mp 623lp 3599
+
+di splat 5hp kk 6p 623lp 214lp 2080 safe jump
+
+hp dr hk hp 236kk 236plp rdr hp 236[lk] 623hp 3446
+crn 236kk 236p-lp rdr hp kk 6p 623lp 214lp more
+
+pc 236lk rdr 5mk 214hp, or rdr 5hp 236[lk] 214hp if close enough
+pc 236mk rdr 2hk 214hp, or rdr 5hp 236[lk] 214hp if close enough
+
+lvl2 crn:
+2940 5hp 236[hk] 623lp 214lp +42
+2950 5hp 236[hk] kk6p 623hp
+3080 lplplp214pp(1)214214lp 9hp (1f) 5hk 5mphpkk 6p 623hp 3080
+
+lvl2 mid (2f window starter, other windows depend on walk distance):
+2lp 214pp(2) 214214lp 623hp 6hp 623hp 3240 easy
+2lp 214pp(2) 214214lp  7-8f delay 214hp delay 623hp kk 6p 66 623hp 623hp 3490
+2lp 214pp(2) 214214lp  7-8f delay 214hp delay ~2-4f 623hp (2bounce) 66 623hp 623hp 3550 (no walk helps)
+2lp 214pp(2) 214214lp  7-8f delay 214hp delay ~5-11f 623hp (1bounce) 66 214lp 66 6hp 623hp 3490
+vs blanka, marisa, honda, zangief:
+...214hp no delay 623hp 6hp 6hp 623hp 3505 (all buffered)
+
+dream combo:
+2mk 214pp 214214lp, 6f delay then 2f back walk 214hp, 5f delay then 1f forwards walk 623hp, 2f delay no walk 623hp, 66 623hp 66 623hp all buffered, confirmed on terry. 4900, 5500 w/ super 
+
+5mp 2lk 623mp 1700
+2mk 2mp 623hp 2060 far combo
+5hp 2lk 623mp 1900
+[hp] same as pc di 
+2hk-hp super hitconfirmable
+pc 6hp 2lk 623mp 2180
+aa 623lp high 214lp -5 on whiff but usually works if nat meaty
+aa 623lp super high 623hp ect
+high juggle 236pp/236[k] 623lp 214lp safe jump 
+236pp rdr 623lp 214lp side swap safe jump, 623lp 623lp +43kda better damage, kk 5hp +1ob
+
+Button guide:
+all pokes all the time
+
+
+Punish theory
+-4 5lp 5mp if close, 2lp 2lk if not 
+-5 throw if close, 2lk 2lk 623mp kk oki, 2lk 623hp damage far
+-6 same as -5, but 5lk is hitconfirmable if needed 
+-7 5mp 5hp if close, otherwise same as -5
+-8 same as -7
+-9 2mk (5hp kk 6p 214hp)/(2hk 214hp)/(2mk 236kk 236p-lp rdr 5hp 236[lp] 214hp) standing, otherwise same as -7
+-10 5hp 2mk, far out 5mk 623hp, real far 2hp
+-12 real far 2hk 
+...
+-16 236lk rdr 5mk kk6p 214hp
+
+
+okiedokie (non safe jump)
+corner throw 66 walk throw loop
++38 crn (623hp) 2lp 236p +4ob +12oh reactable
++38 crn 66 426p +1ob +9oh reactable but very hard
++38 crn lp link lp 5hp +1ob +8oh
++38 crn 2hk/throw 5mp +8oh +1ob
++40 crn (214hp) 2lp 236p +6ob +14oh reactable
++40 crn 2mp 5hp 0ob +7oh
++40 crn 66 5lp 5mp +8oh +1ob
++33 (236236k grounded) no oki midscreen, lp xx 2lp 5mp +1ob +8oh
++35 (2hkhp 236236k) no oki midscreen, 2lp xx lp 5hp +1ob +8oh
++25 (236236p) no meaties, 66 2mp, dr delayed hp 
+
+off safe jump kk hp will auto time +7oh 0ob 
