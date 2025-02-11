@@ -1,0 +1,240 @@
+https://pastebin.com/edit/V9yLxbgq
+28k/od 40f charge
+46p/od 45f charge
+
+extends hurtbox first:
+5lp 5lk 5mk* 5hk 2lp 2lk 2hk*
+hitbox first:
+5hp 6mk*
+simultaneous:
+5mp 5mk* 2mp 2hp 2mk 2hk* 4hk 6mk*
+
+okiedokie
+2mk 66 5mk +1 ob +8 oh, 5mk 2mk on br confirm
+corner 214lp/236mk 5lp 6mk +3ob +7oh, 5mp 2lp 28mk 28hk, 2hp 2mp 28mk 28hk ch 
+corner 2HP 2MP 28MK 28HK 92LK safe jump
+corner 2HP 2MP 28HK 9 safe jump
+di splat 5hp 214k-hk 28hk 28lk safe jump
+214lp/236mk 66 rdr 5mp
+214mp 66 rdr 5lp
+214hp 66 66 +2
+
+burnout stun setups:
+214mp (+32) 66 mm66 5lp 5hp di, best distance
+214mp (+32) 236lk 5hp di, close only
+214lp (+34) same as 214mp
+214hp (+40) 66 6mk 5hp di
+
+stop DR with 5MK/5MP on great reactions, 2lp on bad reactions
+
+ch 5MK 2MK/ pc 5MK 5mk neutral
+
+Safe to DI (total - 26):
+2mk at +4 
+5mk at +1
+2hp at +3
+5mp at -4
+
+pc 5HK 236HK
+pc 5HK rdr 5MP 2HP 2MP 214LP (corner 28MK 28HK 92lk safe jump)
+pc 2hp 5hp 214mp OS 5lk 236mk, either you get the cancel or the link
+corner pc 2hp 2hp 2mp 28mk 28hk
+
+AA 4HK, 28HK, at long range 2HK (link 28hk) and 5HP can trade AA
+
+28MK can AA, but it has no invuln while active, links to 28HK
+
+236236P only do 236236HP, side swap same damage
+
+pc 236236K, not optimal unless 5mp out of range
+	close meterless 5HP 214HP 3180, less than 2hp/5mp
+	far meterless 236hk 2640, less than 2hp/5mp
+	far meterless 2mp 214hp 3060, less than 2hp 5hp 5lk 236hk
+	far 1 bar rdr 2mp 214hp 2902, 5mp tc more
+	close 2 bar 5hp 214pp 3530, less than 2hp
+	far 2 bar rdr 5mpmp dr 2mp 214hp
+	far 3 bar rdr 2mp 214pp 
+	can do rdr 5mpmp forever, end in corner with mpmphp 28hk
+	carry loses damage
+air pc 236236K
+	4hk 214hp
+	back to wall 4hk 214khk 236hk 
+
+ch 236236K 236HK
+
+5MP-HP-HK super
+
+214kk-6p(3p) 28hk/236236k to side swap combo (1800/2300 raw), 600/300ish less
+pc di 92lk 5lk 214lp 	2460 side swap
+pc di 92lk 5lk 214lp 214214p	own corner only
+pc di 66 5hp 214hp 214214p 	corner only
+
+corner if out of range of 214kk starter, 2mp 66 2hp 5hp 214kk-hk 46pp 236mk 214214p 	5687
+
+BNB listing
+pc 5hk rdr 5mp 2hp 2mp 214lp
+2lk 2lp 236mk
+5mp 5lk 236mk/hk
+5mp 5lk 214lp cr
+5mk/2hp 2mp 214lp/236mk/hk
+xyz 28mk 28hk 92lk safe jump, standing only, best damage
+5lk 66 2lp 2hp 2mp 214lp
+pc 5lp 2mk
+pc 2hp 5hp 214mp os 5lk 236mk/hk
+pc 2hp 5hp 214kk-hk 236hk
+crn grounded ender 28mk 28hk
+crn 3 dbar ender 214kk-hk rdr 5hp 214k-hk 236hk
+pc di 2hp 2mp...
+far pc di 66 5hp 214hp
+splat 5hp 214k-hk 28hk 28lk
+splat 5hp 214kk-hk 214k-hk 236mk 
+DI PC corner 214k-hk 214kk-hk 214k-hk 236mk 
+splat [mm66 mpmp]x4 mm66 mpmphp 214kk-hk 214k-hk 236mk 214214p 	4306
+pc di 92lk 5lk 214lp 	2460 side swap
+
+
+Combo theory
+when the range is suspect use 236hk over 214p/214kk
+5mk and 2hp nc are the same, other than 2hp doing a flat 200 more damage
+236mk 214214p does less damage if 236mk is the 4th hit in scaling
+214kk-hk is the highest damage EX move to go into 236236hp... other than 214pp
+236kk does less than 236hk, except when cancelled into supers
+236mk super does more than 236hk super
+juggle 214lp/mp is bad filler
+214pp lvl2 doesn't work in juggles
+214kk's range sucks
+corner juggles 214kk-hk rdr 5hp 214k-hk 236hk max damage, 28hk safe jump
+corner grounded standing 28mk 28hk max damage 
+28mk juggles into 236236k point blank only / corner
+pc 2hp 5hp 214mp os 5lk 236hk / 28mk 28hk
+pc 2hp goes into 5hp always, unless point blank in corner, then 2hp 2hp 2mp 28mk 28hk
+236236k is a waste of bar except for 2d 1s corner combos and 5mphphk
+46pp 66 rdr usually can pick up into 5hp 
+juggle 214hp links into 214214p (not into 236236k, also range specific)
+
+
+Meter efficiency theory
+2 dbar 214kk-hk is the best use of dbar off 5mk/2hp midscreen confirms 
+3 dbar 214kk-hk rdr 5hp 214hk 236hk/28hk is the best use of dbar off 5mk/2hp corner confirms
+crn 5mk 2mp 214kk-hk 236mk 236236k is the only efficient 236236k
+214214p is possibly always the most efficient super except for 5mphphk
+5mphphk 236236k > 236236hp... = 214214p ca > 214214p
+mixing dbar and sbar usually results in inefficient usage of one
+Best combos for efficiency
+5mk 2mp 214lp 214214p 4680
+5mk 2mk 236236hp... 3600
+5mk 2mp 214kk-hk 236mk 236236k 3800 crn
+5mp 2mp 214kk-hk rdr 5hp 214k-hk 236mk 214214p 5468 crn 
+5mk 2mp 214kk-hk 236236hp... 4100
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236hk 3604 crn 
+
+
+
+
+Raw combo data
+
+splat 5hp 214k-hk 28hk 	2272 	28lk sj
+splat 5hp 214k-hk 236236k 	2592
+splat 5hp 214k-hk 236236hp... 	3360
+splat 5hp 214k-hk 236mk 214214p 	4080
+splat 5hp 214kk-hk 214k-hk 236mk 	2720
+splat 5hp 214kk-hk 214k-hk 236236k 	3104
+splat 5hp 214kk-hk 214k-hk 236236hp... 	3680
+splat 5hp 214kk-hk 214k-hk 236mk 214214p 	4720
+
+5mp 5lk 236mk 	1700
+5mp 5lk 236hk 	2020
+5mp 2lp 28hk 	1940 st
+5mp 2lp 28mk 28hk 	2550 st crn
+5mp 5lk 214lp 	2220 cr
+5mp 5lk 236236k 	2340
+5mp 5lk 236236hp... 	3300
+5mp 5lk 46pp 236236hp... 	3800
+5mp 5lk 236mk 214214p 	4100
+5mp 5lk 214lp 214214p 	4380 cr
+5mp 5lk 66 2lp 2hp 2mp 214lp 	2575
+5mp 5lk 66 2lp 2hp 2mp 28mk 28hk 	2718 crn
+5mp 5lk 66 2lp 2hp 2mp 236236k 	2638
+5mp 5lk 66 2lp 2hp 2mp 28mk 236236k 	2956 crn
+5mp 5lk 66 2lp 2hp 2mp 214lp 214214p 	4449
+
+5mk 2mp 214lp	2520	anywhere
+5mk 2mp 236236k	2640	anywhere
+5mk 2mk 236236hp...	3600	anywhere
+5mk 2mp 214lp 214214p	4680	anywhere
+5mk 2mp 214kk-hk 236hk	3140	anywhere
+5mk 2mp 214kk-hk 236mk 28hk	3450	crn
+5mk 2mp 214kk-hk 236mk 236236k	3800	crn
+5mk 2mp 214kk-hk 236236hp...	4100	anywhere
+5mk 2mp 214kk-hk 236hk 214214p	4720	anywhere
+5mk 2mp 214kk-hk 236mk 214214p	4900	crn
+5mk 2mp 214kk-hk rdr 5hp 214hp	3378	anywhere
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 28hk	3502	crn sj
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236hk	3604	crn
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236236k	3740	crn
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236236hp...	4328	crn
+5mp 2mp 214kk-hk rdr 5hp 214k-hk 236mk 214214p	5468	crn
+5mk 2mp 66 2hp 5hp 66 5hp 214k-hk 236236hp... 	4244
+5mk 2mp 66 2hp 5hp 66 2hp 5hp 214mp 214214p 	5487
+5mk 2mp 214kk-hk rdr 4hk(2) 214k-hk 46pp 214k-hk 236mk 214214p(or 236236k) 	5888 	crn
+
+Excel tables raw
+https://docs.google.com/spreadsheets/d/1aAxbj1ERXgzjuayUxypfbWZqaeGZbpeJv381zHo3xmw/edit#gid=0
+			dbar	sbar	dam added ml	dam added su	dam added dr	dam p dbar	dam p sbar	p bar ave
+5mk 2mp 214lp	2520	anywhere	0	0	0	n/a	n/a	n/a	n/a	n/a
+5mk 2mp 236236k	2640	anywhere	0	1	120	120	n/a	n/a	120	120
+5mk 2mk 236236hp...	3600	anywhere	0	2	1080	1080	n/a	n/a	540	540
+5mk 2mp 214lp 214214p	4680	anywhere	0	3	2160	2160	n/a	n/a	720	720
+5mk 2mp 214kk-hk 236hk	3140	anywhere	2	0	620	n/a	620	310	n/a	310
+5mk 2mp 214kk-hk 236mk 236236k	3800	crn	2	1	1280	660	500	250	660	455
+5mk 2mp 214kk-hk 236236hp...	4100	anywhere	2	2	1580	960	500	250	480	365
+5mk 2mp 214kk-hk 236hk 214214p	4720	anywhere	2	3	2200	1580	40	20	526.6666667	273.3333333
+5mk 2mp 214kk-hk rdr 5hp 214hp	3378	anywhere	3	0	858	n/a	858	286	n/a	286
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 28hk	3502	crn sj	3	0	982	n/a	982	327.3333333	n/a	327.3333333
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236hk	3604	crn	3	0	1084	n/a	1084	361.3333333	n/a	361.3333333
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236236k	3740	crn	3	1	1220	136	1100	366.6666667	136	251.3333333
+5mk 2mp 214kk-hk rdr 5hp 214k-hk 236236hp...	4328	crn	3	2	1808	724	728	242.6666667	362	302.3333333
+5mp 2mp 214kk-hk rdr 5hp 214k-hk 236mk 214214p	5468	crn	3	3	2948	1864	788	262.6666667	621.3333333	442
+
+Matchup specific notes:
+
+Blanka:
+2pp-p mm66 5lk 2pp-k safe jump
+blanka chan makes lvl 1 safe
+installed lvl 1 goes full screen
+63214k in corner as oki do 2369hk or very low 28hk
+6mk to catch air balls
+j46p -2 ob at best
+j46pp +3 at worst
+46LP 66 5lp punish, or walk 2hp 5hp 5lk 236hk, or dr 2hp
+46MP same
+46HP pp 66 5hp 2hp 2mp 214lp (214214p is worth it)
+46PP pp mm66 mpmp stuff 
+
+Luke:
+5lpmphp 236lp locks, 28hk punishes it
+5lpmphp any cancel DI, no cancel -14
+reaction DI the cancel
+236236p punish with mm66 2hp
+after air dp whiff 2mp is 0
+
+Chun-li:
+can't 28hk 214k
+throw mm66 punished by 28kk/236236hp.../214214p
+6hk -1 oh
+
+Juri:
+5mp 2mp, parry the 2mp and the 214lk whiffs, or parry the 5mp and stand block the 2mp
+236kk over bad fireballs
+236hk 236lk has a gap, 236hk -12
+
+Cammy:
+214HP stuff on reaction, 5mp 2mp 214lp good for that
+6mk their dive kicks
+Don't fireball vs lvl 3
+
+Rashid:
+214K punish rdr 5hp 2hp 2mp 214lp 
+
+Aki:
+214LP 6P punish rdr 5lp 2hp 28hk, or 236hk 2mp 214lp if close enough
