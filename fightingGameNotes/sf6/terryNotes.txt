@@ -1,0 +1,55 @@
+Terry notes
+BNBs:
+2lk2lp2lp 623hp 1430
+2mp 5lk 623hp 1940
+5mk 5lk 236lk 2lp 5lp 623hp 2410
+
+2lp and 5lk go into 214mp for oki, -200ish damage
+
+far PC 5hk dr 5mphkhk 2746 (jf: 2848), dr 5mp 236hk 623hp can also work if only far-ish 2986
+close PC 5hk 2mk2hk236hk 623hp 3110
+close pc 5hk 6 5mp236hk delay 623hp 3330 works midscreen with microwalk and very strict timing
+PC 5hp(2)/2hp 236hk delay cancel 214hk 623hp 3260
+crn PC 5hk 5mp236hp 623hp 3410 
+crn PC 5hp(1)236hp 2hp 236pp 5mp236lk 2lp 5lp 623hp 
+
+any medium+ 236kk delay 214hk 623hp 
+
+di splat 2hp 214mk 623hp 2192
+
+pc di far 5mp 236hk delay 623hp 2860
+pc di close 5hp(1)236hk delay 214hk 623hp 2900
+pc di 8hk rdr 2hp 236hk delay 623hp 3026
+
+
+2mk2hk214mk 236236k
+2mk2hk236mk 214214p
+2mk2hk236hk delay 623hp 2030
+crn 2mk2hk214mk 623hp 2090
+
+crn grounded 236hk236hp 623hp 
+
+grounded midscreen 236hk236lp rdr delay 5mphkhk 
+236hp 2mk2hp stuff
+
+214214p-pp rdr 5mp236hk delay 623hp 3327
+
+
+hp dr hp 2mp dr 2mp hp(1)236hk236hp 623hp 3413
+
+3640 8hk 2hp 236pp 2mk2hk214mk 623hp 
+3620 8hk 2hp 5mp 236lk 2lp 5lp 623hp
+
+crn 214214p-pp rdr 5mp 214mk/236hp 623hp 3335 (same damage for both moves)
+crn pc 214hpp 236hk236hp 623hp 3730
+
+punish
+-4 5/2lp 2mk blah 2030
+-6 2mp 5hp(1)236hk blah 3040, 2mp 236hk blah far 3020
+-7 5mphkhk 2490/2350
+-9 5hp 236hk blah 3260
+
+power dunk just frame is like a bit after half way into the cancel window 
+screen shakes when you land it
+pc 5hk 5mphk:hk 3160 vs 3040 w/o 
+2490 vs 2350
