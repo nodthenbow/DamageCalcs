@@ -1,0 +1,199 @@
+mini guide:
+	main oki is drive rush 6mp or 2lk, because 6mp is i20
+	throw loop with dash, shimmy with dash walk back (not vs bigger throw range chars)
+	5hk and 5hp (into dr blah or 236hk) are the main whiff punishers
+	with 4+ od bar:
+		poke with mp and 2mk buffered into dr
+		any fireball with a drive rush behind it
+		focus on getting them to the corner over going into 236236p
+		try to get a 236236p with 3/4 od bar and the corner
+		always do dr oki for the mixup
+		dive kick kinda good
+	with 3-4 od:
+		236[p] walk behind to wait for bar to regen
+		mk, hk, and well spaced mp with 214lp or 236p buffered are your main pokes
+		drive rush oki is still worth it midscreen 
+		try to conserve stocks if you have them
+		dive kick still kinda good
+	with <3 od:
+		worth it to spend stocks to stay out of burnout
+		236236p is your best reversal
+		dive kicks are going to be a bit too risky
+	in the corner 4hk is a solid, easy, single hit confirm (4hkhk 623mk/236236p)
+	jlk and jmk are your crossups, jhp is the lowest reaching, jhk is the farthest reaching
+	2hp is an easy hitconfirm button, but ch and dr confirms are your main source of damage
+	623k is your main AA, 4hk works but is worse, 236236p is great if you have fast hands
+	corner is very good for her, worth doing 236lk enders to get.
+	stocks are very useful, 236236p is worth routing into (easier in the corner)
+	main confirm into 236236p out of corner is with a ch into 2mp or dr cancel
+	in corner light confirms into 236kk jmp 236236p are the most reliable
+	236[p] is meh as oki, but good for lockdown in neutral
+	can't jump 236p on reaction, can jump 236[p], but they have to guess if it will be charged
+	very easy to use anti fireball moves against her
+	236[mp] most useful fan, midscreen-ish dr 6mp vs dr 2lk vs dr throw
+	fan mixups are beaten by being proactive or getting too close, drive reversal also kills it usually
+	s214lp safe for real (-2), js214p/pp has more blockstun too (can be plus) and combos on hit
+	burnout loop with 2mp s214lp, or trade loop with lp 214lp
+	burnout stagger pressure is better though, every normal but 5mk, 2mk, and 2hk is plus
+	(s)236[pp]6p is amazing for lockdown if you can ever sneak it in 
+	
+random notes:
+	5lp has more hitstun than the other lights, enough to combo into 214lp, 236kk, and dr 2lk 
+	5lk is only there for the lklklk tc, lklklk is usually safe on block at least
+	4hkhk is hitconfirmable, also the input buffer after it lasts from the 3rd hit to the end 
+	really hard to get into lvl1 outside the corner, 2mp/lp ch 2mp 236236p best bet
+	s236236p works off almost everything, it is great damage and refreshes stocks, but no oki
+	s623hk has less range issues than 623hk does 
+	4hk 2f window to manually meaty enough for link into 2mp
+	jmp juggles as an air to air is not a reliable AA, but with stocks it is rewarding 
+	you can hold the 6p of 236[pp] 6p instead of repressing 6p
+	mp/2mk dr 2lp no gap, +3ob, same with hp dr 4hk/2lp
+	236p loses to strikes, 236[p] is a fireball, ex always ex fb (1 hit per fan tho)
+	almost everything gets dr 6mp oki, except 236236p, 214214p, 623kk, 236mk, and 236hk
+	623kk gets dash +2 near corner only
+	236mk/hk get dash throw range oki everywhere
+	236236p is +26, get dr 2mp midscreen, 2lk 4hk perfect meaty in corner
+	214214p is +19, get dash +1 no throw oki (CA is +20, still no throw)
+	dr 2lp2lp 5lklklk214p safe jump (+42), same with dr 4hk lklklk214p
+	
+fillers:
+	blah 214hp 623hk, grounded vs stand ender
+	blah s214hp s214mp s623hk, grounded vs stand with stock ender
+	blah dr 4hk 2mp blah, forces stand for 214hp ender 
+	blah 236kk jmp 214p, normal ender for 236kk
+	blah 236kk jmp 623hk, slightly more damage
+	blah 236kk jmp 236236p, corner only into super
+	
+misc combos:
+	pc di hp 214hp 623hk 2760
+	corner pc di 4hkhk 623mk 2880
+	di splat 4hkhk 623mk 2128
+	di splat hp s214hp s236lk s623lk 2496
+	lp lklklk j214pp 623hk 2200
+	js214p low hit 623mk, js214pp into anything
+
+stun combos:
+	stun max w/o stock jhp hp dr hk 2mp dr hk 2mp 214hp 236lk 214214p 5685
+	stun combo no stocks dr hp 236[pp]6p 214lp dr 4hkhk supers/623hk, 4 ex 5394/3490
+	stun combo no stocks jhp hp dr hk 2mp 214pp 236mk 214214p, 5 ex 5454
+	stun combo stocked dr hp s236[pp] 9hp hp s214hp s236kk jmp js214pp super/623hk (4637 actual stun w/ lvl3)
+	"stun" jhp hp dr hp 236[pp]6p 214lp dr 4hkhk 214214p 5669 (uses 6 ex)
+	"stun" jhp hp dr hp s236[pp]6p 214lp jmp js214pp 214214p/(236236k 236236p) 5776/5666 (uses 6 ex)
+	"stun" dr hp s236[pp] 9hp hp dr hp s236[pp] 9hp hp s214hp...
+		s236mp s236lk 214214p 6147 (4902 on actual stun (skip dr hp, start w/ 236[pp]), hp-di for bar first)
+		s236236k (s)236236p 5917 (4672 actual stun)
+		s214mp s236236k 623lk 5387 gains a bar (4142 actual stun, 90% of a bar gained)
+		s214mp (s)236236p (gains the bar) 4805 (3560 actual stun, gains 95% bar it uses (l>m>h>di))
+		s214mp (s)623hk (gains a bar) 4219 (2974 actual stun)
+
+drive rush misc:
+	dr 2lk 2mp blah, only dr low that links into stuff
+	dr/pc hp s236[pp] 9hp blah, best starter w/ stock 
+	(hp/2mp) dr hk 2mp dr blah highest damage filler for 2 dr combos 
+	lp/2lp dr lp hp blah
+	dr 6mp trade w/ light 2hp 5lp 623hk 2600, or hp 214hp 623hk 2880 (236lk dr 6mp hits frame 4)
+	
+corner misc:
+	blah lp s214mp 623mk/236236p corner only 
+	s236236k 623lk works in corner, off low j236236k too
+	214pp link 236236k 623mk in corner 
+	corner juggle 2mp (pc di, pc hk, ect) 236lk 623lk/236236p works, but less dmg than 4hkhk 623mk
+	corner mp/2mp/hp dr 2hp 4hkhk 623mk/236236p 
+	corner 214mp whiff lk, perfect meaty 6mp +4oh -1ob, lklklk j214p 2170
+	corner blah s236kk late jmp s214lp 623hk/supers 
+	corner pc/dr hp 236[pp]6p 214lp 214lp 236236p/623hk 3650/3410
+
+bnbs:
+	2lk 5lp...
+		623hk 1280, dr 6mp oki, range issues
+		236lk 1000, best carry
+		236236p 1840, range issues
+		236kk blah ~1700
+	mp dr...
+		4hk 2mp 214hp 623hk 2664 vs crouch
+		5mk 5hp 214hp 623hk if they are standing 2715
+		corner dr 2hp 4hkhk 623mk/236236p 2906/3212
+		all variations get dr 6mp oki
+		can end with 236lk for corner carry and a bit better oki
+	2mk dr 4hk 2mp 214hp 623hk 2214
+		can end in 236236p in corner (skip 623hk)
+		can end in 236lk for better carry 2078
+	2hp 5lp 236kk jmp j214p 2600
+		can replace j214p with 623hk for 2700 and way worse carry
+		can end in 236236p in corner (skip j214p)
+		can do 623hk instead of 236kk... 2060
+	2mp 2lp 236lk 1540
+		can do 623hk with stock, worse carry 1940 (s236lk 1620)
+	pc 5hk...
+		2mp 214hp 623hk 2720 
+		corner 4hkhk 623mk 3000 (can do hp instead of mp in corner if too far for 4hk 2880)
+		far away 66 lklklk j214p 2400
+		far away dr hp 214hp 623hk 2600 
+	dr 6mp 2mp 623hk 2160
+		can do 214hp 623hk vs stand 2560
+		can do 236236p 
+
+
+punishes:
+	-4 
+		lp hp 623hk 1840
+		lp 4hkhk 1840
+		vs st lp hp 214hp 623hk 2160
+		far 2lp mp 236hk 1540
+		far vs stand 2lp 5mp 214hp 623hk 2000
+	-5 
+		throw 2040
+	-6 
+		2mp 4hkhk 2480
+		2mp 5hp 623hk 2480
+		vs st 2mp 5hp 214hp 623hk 2880
+	-7 
+		same as -6, but 2mk 214mp/236hk 1400 has more range
+	-8 
+		4hk 2mp 214hp 623hk 2920
+		far vs st mp 214hp 623hk 2360
+		far mp 236hk 1720
+	-9 
+		mk hp 214hp 623hk 3000
+metered punishes:
+	-4 
+		lp hp 214pp 623hk 2420
+	-5 
+		5mp 214pp/236kk/dr if far 
+	-6 
+		2mp hp 214pp 623hk 3160
+	-7 
+		2mk 214pp/236kk/dr if far  
+	-8 
+		4hk 2mp 214pp 623hk 3200
+		4hk 2mp dr 5hk 2mp 214hp 623hk 3342
+	-9 
+		vs stand hp 236[pp] hp 214hp 623hk 3360
+		mk hp 214pp 623hk 3280
+		vs stand mk hp dr hk 2mp 214hp 623hk 3422
+		mk hp dr 4hk 2mp 214hp 623hk 3354
+corner only punishes:
+	anything into 4hkhk now links into 623mk which makes them max damage
+	-9 5hp 236[pp]6p 214lp jmp j214p 3510
+	-10 2hp 4hkhk 623mk 3270 (623kk ender 3520)
+
+stocked punishes:
+	-9 
+		hp 236[pp] 9hp hp 214hp 214mp 623hk vs stand 4340, 
+		...9hp 2hp 2lp 623hk 3640 vs crouch
+	corner vs crouch stuff can do 214mp 623mk as the ender 
+
+counterhit/punish counter:
+	anything into 2mp is useful for getting into 236236p without corner or dr 
+	ch lp/2lp 2mp 214pp/ect (single hit confirmable)
+	ch 5mk 2mk 236hk/ect doesn't work at max range
+	ch 2hp 2mp 214pp/ect
+	ch 4hk 5lp 236kk/ect
+
+useless stuff:
+	6mp spikes in juggles +16kda
+	pc hk walk hp 214hp 236lk midscreen for less than 2mp damage route 
+	corner 214pp 236kk jmp 236236k 623lk can work, but gets less damage than the sane combos
+	vs st pc 236[mp] lp walk anything, less damage than any normal combo
+	lklk forces stand, but it is -2 on hit so lol, maybe with fan stuff this can be useful 
+	214214p no cinematic 623hk
