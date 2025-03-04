@@ -1,0 +1,223 @@
+Siegfried punish/combos list
+Unreliable means literally unreliable on a system level, not on a human level. There are three sources of this unreliability:
+UN1, it's matchup or position specific (srshB (ssr) 22_88BBB only work on some characters and only at some angles and positions)
+UN2, it's a random mechanic (Tira mood shifts for example, Siegfried doesn't have any)
+UN3, it's impacted by the input shifting glitch the input handler itself has (https://youtu.be/lCHN7ptwuvU This only matters on 1 frame links, but Siegfried has those)
+The unreliability of UN1 can be made reliable by knowing the situation well enough, so I'm only going to say this when it is way too finiky to confirm in almost any situation without setplay. UN2 and UN3 are just random, you have no control over them past deciding to take that risk or not. UN3 has about a 30% failure rate if you assume you have perfect execution and timing, UN2 is move specific (and Siegfried doesn't have any move with this anyways).
+Notation:
+789 u/b u u/f
+456   b n f
+123 d/b d d/f
+Assume facing right, 4 is back, 5 is neutral, 6 is forwards, ect. A is horizontal, B is vertical, K is kick, G is guard, and they are whatever button they are mapped to in the controller settings.
+xY means slide from X to Y, 66/22/ect means 8 way run in that direction (pressing the direction twice then holding it is the shortcut to 8 way run, so that's why that notation is written that way). X:Y means a just frame (you flash blue, the window is usually tighter than normal). X_Y means X or Y. w! means wallsplat happens there. [X] means hold X and ]X[ means release X (usually it's implied and not written). bt means back turned (aka when your back is towards the opponent). LH means lethal hit, GI means guard impact, fc means full/from crouch (while crouching do the input), ch means counterhit, nc means natural combo (always combos on hit), ncc means natural counterhit combo (only combos on counterhit). X+Y means press X and Y at the same time (4X/6X/ect implies together (direction can be pressed well before the attack though), XY does not imply that).
+
+Siegfried specific notation:
+srsh = (stance) reverse side hold, the stance you can do manually with 6B+K
+ssh = (stance) side hold, the stance you can do manually with 4B+K
+sch = (stance) chief hold, the stance you can do manually with 2_8B+K
+sbh = (stance) base hold, the stance you can do manually with B+K
+iagA = a:g:A, a move Siegfried has
+DL = dark legacy
+
+General note, any combo that ends on 3B or 33B can replace that with a:B for the same damage and better oki, or the other way around to get around UN3 at times.
+General note on buffers, iagA at reversal timings require a[G] to be buffered, if G is released then you can not get iagA. The same is not true for a:B, which must be a buffered A and a timed B, and is UN3 as a reversal, however, you do not need to do a:5B, so any B move may be used (not including wrB, 22B, ect, but yes including b6 and b:4).
+
+Meterless, no DL:
+Standing punish (hitting crouching is implied, high will be stated)
+i12
+K, 14, high
+i14
+b6, 20
+4A, 26 close, 16 far, high
+i16
+AA, 30, high
+LH iagA 66[A+B] 3B, 83-88 (timing based), high, must be a block punish, UN3
+i18
+a:[B] sbhK, 41, UN3
+iagA 66[A+B] 3B, 83, high, must be a block punish, (reliable with good timing at i18 and slower)
+agA, 28, high (sometimes you get this by accident so I'm listing it)
+i20
+3[B] schkB, 49, hkd
+3[B] schk~B (delayed), 51
+66A+B, 39, works from much farther than 3[B]
+a:[B] sbhK, 41, also works from farther than 3[B]
+3A [6] 33B, 42-48, also works from farther than 3[B]
+i22
+4KAA, 55, high
+i24
+4B, 62 close, 26 far
+i26 
+44[A+B] srshB b:4, 66-68 (depends on character, position, and ukemi)
+
+
+Crouching punish (you can add 2 to the startup to use these as an unreliable standing punish)
+Anything from above that starts with 4/6 or 44/66 can be done at the same speed
+i12
+wrK, 26
+i14
+fc3K, 30, gets 1 DL stock
+i16
+wr[B] schkB, 51, hkd
+wr[B] schk~B, 53
+
+Misc natural combos
+3A [6] 33B, 42-48 (depends on range and ukemi)
+3a4 [6] 33B, 48-53
+b:4 a:B, 70
+run slide 4A+BA, 50
+44[B] sbhB, 60 (there is no reason to ukemi, but if they do you get a free 4A+BA/B:4 on back ukemi)
+fc1A+G 2K, 44
+44[A+B] srshB b:4, 66
+44[A+B] srshB (SSR) 22_88BBB, 68, UN1
+66[A] sbhK, 50
+66A a:B, 54
+1[B] sbhK, 39
+44A 6[B] schK[K] schA[A] srshA+B, 90
+RE A sshAA, 52
+RE B 6 4A+BA, 74
+RE K [B] sbhK, 48
+btschB 66[A+B] 3B, 83, not the best combo, but easily the most reliable for the damage
+guard break with 4A+B, G 6[B] route 78
+GI lvl 2 agA/iagA/AA
+GI lvl 3 4B
+
+Misc ch combos
+b6 66B, 53
+3[B] schA+B, 65
+3[B] delay schA[A], 66 (force guard srshB/K if no AC away)
+wr[B] sch[A] sshA+B 4A+BA vs Nightmare 93
+44[A+B] srshA b:4, 79-85
+6[B] schK[K] schA[A] srshA+B, 82
+6AB b:4 66
+wr[A] sshK, 42
+66KK a:B, 62, unreliable
+Aa4 schK, 31, lol
+[A] sshK, 37
+(2nd hit) AAA, 46
+
+From stances
+sbhB 4A+BA, 79
+sbhK a:B, 41
+ch sbhA a:B, 54
+sbhA+B a:B, 45
+schB a:B, 54
+sch[B] 4A+BA, 78
+(2nd hit) ch schK[K] schA[A] srshA+B, 74
+ch schk[B] sbhK, 51
+sshBBB, 62
+ch sshBB 4A+BA, 67-87 UN1 for damage
+sshA+B 3B, 33, UN1
+srsh[K] srshA+B, 45
+srshB b:4, 61
+(hits jump) srshB a:B, 52
+srshA 66B, 62
+(hits jump) srshA 4A+BA, 87, UN1
+srshA+B 6 a:B, 69 UN3
+
+Lethal hits
+iagA 66[A+B] 3B, 83-88 (listed in punishes)
+6A+G b6 66B, 83, Siegfried in red guard bar
+6A+G 66KK a:B, 85, UN3 Siegfried in red guard bar
+sbhB 66[A+B] 3B, 75, hit after sbh's aGI
+schB 33_99[B] schA+B, 92, on back hit
+schB 6[B]... optimal if can't get to back
+sch[B] wait 66[A+B] 3B, 103, on back hit
+A+B sshBB 4A+BA, 87, on impact counter
+RE A sshBB 4A+BA, 75
+RE B 66[A+B] 3B, 73
+RE K [K] schA[A] srshA+B, 70
+
+Dark legacy stuff
+6A+B 6 a:B, 61, removes DL
+fc3[K], 69, i14 crouching punish, removes DL
+Lethal hits in DL
+3[B] G 66[A+B] 3B, 91, on counterhit
+66[A+B] 3B, 80, on whiff punish
+srsh[K] srshB b:4, 67, on standing guard
+srshB 3[B] schA+B, 86, on crouching guard
+sshK 6[B] schK[K] schA[A] srshA+B, 83, on counterhit
+
+Meter stuff
+i16 punish, 236A+B+K, 39
+i20 punish, super, 80
+ch 3[B] super, 83, really the only way into super that makes it do more than 3 extra damage
+juggles like sbhB and sch[B] that go into 4A+B or 66[A+B] go into super, and schK[K] spin stun goes into super for at most 10 extra damage
+All commbos into super off stuns that go into 6[B] or 33[B] do more damage using 33[B]
+236A+B+K almost always loses damage and oki, these are the exceptions:
+ch 66KK 236A+B+K, 60
+3A 236A+B+K, 45
+fc1A+G 236A+B+K, 44 UN1
+
+Soulcharge stuff
+3[B] schkA+B 4A+BB, 88, uses about half of SC
+3[B] schkA+B 4A+BA, 83, uses about a quarter of SC
+b6B schB, 64, uses about a quarter
+ch b6B schkA+B, 4A+BB, 83, uses a lot
+ch b6B schK[K] schA+B, 74, uses about half
+66KB schA+B, 85, uses about half
+LH 6A+G 66KB schA+B, 95
+You get the idea, Siegfried's SC sucks and he doesn't have the meter gain to use it anyways
+
+Wall combos
+(not on astaroth)
+Full wall 
+w! 6AA w! 6[B] schK[K] schA[A] srshA+B, 143 started with ch 6AA, high splats only, works most reliably with wall closer on the left
+w! 6[B] schK[K] schA+B w! iwr[B] sch[A] sshA+B 4A+BA, 143 started with ch 6AA, works off lower splats, same angle is best
+w! 66KK w! (either iwr[B] or 6[B] route), 127 off ch 6AA, works off every janky splat (which is most splats he has)
+3[B] (schK[K]) w! schK[K] schA+B w! iwr[B] route, 106 (89), only option with 3B splats
+ch 3[B] A+B w! b6 66B, 104, it's a bad splat
+
+Half wall
+3[B] delay schk(long delay)[K] w! schA+B w! iwr[B] schA+B, RO, really finiky but your only option
+w! 6K or 66KK w! iwr[B] schA+B, 6K when wall is closer to the left, 66K when closer to the right
+
+Big half wall
+same as half wall, but you don't need to always do the 3[B] delays
+
+Splats and best next hit (usually)
+agA, left, 66K
+juggle into agA, left/front, 6AA
+22_88A, left, 6[B]
+ch 66KK, front, 6AA
+3a4 left 6AA
+schA+B, front 6AA, (usually this is after schK[K] twirls, so do the iwr[B] route)
+BB/bgB, front, 66KK
+ch 6K, front, 6[B]
+sshK, front, 66K (ch wrA sshK and ch [A] sshK)
+fc1A+G, back, 66KK
+3B stuff all do specific combos
+
+Asta wall combos (he hits facing the wall when others wouldn't, so most of the other combos don't work)
+Full wall
+6AA w! 3A w! 6[B] route, 126
+ch 66KK and ch 6K w! 6AA w! either route, 121
+Do not try to do the second splat with schA+B, it ends the combo
+
+Half wall and big half wall
+ch 66KK rings out now, so try into that
+No double splat combos off 3[B], don't do it
+w! 3A w! 66KK
+
+Ringout combos
+3[B] schKK left
+ch 6[B] schK[K] schA+B front (also for 44A and schB LH this is better than 3[B] schA+B)
+ch 6[B] schKK 4A right
+sbhB 66A+B front
+sbhB iagA left
+LH 6A+G 66KK front
+LH sbhB A+B right
+LH sbhB 44K front
+srshB (or ch 6AB) DL 6A+B iagA/66A+B left/front
+ch [A] sshK front
+ch wr[A] sshK front
+
+Character exclusive
+NM: ch wr[B] sch[A] sshA+B 4A+BA 93 (works on most from side)
+NM/Mits/Asta/Cerv/Ralph/Maxi/Voldo/Sieg/Yoshi/Talim/Zas/Hilde/Haoh/Sets: b:4 66A+B, 76 
+NM/Mits/Asta/Cerv/Maxi/Voldo/Sieg/Yoshi/Talim/Hilde/Sets: b:4 44A+B 72 (ukemi trap)
+Most 66A a:B, 54 
+
+Punish Taki:
+6KK sidestep before second hit 44[B]
+1KK sidestep before second hit 33[B]/dl66[A+B]
+super 66[A] sbhK 50 post flash if not stepping, B+K sbhK a:B 41 if stepping, RE 35+RPS, GI +8
