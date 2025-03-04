@@ -1,0 +1,142 @@
+Talim combos and notes
+
+RE cancel takes 10% bar, but can still be done without bar
+
+wnb = stock
+wnc = 2_8B+K stance
+wnf = B+K stance
+wns = 6B+K stance
+
+4B:[A] means partial charge tha A in 4B[A] (not a real jf, 4B[A] means full charge btw)
+
+most juggle combos can do 4BB instead of the ender for a hkd, loses damage
+same with 4B:[A] bt2B+K for carry/RO
+same with 3B for bt (if it doesn't end in bt already)
+
+ending in AAA+B can usually vary in damage by 1-2 at times depending on how much it is delayed.
+Some starters go into LH 1A+B, in those cases you can do 66B 44A+B for more meter gain (6BB routes do more damage)
+
+Combos
+236B/236[B] 66B 44A+B 72/79 (+2 dmg on no ukemi)
+LH 236B B+K wnfBB 82-96 (on GI punish)
+3B dl AAA+B 52 bt
+66B 44A+B 55
+66A+B6 wnsK wnsB 72
+66A+B2 wncB:B 74
+wnfK 6B+K wns[K] AAA+B 59 bt
+66K bt8B+K btAAB 72
+44B2 wncK 43 (wncA+G can be crouched, the combo counter lies)
+bt8B+K 44A+B 53
+9B 6A+B 44/46 (OS same side and BT)
+9B bt8B+K bt8B+K 53 (max when 9B swaps side)
+9B 4B[A] bt2B+K 53 (max when 9B stays same side)
+btB 4B:[A] bt8B+K 44A+B 83
+LH btA+B B+K wnfBB 84 (108 w/ bt[A+B]) (on attack CH)
+LH 44B btB 4B:[A] bt8B+K 44A+B 85 (on low whiff punish)
+LH 44B2 4B:[A] bt8B+K 44A+B 72
+LH 44B64 wns[K] 44A+B 72
+LH 44B4 wnfBB 85
+3A/btB+KA+B/bt[B+K]A+B btAAB 33/40/46
+btB+K[A+B]/bt[B+K][A+B] bt8B+K 44A+B 60/68
+LH 1A+B 44B6 wns[K] AAA+B 77 bt (on hit with opponent in red guard)
+1A+B 1K 34
+LH 44A B+K wnfBB 74 (on high whiff punish)
+LH 66B 6B+K [K] AAA+B 83 bt setup (on back run counter)
+wncB:B AAA+B 68 (58 missed jf)
+LH wncK AAA+B 58 (on whiff punish mid)
+LH wnfBB 66B 44A+B 58/93 (58 for wnfB guard break, 2nd for 2A+B guard break) (on GC combo)
+fcA+B 4B[A] bt2B+K 59 
+fcA+B AAA+B 56 bt
+22/88B:B 3B 65 (22BB 3B 60)
+LH 3A+B 6BB6 wns[K] AAA+B 85 (on only 2nd hit hits)
+LH 6[A+B] 6BB6 wns[K] AAA+B 87 bt (on whiff punish)
+LH wncA+B 66B 44A+B 72 (on GI punish)
+LH A+B 66B 44A+B 83 (on GI punish)
+LH A+B 44B6 wns[K] AAA+B 81 bt (on GI punish) (for better oki)
+run K 44A+B 58
+low life run K (slip) 44A+B 68
+LH low life run K (slip) bt8B+K delay btAAB 96 (on own low health vs stand guard)
+(AA)BA6 wnsA+B 2A+B 66
+
+ch 4B:[A] bt8B+K 44A+B 68
+ch (A)ABA6 wnsA+B 2A+B 63
+ch 6BB6 wns[K] AAA+B 76-77 bt
+ch 6BB6 wns[K] 4B:[A] bt2B+K 77-78
+ch fc3BB2 wncB:B 61
+ch 2[A+B] wnfB+KA
+
+Bar 
+Stuff into 66B or 4B[A] replace with A+B+K for more damage (very worth for 4B[A])
+Stuff into 4B:[A] bt2B+K, replace bt2B+K with 236A+B+K for more damage and starting SC
+SC 66B 3B 47 (44A+B doesn't work in SC)
+SC 66BB 66B 44A+B 76
+SC (AA)BB 44A+B 75
+SC (AA)B[B] wnfBB 96
+SC wnc(A)BB 66B 44A+B 76 (ncc 95-98)
+SC wnsB AAA+B 65
+SC wns[B] BB 88
+ch SC 6BB64 wns[B] wnfK 2A+B/3B 86 (far only)
+SC 2BAB same as fcA+B 61/64 
+SC 66AAA:B does 75 i16 h
+SC BKA does 67 i14 m 
+ch SC fc3BB6 wnsK wns[B] wnfK 1K 81
+
+Wall
+6K w! 6K w! 6BB6 wns[K] AAA+B 82
+22A8_2 w! wncBB w! 6BB6 wns[K] AAA+B 106 bt 
+66B w! 6BB6 wns[K] AAA+B 89  (this looks like max damage somehow)
+wnfBB w! 2A+B 102
+wncK w! 22_88A w! 6BB6  wns[K] AAA+B 90 (needs some distance from wall)
+wncK w! AAB[B] w! wnfK 66B 44A+B 85 (needs less distance)
+wncK w! 4B:[A] bt8B+K 44A+B 76 (point blank)
+66A+B2_8 w! wncBB w! 6BB6 wns[K] AAA+B 110
+66K G 6A+B 6K 6BB6 wns[K] AAA+B 103
+66K btA+B 6K 6BB64 wns[K] AAA+B 88
+3B w! 3B w! B+K wnfBB 68
+SC 22A2 w! wncAKAA w! AAB[B] wnfBB 122
+SC 22A2 w! wncAKAA w! 66AAA:B AAA+B 131 (very inconsistent)
+SC 2BAB w! AABA8 wncAKAA w! AAB[B] wnfBB 76 
+ch 6AA 6K 4B:[A] bt8B+K 44A+B 91
+wrA w! 4B:[A] bt8B+K 44A+B 84 (88 if bt8B+K w!) 
+
+TODO: fix below stuff up for current patch
+Punishes while crouching
+66AA
+4BA
+4A+B
+44K
+236B
+wrA
+
+Safe ob stuff 
+2B
+9B (plus)
+9A
+9K
+4A+B
+B+K A
+B+K K
+6B+K B
+6B+K K
+66A
+66B
+44K
+wrA
+66K
+66A+B
+236[B]
+44A[A]
+22/88K
+44A+B
+22/88B:B (not 22/88BB)
+8/2B+K B.B/B:B (BB unsafe)
+8/2B+K A+B (0 on block low)
+8/2B+K AB
+6A dl K (steppable, never combos)
+
+Tracking
+
+Good lows
+1B i20 0oh -12ob 16dam ends in cr, linear
+1K i18 0oh -14ob 16dam, tracks 
+low life run K -10ob LH vs stand
