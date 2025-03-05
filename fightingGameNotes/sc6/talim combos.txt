@@ -1,7 +1,5 @@
 Talim combos and notes
 
-RE cancel takes 10% bar, but can still be done without bar
-
 wnb = stock
 wnc = 2_8B+K stance
 wnf = B+K stance
@@ -14,56 +12,60 @@ same with 4B:[A] bt2B+K for carry/RO
 same with 3B for bt (if it doesn't end in bt already)
 
 ending in AAA+B can usually vary in damage by 1-2 at times depending on how much it is delayed.
-Some starters go into LH 1A+B, in those cases you can do 66B 44A+B for more meter gain (6BB routes do more damage)
+Some starters (mostly other LHs) go into LH 1A+B, in those cases you can do 66B 44A+B for more meter gain 
+(6BB routes do more damage outside the wall)
 
 Combos
 236B/236[B] 66B 44A+B 72/79 (+2 dmg on no ukemi)
-LH 236B B+K wnfBB 82-96 (on GI punish)
 3B dl AAA+B 52 bt
 66B 44A+B 55
 66A+B6 wnsK wnsB 72
 66A+B2 wncB:B 74
 wnfK 6B+K wns[K] AAA+B 59 bt
-66K bt8B+K btAAB 72
+66K bt8B+K btAAB 72 (drops on NM AS)
+66K bt8B+K btK 56 (66K btAAB 55 better oki), vs NH AS
 44B2 wncK 43 (wncA+G can be crouched, the combo counter lies)
-bt8B+K 44A+B 53
 9B 6A+B 44/46 (OS same side and BT)
 9B bt8B+K bt8B+K 53 (max when 9B swaps side)
 9B 4B[A] bt2B+K 53 (max when 9B stays same side)
 btB 4B:[A] bt8B+K 44A+B 83
+bt8B+K 44A+B 53
+3A/btB+KA+B/bt[B+K]A+B btAAB 33/40/46
+btB+K[A+B]/bt[B+K][A+B] bt8B+K 44A+B 60/68
+(AA)BA6 wnsA+B 2A+B 66
+44A+B 3B 63
+44AA 1K 52
+1A+B 1K 34
+wncB:B AAA+B 68 (58 missed jf)
+fcA+B 4B[A] bt2B+K 59 
+fcA+B AAA+B 56 bt
+22/88B:B 3B 65 (22BB 3B 60)
+run K 44A+B 58
+low life run K (slip) 44A+B 68
+LH 236B B+K wnfBB 82-96 (on GI punish)
+LH wncK AAA+B 58 (on whiff punish mid)
+LH wnfBB 66B 44A+B 58/93 (58 for wnfB guard break, 2nd for 2A+B guard break) (on GC combo)
 LH btA+B B+K wnfBB 84 (108 w/ bt[A+B]) (on attack CH)
 LH 44B btB 4B:[A] bt8B+K 44A+B 85 (on low whiff punish)
 LH 44B2 4B:[A] bt8B+K 44A+B 72
 LH 44B64 wns[K] 44A+B 72
 LH 44B4 wnfBB 85
-3A/btB+KA+B/bt[B+K]A+B btAAB 33/40/46
-btB+K[A+B]/bt[B+K][A+B] bt8B+K 44A+B 60/68
 LH 1A+B 44B6 wns[K] AAA+B 77 bt (on hit with opponent in red guard)
-1A+B 1K 34
 LH 44A B+K wnfBB 74 (on high whiff punish)
 LH 66B 6B+K [K] AAA+B 83 bt setup (on back run counter)
-wncB:B AAA+B 68 (58 missed jf)
-LH wncK AAA+B 58 (on whiff punish mid)
-LH wnfBB 66B 44A+B 58/93 (58 for wnfB guard break, 2nd for 2A+B guard break) (on GC combo)
-fcA+B 4B[A] bt2B+K 59 
-fcA+B AAA+B 56 bt
-22/88B:B 3B 65 (22BB 3B 60)
 LH 3A+B 6BB6 wns[K] AAA+B 85 (on only 2nd hit hits)
 LH 6[A+B] 6BB6 wns[K] AAA+B 87 bt (on whiff punish)
 LH wncA+B 66B 44A+B 72 (on GI punish)
 LH A+B 66B 44A+B 83 (on GI punish)
 LH A+B 44B6 wns[K] AAA+B 81 bt (on GI punish) (for better oki)
-run K 44A+B 58
-low life run K (slip) 44A+B 68
 LH low life run K (slip) bt8B+K delay btAAB 96 (on own low health vs stand guard)
-(AA)BA6 wnsA+B 2A+B 66
 
 ch 4B:[A] bt8B+K 44A+B 68
 ch (A)ABA6 wnsA+B 2A+B 63
 ch 6BB6 wns[K] AAA+B 76-77 bt
 ch 6BB6 wns[K] 4B:[A] bt2B+K 77-78
-ch fc3BB2 wncB:B 61
-ch 2[A+B] wnfB+KA
+ch fc3BB2 wncB:B 63
+ch 2[A+B] wnfB+KA 61
 
 Bar 
 Stuff into 66B or 4B[A] replace with A+B+K for more damage (very worth for 4B[A])
@@ -75,16 +77,17 @@ SC (AA)B[B] wnfBB 96
 SC wnc(A)BB 66B 44A+B 76 (ncc 95-98)
 SC wnsB AAA+B 65
 SC wns[B] BB 88
-ch SC 6BB64 wns[B] wnfK 2A+B/3B 86 (far only)
 SC 2BAB same as fcA+B 61/64 
 SC 66AAA:B does 75 i16 h
 SC BKA does 67 i14 m 
+ch SC 6BB64 wns[B] wnfK 2A+B/3B 86 (far only)
 ch SC fc3BB6 wnsK wns[B] wnfK 1K 81
+LH SC 66B 6BB6 wns[K] AAA+B 92
 
 Wall
 6K w! 6K w! 6BB6 wns[K] AAA+B 82
 22A8_2 w! wncBB w! 6BB6 wns[K] AAA+B 106 bt 
-66B w! 6BB6 wns[K] AAA+B 89  (this looks like max damage somehow)
+66B w! 6BB6 wns[K] AAA+B 89 (this looks like max damage somehow)
 wnfBB w! 2A+B 102
 wncK w! 22_88A w! 6BB6  wns[K] AAA+B 90 (needs some distance from wall)
 wncK w! AAB[B] w! wnfK 66B 44A+B 85 (needs less distance)
@@ -99,44 +102,73 @@ SC 2BAB w! AABA8 wncAKAA w! AAB[B] wnfBB 76
 ch 6AA 6K 4B:[A] bt8B+K 44A+B 91
 wrA w! 4B:[A] bt8B+K 44A+B 84 (88 if bt8B+K w!) 
 
-TODO: fix below stuff up for current patch
+These wall splatters want to go into LH 1A+B 6A+B w! 6BB6 wns[K] AAA+B 
+66B w! LH 1A+B 6A+B w! 6BB6 wns[K] AAA+B 109
+wncK w!... 101
+3B w!... 82
+22B w!... 101
+
+Punishes
+-12 6K 20
+-14 4B:[A] 32, SC BKA 67
+-16 2BA 34, SC 66AAA:B 75
+-18 6BK 43
+-20 3B 52, A+B+K 70
+-22 66B 55
+-24 44A+B 63
+-26 236B 72
 Punishes while crouching
-66AA
-4BA
-4A+B
-44K
-236B
-wrA
+-12 6K 20
+-14 4B:[A] 32
+-16 same as -14
+-18 6BK 43
+-20 A+B+K 70
+-22 66B 55
+-24 44A+B 63
+-26 236B 72
 
-Safe ob stuff 
-2B
-9B (plus)
-9A
-9K
-4A+B
-B+K A
-B+K K
-6B+K B
-6B+K K
-66A
-66B
-44K
-wrA
-66K
-66A+B
-236[B]
-44A[A]
-22/88K
-44A+B
-22/88B:B (not 22/88BB)
-8/2B+K B.B/B:B (BB unsafe)
-8/2B+K A+B (0 on block low)
-8/2B+K AB
-6A dl K (steppable, never combos)
+RE A2_8 wncAKA 49
+RE B dl btAAB 45
+RE K 21
+RE2 A 6BB6 wns[K] AAA+B 67
+RE2 B btB 4B:[A] bt8B+K 44A+B 72
+RE2 K 6BB6 wns[K] AAA+B 55
+RE 6/8_2/4 wnfBB 83 (doesn't work on some, use wnfK instead for 60), gets wnb
 
-Tracking
+Assorted guard crushes:
+AAB[B] 10% wnfBB GC 94 (doesn't jail, GI out last hit)
+2[A+B] 9% gc wnfBB 94
+9B 9% gc B+K wnfBB 120 (high)
+66K 9% gc G B+K wnfBB 120 (real hard, also reactable)
+6BB 9% gc 236B 72 (jails)
+wns[B] 9% wnfBB 120 (slow)
+wnsA+B 18% gc 66A+B 74 (almost always GCs at red)
+wncA+B gc B+K wnfBB 120 (jumpable on reaction)
+44A+B 12% gc 66A+B 74
+btA+B 9% gc B+K wnfBB 94
+btB 9% gc 66A+B 74
+btK 9% gc btB 83
+4B[A] 9% gc btB 83 (doesn't jail, duckable)
+4BB 9% gc B+K wnfBB 120 (doesn't jail, steppable)
+1A+B 9% gc 66A+B 44 (avoid this)
+66A+B4 9% gc wnfBB 94
 
-Good lows
-1B i20 0oh -12ob 16dam ends in cr, linear
+RE cancel takes 10% bar, but can still be done without bar
+
+players can GI and SC out of wncA mixup strings, but not much else
+
+stamce cancels usually fold to AA on block, but wnfBB can sometimes punish that, but it is very risky
+
+wnc fastest is A at i12, fastest mid K at i14
+wnf fastest mid is B+K at i14, also wnf idle is a mid hori aGI
+wns fastest mid is A+B at i8, but all wns moves are unsafe on block
+bt fastest 2A at i14, +12 forces mixups
+
+AAA+B is NCC confirmable
+fc3BB is NCC confirmable
+6AK is NC confirmable, tracking high, delay K is safe ob, but 6A is -10 ob anyways
+wrA is the best safe tracking mid she has
+22A is high reward mid tracking but -14ob, stance cancels not safe but minor punish mixups
+wnb22A is the same but -12 ob 
 1K i18 0oh -14ob 16dam, tracks 
 low life run K -10ob LH vs stand
