@@ -7,21 +7,39 @@ wns = 6B+K stance
 
 4B:[A] means partial charge tha A in 4B[A] (not a real jf, 4B[A] means full charge btw)
 
-most juggle combos can do 4BB instead of the ender for a hkd, loses damage
-same with 4B:[A] bt2B+K for carry/RO
-same with 3B for bt (if it doesn't end in bt already)
+Most juggle combos can do 4BB instead of the ender for a hkd, loses damage
+Same with 4B:[A] bt2B+K for carry/RO
+Same with 3B for bt (if it doesn't end in bt already)
 
-ending in AAA+B can usually vary in damage by 1-2 at times depending on how much it is delayed.
-Some starters (mostly other LHs) go into LH 1A+B, in those cases you can do 66B 44A+B for more meter gain 
-(6BB routes do more damage outside the wall)
+Ending in AAA+B can usually vary in damage by 1-2 at times depending on how much it is delayed.
+Some starters (mostly other LHs) go into LH 1A+B, in those cases you can do LH 1A+B 66B 44A+B for more meter gain 
+(6BB routes do more damage except at the wall)
+
+Punishes
+-12 6K 20
+-14 4B:[A] 32, SC BKA 67
+-16 2BA 34, SC 66AAA:B 75
+-18 6BK 43
+-20 3B 52, A+B+K 70
+-22 66B 55
+-24 44A+B 63
+-26 236B 72
+Punishes while crouching
+-12 6K 20
+-14 4B:[A] 32
+-16 same as -14
+-18 6BK 43
+-20 A+B+K 70
+-22 fcA+B 59 
+-24 44A+B 63
+-26 236B 72
 
 Combos
 236B/236[B] 66B 44A+B 72/79 (+2 dmg on no ukemi)
-3B dl AAA+B 52 bt
+3B (delay) AAA+B 52 bt
 66B 44A+B 55
 66A+B6 wnsK wnsB 72
 66A+B2 wncB:B 74
-wnfK 6B+K wns[K] AAA+B 59 bt
 66K bt8B+K btAAB 72 (drops on NM AS)
 66K bt8B+K btK 56 (66K btAAB 55 better oki), vs NH AS
 44B2 wncK 43 (wncA+G can be crouched, the combo counter lies)
@@ -36,10 +54,11 @@ btB+K[A+B]/bt[B+K][A+B] bt8B+K 44A+B 60/68
 44A+B 3B 63
 44AA 1K 52
 1A+B 1K 34
-wncB:B AAA+B 68 (58 missed jf)
 fcA+B 4B[A] bt2B+K 59 
 fcA+B AAA+B 56 bt
 22/88B:B 3B 65 (22BB 3B 60)
+wncB:B AAA+B 68 (58 missed jf)
+wnfK 6B+K wns[K] AAA+B 59 bt
 run K 44A+B 58
 low life run K (slip) 44A+B 68
 LH 236B B+K wnfBB 82-96 (on GI punish)
@@ -66,6 +85,14 @@ ch 6BB6 wns[K] AAA+B 76-77 bt
 ch 6BB6 wns[K] 4B:[A] bt2B+K 77-78
 ch fc3BB2 wncB:B 63
 ch 2[A+B] wnfB+KA 61
+
+RE A2_8 wncAKA 49
+RE B dl btAAB 45
+RE K 21
+RE2 A 6BB6 wns[K] AAA+B 67
+RE2 B btB 4B:[A] bt8B+K 44A+B 72
+RE2 K 6BB6 wns[K] AAA+B 55
+RE 6/8_2/4 wnfBB 83 (doesn't work on some, use wnfK instead for 60), gets wnb
 
 Bar 
 Stuff into 66B or 4B[A] replace with A+B+K for more damage (very worth for 4B[A])
@@ -108,33 +135,6 @@ wncK w!... 101
 3B w!... 82
 22B w!... 101
 
-Punishes
--12 6K 20
--14 4B:[A] 32, SC BKA 67
--16 2BA 34, SC 66AAA:B 75
--18 6BK 43
--20 3B 52, A+B+K 70
--22 66B 55
--24 44A+B 63
--26 236B 72
-Punishes while crouching
--12 6K 20
--14 4B:[A] 32
--16 same as -14
--18 6BK 43
--20 A+B+K 70
--22 66B 55
--24 44A+B 63
--26 236B 72
-
-RE A2_8 wncAKA 49
-RE B dl btAAB 45
-RE K 21
-RE2 A 6BB6 wns[K] AAA+B 67
-RE2 B btB 4B:[A] bt8B+K 44A+B 72
-RE2 K 6BB6 wns[K] AAA+B 55
-RE 6/8_2/4 wnfBB 83 (doesn't work on some, use wnfK instead for 60), gets wnb
-
 Assorted guard crushes:
 AAB[B] 10% wnfBB GC 94 (doesn't jail, GI out last hit)
 2[A+B] 9% gc wnfBB 94
@@ -153,22 +153,28 @@ btK 9% gc btB 83
 1A+B 9% gc 66A+B 44 (avoid this)
 66A+B4 9% gc wnfBB 94
 
+Random notes:
+You get wnb from wnf idle/GI, wnfaG, wnfB+KA, RE6/2/8/4, SC, CE (full).
+The wnb buff makes 66B SM, adds 2f of blockstun to 66A and 22A, and adds 4 damage 66B and 22A
+
 RE cancel takes 10% bar, but can still be done without bar
+Doing RE as a reGI then stance canceling out stops GI punish lethal hits from triggering
 
-players can GI and SC out of wncA mixup strings, but not much else
+Players can GI and SC out of wncA mixup strings, but not much else
 
-stamce cancels usually fold to AA on block, but wnfBB can sometimes punish that, but it is very risky
+Stance cancels usually fold to AA on block, but wnfBB can sometimes punish that, but it is very risky
 
 wnc fastest is A at i12, fastest mid K at i14
 wnf fastest mid is B+K at i14, also wnf idle is a mid hori aGI
 wns fastest mid is A+B at i8, but all wns moves are unsafe on block
-bt fastest 2A at i14, +12 forces mixups
+bt fastest is 2A at i14
+bt at +12 forces mixups, +8 for btB vs bt2K
 
 AAA+B is NCC confirmable
 fc3BB is NCC confirmable
 6AK is NC confirmable, tracking high, delay K is safe ob, but 6A is -10 ob anyways
 wrA is the best safe tracking mid she has
-22A is high reward mid tracking but -14ob, stance cancels not safe but minor punish mixups
+22A is high reward mid tracking but -14ob, stance cancels not safe but are minor punish mixups
 wnb22A is the same but -12 ob 
 1K i18 0oh -14ob 16dam, tracks 
 low life run K -10ob LH vs stand
