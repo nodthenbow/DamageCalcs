@@ -10,9 +10,11 @@ wns = 6B+K stance
 Most juggle combos can do 4BB instead of the ender for a hkd, loses damage
 Same with 4B:[A] bt2B+K for carry/RO
 Same with 3B for bt (if it doesn't end in bt already)
+Against big boys AAA+B can be replaced with 4B:[A] btAAB for more damage (you do need to be closer tho)
+(Asta/Zaz works head on, Sieg/NM need off axis or to be unnaturally close)
 
 Ending in AAA+B can usually vary in damage by 1-2 at times depending on how much it is delayed.
-Some starters (mostly other LHs) go into LH 1A+B, in those cases you can do LH 1A+B 66B 44A+B for more meter gain 
+Some starters (mostly other LHs) go into LH 1A+B, in those cases you can do 1A+B 44B64 wns[K] 4B:[A] btAAB for more meter gain and about 10 less damage
 (6BB routes do more damage except at the wall)
 
 Punishes
@@ -35,7 +37,7 @@ Punishes while crouching
 -26 236B 72
 
 Combos
-236B/236[B] 66B 44A+B 72/79 (+2 dmg on no ukemi)
+236B/236[B] 66B 44A+B 70-72/79 (+2-4 dmg on wrong ukemi)
 3B (delay) AAA+B 52 bt
 66B 44A+B 55
 66A+B6 wnsK wnsB 72
@@ -58,41 +60,48 @@ fcA+B 4B[A] bt2B+K 59
 fcA+B AAA+B 56 bt
 22/88B:B 3B 65 (22BB 3B 60)
 wncB:B AAA+B 68 (58 missed jf)
-wnfK 6B+K wns[K] AAA+B 59 bt
+wncA+G btK 42
+wnsK wnsB 40
+wnsA+B 2A+B 46
+wnfA 4B:[A] 39
+wnfK 6B+K wns[K] 4B:[A] btAAB 65 bt
 run K 44A+B 58
-low life run K (slip) 44A+B 68
-LH 236B B+K wnfBB 82-96 (on GI punish)
+low life run K (slip) 6B+K4 wns[K] 4B:[A] btAAB 93
+LH A+B 6 wns[K] 4B:[A] btAAB 92 bt (on GI punish)
+LH 236B B+K wnfBB 87 (on GI punish) (92 for 236[B])
 LH wncK AAA+B 58 (on whiff punish mid)
 LH wnfBB 66B 44A+B 58/93 (58 for wnfB guard break, 2nd for 2A+B guard break) (on GC combo)
-LH btA+B B+K wnfBB 84 (108 w/ bt[A+B]) (on attack CH)
+LH btA+B 6 6B+K wns[K] 4B:[A] btAAB 86 (110 w/ bt[A+B]) (on attack CH)
 LH 44B btB 4B:[A] bt8B+K 44A+B 85 (on low whiff punish)
 LH 44B2 4B:[A] bt8B+K 44A+B 72
-LH 44B64 wns[K] 44A+B 72
 LH 44B4 wnfBB 85
-LH 1A+B 44B6 wns[K] AAA+B 77 bt (on hit with opponent in red guard)
+LH 1A+B 44B6 wns[K] 4B:[A] btAAB 81 bt (on hit with opponent in red guard)
 LH 44A B+K wnfBB 74 (on high whiff punish)
-LH 66B 6B+K [K] AAA+B 83 bt setup (on back run counter)
-LH 3A+B 6BB6 wns[K] AAA+B 85 (on only 2nd hit hits)
-LH 6[A+B] 6BB6 wns[K] AAA+B 87 bt (on whiff punish)
+LH 44A[A] 4B:[A] btAAB 84 (on high whiff punish)
+LH 66B 6 6B+K wns[K] 4B:[A] btAAB 96 bt (on back run counter)
+LH 3A+B 6BB6 wns[K] 4B:[A] btAAB 91 (on only 2nd hit hits)
+LH 6[A+B] 6BB6 wns[K] 4B:[A] btAAB 90 bt (on whiff punish)
 LH wncA+B 66B 44A+B 72 (on GI punish)
-LH A+B 66B 44A+B 83 (on GI punish)
-LH A+B 44B6 wns[K] AAA+B 81 bt (on GI punish) (for better oki)
 LH low life run K (slip) bt8B+K delay btAAB 96 (on own low health vs stand guard)
+LH low life run K (slip) G 4B[A] btAAB 99 (on own low health vs stand guard)
 
 ch 4B:[A] bt8B+K 44A+B 68
 ch (A)ABA6 wnsA+B 2A+B 63
-ch 6BB6 wns[K] AAA+B 76-77 bt
-ch 6BB6 wns[K] 4B:[A] bt2B+K 77-78
+ch 6BB6 wns[K] 4B:[A] btAAB 82 bt
 ch fc3BB2 wncB:B 63
 ch 2[A+B] wnfB+KA 61
+ch 1A+B delay 4B:[A] btAAB 71 (very finicky on non-tall)
+ch 1A+B AAA+B 60
+ch wnsA6 wns[K] 4B[A] btAAB 79
+ch wnfA 6BB6 wns[K] 4B:[A] btAAB 63
 
 RE A2_8 wncAKA 49
 RE B dl btAAB 45
 RE K 21
-RE2 A 6BB6 wns[K] AAA+B 67
+RE2 A 6BB6 wns[K] 4B:[A] btAAB 71
 RE2 B btB 4B:[A] bt8B+K 44A+B 72
-RE2 K 6BB6 wns[K] AAA+B 55
-RE 6/8_2/4 wnfBB 83 (doesn't work on some, use wnfK instead for 60), gets wnb
+RE2 K 6BB6 wns[K] 4B:[A] btAAB 56
+RE 6/8_2/4 wnfBB 83 (doesn't work on some, use wnfK instead for 65), gets wnb
 
 Bar 
 Stuff into 66B or 4B[A] replace with A+B+K for more damage (very worth for 4B[A])
@@ -109,31 +118,37 @@ SC 66AAA:B does 75 i16 h
 SC BKA does 67 i14 m 
 ch SC 6BB64 wns[B] wnfK 2A+B/3B 86 (far only)
 ch SC fc3BB6 wnsK wns[B] wnfK 1K 81
-LH SC 66B 6BB6 wns[K] AAA+B 92
+LH SC 66B 6BB6 wns[K] 4B:[A] btAAB 98
 
 Wall
-6K w! 6K w! 6BB6 wns[K] AAA+B 82
-22A8_2 w! wncBB w! 6BB6 wns[K] AAA+B 106 bt 
-66B w! 6BB6 wns[K] AAA+B 89 (this looks like max damage somehow)
+6K w! 6K w! 6BB6 wns[K] 4B:[A] btAAB 86
+22A8_2 w! wncBB w! 6BB6 wns[K] 4B:[A] btAAB 109 bt 
+22A w! fc3BB2 wncBB w! 6BB6 wns[K] 4B:[A] btAAB 112 bt
+66B w! 6BB6 wns[K] 4B:[A] btAAB 94 (this looks like max damage somehow)
 wnfBB w! 2A+B 102
-wncK w! 22_88A w! 6BB6  wns[K] AAA+B 90 (needs some distance from wall)
-wncK w! AAB[B] w! wnfK 66B 44A+B 85 (needs less distance)
-wncK w! 4B:[A] bt8B+K 44A+B 76 (point blank)
-66A+B2_8 w! wncBB w! 6BB6 wns[K] AAA+B 110
-66K G 6A+B 6K 6BB6 wns[K] AAA+B 103
-66K btA+B 6K 6BB64 wns[K] AAA+B 88
-3B w! 3B w! B+K wnfBB 68
-SC 22A2 w! wncAKAA w! AAB[B] wnfBB 122
-SC 22A2 w! wncAKAA w! 66AAA:B AAA+B 131 (very inconsistent)
-SC 2BAB w! AABA8 wncAKAA w! AAB[B] wnfBB 76 
+wncK w! fc3BB2 wncBB w! 6BB6 wns[K] 4B:[A] btAAB 107
+66A+B2_8 w! wncBB w! 6BB6 wns[K] 4B:[A] btAAB 117
+66K G 6A+B 6K 6BB6 wns[K] 4B:[A] btAAB 105
+66K btA+B 6K 6BB64 wns[K] 4B:[A] btAAB 91 (finicky)
+3B w! fc3BB8 wncBB w! 6BB6 wns[K] 4B:[A] btAAB 83
 ch 6AA 6K 4B:[A] bt8B+K 44A+B 91
 wrA w! 4B:[A] bt8B+K 44A+B 84 (88 if bt8B+K w!) 
+SC 22A2 w! wncAKAA w! 4AK AAB[B] wnfBB 132
+SC 22A w! 4AK AABA8 wncAKAA w! 6BB6 wns[K] 4B:[A] btAAB 125
+SC 2BAB w! AABA8 wncAKAA w! 4AK AAB[B] wnfBB 77
 
-These wall splatters want to go into LH 1A+B 6A+B w! 6BB6 wns[K] AAA+B 
-66B w! LH 1A+B 6A+B w! 6BB6 wns[K] AAA+B 109
-wncK w!... 101
-3B w!... 82
-22B w!... 101
+These wall splatters want to go into LH 1A+B 6A+B w! 6BB6 wns[K] 4B:[A] btAAB
+66B w! LH 1A+B 6A+B w! 6BB6 wns[K] 4B:[A] btAAB 111
+wncK w!... 104
+3B w!... 83
+22B w!... 102
+
+On half walls:
+22A8_2 w! wncK 236B RO
+2[A+B] w! wnfK 4BA RO
+6K w! SC 2BAB SC 66AAAB (needs to w! after 66AA or it's escapable)
+(do LH 1A+B 44A to ring out on half walls) 
+22B doesn't splat on half walls for whatever reason, but 22B:B does. Bad splat though
 
 Assorted guard crushes:
 AAB[B] 10% wnfBB GC 94 (doesn't jail, GI out last hit)
@@ -154,8 +169,12 @@ btK 9% gc btB 83
 66A+B4 9% gc wnfBB 94
 
 Random notes:
-You get wnb from wnf idle/GI, wnfaG, wnfB+KA, RE6/2/8/4, SC, CE (full).
-The wnb buff makes 66B SM, adds 2f of blockstun to 66A and 22A, and adds 4 damage 66B and 22A
+You get wnb from wnf idle/GI, wnfaG, wnfB+KaG, RE6/2/8/4, SC, CE (full).
+The wnb buff: 
+	66B SM, +4 damage
+	66A adds 2f of blockstun, minor range buff
+	22A adds 2f of blockstun, +4 damage
+wnb goes away on knockdowns
 
 RE cancel takes 10% bar, but can still be done without bar
 Doing RE as a reGI then stance canceling out stops GI punish lethal hits from triggering
@@ -163,9 +182,9 @@ Doing RE as a reGI then stance canceling out stops GI punish lethal hits from tr
 Players can GI and SC out of wncA mixup strings, but not much else
 
 Stance cancels usually fold to AA on block, but wnfBB can sometimes punish that, but it is very risky
-
+Manual stance startup is 20f
 wnc fastest is A at i12, fastest mid K at i14
-wnf fastest mid is B+K at i14, also wnf idle is a mid hori aGI
+wnf fastest mid is B+K at i14, also wnf idle is a mid hori aGI (i12, sometimes punishable)
 wns fastest mid is A+B at i8, but all wns moves are unsafe on block
 bt fastest is 2A at i14
 bt at +12 forces mixups, +8 for btB vs bt2K
@@ -178,3 +197,5 @@ wrA is the best safe tracking mid she has
 wnb22A is the same but -12 ob 
 1K i18 0oh -14ob 16dam, tracks 
 low life run K -10ob LH vs stand
+
+btB+K[A+B] +14 ob, free bt2A for 8 damage
