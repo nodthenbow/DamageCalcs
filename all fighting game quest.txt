@@ -1,7 +1,7 @@
 All fighting game quest
-(68 lines of not definitely fighting games, 157 lines extra total, 1784 fighting games)
+(74 lines of not definitely fighting games, 169 lines extra total, 1770 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (557):
+Played (564):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -248,10 +248,11 @@ Fatal Fury Special =- fc Kim clAAA 2C 214B / hsdm 21416KK, 214B safe, AB lane, l
 Fatal Fury Wild Ambition =- ps1 Kim SS xx 214S / 2KS ob, ioh 9P2K3K, cancel confirm 2K 28P2P, (6E) PPP28P2P, 66 pushblock, PKS burst/ublk, 6PK gccd
 Fatal Fury 3 =- fc Terry 2C 214D infinite, 1C/623K AA
 Real Bout Fatal Fury =- fc Kim 2A*n5BBCC far C link 2A5BB... if close, 28B2B AA/dp, 6B 2C link, jB crossup
-Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround, 412D tech roll lane switch (costs bar, an be cmd grab punished)
+Real Bout Fatal Fury Special =- fc Duck King 2b2b214b 214d, lnC214B l/r, 2c2c(hc)2c2369b, hsdm 42692bc, 236a -2ob, jD air turnaround, 412D tech roll lane switch (costs bar, can be cmd grab punished)
 Real Bout Fatal Fury 2 =- fc Kim abc2b+c 5d (2b28a2a) / 2d oh/low mix, ja2b3b fuzzy oh, j2B3B really j52B53B, 21416C ppower good, 22B 214B/21416C, 28B aa, clCABC 28A2A, gc specials cost bar, d/8d unsafe quick rise
 Fatal Fury: First Contact =- ngpc steam Rick 214A unblk loop 1st bounce. Kim 2/5A2B5A hc 28A2A, x2B quick oh
 Garou: Mark of the Wolves =- grant, gato, goons. Freeman is fun but sucks
+Fatal Fury: City of the Wolves =- https://en.wikipedia.org/wiki/Cristiano_Ronaldo#Legal_issues
 SNK Gals' Fighters =- ngpc Mai 214k AA juggle 2426k, 2lk 2hp 3hk 426k, fb solid, ioh j2hk, 2hp 2hp links kinda
 all Darkstalkers games
 Chatan Yarakuu Shanku / The Karate Tournament =- played with kooter, smear hell
@@ -513,7 +514,7 @@ Genei Tougi: Shadow Struggle =- ps1 no whiff throws (A+P). Niel (PK/6K)214A dl P
 Mizuki Shigeru no Yokai Butouden =- ps1 scythe weasle, 96X ioh, 2HK low, 5HP28HK combos, 426HP fb, HP+HK throw
 Ninku: Tsuyokina Yatsura no Daigekitotsu! =- sat 64/46L throw, blonde guy j236X fb, 22L/M fb, 22H super, 66M/5M
 Hana No Keiji: Kumo No Kanata =- snes fc 1st guy 236X cmd grab, blocking sucks, 236X otg loop in corner
-Sokko Seitokai: Sonic Council =- sat Rika 2lk5mp2hp/236pp low, tkj214p ioh. Aya 214x unblk loop, j2mk divekick
+Sokko Seitokai: Sonic Council =- sat Rika 2lk5mp2hp/236pp low, tkj214p ioh. Great game
 Kabuki Klash Far East of Eden Tengai Makyou Kabuki Ittoryoudan =- fc spear dude MK MK 66PK, [4]6P fb, 6PP throw, 22P super, AAs bad, PP = hp, KK = hk
 Battle Master =- ps1 l1/l2+T to dodge, repeated move staling, 2nd dude, any two fast attacks work, no guard
 Moero!! Juudou Warriors =- nes A to buff chance, B to toss when chance is max, no nootch, only grapple
@@ -565,6 +566,7 @@ Orbital Combat =- steam Dr Citrus 2A walk inf combo, no throws, blocking barely 
 Cruz Brothers =- steam pick the 1400hp guy, mash fast move then combo with slow move, 2dodge > block
 Nickelodeon All-Star Brawl =- forgot this game existed for a bit. Leo stuff
 Yu Yu Hakusho Dai-Ni-Dan =- gb Dai 2 Dan samurai 2k(1) unblk as p2, red hair 2p same, loops, p1 old lady best 66k 5k unblk. 64p throw, some wakeup invuln. Kuwabara 426P funny
+Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost =- ps1 3rd guy bottom row, 8q debuff, 8x oh, 2x good low, 8x+o unblk summon, q+x t+o rune trap. no throws
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -725,9 +727,10 @@ Fallen Angel Revenge exa arcadia jail
 Battle Queen pc korean maybe ao ix9.net
 Ketsu Battler https://twitter.com/KetsuBattler https://x.com/KetsuBattler/status/1846023321084912071
 Knock Off: Battle For Imagination https://www.knockoffthegame.com/
+Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1227):
+Unplayed (1206):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -777,8 +780,7 @@ Trajes Fatais: Suits of Fate steam
 Fist ps1 
 FIST saturn
 Hellish Quart steam
-shadow warriors 3do
-shadow war of succession 3do
+shadow warriors / shadow war of succession 3do
 Brutal: Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Ninpuu Sentai Hurricanger ps1
@@ -804,7 +806,7 @@ Dark Awake The King Has No Name / chaos breaker arcade ps3
 Kakutou Haou Densetsu Algunos PCE
 Draglade 1 nds 
 Draglade 2 nds 
-nb heartbreakers advanced PC
+nb heartbreakers advanced PC https://archive.org/details/heart-breakers.-7z
 Azumanga Fighter pc
 Secret Meeting 2 pc 
 Possible others in the Variable Geo series https://archive.org/details/variablegeogamecollection
@@ -845,7 +847,6 @@ Asuka 120% Special BURNING Fest. 2 ps3 rebalance as a ps1 classic
 Asuka 120% Final BURNING Fest. ps1
 Asuka 120% Return BURNING Fest. pc 
 Touhou 7.5
-Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost ps1
 Star Wars: Masters of Teras Kasi ps1
 Cardinal Syn ps1
 Fighting Bujutsu arcade
@@ -1105,7 +1106,6 @@ Shonen Jump Jikkyou Janjan Stadium android
 Shovel Knight Showdown steam
 Silver Knights pc
 Skyscrappers steam owned
-Snk Gals Fighters ngpc 
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
 Star Gladiator 1/2 (plasma sword) ps1
@@ -1841,7 +1841,6 @@ Elemental Battle Academy pc 2010
 Everron steam  
 Exploding Fist+ c64 
 Exploding Fist nes 
-Fatal Fury: City of the Wolves steam ps5
 Fate Axis pc 2002 
 Fate Axis - The Fragment pc 2015 
 Fighter - 4 in 1 - 12 game king
