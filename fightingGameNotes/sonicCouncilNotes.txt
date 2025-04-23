@@ -1,0 +1,213 @@
+Sonic Council notes
+System:
+crouch hitstun is more than standing sometimes (standing hitstun works as expected), see below
+crouch hitstun hurtboxes can shrink real low, see below
+P+K to guard cancel roll
+4/6 on wakeup to getup roll, also delays the wakeup a bit
+Scaling is wack, see below
+669/8/7 carries momentum and is sometimes a lower jump
+screen scrolls slowly, when you reach the edge pushback acts like it is the corner
+the first move in a combo can have different pushback than the same move in a combo
+backdashes have iframes
+a lot of moves are the same advantage on hit and block, it's arbitrary though
+characters reel during hitstun which can cause whiffs, especially for lows when back turned
+
+Crouch Stuff:
+For Ishida's 5lk 5lk link:
+Works on Kato, Ishida, Naoko, Mika, Ai, Yuko, Aya, Rika, and Kumiko
+For his 5lk 66lk link (and his 66lk 5lk link):
+Works on Kato, Ishida, Naoko, Mika, Ai, Yuko, Aya, and Rika
+Doesn't work on Kumiko
+For Ishida's 66lk-hk chain (midscreen):
+Works on Kato, Ishida, Mika, Yuko, and Rika
+Doesn't work on Naoko, Ai, and Kumiko
+Crouch hurtbox often lowers during hitstun, causes ishida 66hk to whiff even off 66mp
+Current guess is that it depends on the animation, and it's character and move dependant
+
+Scaling:
+the game rounds weird, or all the scaling values are like 0.001 less
+to calculate damage, use floor(baseDamage*(scalingValue-0.001))
+(that isn't the in game formula, but it works out the same afaik)
+scaling is based on cancels, it does not care about being in or out of a combo
+link = no scaling (including juggles)
+chain 1 = 0.65
+chain 2+ = 0.60
+(ex: lp chain mp chain hp chain hk, lp does 100%, mp does 65%, hp does 60%, hk does 60%)
+cancel = 0.90
+normal xx super = 0.70
+special xx super = 0.80
+for ishida's rekka every cancel is an additional 0.10 lower
+(ex: normal xx 236lk xx 236mk xx 236hk does 1, 0.90, 0.80, 0.70)
+
+
+Gameplay/Combos:
+Rika:
+2lk 5mp 2hp, can add a 2mk vs standing, can start with 2lp 2lk for extra punish damage
+2lk 5mp 5hp 236pp, can start with 2lp, skip 5hp on cr miku/rika
+5lk instead of 2lk after jump ins
+6mp unblockable, chain into 2mk 2hp
+66lp/lk/mp/mk, lp/lk/2lp/2lk, j214p, 28-2hk, +ob
+5hp 0ob/0oh (vs stand)
+everything else (other than jump ins) -oh and -ob
+
+Ishida:
+lk 2mp mk 236lk 214pp
+lk 2mp mk 236lk 236mk 236hk vs most, some dodge the 236mk when crouching
+2369hk quick +++ob overhead
+2369lk mid +1ob-ish, also +1oh-ish, can cancel into j236hk for big plus frames
+66hk overhead --ob 
+basically no reversal (236mk not, 214p mid/high only (also maybe not i1))
+214PP invuln until hit, first hit does no damage though so it trades terribly
+236K cancels into other specials, works on block
+has 4mk 6mk 6hk cmd normals
+vs crouch (not kumiko) 2369lk-236hk 2lp 5lk link 214pp
+vs stand 2369lk-236hk 2lp 5lk 5mp 5mk 236lk 214pp
+vs crouch (not kumiko) (66lk 5lk)*inf 
+vs stand blah hp 66lk-mp-hk 66hp/623kk
+
+
+Frame data from recordings:
+Meter updates 1f before hit reactions, all startup may be 1 more than it really is
+all recovery forces one frame of neutral (or neutral crouch) at the end, including blockstun/hitstun(?)
+measured by in the mirror jump after hit/block then counting frames until they match animations
+animations play 2f after the input
+specials skip wait maybe idk
+dash takes 2f before moves can start (this is included in the listed startup)
+Ishida
+move startup onhit onblock
+lp 4 3 3
+lk 4 3 3
+mp 8 -2 -2
+mk 8 -5 -5
+hp 15 10 10
+hk 11 -1 -1
+2lp 4 1 2
+2lk 5 2 3
+2mp 7 3 3
+2mk 10 0 -8
+2hp 8 0 0
+2hk 6 kd -10
+4mk 8 1 1
+6mk 12 -1 -1
+6hk 31 8 0
+66 2f
+66lp 10 0 0
+66lk 9 -1 -1
+66mp 14 0 0
+66mk 12 -2 -3
+66hp 14 kd -16
+66hk 20 j -10
+236lk 9 -3 -3
+236mk 11 kd -4
+236hk 36 6 8
+j236lk 10 1 -1
+j236hk 17 15 15
+214pp 3+2 kd -11
+623kk 4+10 kd -yup
+214k idk idk idk
+
+
+Ram watch (mednafen, alt+D alt+4 shift+left until high work ram, enter to search for address)
+high work ram: 
+0xdba92 p1 life
+0xdbbce p2 life
+0xdba9e p1 bar
+0xdbbda p2 bar
+controller inputs are also somewhere around those places (maybe translated, didn't check)
+
+Below this point the info is taken from looking at the memory directly while testing:
+Health:
+kato 950
+ishida 700
+naoko 750 (both versions probs)
+mika 750
+ai 900 (both versions probs)
+yuko 800
+aya 800
+rika 800
+kumiko 850
+Shibata 1000 probs
+
+Damage:
+ishida 
+lk 12
+lp 18
+mp 36
+mk 36
+hp 54
+hk 72
+2lp 18
+2lk 12
+2mp 36
+2mk 36
+2hp 54
+2hk 54
+6hk 48
+66lk 18
+236lk 40
+236mk 40
+236hk 40
+j236hk 40
+66hk 48
+
+kato
+66lp 30
+66lk 30
+66mp 58
+66mk 58
+66hp 86
+
+ai 
+lp 26
+hp 100
+hk 84
+2hp 48,52
+66hp 64
+
+naoko 
+lp 22 
+2mp 40
+
+rika 
+2lk = 24
+5lk = 24
+mp = 48
+mk = 48
+2mk = 48
+2mp = 24
+2hp = 72
+hk = 2,70
+hp = 72
+2hk = 20,35
+6mp = 0
+jlp = 20
+jmp = 44
+jhp = 68
+jlk = 20
+jmk = 44
+jhk = 68
+rjlp = 24
+rjmp = 80
+rjhp = 40
+rjlk = 24
+rjmk = 48
+rjhk = 72
+66lp = 20
+66lk = 24
+66mp = 50
+66mk = 50
+66hp = 72
+66hk = 30,40
+236lp = 72
+236mp = 72
+236hp = 100
+623lp = 120
+623mp = 40*3
+623hp = 20*6,50
+j214p = 128
+236pp = 24*9
+236kk = 160*2
+mp/hp throw = 100
+mk/hk throw = 80
+28-2hk = 50
+
