@@ -11,6 +11,8 @@ the first move in a combo can have different pushback than the same move in a co
 backdashes have iframes
 a lot of moves are the same advantage on hit and block, it's arbitrary though
 characters reel during hitstun which can cause whiffs, especially for lows when back turned
+juggles, other than spin outs and spikes, seem to have about 10 frames of hitstun universally
+stun might only be on heavies, or it is really hard to cause without them
 
 Crouch Stuff:
 For Ishida's 5lk 5lk link:
@@ -45,6 +47,8 @@ Rika:
 2lk 5mp 2hp, can add a 2mk vs standing, can start with 2lp 2lk for extra punish damage
 2lk 5mp 5hp 236pp, can start with 2lp, skip 5hp on cr miku/rika
 5lk instead of 2lk after jump ins
+66mk-hk or just 66hk 662 delay 5mk 623lp
+66lp combos into lights 
 6mp unblockable, chain into 2mk 2hp
 66lp/lk/mp/mk, lp/lk/2lp/2lk, j214p, 28-2hk, +ob
 5hp 0ob/0oh (vs stand)
@@ -64,7 +68,25 @@ vs crouch (not kumiko) 2369lk-236hk 2lp 5lk link 214pp
 vs stand 2369lk-236hk 2lp 5lk 5mp 5mk 236lk 214pp
 vs crouch (not kumiko) (66lk 5lk)*inf 
 vs stand blah hp 66lk-mp-hk 66hp/623kk
+you can do j236lk-236hk infinitely if you are clean with it
+236lk 236mk notes
+Against everyone it whiffs from far
 
+
+Ai
+throw 6623hp
+throw hp better oki, less damage
+623hp xx 263kk 623hp
+
+Traitor Ai
+Same as Ai mostly, except:
+Everything cancels and chains
+236K and 263KK are different
+236KK replaces j623PP
+throw 66mp623hp
+
+Yuko
+crn 66lp-lk-mp-mk-hk xx 28hp 2mk28mp vs tall
 
 Frame data from recordings:
 Meter updates 1f before hit reactions, all startup may be 1 more than it really is
@@ -113,20 +135,20 @@ high work ram:
 0xdbbce p2 life
 0xdba9e p1 bar
 0xdbbda p2 bar
-controller inputs are also somewhere around those places (maybe translated, didn't check)
+controller reads are also somewhere around those places 
 
 Below this point the info is taken from looking at the memory directly while testing:
 Health:
-kato 950
-ishida 700
-naoko 750 (both versions probs)
-mika 750
-ai 900 (both versions probs)
-yuko 800
-aya 800
-rika 800
-kumiko 850
-Shibata 1000 probs
+Kato 950
+Ishida 700
+Naoko 750 (both)
+Mika 750
+Ai 900 (both)
+Yuko 800
+Aya 800
+Rika 800
+Kumiko 850
+Shibata 1000
 
 Damage:
 ishida 
