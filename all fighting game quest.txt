@@ -1,7 +1,7 @@
 All fighting game quest
-(74 lines of not definitely fighting games, 169 lines extra total, 1770 fighting games)
+(75 lines of not definitely fighting games, 169 lines extra total, 1774 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (564):
+Played (566):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -567,6 +567,8 @@ Cruz Brothers =- steam pick the 1400hp guy, mash fast move then combo with slow 
 Nickelodeon All-Star Brawl =- forgot this game existed for a bit. Leo stuff
 Yu Yu Hakusho Dai-Ni-Dan =- gb Dai 2 Dan samurai 2k(1) unblk as p2, red hair 2p same, loops, p1 old lady best 66k 5k unblk. 64p throw, some wakeup invuln. Kuwabara 426P funny
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost =- ps1 3rd guy bottom row, 8q debuff, 8x oh, 2x good low, 8x+o unblk summon, q+x t+o rune trap. no throws
+Brutal: Paws of Fury =- fc gen/snes same, chester cheetah mash 236
+Super Chinese Fighter =- fc jiang shi dude first 3 specials, 46L ce bison, 236y super. old man 1 3 5 specials, 426Z stun fb, j624Z air fb, 214H reflect, 236236H laser, LLLL auto combo
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -613,6 +615,7 @@ David Douillet Judo =- ps2 RPS plus rhythm game stuff, 1>2>3>1, both walk dirs c
 Street Smart gen/arc both beat em ups, gen Yie Ar Kung-Fu style, arc belt
 Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash to enemy side to force ball drop mash
 Wolkenkratzer Shinpan No Tou =- ps1 rpg with fight game battles, 1p only 
+Reikai Doushi (The Last Apostle Puppet Show): Chinese Exorcist mame 1p only
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -730,7 +733,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1206):
+Unplayed (1208):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -781,7 +784,6 @@ Fist ps1
 FIST saturn
 Hellish Quart steam
 shadow warriors / shadow war of succession 3do
-Brutal: Paws of Fury fc2
 Keroro Gunsou: Meromero Battle Royale / Z ps2
 Ninpuu Sentai Hurricanger ps1
 KemoFre Fight / Kemono of Friends pc
@@ -1114,7 +1116,6 @@ Steambot Chronicles ps2
 Soul Eater Battle Resonance ps2
 Stick Fight: the Game steam owned
 Subscribe and Punch steam (owned)
-Super Chinese Fighter fc2
 Sunday Vs Magazine psp
 Super Cosplay War Ultra Infinity pc
 Super Slime Arena steam
@@ -1267,7 +1268,6 @@ Hyper Reverthion / Koutetsu Reiki: Steeldom saturn/ps1 (2 games, 2nd sequel)
 Reverthion ps1
 Imkkeokjeong pc
 Jotei Senki series x68k
-Reikai Doushi (The Last Apostle Puppet Show): Chinese Exorcist mame
 Ka-ge-ki fists of steel gen fc2
 Kakoong pc dos
 Kamen No Maid Guy: Boyoyon Battle Royale psp
@@ -1937,3 +1937,8 @@ Yu Yu Hakusho Dai-Yon-Dan gb
 Zettai Muteki Raijin-Oh gb 
 Zhēn Běn Xī Yóu Jì nes  
 Zoids Wild switch 
+Draco Fighter steam/android
+Zangefool fighter 20xx pc
+Monstroscopy steam
+Monster's inc. scream arena gcn 
+robo wres 2001 arcade/others
