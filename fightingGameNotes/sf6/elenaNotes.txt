@@ -1,0 +1,159 @@
+Elena notes
+vst = vs standing only
+
+2mp di is a 3f gap vs burnout
+
+2hp force stand
+pc 5mp forces stand
+all 214k force stand
+
+6hp-hp-hp is hitconfirmable on the forst hit, 2000 34-16? 18f
+
+236k loses 100ish damage but better oki, stand only, corner gets 623mk after
+214k loses damage but has best range (doesn't combo off 5lk)
+
+burnout loop is 5mk 214mp, walk or 214hp to remove pushback
+
+bnbs
+
+pc di 8hp 236kk 623hk 2860 (bthrow combo is 1680)
+
+cancel comnbos
+special move speeds:
+	i0-i13: all 623Ks, 236KK, 236lk, all supers
+	i15: 214lk
+	i17: 236mk
+	i18: 214kk
+	i20: 214mk, 214lp
+	i21: 236hk
+	i23: 214pp, 236lp-6lk
+	i24: 214hk, 214mp, 236lp-6mk, 236pp-6lk
+	i25: 236pp-6mk
+	i28: 214hp
+cancel advantage (drc not the same always):
+	5lk +14
+	5/2lp +15
+	mp-mp +20
+	mk +21
+	2mp, 2mk-hk +23
+	2hp +28
+	
+
+punishes
+-4
+	2lp 2hp 214hk blah (close range only)
+	2lp 2mp blah
+	2lp 2mk-hk 236hk vst
+-5
+	2lp 2hp blah max damage 
+	5lk 623hk/236mk (longest range punish)
+	any light into mk-hk 236hk 1820 (close, but slightly farther than 2hp)
+	5/2lp 2mp blah
+	2lp 2mk-hk 2lp 5lk 623hk/(236lk 623mk crn) max damage vst
+	throw max meterless damage outside 2lp 2hp range
+-6
+	mk 2hp blah close only 3080
+	mk mk-hk 236hk close only still
+	mk 2mk-hk 2lp 5lk 623hk/(236lk 623mk crn) 2610 vst
+	mk 214hk 236mk max meterless damage outside of 2hp range, 2640
+-7
+	same as -6
+-8
+	mk 2hp blah max still
+	2mp 214hk blah otherwise best
+	214214k for range
+-9
+	use -8 punishes, 2hp is a bad starter
+-10 
+	mp-mp 236mk/623hk vst far range (pc forces stand, the long range hitbox is i10)
+-11
+	2hk range
+-12
+	hp-hp blah
+	raw 236236p, if range is needed
+	5hk 2hk far range
+	
+
+hitconfirms
+2mk 2lp 5lp 623hk 2020 (214lk 1670)
+5mk 5lp 623hp 1920 (1520)
+2lk 2lp 2lp 623hk/236hk vst
+
+2hp 214hk rdr 2mp...
+	214mp6p 2606 crn +42 (6p misses last hit outside corner)
+	236hk 2612 +38 
+	623hk 2654 +24 no oki
+	236hk 623lk 2862 crn
+	236mk 623mk 2870 crn 
+	236lk 623hk 2878 crn
+
+nc
+mk-hk 236hk 1940 
+mk-hk 623hk 2020
+crn mk-hk 236lk 623hk 2620
+mk-hk 236kk 623hk 2380 side swap
+2mk-hk 236hk crn 623mk 2430
+
+pc hp-hp rdr 2hp214hk-6lp-6mk 236mk 3730
+crn pc hp-hp rdr 2hp214hk-6lp-6mk 623lk 623hk 4012 +22kda
+pc hk 2hk far 1980
+pc hk 623hk close 2480
+crn pc hk 236kk 623hk 3260
+hp-hp 2hk far 2320
+hp-hp 623hk close 2720
+
+crn 236pp-6lk 623hk 2600
+236pp-6lk 236kk 2400 (crn 623hk 3380)
+236p-6mk 623hk 1880
+crn 236p-6mk 236kk 623hk 2440
+crn 236pp-6mk 236lk 623lk 2570
+236pp-6mk 236mk 2140 (623hk instead 2280) (can double 236236k, worse than 236236p though, except in combos)
+
+pc di walk 2mk-hk 214mk-6lp-6mk 236mk 3210
+pc di walk hp-hp rdr 2hp 214hk 236hk 3397
+
+crn 2hp 214hk 236lk 623hk 2980
+
+Launches
+grounded 214hk/214kk
+	214mp6p 2606 +42 (6p misses last hit outside corner for 214hk)
+	236hk 2612 +38 
+	623hk 2654 +24 no oki
+	236hk 623lk 2862 crn
+	236mk 623mk 2870 crn 
+	236lk 623hk 2878 crn
+hp-hp 
+	623hk
+	2hk
+	236236k 236236k 623hk (more damage than lvl2)
+	236236p
+	214214k
+pc hp-hp
+	236hk
+	crn 236lk 623hk
+	rdr 2hp 214hk-6lp-6mk 236mk/dl 623hk 3730 (finicky vs some, use 2mp instead of 2hp 3594)
+	crn rdr 2hp 214hk dl 236mk 623hk 
+grounded 236k
+	crn all versions 623mk
+	ex 623hk anywhere
+	ex 236236k 623hk (no double lvl1 off this, cancel into lvl2 instead)
+236236k
+	236236k 623hk (usually a bit more damage or the same as lvl2)
+	623hk
+di
+	pc walk 2mk-hk 214mk-6lp-6mk 236mk 3210
+	pc walk 2mk-hk 214lk-6lp-6mk 236236k 623hk
+	splat hp-hp 236lk 623mk 3140/2560
+	splat hp-hp 236236k 236236k 623hk 3580/3088
+
+AA PC hp-hp 214lk-6lp-6mk 236mk 3870 (crn 236lk 623mk 4290)
+
+whiff punish with 2mp 236p-6mk or 236pp-6mk? 214hk has range issues
+
+oki stuff?
++32? rdr 3hk perfect meaty
++34 (214lk) 66 hp +1ob +5oh 
++42 (214mk) safe jump
+236mk 623mk +25 2lp 5mp +1ob +7oh
++36 (623lk) 2lk 6mk +4oh 0ob (doesn't loop)
++36 (623lk) 2lk xx 2lp 2mk +6oh -2ob (doesn't loop)
