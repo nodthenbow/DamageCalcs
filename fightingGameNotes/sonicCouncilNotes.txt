@@ -11,8 +11,30 @@ the first move in a combo can have different pushback than the same move in a co
 backdashes have iframes
 a lot of moves are the same advantage on hit and block, it's arbitrary though
 characters reel during hitstun which can cause whiffs, especially for lows when back turned
-juggles, other than spin outs and spikes, seem to have about 10 frames of hitstun universally
-stun might only be on heavies, or it is really hard to cause without them
+juggles, other than spin outs and spikes, seem to have 7 frames of hitstun universally
+Stun is on everything, takes 800ish units to stun maybe, mashing out of stun is a thing, max 1 stun a round?
+hitting someone on the frame they take off from a jump causes the game to try to use the standing hit reel as the juggle hit effect, which can sometimes mean the wrong juggle effect comes out
+Hitting T-Ai with Ishida's 214pp as she gets hit with her own 263kk drops her out of the 214pp while still taking damage. It softlocks the game if it kills
+wakeup roll adds 9 frames to the knockdown (for everyone, and for both directions)
+getups are not all the same length, face down is (rika 2hp, 0 is +45):
+	Ai -1
+	Aya +1
+	Naoko +1
+	Rika +2
+	Kumiko -1
+	Shibata -3
+face up is (kato 2hk):
+	kato 56
+	ishida 59
+	naoko 58
+	mika 53
+	ai 61
+	yuko 56
+	aya 58
+	rika 59
+	kumiko 60
+	shibata 59
+this difference might be related to landing height differences between characters
 
 Crouch Stuff:
 For Ishida's 5lk 5lk link:
@@ -72,7 +94,6 @@ you can do j236lk-236hk infinitely if you are clean with it
 236lk 236mk notes
 Against everyone it whiffs from far
 
-
 Ai
 throw 6623hp
 throw hp better oki, less damage
@@ -86,48 +107,56 @@ Everything cancels and chains
 throw 66mp623hp
 
 Yuko
-crn 66lp-lk-mp-mk-hk xx 28hp 2mk28mp vs tall
+crn 66lp-lk-mp-mk-hk xx 28hp 2mk28mp vs tall, do 28mp both times vs others
+crn 2lk 2mk 28mp 2mk 28mp
+crn stand jhk 5hp 2mk 28mp 2mk 28mp 
 
-Frame data from recordings:
+Kato
+214kk has iframes, but not on frame 1
+236lk is 19 frames total (18 maybe?)
+
+Frame data from lua script:
 Meter updates 1f before hit reactions, all startup may be 1 more than it really is
-all recovery forces one frame of neutral (or neutral crouch) at the end, including blockstun/hitstun(?)
-measured by in the mirror jump after hit/block then counting frames until they match animations
+all grounded recovery forces one frame of neutral (or neutral crouch) at the end
 animations play 2f after the input
 specials skip wait maybe idk
-dash takes 2f before moves can start (this is included in the listed startup)
+dash takes 4f before it can block, but 5f before it can attack (this is not included in the startup)
 Ishida
 move startup onhit onblock
-lp 4 3 3
-lk 4 3 3
-mp 8 -2 -2
-mk 8 -5 -5
-hp 15 10 10
+lp 3 3 3
+lk 3 3 3
+mp 7 -2 -2
+mk 6 -5 -5
+hp 15 9 9
 hk 11 -1 -1
-2lp 4 1 2
+2lp 3 1 2
 2lk 5 2 3
-2mp 7 3 3
-2mk 10 0 -8
-2hp 8 0 0
-2hk 6 kd -10
-4mk 8 1 1
-6mk 12 -1 -1
-6hk 31 8 0
-66 2f
-66lp 10 0 0
-66lk 9 -1 -1
-66mp 14 0 0
-66mk 12 -2 -3
-66hp 14 kd -16
-66hk 20 j -10
+2mp 5 3 3
+2mk 8 0 -6
+2hp 7 0 0
+2hk 6 kdfd -10
+4mk 7 1 1
+6mk 11 -1 -1
+6hk 29 8 0
+66 4f (+1 for instant dash attacks)
+66lp 4 -1 -1 (can whiff 1st active behind skinny characters)
+66lk 3 -1 -1 (same issue as 66lp)
+66mp 8 -1 -1
+66mk 6 -3 -3
+66hp 9 kdfu -16
+66hk 15 j -11
 236lk 9 -3 -3
-236mk 11 kd -4
-236hk 36 6 8
-j236lk 10 1 -1
-j236hk 17 15 15
-214pp 3+2 kd -11
-623kk 4+10 kd -yup
-214k idk idk idk
-
+236mk 11 kdfd -4
+236hk 41 6 6
+(jumpsquat = 2f +1 wait)
+j236lk 9 2 2
+j236mk 11 kdfd -8
+j236hk 17 15 15 (lowest height +16 but is bugged)
+214pp 3+1 kdfd -10
+j214pp 3+1 kdfd -13 (idk if lowest height tbh)
+623kk 3+10 kd -28 (vs crouching kato)
+214k idk idk idk (counter isn't i1, the attack part is i1 though. 51/68/80 total on whiff)
+44 24 total, 1-16 invuln
 
 Ram watch (mednafen, alt+D alt+4 shift+left until high work ram, enter to search for address)
 high work ram: 
@@ -135,7 +164,13 @@ high work ram:
 0xdbbce p2 life
 0xdba9e p1 bar
 0xdbbda p2 bar
-controller reads are also somewhere around those places 
+0xdba96 p1 stun 
+0xdba98 p1 stun health
+0xdbbd2 p2 stun
+0xdbbd4 p2 stun health
+
+
+bar is 800 units to fill
 
 Below this point the info is taken from looking at the memory directly while testing:
 Health:
