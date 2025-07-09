@@ -34,7 +34,8 @@ face up is (kato 2hk):
 	rika 59
 	kumiko 60
 	shibata 59
-this difference might be related to landing height differences between characters
+this difference might be related to landing height differences between characters 
+(T-Ai and S-Naoko are the same as their regular versions)
 
 Crouch Stuff:
 For Ishida's 5lk 5lk link:
@@ -98,6 +99,8 @@ Ai
 throw 6623hp
 throw hp better oki, less damage
 623hp xx 263kk 623hp
+crn 2lp 5lk 2mp 623lp 2lp 2lk 2hp 623hp (2hp(1) and skip 2lp vs some)
+throw walk lk 623hp vs some 
 
 Traitor Ai
 Same as Ai mostly, except:
@@ -119,7 +122,6 @@ Frame data from lua script:
 Meter updates 1f before hit reactions, all startup may be 1 more than it really is
 all grounded recovery forces one frame of neutral (or neutral crouch) at the end
 animations play 2f after the input
-specials skip wait maybe idk
 dash takes 4f before it can block, but 5f before it can attack (this is not included in the startup)
 Ishida
 move startup onhit onblock
@@ -173,17 +175,18 @@ high work ram:
 bar is 800 units to fill
 
 Below this point the info is taken from looking at the memory directly while testing:
-Health:
-Kato 950
-Ishida 700
-Naoko 750 (both)
-Mika 750
-Ai 900 (both)
-Yuko 800
-Aya 800
-Rika 800
-Kumiko 850
-Shibata 1000
+Health, Stun:
+Kato 950, 850
+Ishida 700, 800
+Naoko 750, 750 (both)
+Mika 750, 750
+Ai 900, 950 (both)
+Yuko 800, 750
+Aya 800, 800
+Rika 800, 750
+Kumiko 850, 900
+Shibata 1000, 950
+
 
 Damage:
 ishida 
