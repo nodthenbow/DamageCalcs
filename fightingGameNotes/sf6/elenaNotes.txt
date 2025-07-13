@@ -3,6 +3,8 @@ vst = vs standing only
 
 2mp di is a 3f gap vs burnout
 
+236236p2 does 1950 and heals 1300, doesn't scale the healing, regular does 2800 (850 more)
+
 2hp force stand
 pc 5mp forces stand
 all 214k force stand
@@ -111,6 +113,7 @@ crn 236pp-6mk 236lk 623lk 2570
 
 pc di walk 2mk-hk 214mk-6lp-6mk 236mk 3210
 pc di walk hp-hp rdr 2hp 214hk 236hk 3397
+crn pc di walk hp-hp rdr 2hp 214hk-6lp-6mk 623lk 623hk 3511
 
 crn 2hp 214hk 236lk 623hk 2980
 
@@ -128,11 +131,13 @@ hp-hp
 	236236k 236236k 623hk (more damage than lvl2)
 	236236p
 	214214k
+	236kk?
+	crn 236kk 623hk/ect ?
 pc hp-hp
 	236hk
 	crn 236lk 623hk
 	rdr 2hp 214hk-6lp-6mk 236mk/dl 623hk 3730 (finicky vs some, use 2mp instead of 2hp 3594)
-	crn rdr 2hp 214hk dl 236mk 623hk 
+	crn rdr 2hp214hk-6lp-6mk 623lk 623hk 4012 +22kda
 grounded 236k
 	crn all versions 623mk
 	ex 623hk anywhere
@@ -145,6 +150,13 @@ di
 	pc walk 2mk-hk 214lk-6lp-6mk 236236k 623hk
 	splat hp-hp 236lk 623mk 3140/2560
 	splat hp-hp 236236k 236236k 623hk 3580/3088
+pc hk
+	623hk 2480
+	2hk 1980 range 
+	236lk 2180 midscreen oki
+	236kk 236236p 4240
+	crn 236kk 236236k 623hk 3920
+	crn 236kk 623hk 3260
 
 AA PC hp-hp 214lk-6lp-6mk 236mk 3870 (crn 236lk 623mk 4290)
 
@@ -157,3 +169,4 @@ oki stuff?
 236mk 623mk +25 2lp 5mp +1ob +7oh
 +36 (623lk) 2lk 6mk +4oh 0ob (doesn't loop)
 +36 (623lk) 2lk xx 2lp 2mk +6oh -2ob (doesn't loop)
+midscreen 214p6p 236hp throw/2lk, or 236lp-6hk +6oh
