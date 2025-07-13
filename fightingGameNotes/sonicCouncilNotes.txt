@@ -2,8 +2,9 @@ Sonic Council notes
 System:
 crouch hitstun is more than standing sometimes (standing hitstun works as expected), see below
 crouch hitstun hurtboxes can shrink real low, see below
+the amount of juggle frames you get are different against kumiko (only?), see crouch stuff below
 P+K to guard cancel roll
-4/6 on wakeup to getup roll, also delays the wakeup a bit
+4/6 on wakeup to getup roll, also delays the wakeup by 9f
 Scaling is wack, see below
 669/8/7 carries momentum and is sometimes a lower jump
 screen scrolls slowly, when you reach the edge pushback acts like it is the corner
@@ -11,12 +12,33 @@ the first move in a combo can have different pushback than the same move in a co
 backdashes have iframes
 a lot of moves are the same advantage on hit and block, it's arbitrary though
 characters reel during hitstun which can cause whiffs, especially for lows when back turned
-juggles, other than spin outs and spikes, seem to have 7 frames of hitstun universally
-Stun is on everything, takes 800ish units to stun maybe, mashing out of stun is a thing, max 1 stun a round?
+air flip out juggles seem to have 7 frames of hitstun universally
+Stun is on almost everything, takes 800ish units to stun, see health/stun table below. 
+mashing out of stun is a thing 
+you can only be stunned once in a round
+stun damage decreases by 1 every 4 frames, only stops in screen freeze/hitstop (global 4f timer)
 hitting someone on the frame they take off from a jump causes the game to try to use the standing hit reel as the juggle hit effect, which can sometimes mean the wrong juggle effect comes out
 Hitting T-Ai with Ishida's 214pp as she gets hit with her own 263kk drops her out of the 214pp while still taking damage. It softlocks the game if it kills
 wakeup roll adds 9 frames to the knockdown (for everyone, and for both directions)
-getups are not all the same length, face down is (rika 2hp, 0 is +45):
+getups are not all the same length, see below
+chain buffer for buttons starts with the active frame, doesn't need the button held
+it determines the direction input right before when the move comes out
+link buffer is at least 4 frames
+if you just frame the final input of a special it doesn't go into the cancel buffer 
+(623hp can be input early and still cancel, 623+hp can't be input early)
+buffer window is 7f (if you don't just frame a special input), so 8f window total for most things
+tk inputs are done on the 4th frame after pressing up (so 8,w,w,w,P) (at least for ishida and rika)
+instant rising jump normals can be input on the same frame as you press up
+2f jumpsquat, 1f wait, then rising jump normals start
+the 4th frame after a jump can be canceled into grounded specials, so tk takes 1f longer
+you also need to wait that extra frame on tk or you'll do an air normal instead of the special anyways
+dash jumps skip the 2f jumpsquat
+dash startup is 5f
+667 must be input without hitting 4 or 8 (unless it is in the first 5f of the dash)
+
+
+Getup stuff:
+face down is (rika 2hp, 0 is +45):
 	Ai -1
 	Aya +1
 	Naoko +1
@@ -37,17 +59,17 @@ face up is (kato 2hk):
 this difference might be related to landing height differences between characters 
 (T-Ai and S-Naoko are the same as their regular versions)
 
+
 Crouch Stuff:
-For Ishida's 5lk 5lk link:
-Works on Kato, Ishida, Naoko, Mika, Ai, Yuko, Aya, Rika, and Kumiko
-For his 5lk 66lk link (and his 66lk 5lk link):
-Works on Kato, Ishida, Naoko, Mika, Ai, Yuko, Aya, and Rika
-Doesn't work on Kumiko
-For Ishida's 66lk-hk chain (midscreen):
+https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?usp=sharing
+General rule is lights get +6 vs crouch, uppercut and dunks get +2
+Against Kumiko lights instead get +4, and mediums get -2, and half gutshots get -2
+For Ishida's 66lk-hk (and 66lk-mp-hk) chain (midscreen):
 Works on Kato, Ishida, Mika, Yuko, and Rika
 Doesn't work on Naoko, Ai, and Kumiko
 Crouch hurtbox often lowers during hitstun, causes ishida 66hk to whiff even off 66mp
-Current guess is that it depends on the animation, and it's character and move dependant
+kumiko 426lk juggles for 2 less frames vs kumiko, rika 66hk juggles for 1 more vs kumiko
+
 
 Scaling:
 the game rounds weird, or all the scaling values are like 0.001 less
@@ -76,6 +98,7 @@ Rika:
 66lp/lk/mp/mk, lp/lk/2lp/2lk, j214p, 28-2hk, +ob
 5hp 0ob/0oh (vs stand)
 everything else (other than jump ins) -oh and -ob
+2147hp is i13 at the fastest (counting from 7)
 
 Ishida:
 lk 2mp mk 236lk 214pp
@@ -89,11 +112,9 @@ basically no reversal (236mk not, 214p mid/high only (also maybe not i1))
 has 4mk 6mk 6hk cmd normals
 vs crouch (not kumiko) 2369lk-236hk 2lp 5lk link 214pp
 vs stand 2369lk-236hk 2lp 5lk 5mp 5mk 236lk 214pp
-vs crouch (not kumiko) (66lk 5lk)*inf 
+vs crouch (not kumiko) (66lk 5lk)*inf, drops on some midscreen (3f window each 66lk) (does 350ish stun)
 vs stand blah hp 66lk-mp-hk 66hp/623kk
-you can do j236lk-236hk infinitely if you are clean with it
-236lk 236mk notes
-Against everyone it whiffs from far
+you can do j236lk-236hk infinitely if you are clean with it (2f window on each j236lk)
 
 Ai
 throw 6623hp
@@ -101,6 +122,10 @@ throw hp better oki, less damage
 623hp xx 263kk 623hp
 crn 2lp 5lk 2mp 623lp 2lp 2lk 2hp 623hp (2hp(1) and skip 2lp vs some)
 throw walk lk 623hp vs some 
+mash p requires 4x of the same p input to trigger with no other buttons between them
+623hp xx 263kk slight delay (or late xx 263kk) 5lk xx 623hp 
+623hp xx 263kk cancel window is 5f (+8f of a buffer window, so 13f total leniency)
+for some reason 263kk uses a hitbox then a throw box, but the throw box seems to hit always?
 
 Traitor Ai
 Same as Ai mostly, except:
@@ -116,13 +141,27 @@ crn stand jhk 5hp 2mk 28mp 2mk 28mp
 
 Kato
 214kk has iframes, but not on frame 1
-236lk is 19 frames total (18 maybe?)
+236lk is 18 frames total (19 maybe?)
+66lp-lk-mp-mk 2lp5hp2hk, 241 damage
+vs tall crouchers lights into 5hp
+
+Naoko
+vs crouching kato 2lp5mp 2lp 6 lkmpmkhphk236lp, 300 damage
+vs crouching shibata 2lp5mp 2lp5mpmkhphk236lp, 282 damage
+vs crouching aya 2lp5mp 2lk2mk2hk, 124 damage
+
+Shibata
+2mp2hp works on standing hit
+236hp is +8 on block and +1 on gc roll
+
 
 Frame data from lua script:
 Meter updates 1f before hit reactions, all startup may be 1 more than it really is
-all grounded recovery forces one frame of neutral (or neutral crouch) at the end
-animations play 2f after the input
-dash takes 4f before it can block, but 5f before it can attack (this is not included in the startup)
+all grounded recovery forces one frame of neutral (or neutral crouch) at the end (you can block in this)
+animations play 2f after the game logic updates
+dash takes 5f before it can attack (this is not included in the startup)
+jumpsquat is 2f+1f wait, +1 more for tk specials
+
 Ishida
 move startup onhit onblock
 lp 3 3 3
@@ -153,12 +192,15 @@ hk 11 -1 -1
 (jumpsquat = 2f +1 wait)
 j236lk 9 2 2
 j236mk 11 kdfd -8
-j236hk 17 15 15 (lowest height +16 but is bugged)
+j236hk 17 15 15 (lowest height +9 due to bug)
 214pp 3+1 kdfd -10
 j214pp 3+1 kdfd -13 (idk if lowest height tbh)
 623kk 3+10 kd -28 (vs crouching kato)
 214k idk idk idk (counter isn't i1, the attack part is i1 though. 51/68/80 total on whiff)
 44 24 total, 1-16 invuln
+
+crouching hitstun:
+https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?usp=sharing
 
 Ram watch (mednafen, alt+D alt+4 shift+left until high work ram, enter to search for address)
 high work ram: 
@@ -172,7 +214,7 @@ high work ram:
 0xdbbd4 p2 stun health
 
 
-bar is 800 units to fill
+bar is 800 units to fill 1 bar
 
 Below this point the info is taken from looking at the memory directly while testing:
 Health, Stun:
