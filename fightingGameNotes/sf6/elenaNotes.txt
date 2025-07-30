@@ -96,8 +96,8 @@ crn mk-hk 236lk 623hk 2620
 mk-hk 236kk 623hk 2380 side swap
 2mk-hk 236hk crn 623mk 2430
 
-pc hp-hp rdr 2hp214hk-6lp-6mk 236mk 3730
-crn pc hp-hp rdr 2hp214hk-6lp-6mk 623lk 623hk 4012 +22kda
+pc hp-hp rdr 2hp214mk-6lp-6mk 236mk 3825 (finicky vs some, use 2mp instead of 2hp 3689)
+crn pc hp-hp rdr 2hp214mk-6lp-6mk 623lk 623mk 4149 +25kda
 pc hk 2hk far 1980
 pc hk 623hk close 2480
 crn pc hk 236kk 623hk 3260
@@ -105,6 +105,7 @@ hp-hp 2hk far 2320
 hp-hp 623hk close 2720
 
 crn 236pp-6lk 623hk 2600
+crn 236pp-6lk rdr 2lp214mk-6lp-6mk 236lk 623mk 3599 (3560 with 623lk 623lk)
 236pp-6lk 236kk 2400 (crn 623hk 3380)
 236p-6mk 623hk 1880
 crn 236p-6mk 236kk 623hk 2440
@@ -112,10 +113,12 @@ crn 236pp-6mk 236lk 623lk 2570
 236pp-6mk 236mk 2140 (623hk instead 2280) (can double 236236k, worse than 236236p though, except in combos)
 
 pc di walk 2mk-hk 214mk-6lp-6mk 236mk 3210
-pc di walk hp-hp rdr 2hp 214hk 236hk 3397
-crn pc di walk hp-hp rdr 2hp 214hk-6lp-6mk 623lk 623hk 3511
+pc di walk hp-hp rdr 2hp 214lk-6lp-6mk 236mk 3562
+crn pc di walk hp-hp rdr 2hp 214mk-6lp-6mk 623lk 623mk 3716
 
 crn 2hp 214hk 236lk 623hk 2980
+
+crn jhp 2hp236pp-6lk rdr 2lp214mk-6lp-6mk 623lk 623lk 4179 (on stun do 236lk 623mk, only 3379 if 2hp starts)
 
 Launches
 grounded 214hk/214kk
@@ -125,19 +128,23 @@ grounded 214hk/214kk
 	236hk 623lk 2862 crn
 	236mk 623mk 2870 crn 
 	236lk 623hk 2878 crn
+	rdr 2mp236hp-6mk 623hk 3148
+	crn rdr 2mp236lk 623hk 3172
+	rdr 2mp236pp-6mk 236mk 3302 
+	crn rdr 2mp236pp-6mk 236lk 623mk 3747 (end with 623lk 623lk instead off jhp 2hp... 4002)
 hp-hp 
-	623hk
-	2hk
-	236236k 236236k 623hk (more damage than lvl2)
-	236236p
-	214214k
-	236kk?
-	crn 236kk 623hk/ect ?
+	623hk 2720
+	2hk 2320
+	236236k 236236k 623hk 3860 (more damage than lvl2)
+	236236p 3840
+	214214k 4800
+	236kk 2560
+	crn 236kk 623hk 3400
 pc hp-hp
 	236hk
 	crn 236lk 623hk
-	rdr 2hp 214hk-6lp-6mk 236mk/dl 623hk 3730 (finicky vs some, use 2mp instead of 2hp 3594)
-	crn rdr 2hp214hk-6lp-6mk 623lk 623hk 4012 +22kda
+	rdr 2hp 214mk-6lp-6mk 236mk/dl 623hk 3825 (finicky vs some, use 2mp instead of 2hp 3689)
+	crn rdr 2hp214mk-6lp-6mk 623lk 623mk 4149 +25kda
 grounded 236k
 	crn all versions 623mk
 	ex 623hk anywhere
@@ -147,7 +154,10 @@ grounded 236k
 	623hk
 di
 	pc walk 2mk-hk 214mk-6lp-6mk 236mk 3210
-	pc walk 2mk-hk 214lk-6lp-6mk 236236k 623hk
+	pc walk 2mk-hk 214mk-6lp-6mk 236236k 623hk 3410 (more meter gain before super)
+	pc walk hp-hp 236236k 623hk 3480
+	pc walk hp-hp rdr 2mp214mk-6lp-6mk 236mk 3460
+	pc 8hp rdr hp-hp rdr 2mp214mk-6lp-6mk 236mk 3465 (don't use this one lol)
 	splat hp-hp 236lk 623mk 3140/2560
 	splat hp-hp 236236k 236236k 623hk 3580/3088
 pc hk
@@ -157,6 +167,15 @@ pc hk
 	236kk 236236p 4240
 	crn 236kk 236236k 623hk 3920
 	crn 236kk 623hk 3260
+crn 236pp-6lk 
+	623hk 2600
+	rdr 2lp214mk-6lp-6mk 236lk 623mk 3599 (3560 with 623lk 623lk, on stun jhp 2hp... does 3056 (623lk*2 3025))
+mk-hk
+	236hk 1940
+	crn 214lp-6lp 1960 safe jump
+	crn 236lk 623hk 2620
+	214kk-6lp-6mk 236mk 2760
+	crn 214kk-6lp-6mk 623lk 623hk 3220
 
 AA PC hp-hp 214lk-6lp-6mk 236mk 3870 (crn 236lk 623mk 4290)
 
@@ -169,4 +188,4 @@ oki stuff?
 236mk 623mk +25 2lp 5mp +1ob +7oh
 +36 (623lk) 2lk 6mk +4oh 0ob (doesn't loop)
 +36 (623lk) 2lk xx 2lp 2mk +6oh -2ob (doesn't loop)
-midscreen 214p6p 236hp throw/2lk, or 236lp-6hk +6oh
++39 (214p-6p grounded) midscreen 236hp throw/2lk, or 236lp-6hk +6oh -1ob 
