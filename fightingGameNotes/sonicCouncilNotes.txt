@@ -2,15 +2,16 @@ Sonic Council notes
 System:
 crouch hitstun is more than standing sometimes (standing hitstun works as expected), see below
 crouch hitstun hurtboxes can shrink real low, see below
-the amount of juggle frames you get are different against kumiko (only?), see crouch stuff below
-P+K to guard cancel roll
-4/6 on wakeup to getup roll, also delays the wakeup by 9f
+the amount of juggle frames you get are different against different characters, see crouch stuff below
+P+K (or use the macro) to guard cancel roll
+4/6 on wakeup to getup roll, also delays the wakeup by 9f (for everyone, and for both directions)
+getups are not all the same length, see below
 Scaling is wack, see below
-669/8/7 carries momentum and is sometimes a lower jump
+669/8/7 carries dash momentum and is sometimes also a lower jump
 screen scrolls slowly, when you reach the edge pushback acts like it is the corner
-the first move in a combo can have different pushback than the same move in a combo
+the first move in a combo can have different pushback than the same move would in a combo
 backdashes have iframes
-a lot of moves are the same advantage on hit and block, it's arbitrary though
+a lot of moves are the same advantage on hit and block, it isn't universal to all hitstun types though
 characters reel during hitstun which can cause whiffs, especially for lows when back turned
 air flip out juggles seem to have 7 frames of hitstun universally
 Stun is on almost everything, takes 800ish units to stun, see health/stun table below. 
@@ -19,15 +20,13 @@ you can only be stunned once in a round
 stun damage decreases by 1 every 4 frames, only stops in screen freeze/hitstop (global 4f timer)
 hitting someone on the frame they take off from a jump causes the game to try to use the standing hit reel as the juggle hit effect, which can sometimes mean the wrong juggle effect comes out
 Hitting T-Ai with Ishida's 214pp as she gets hit with her own 263kk drops her out of the 214pp while still taking damage. It softlocks the game if it kills
-wakeup roll adds 9 frames to the knockdown (for everyone, and for both directions)
-getups are not all the same length, see below
 chain buffer for buttons starts with the active frame, doesn't need the button held
 it determines the direction input right before when the move comes out
 link buffer is at least 4 frames
 if you just frame the final input of a special it doesn't go into the cancel buffer 
 (623hp can be input early and still cancel, 623+hp can't be input early)
 buffer window is 7f (if you don't just frame a special input), so 8f window total for most things
-tk inputs are done on the 4th frame after pressing up (so 8,w,w,w,P) (at least for ishida and rika)
+tk special inputs are done on the 4th frame after pressing up (so 8,w,w,w,P) (at least for ishida and rika)
 instant rising jump normals can be input on the same frame as you press up
 2f jumpsquat, 1f wait, then rising jump normals start
 the 4th frame after a jump can be canceled into grounded specials, so tk takes 1f longer
@@ -35,7 +34,10 @@ you also need to wait that extra frame on tk or you'll do an air normal instead 
 dash jumps skip the 2f jumpsquat
 dash startup is 5f
 667 must be input without hitting 4 or 8 (unless it is in the first 5f of the dash)
-
+standard light fireballs (yuko, aya, rika's) have low hit/blockstun compared to medium/heavy versions
+some fireballs have a fireball lockout timer that must run out before another can be used
+most fireballs do not have the limit of only one on screen
+frame data spreadsheet https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?usp=sharing
 
 Getup stuff:
 face down is (rika 2hp, 0 is +45):
@@ -57,18 +59,20 @@ face up is (kato 2hk):
 	kumiko 60
 	shibata 59
 this difference might be related to landing height differences between characters 
+it also gets weird off juggles, shibata is 90kda (20j) off rika 66hk when normal is ~85kda (~27j)
 (T-Ai and S-Naoko are the same as their regular versions)
 
 
 Crouch Stuff:
 https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?usp=sharing
-General rule is lights get +6 vs crouch, uppercut and dunks get +2
-Against Kumiko lights instead get +4, and mediums get -2, and half gutshots get -2
-For Ishida's 66lk-hk (and 66lk-mp-hk) chain (midscreen):
+General rule is lights get +6 vs crouch, uppercuts and dunks get +2
+Against Kumiko lights instead get +4, mediums get -2, and half gutshots get -2
+crouching hit reel is wild too
+For example Ishida's 66lk-hk (and 66lk-mp-hk) chain (midscreen):
 Works on Kato, Ishida, Mika, Yuko, and Rika
 Doesn't work on Naoko, Ai, and Kumiko
 Crouch hurtbox often lowers during hitstun, causes ishida 66hk to whiff even off 66mp
-kumiko 426lk juggles for 2 less frames vs kumiko, rika 66hk juggles for 1 more vs kumiko
+rika 66hk juggles for 27f vs kato, 28f vs yuko, and 20f vs shibata
 
 
 Scaling:
@@ -99,14 +103,15 @@ Rika:
 5hp 0ob/0oh (vs stand)
 everything else (other than jump ins) -oh and -ob
 2147hp is i13 at the fastest (counting from 7)
+236p fireballs grow larger as they travel
 
 Ishida:
 lk 2mp mk 236lk 214pp
 lk 2mp mk 236lk 236mk 236hk vs most, some dodge the 236mk when crouching
-2369hk quick +++ob overhead
+2369hk quick +15ob overhead (wait for 2nd lowest height or it is only +9ob/oh)
 2369lk mid +1ob-ish, also +1oh-ish, can cancel into j236hk for big plus frames
 66hk overhead --ob 
-basically no reversal (236mk not, 214p mid/high only (also maybe not i1))
+basically no reversal (236mk not, 214p mid/high only (also not i1))
 214PP invuln until hit, first hit does no damage though so it trades terribly
 236K cancels into other specials, works on block
 has 4mk 6mk 6hk cmd normals
@@ -131,7 +136,7 @@ Traitor Ai
 Same as Ai mostly, except:
 Everything cancels and chains
 236K and 263KK are different
-236KK replaces j623PP
+236KK replaces j623PP (bad trade)
 throw 66mp623hp
 
 Yuko
@@ -141,9 +146,11 @@ crn stand jhk 5hp 2mk 28mp 2mk 28mp
 
 Kato
 214kk has iframes, but not on frame 1
-236lk is 18 frames total (19 maybe?)
+236lk is 18 frames total
 66lp-lk-mp-mk 2lp5hp2hk, 241 damage
-vs tall crouchers lights into 5hp
+66lp=lk-mp-mk 2lp5mp236lp214kk vs stand only 
+vs kato/shibata crouching, 2lp 5hp loops, 5hk 2mp5hp 2lp2mp5hp2hk
+same two, 5hp 2lp5hp 2lp5hp2hk 
 
 Naoko
 vs crouching kato 2lp5mp 2lp 6 lkmpmkhphk236lp, 300 damage
@@ -151,11 +158,14 @@ vs crouching shibata 2lp5mp 2lp5mpmkhphk236lp, 282 damage
 vs crouching aya 2lp5mp 2lk2mk2hk, 124 damage
 
 Shibata
+236hp is banned
+236hp is +8 on block and +1 on gc roll, it is also the highest damage meterless move in the game 
 2mp2hp works on standing hit
-236hp is +8 on block and +1 on gc roll
+crn 2lk2mp2hp214lp 236lp 300?
 
 
 Frame data from lua script:
+https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?gid=615270258#gid=615270258
 Meter updates 1f before hit reactions, all startup may be 1 more than it really is
 all grounded recovery forces one frame of neutral (or neutral crouch) at the end (you can block in this)
 animations play 2f after the game logic updates
