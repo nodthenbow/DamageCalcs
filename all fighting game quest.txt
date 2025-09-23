@@ -1,5 +1,5 @@
 All fighting game quest
-(75 lines of not definitely fighting games, 169 lines extra total, 1774 fighting games)
+(76 lines of not definitely fighting games, 170 lines extra total, 1948 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played (566):
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -80,7 +80,7 @@ ClayFighter: Tournament Edition =- fc SNES TODO lab more
 ClayFighter 2: Judgment Clay =- fc SNES TODO lab more
 ClayFighter 63 1/3 =- n64 TODO lab more
 ClayFighter: Sculptor's Cut =- n64 TODO lab more
-custom robo =- gcn TODO lab more
+custom robo (custom robo battle revolution in jp) =- gcn TODO lab more
 Divekick =- dive and kick baby, literally only two buttons, SKill hard best, Shoals easy best
 Fantasy Strike =- sirloin's game, mash dive kicks
 Fate Unlimited Codes =- 3d fate game with the command grab infinite (and many others) psp ver too
@@ -238,7 +238,7 @@ The King of Fighters EX =- gba Leona clD 66 inf, Choi clC 6B inf, Ryo clC 426C o
 The King of Fighters EX 2 =- gba Leona Iori Athena normal stuff, Miu striker
 kof maximum impact 1/rev a/2 =- 3d
 kof r1/r2 =- portables
-Mobile Suit Gundam Seed: Battle Assault =- gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable
+Mobile Suit Gundam Seed: Battle Assault =- gba Buster auto, 66P inf hard, 5W6W5L beam, j2W, 4P unblockable, blitz PPP is an infinite in the corner (also hard to do), also 2W is overhead hidden missiles
 Mobile Suit Gundam SEED: Destiny =- gba, same as 1 but less inf, 2p2p66p inf on blonde girl ninja gundam
 Hajime no Ippo The Fighting =- gba goatee 4bbb8bb6r+b, bb4/6bb6r+b/8b, fast b, 6r+a cheap def buff
 Art of Fighting (Ryuuko no Ken) =- fc
@@ -274,8 +274,8 @@ World Heroes Jet =- fc Broken 214P great for pressure/chip, dashes added
 World Heroes Perfect =- fc Ryoko 662PP inf, 4 button game, PP/KK=HP/HK, 426P cmd grab, hsdm 6426BCD, IB gone
 Alien Challenge =- played w/ kooter, lady 236lp-mp-hp 646hp, dog 214LP inf v st, blockstun throws
 Ballz series =- ballz
-Rise of the Robots =- mantis dude has jump ins that hit low
-Rise 2 =- also bad, I confuse it with 1 a lot 
+Rise of the Robots =- cdi snes gg 3do gen amiga cd32 dos arc mantis dude has jump ins that hit low
+Rise 2 =- sat ps1 pc also bad, I confuse it with 1 a lot 
 Shaman King: Spirit of Shamans =- ps1 played with zak, r1/l1 k was buster
 HYPERFIGHT =- steam, fun few button fighter
 Punch Planet =- great 6 button slow fighter
@@ -630,6 +630,8 @@ Elsword mmo =- beat em up mmo with platform fighter pvp, real bad https://worlds
 Gooch Grundy's X-Decathlon =- pc sci-fantasy sports minigame collection
 Crash 'n' the Boys: Street Challenge/Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal =- nes "swimming" is a fight to the death, not a race
 Devolver Bootleg (Absolver) =- 4block with no throw or lows, 412A (dp) unbl, costs bar gained from blocking
+Zoku: The Legend of Bishin / 美神伝説Ｚｏｋｕ, Bishin Densetsu Zoku =- racing/beat em up w/ vs mode
+Mizzurna Falls action adventure game has 2d mode (old man perry, friday 043 am riverside park)
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -696,7 +698,6 @@ Elemensional Rift https://mobile.twitter.com/NinRac
 BitFrogHex (BoxFighter) https://mobile.twitter.com/DigitalWatches https://drive.google.com/file/d/1tvTLjaEvjml-rjOy8yYOAh3OxBaPgbnj/view
 Battle Craze https://mobile.twitter.com/BattleCraze
 Project Fantasy https://mobile.twitter.com/bybyblue2
-Trajes Fatais https://mobile.twitter.com/trajesfatais
 Pocket Bravery steam
 Beat Down https://mobile.twitter.com/BeatDownGame
 Battle Integra https://mobile.twitter.com/garagepro7
@@ -733,7 +734,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1208):
+Unplayed (1392):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -747,7 +748,8 @@ Dragon Blast: Project Soul Gainer pc
 Dragon Blast SE pc
 gado fight steam
 all-star fighters (2005, ps2) Simple 2000 series vol. 91: The all star kakutou
-the untouchables 1/2 pc 
+the untouchables 1 pc
+the untouchables 2 pc 
 Burning Fists: Force Striker sega CD (megaCD) unreleased
 Theatre of Pain dos
 Mad Stalker: Full Metal Forth (gen 2020 release)
@@ -769,7 +771,8 @@ Fighting Dragon / Shenlong Kuaida / 神龍快打 dos
 Quan Ba Tian Xia bootleg
 Samurai Deeper Kyo ps1
 Gokuu Densetsu: Magic Beast Warriors ps1
-Metal & Lace 1/2 dos
+Metal & Lace 1 dos (metal and lace)
+Metal & Lace 2 dos (metal and lace)
 Gear Fighter Dendoh ps1
 Gekido ps1
 Flash Bash PC
@@ -778,13 +781,14 @@ TV Animation X: Unmei no Sentaku ps1
 Messiah End Revenge pc fm2k
 Sakura X Clash pc https://team-project-sakura-x.itch.io/sakura-x-clash-last-millenial-spring
 Chaos Striker pc 2dfm https://archive.org/details/chaos-striker
-The Eye of Typhoon 3do / (beta on fc2)
+The Eye of Typhoon 3do (arcade beta on fc2)
 Trajes Fatais: Suits of Fate steam
 Fist ps1 
 FIST saturn
 Hellish Quart steam
 shadow warriors / shadow war of succession 3do
-Keroro Gunsou: Meromero Battle Royale / Z ps2
+Keroro Gunsou: Meromero Battle Royale ps2
+Keroro Gunsou: Meromero Battle Royale Z ps2
 Ninpuu Sentai Hurricanger ps1
 KemoFre Fight / Kemono of Friends pc
 Sango Guardian Chaos Generation steam
@@ -821,7 +825,8 @@ V.G. Max pc
 Psychic Force 2 ps1
 Metal Clash arc
 pop'n tanks! ps1 jp
-Sango fighter 1/2 dos superfighter.com
+Sango fighter 1 dos superfighter.com
+Sango Fighter 2 dos superfighter.com
 Fengshen Bang dos
 Fengyun Tianxia: Sanguo Pian dos
 wulin zhengba-zhi yingxiong tie dos
@@ -832,15 +837,16 @@ Battle Snakes steam
 Bio freaks n64 ps1
 Dark Rift n64 / dos
 Deadly Arts G.a.s.p!! n64
-Fighter Destiny 1/2 n64 (fighter's destiny)
+Fighter Destiny 1 n64 (fighter's destiny (real name has no 's))
+Fighter Destiny 2 n64 (fighter's destiny 2 (real name has no 's))
 Mace The Dark Age n64
 War Gods n64 ps1
 Neon Genesis Evangelion n64
-Ultraman 3do
 street overlord ZC-780
 Kasumi Ninja jaguar
 Fight for Life jaguar
-fx fighter / fx fighter turbo pc
+fx fighter pc
+fx fighter turbo pc
 Asuka 120% BURNING Fest. x68k
 Asuka 120% Excellent BURNING Fest. ps1 / fm towns
 Asuka 120% Maxima BURNING Fest. PCE
@@ -876,71 +882,103 @@ battle high 1 (idk, maybe ask the dev Mattrified on twitter?)
 Combat of Giants series https://en.wikipedia.org/wiki/Combat_of_Giants
 Battle Tryst mame
 Be-bop Bout msx2 mame
-Big Bang Beat / Revolve pc https://drive.google.com/file/d/1HI93zGlshX4Q5SW8Jqq0QKQuETcygtnV/view
+Big Bang Beat pc (?)
+Big Bang Beat Revolve pc https://drive.google.com/file/d/1HI93zGlshX4Q5SW8Jqq0QKQuETcygtnV/view
 Black Belt Challenge gba
 blade strangers steam (don't buy, publisher is an ip thief)
-Bleach: Shattered Blade / Versus Crusade
-Bleach Tasogare Ni Mamieru Shinigami
-Bleach: Heat the Soul 1 to 4
-Bleach: Heat the Soul 5 to 7
-Bleach Blade Battlers 1&2nd
-Bleach: the Blade of Fate / Darksouls
+Bleach: Shattered Blade wii
+Bleach: Versus Crusade wii
+Bleach Tasogare Ni Mamieru Shinigami gcn
+Bleach: Heat the Soul 1 psp
+Bleach: Heat the Soul 2 psp
+Bleach: Heat the Soul 3 psp
+Bleach: Heat the Soul 4 psp
+Bleach: Heat the Soul 5 psp
+Bleach: Heat the Soul 6 psp
+Bleach: Heat the Soul 7 psp
+Bleach Blade Battlers 1 ps2 
+Bleach Blade Battlers 2 ps2
+Bleach: the Blade of Fate nds
+Bleach: Darksouls nds
 Bloodstorm mame
 Bloody Roar ps1
 Bloody Roar 2 ps1
 Bloody Roar 3 ps2
-Bloody Roar: Primal Fury / extreme gc
+Bloody Roar: Primal Fury / bloody roar extreme gcn
 Bloody Roar 4 ps2
-Body blows series dos ultimate body blows
+Body blows amiga/dos
+Body Blows Galactic amiga
+ultimate body blows amigaCD32 dos
 Buriki One mame
 Bushido Blade ps1
 Bushido Blade 2 ps1
-Capcom Fighting All Stars (wait for a copy to surface)
+Capcom Fighting All Stars (no public copies yet)
 Capcom Fighting Evolution ps2
 Castlevania Judgement wii
 Chu’s Dynasty xb360
 Clash of Elementalists dsiware
 Combat Core steam owned
-Custom Robo series
-Virtual-on series (played the one in yakuza)
+Custom Robo n64
+Custom Robo v2 n64
+Custom Robo gx gba (doesn't work on mister gba2p)
+Custom Robo arena nds 
+Virtual-on Cyber Troopers (V-on 1) sat arc pc (yakuza kiwami 2)
+Cyber Troopers Virtual-On Oratorio Tangram (v-on 2) dc 360 arc 
+Cyber Troopers Virtual-On Force (v-on 3) arc 360
+Cyber Troopers Virtual-On Marz (v-on 4) ps2 ps3 (uses 3's system)
 Deadliest Warrior: Legends Deadliest Warrior: Ancient Combat ps3
 Deadly Sport / Street Brawl / Deadly Splode unreleased, lost media
 Daemon Bride pc, on miz
 dead or alive series
 def jam series
 Dengeki Bunko Fighting Climax ps3 (pretty sure I played and own it)
-Digimon Rumble Arena 1/2
-Digimon Battle Spirit 1/1.5/2
+Digimon Rumble Arena 1 ps1 
+Digimon Rumble Arena 2 ps2
+Digimon Battle Spirit 1 (Digimon Tamers: Battle Spirit) gba/wsc
+Digimon Tamers: Battle Spirit Ver. 1.5 wsc 
+Digimon Battle Spirit 2 gba/wsc
 Digimon All-star Rumble ps3/360
-Dissidia series
+Dissidia Final Fantasy (2008) psp
+Dissidia 012 Final Fantasy psp
+Dissidia Final Fantasy NT ps4
 Doodle Hex nds
 Dragon Ball series of games (played a ton of them already, multiple on fc2)
-Dragon Ball Z Tv Game & Dragon Ball Gekitou Tenkaichi Budokai
-Dragon Ball Z & Dragon Ball Z 2 Super Battle
-Dragon Ball Z V.r.v.s 
-Dragon Ball Z: Evolution
-Dragon Ball Z Hyper Dimension 
-Dragon Ball Z Shin Butouden 
-Dragon Ball Z: Ultimate Battle 22
-Dragon Ball Z: Legends
-Dragon Ball Z Budokai 1&2 
-dragon ball z 2v
-Dragon Ball Z Budokai 3
-Dragon Ball Z Battle of Z / Extreme Butoden
-Dragon Ball Z Budokai Tenkaichi 1&2
-Dragon Ball Z Budokai Tenkaichi 3
-Dragon Ball Z Shin Budokai & Another Road
-Dragon Ball Z Tenkaichi Tag Team & Dragon Ball Kai Ultimate Butoden
-Dragon Ball Z Ultimate Tenkaichi
-Dragon Ball Z Trilogy & Dragon Ball Z for Kinect
-Super Dragon Ball Z & Infinite World
-Dragon Ball Z Burst Limit
+Dragon Ball Gekitou Tenkaichi Budokai nes
+Dragon Ball Z banpresto arc
+Dragon Ball Z 2 Super Battle arc 
+Dragon Ball Z V.r.v.s arc sys32
+Dragonball Evolution psp
+Dragon Ball Z Hyper Dimension snes 
+Dragon Ball Z: Shin Butōden sat
+Dragon Ball Z: Ultimate Battle 22 ps1
+Dragon Ball Z: The Legend ps1/sat
+Dragon Ball Z Budokai 1 ps2 
+Dragon Ball Z Budokai 2 ps2 
+Dragon Ball Z Budokai 3 ps2 
+dragon ball z 2 v ps2 (reskin of Dragon Ball Z Budokai 2)
+Dragon Ball Z Battle of Z ps3 360 vita
+Dragon Ball Z: Extreme Butōden 3ds
+Dragon Ball Z Budokai Tenkaichi 1 ps2 
+Dragon Ball Z Budokai Tenkaichi 2 ps2/wii
+Dragon Ball Z Budokai Tenkaichi 3 ps2/wii
+Dragon Ball Z Shin Budokai psp 
+Dragon Ball Z Shin Budokai Another Road (Dragon Ball Z Shin Budokai 2) psp
+Dragon Ball Z Tenkaichi Tag Team psp 
+Dragon Ball Kai: Ultimate Butōden nds
+Dragon Ball GT: Final Bout ps1
+Dragon Ball Z Ultimate Tenkaichi ps3/360
+Dragon Ball Z for Kinect 360 (1p?)
+Super Dragon Ball Z ps2
+Dragon Ball Z: Infinite World ps2
+Dragon Ball Z: Burst Limit ps3 360
 Dragon Ball Z: Supersonic Warriors 2 nds
-Dragon Ball Z Raging Blast 1&2
-Dragon Ball Zenkai Battle Royale 
-Dragon Ball Z: Idanairu Son Goku Densetsu
-Dragon Ball Z: Idainaru Dragon Ball Densetsu
-Dragonball Xenoverse 1 / 2
+Dragon Ball: Raging Blast ps3 360
+Dragon Ball: Raging Blast 2 ps3 360
+Dragon Ball Zenkai Battle Royale arc (dead)
+Dragon Ball Z: Idainaru Son Goku Densetsu PCESCDR (1p?)
+Dragon Ball Z: Idainaru Dragon Ball Densetsu ps1/sat 
+Dragonball Xenoverse 1 ps3 ps4 360 xb1
+Dragonball Xenoverse 2 ps4, ect
 Dynasty Warriors 1 ps1
 Dragon’s Heaven snk unreleased
 Dreammix Tv: World Fighters gcn
@@ -956,10 +994,12 @@ Flame of Recca: Final Burning ps2
 Flash Hiders pce and tgfx, 
 Fuuka Taisen pc
 Gang Beasts steam (physics based so whatever, also I've seen a lot of it)
-Getamped 1 / 2 splash fighters fogfighters switch pc
+Getamped 1 / splash fighters fogfighters switch pc
+Getamped 2 pc? 
 Girl Fight xb360
 Gladiator Begins psp (Gladiux is a remake apparently coming soon 2022)
-Glove on Fight 1/2 pc (Gleam of Force is 2, proto melty)
+Glove on Fight 1 pc (proto melty)
+Glove on Fight 2 pc (Gleam of Force, proto melty)
 Goddess’ Blazon x68k
 Goiken Muyou: Anarchy in the Nippon saturn
 Goiken Muyou 2 ps1
@@ -973,20 +1013,21 @@ Inuyasha Feudal Combat ps2
 Inuyasha a Feudal Fairy Tale ps1
 Jackie Chan in Fists of Fire fc2
 Jackie Chan the Kung Fu Master fc2
-Jojo’s Bizzare Adventure: All-star Battle
-Jojo’s Bizzare Adventure: All-star Battle R
-Jojo’s Bizarre Adventure / Eyes of Heaven
-Jojo’s Bizarre Adventure: Last Survivor
-J-stars Victory Vs
-J-stars Victory Vs+ ps4
-Jump Force
-Jump Superstars & Ultimate Stars
+Jojo’s Bizzare Adventure: All-star Battle ps3
+Jojo’s Bizzare Adventure: All-star Battle R ps4
+Jojo’s Bizarre Adventure: Eyes of Heaven ps3/ps4
+Jojo’s Bizarre Adventure: Last Survivor arc (battle royale apparently)
+J-stars Victory Vs ps3/vita
+J-stars Victory Vs+ ps4/vita
+Jump Force ps4 (delisted, but I got the disc)
+Jump Super stars nds 
+Jump Ultimate Stars nds
 Kamen Rider: Climax Scramble (Zi-o) switch 
 Kamen Rider: Climax Heroes ps2
 Kamen Rider: Climax Heroes W wii 
 Kamen Rider: Climax Heroes Fourze wii/psp
 Kamen Rider: Climax Heroes 000 psp 
-Kamen Rider 555 ps2 / 
+Kamen Rider 555 ps2 
 Kamen Rider Blade ps2 
 Kamen Rider Hibiki ps2
 Kamen Rider: Climax Fighters ps4 
@@ -1002,18 +1043,36 @@ Kamen Rider Kabuto ps2
 Kamen Rider Kiva: Hiragana Sūji Chie Battle!! sega advanced pico beena
 Kid Station: Kamen Rider Heros ps1
 Kakuge Yarou Fighting Game Creator ps1
-Katekyo Hitman Reborn! Ds Flame Rumble X / Ds Flame Rumble Xx / Kizuna No Tag Battle
-Katekyo Hitman Reborn! Flame Rumble / Kaien Ring Soudatsusen! / Moeyo Mirai
-Katekyo Hitman Reborn! Dream Hyper Battle! / Kindan No Yami No Delta
-Hitman Reborn Battle Arena 1&2 / Flame Rumble Hyper Moeyo Mirai
+Katekyō Hitman Reborn! DS Flame Rumble Mukuro Kyoushuu nds
+Katekyō Hitman Reborn! DS Flame Rumble Hyper - Moeyo Mirai nds
+katekyo hitman REBORN! DS Flame Rumble X - Mirai Chou-Bakuhatsu!! nds
+Katekyō Hitman Reborn! DS Flame Rumble XX - Kessen! Real 6 Chouka nds
+Katekyō Hitman Reborn! DS Vongola Shiki Taisen Battle Sugoroku nds
+Katekyo Hitman Reborn! Kizuna no Tagbattle psp
+Katekyō Hitman Reborn! DS Flame Rumble Kaien Ring Soudatsusen! nds
+Katekyō Hitman Reborn! Dream Hyper Battle! ps2
+Katekyō Hitman Reborn! DS Flame Rumble Hyper - Moeyo Mirai nds
+Katekyō Hitman Reborn! Battle Arena psp
+Katekyō Hitman Reborn! Battle Arena 2 - Spirits Burst psp
 Kakuto Chojin: Back Alley Brutal Kakutō Chōjin: Fighting Super Heroes xbox
+Katekyō Hitman Reborn! Kindan no Yami no Delta ps2
 Kakutou Hao Densetsu Algunos pce
 Kensei Sacred Fist / bugi ps1
 Keriotosse saturn
-Kinnikuman Colosseum Deathmatch / Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation fc2
-Kinnikuman & Muscle Grand Prix 1/max/2
+Kinnikuman Colosseum Deathmatch fc2 msx
+Ultimate Muscle: the Kinnikuman Legacy: Legends Vs New Generation gcn
+Ultimate Muscle - The Kinnikuman Legacy: The Path of the Superhero gba
+Kinnikuman: The Dream Match gb
+Kinnikuman Nisei: Dream Tag Match ws
 Kinnikuman Muscle Fight 2dfm pc 
-Kirby Battle Royale / kirby fighter 1/2 3ds switch
+Kinnikuman Muscle Generations psp
+Kinnikuman: Muscle Grand Prix arc 2006
+Kinnikuman: Muscle Grand Prix MAX ps2
+Kinnikuman: Muscle Grand Prix 2 arc 2007
+Kinnikuman: Muscle Grand Prix Max 2: Tokumori ps2
+Kirby Battle Royale 3ds
+Kirby Fighters Deluxe 3ds (expanded from the Kirby Triple Deluxe minigame)
+kirby fighters 2 switch
 Knuckle Heads mame
 Kung Fu Chaos xbox
 Kwonho pc
@@ -1036,39 +1095,64 @@ Metal Revolution steam (2022)
 Mighty Fight Federation steam
 Mutant Dna / 뮤턴트 DNA dos
 My Hero Academia: Battle for All bamco shonen steam
-My Hero One’s Justice 1/2 bamco shonen steam
+My Hero One’s Justice 1 steam
+My Hero One’s Justice 2 bamco shonen steam
 Mystic Melee steam owned
 Net Fighter pc (1998 tho)
-Naruto Clash of Ninja 1 / 2 / 3
-Naruto Clash of Ninja 4 / Revolution / Revolution 2
-Naruto Shippuden Gekitou Ninja Taisen Ex 1 / 2 / 3
-Naruto Ultimate Ninja Heroes 1 / 2 / 3
-Naruto Ninja Destiny 1 & 2
-Naruto Ultimate Ninja 1&2
-Naruto Ultimate Ninja 3&4
-Naruto Ultimate Ninja Storm 3
-Naruto Ultimate Ninja 5 / Ninja Destiny 3
-Naruto Ultimate Ninja Storm 1&2
-Naruto Shippuden: Shinobi Rumble!!
-Naruto Shippuden Ultimate Ninja Storm Generations
-Naruto Shippuden Legends: Akatsuki Rising / Ultimate Ninja Heroes 3
-Naruto Shippuden Clash of Ninja Revolution Iii / Gekitou Ninja Taisen Ex
-Naruto Shippuden Ultimate Ninja Storm Revolution / Uns Trilogy / Uns 4 Road to Boruto
+Naruto Shippūden: Clash of Ninja Revolution 3 Wii
+Naruto Shippūden: Gekitō Ninja Taisen! EX Wii	
+Naruto Shippūden: Gekitō Ninja Taisen! EX 2 Wii
+Naruto Shippūden: Gekitō Ninja Taisen! EX 3 Wii
+Naruto Shippūden: Gekitō Ninja Taisen! Special Wii
+Naruto: Clash of Ninja gcn
+Naruto: Clash of Ninja 2 gcn
+Naruto: Clash of Ninja Revolution wii 
+Naruto: Clash of Ninja Revolution 2 wii 
+Naruto: Gekitō Ninja Taisen! 3 gcn 	
+Naruto: Gekitō Ninja Taisen! 4 gcn 
+Naruto Shippūden: Ultimate Ninja 4 ps2
+Naruto Shippūden: Ultimate Ninja 5 ps2 
+Naruto Shippūden: Ultimate Ninja Heroes 3 psp
+Naruto Shippūden: Ultimate Ninja Storm 2 ps3
+Naruto Shippūden: Ultimate Ninja Storm 3 ps3
+Naruto Shippūden: Ultimate Ninja Storm 4 ps4
+Naruto Shippūden: Ultimate Ninja Storm Generations ps3
+Naruto Shippūden: Ultimate Ninja Storm Revolution ps3
+Naruto x Boruto: Ultimate Ninja Storm Connections ps5
+Naruto: Ultimate Ninja ps2
+Naruto: Ultimate Ninja 2 ps2
+Naruto: Ultimate Ninja 3 ps2 
+Naruto: Ultimate Ninja Heroes psp
+Naruto: Ultimate Ninja Heroes 2: The Phantom Fortress psp
+Naruto: Ultimate Ninja Storm ps3 (in Naruto Shippūden: Ultimate Ninja Storm Trilogy/Legacy for ps4, ect)
+Naruto Ninja Destiny 1 nds
+Naruto Shippūden: Ninja Destiny 2 nds
+Naruto Shippūden: Ninja Destiny 3 nds
+Naruto Shippuden: Shinobi Rumble!! nds 
+Naruto: Ninja Council 3 nds
+Naruto Shippūden: Ninja Council 4 nds
+Naruto Shippūden: Naruto vs. Sasuke nds
+Naruto Shippūden 3D: The New Era 3ds
+Naruto Shippuden: Legends: Akatsuki Rising psp
 Neon Genesis Evangelion: Battle Orchestra psp/ps2
 Nitro Royale: Heroines Duels pc
 Nurarihyon no Mago: Hyakki Ryouran Taisen ps3
 Omen of Sorrow steam ps4 2022
-One / One sequel n-gage
-One Piece Gigant Battle 1/2 
-One Piece Gear Spirit
-One Piece Grand Battle 1/2/3
-One Piece Grand Battle Swan 
-One Piece Grand Adventure
-One Piece Grand Battle Rush 
-One Piece Fighting for One Piece
-One Piece Burning Blood
-One Piece: Great Pirate Colosseum 
-One Piece Super Grand Battle X
+One n-gage
+One sequel n-gage
+One Piece Gigant Battle 1 nds 
+One Piece Gigant Battle 2 nds 
+One Piece Gear Spirit nds
+One Piece Grand Battle 1 ps1
+One Piece Grand Battle 2 ps1 
+One Piece Grand Battle 3 gcn ps2 
+One Piece Grand Battle Swan wsc
+One Piece Grand Adventure gcn ps2 
+One Piece Grand Battle Rush gcn ps2 
+One Piece Fighting for One Piece ps2
+One Piece Burning Blood ps4, ect 
+One Piece: Great Pirate Colosseum 3ds
+One Piece Super Grand Battle X 3ds
 One Punch Man: a Hero Nobody Knows
 Onimusha Blade Warriors ps2
 Onna Sanshirou: Typhoon Gal mame
@@ -1080,7 +1164,8 @@ Pocket Rumble steam
 Indie Pogo steam
 The Chaos Gene steam
 Wonderful World pc on miz
-Poypoy 1/2 ps1
+Poypoy 1 ps1 
+poypoy 2 ps1
 Project Cerberus psp
 River City Rival Showdown kunio kun
 robo pit 2 ps1
@@ -1088,7 +1173,8 @@ megaman fighters fc2
 Maiden & spell steam owned
 Rozen Maiden: Gebetgarten ps2
 ALIBAT / Record of Rozen War - Alibat: Anecdote of Alice pc
-Rumble Fish 1/2 fc2
+Rumble Fish 1 fc2 
+Rumble fish 2 fc2
 Rurouni Kenshin -Meiji Kenkaku Romantan- Saisen psp
 Rave Master gcn
 Pretty Fighter ps1
@@ -1098,13 +1184,15 @@ Sengoku Basara 2 heroes ps2
 Senko No Ronde 2 steam (owned)
 Shaman King: Power of Spirit ps2
 Shaman King: Funbari Spirits ps2
-Saint Seiya Omega Ultimate Cosmos
-Saint Seiya: the Sanctuary & the Hades ps2
-Saint Seiya Brave Soldiers / Soldier’s Soul
+Saint Seiya Omega Ultimate Cosmo psp
+Saint Seiya: the Sanctuary ps2
+Saint Seiya: The Hades ps2
+Saint Seiya Brave Soldiers ps3 
+Saint Seiya: Soldier’s Soul ps3/ps4
 Savaki saturn
 Shaolin vs Wutang 2 steam
 Shijyou Saikyou No Deshi Kenichi Gekitou! Ragnarock Hachikengou ps2
-Shonen Jump Jikkyou Janjan Stadium android
+Weekly Shonen Jump Jikkyo Janjan Stadium android
 Shovel Knight Showdown steam
 Silver Knights pc
 Skyscrappers steam owned
@@ -1134,24 +1222,42 @@ The Queen of Hearts '98/'99/2001 pc
 The Seven Deadly Sins ps4 bamco shonen
 A Certain Magical Index psp
 A Certain Magical Virtual-On ps4/vita removed from sale
-Tobal 1/2/3 ps1
+Tobal No. 1 ps1
+Tobal 2 ps1
 Toriko Gourmet Ga Battle 3ds
-Battle Arena Toshinden 1/2/ura/plus/3/4/wii/GB/remix
+Battle Arena Toshinden 1 ps1
+Battle Arena Toshinden 2 ps1
+Battle Arena Toshinden Remix sat
+Battle Arena Toshinden gb
+Battle Arena Toshinden 2 plus ps1
+Battle Arena Toshinden U.R.A URA sat 
+Battle Arena Toshinden 3 ps1 
+Toshinden 4 ps1
+Battle Arena Nitoshinden ps1
+Toshinden wii (reboot)
 Touhou Sky Arena -matsuri- Climax
 Touhou Hisoutensoku
 Touhou Hopeless Masquerade
 touhou Shinpiroku: Urban Legend in Limbo
 Touhou Hisouten ~ Scarlet Weather Rhapsody
 Touhou Kobuto V: Burst Battle
-Original Story From Fairy Tail: Gekitotsu! Kardia Daiseidou / Tv Anime Fairy Tail: Gekitou! Madoushi Kessen nds
+Original Story From Fairy Tail: Gekitotsu! Kardia Daiseidou nds
+Tv Anime Fairy Tail: Gekitou! Madoushi Kessen nds
 Twinkle Queens wii
-Ultraman Fighting Evolution / Fighting Evolution 2 / Zero
-Ultraman Powered / the Ultimate Fighting
-Ultraman: Towards the Future / Ultra Seven
-Mega Monster Battle: Ultra Coliseum Dx: the Gathering of the Ultra Heroes!
-Ultraman: Hikari No Kyojin Densetsu saturn / Fighting Evolution / Hikari No Kuni No Shisha
-Ultraman Fighting Evolution 3 / Nexus / Rebirth
-Ultraman Tiga & Ultraman Dyna: Aratanaru Futatsu no Hikari ps1
+Ultraman Fighting Evolution ps1 
+Ultraman Fighting Evolution 2 ps2 
+Ultraman Fighting Evolution 3 ps2 
+Ultraman Fighting Evolution Rebirth ps2 
+Ultraman Fighting Evolution 0 psp 
+Ultraman Powered 3do
+Ultraman The Ultimate Fighting pc
+Ultraman: Towards the Future arc/snes/gen (called Ultraman Kuusou Tokusatsu on arcade)
+Ultraseven snes
+Mega Monster Battle: Ultra Coliseum Dx: the Gathering of the Ultra Heroes! wii
+Ultraman: Hikari No Kyojin Densetsu saturn (Ultraman: Legendary Giant of Light)
+Ultraman: Hikari no Kuni no Shisha wsc 
+Ultraman Nexus ps2 (beat em up?)
+Ultraman Tiga & Ultraman Dyna: Aratanaru Futatsu no Hikari/Ultraman Tiga & Ultraman Dyna: New Generations ps1
 Ultra Vortek jaguar
 Unholy Night: The Darkness Hunter snes (2017 game wtf)
 Urban Reign ps2
@@ -1161,19 +1267,29 @@ War of the Monsters ps2
 Wu-tang: Shaolin Style ps1
 Xena Warrior Princess: the Talisman of Fate n64
 Xuan Dou Zhi Wang pc
-X-men Mutant Academy 1/2 ps1
-Yatagarasu steam
-Yu Yu Hakusho: Dark Tournament
-Yu Yu Hakusho: Sunset Riders / Dai 4 Tama: Makai Touitsu
-Yu Yu Hakusho / Bakutou Ankoku Bujutsu Kai / Ii
-Yu Yu Hakusho Forever & Tokubetsu Hen
-Yu Yu Hakusho & Yu Yu Hakusho Final
-Yu Yu Hakusho Dai Ni Tama & Kakutou No Shou
+X-men Mutant Academy 1 ps1 
+X-men Mutant Academy 2 ps1
+Yatagarasu steam (rerelease looks like a new version not a sequel)
+Yu Yu Hakusho: Dark Tournament ps2 
+Yu Yu Hakusho: Sunset Riders gen 
+Yu Yu Hakusho Dai-Yon-Dan gb
+Yū Yū Hakusho: Bakutō Ankoku Bujutsu Kai nes 
+Yū Yū Hakusho snes 
+Yū Yū Hakusho 2: Kakutō no Sho snes 
+Yū Yū Hakusho II: Gekitou! Shichi Kyō no Tatakai gg 
+Yū Yū Hakusho 3do
+Yū Yū Hakusho Final: Makai Saikyō Retsuden snes
+Yū Yū Hakusho Forever ps2
 Ys Vs. Sora No Kiseki: Alternative Saga / Ys vs. Trails in the Sky psp
-Zatchbell: Yuujou No Zakeru Dream Tag Tournament / Go! Go! Mamono Fight!!
-Zatchbell: Mamodo Battles & Mamodo Fury
-Zatchbell: Electric Arena 1&2
-Zatchbell: Yuujou Tag Battle & Full Power
+Konjiki no Gash Bell!! Unare! Yūjō no Zakeru Dream Tag Tournament gba (zatchbell)
+Konjiki no Gash Bell!! Go! Go! Mamono Fight!! ps2 (zatchbell)
+Zatch Bell! Electric Arena / Konjiki no Gash Bell!! Unare! Yūjō no Zakeru gba 
+Zatch Bell! Electric Arena 2  / Konjiki no Gash Bell!! Unare! Yūjō no Zakeru 2 gba 
+Konjiki no Gash Bell!! Yūjō Tag Battle ps2 (zatchbell)
+Konjiki no Gash Bell!! Yūjō Tag Battle Full Power gcn (zatchbell)
+Zatch Bell! Mamodo Fury / Konjiki no Gash Bell!! Gekitō! Saikyō no Mamono-tachi ps2/gcn 
+Zatch Bell! Mamodo Battles / Konjiki no Gash Bell!! Yūjō Tag Battle 2 ps2 gcn 
+Konjiki no Gash Bell!! Go! Go! Mamono Fight!!  (zatchbell) ps2 gcn 
 Antagony dos pc
 Armed Fighter ps1
 Asura Cross android
@@ -1226,7 +1342,7 @@ Drawfighters ps4
 Dual Heroes n64
 D-xhird saturn
 Elfmania amiga
-Shaolin Campus Kings dos
+Shaolin Campus Kings dos 1997
 Expect No Mercy pc
 Fatal Impact amiga
 Fighter amiga
@@ -1259,13 +1375,14 @@ Highlander c64/cpc
 Shanghai Kid / Hokuha Syourin Hiryū no Ken arcade
 Virtual Hiryū no Ken ps1
 Hiryū no Ken Retsuden GB gbc
-Fist of the North Star / Hokuto No Ken 6/7 fc2
+Fist of the North Star / Hokuto No Ken 6 snes fc2 
+Hokuto No Ken 7 snes fc2
 Hokuto No Ken Raoh Gaiden psp
 Hokuto no Ken: Seiki Matsukyu Seishi Densetsu ps1
 Holosseum mame
 BEAT DOWN FIST OF VENGEANCE PS2
-Hyper Reverthion / Koutetsu Reiki: Steeldom saturn/ps1 (2 games, 2nd sequel)
-Reverthion ps1
+Hyper Reverthion / Reverthion sat / ps1
+Koutetsu Reiki: Steeldom sat
 Imkkeokjeong pc
 Jotei Senki series x68k
 Ka-ge-ki fists of steel gen fc2
@@ -1274,7 +1391,10 @@ Kamen No Maid Guy: Boyoyon Battle Royale psp
 Karate Phants: Gloves of Glory wii
 Karou Densetsu Honban x68k
 Katana Action; The Bushido; Simple 2000 Series Vol. 28: The Bushido - Tujigiri Ichidai ps2
-Kengo / sword of the samurai series https://en.wikipedia.org/wiki/Kengo
+Kengo: Master of Bushido ps2 
+Sword of the Samurai / Kengo 2 ps2
+Kengo 3 ps2
+Kengo Zero 360
 Kiai Resonance steam owned
 Kickbox Vigilante spectrum
 Ninja Hamster spectrum
@@ -1282,9 +1402,11 @@ Sai Combat spectrum
 Samurai Trilogy spectrum
 Killing Zone ps1
 Kin Yeo Fighting pc 1995
-Kombate Mexicano X / 1 / 2 pc
+Kombate Mexicano X pc 
+Kombate Mexicano 1 pc
+Kombate Mexicano 2 pc
 Deadly Tournament pc
-Desembarcament pc
+Desembarcament pc https://desembarcamentrevival.itch.io/desembarcament-el-videojoc
 Ninja Warrior Genesis pc
 Kabuki Warriors xbox
 Long Life c64
@@ -1323,7 +1445,8 @@ I Ludicrus atari st
 The Ultimate Arena atari st
 Swashbuckler fm-7
 Istanbul Beyleri pc https://archive.org/details/istanbul-beyleri
-Shrek Super Slam / Fairy Tale Freakdown
+Shrek SuperSlam xbox ps2 gcn nds gba  
+Shrek Fairy Tale Freakdown gbc
 Skorecery ps4
 Slam Dragon ps1 post round supers count 
 Small Arms xblig
@@ -1358,7 +1481,8 @@ Master's Fury arcade
 Thrill Kill ps1
 Time Killers fc2
 Time Warriors dos
-Tom and Jerry: War of the Whiskers / Fists of Furry ps2/gcn, n64
+Tom and Jerry: War of the Whiskers ps2 gcn 
+Tom and Jerry in Fists of Furry n64 pc 
 Tongue of the Fatman dos
 Tournament of Legends wii
 Tournament of Warriors dos
@@ -1397,14 +1521,16 @@ Hyper 3D Taisen Battle Gebockers saturn
 Vatlva saturn
 Zero ps1 (net yaroze)
 stonegate ps1 net yaroze
-tokui waza 1/2 net yaroze ps1
+tokui waza 1 net yaroze ps1
+tokui waza 2 net yaroze ps1
 stars wars ps1 net yaroze
-psychic duel 1/2 ps1 net yarose
+psychic duel 1 ps1 net yaroze
+Psychic duel 2 ps1 net yarose
 hipoweer battlers ps1 net yaroze
 Imp windows Idol FX
 X men Hyperscan 
 Interstellar Wrestling League Hyperscan
-GigaBash ps4/5
+GigaBash ps4/ps5
 DragonBlast SE PC
 Kokoro Ultimate steam
 Pixel Game Maker Series KINGDOM FIGHTER switch
@@ -1427,8 +1553,16 @@ Funky Head Boxers Plus saturn
 Rock'n Wrestle c64
 André Panza Kick Boxing dos
 Foes of Ali 3DO
-Knockout Kings 99-2003 EA sports
-Fight Night 2004, Round 2, Round 3, Round 4, Champion EA sports
+Knockout Kings 99 ps1
+Knockout Kings 2000 ps1 n64 
+Knockout Kings 2001 ps1 ps2
+Knockout Kings 2002 ps2 xbox
+Knockout Kings 2003 gcn
+Fight Night 2004 ps2 xbox 
+Fight Night Round 2 ps2 xbox gcn 
+Fight Night Round 3 ps2 xbox 
+Fight Night Round 4 360 ps3 
+Fight Night Champion 360 ps3 ios 
 Panzer Bandits ps1
 Creep Clash dos
 Champion Boxing SG-1000
@@ -1442,13 +1576,15 @@ Konami's Boxing msx
 Low Blow dos
 Pro Boxing Simulator amiga
 Best Bout Boxing arcade
-All Star Pro-Wrestling I/II/III ps2
+All Star Pro-Wrestling I ps2
+All Star Pro-Wrestling II ps2
+All Star Pro-Wrestling III ps2
 Ape Escape: Pumped & Primed ps2
 Ashita no Joe: Masshiro ni Moe Tsukiro ps2
 Backyard Wrestling: Don't Try This at Home ps2
 Backyard Wrestling 2: There Goes the Neighborhood ps2
 Barbarian / Warrior Blade: Rastan vs. Barbarian ps2
-The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% ps2
+The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai! 120% (The Battle of Yū Yū Hakusho: Shitō! Ankoku Bujutsu Kai on arcade) ps2
 Boxing Champions / Simple 2000 Series Vol. 7: The Boxing - Real First Fighter ps2 
 Simple 1500 Series Vol 32: The Boxing / All Star Boxing / Boxing ps1
 Clan of Champions PS3/Steam
@@ -1456,16 +1592,23 @@ Erementar Gerad: Matoe, Suifuu no Tsurugi ps2
 Erementar Gerad: Matoe, Suifu no Ken ps2
 Fightbox ps2
 Galactic Wrestling: Featuring Ultimate Muscle ps2
-Hajime no Ippo Victorious Boxers / 2 ps2
+Hajime no Ippo Victorious Boxers ps2 
+Hajime no Ippo Victorious Boxers 2 ps2
 Heartbeat boxing / Simple 2000 Series Ultimate Vol. 6 Love * Upper! ps2
 Jikuu Bouken Zentrix ps2
 K.O. King ps2
 K-1 Premium 2004 Dynamite! ps2
-K-1 World Grand Prix / 2001 / 2003 / GP 2005 / GP 2006 / The Beast Attack! / max 2005 ps1 ps2
-King of Colosseum / II ps2
+K-1 World Grand Prix ps2 ps1
+K-1 World Grand Prix 2001 ps2
+K-1 World Grand Prix 2003 ps2
+K-1 World Grand Prix: The Beast Attack! ps2
+K-1 World max 2005 ps2
+King of Colosseum ps2
+King of Colosseum II ps2
 Konjiku no Gash Bell: Yuujou Tag Battle ps2
 Konjiku no Gash Bell!! Go! Go! Mamono Fight!! ps2
-Legends of Wrestling /II ps2
+Legends of Wrestling ps2
+Legends of Wrestling II ps2
 Legendz Gekitou! Saga Battle ps2
 Mar Heaven: Arm Fight Dream ps2
 Mike Tyson Heavyweight ps2
@@ -1476,7 +1619,8 @@ Online Pro Wrestling ps2
 Power Fighters ps2 Simple 2000 Series Vol. 60: The Tokusatsu Henshin Hero
 Pride FC: Fighting Championships ps2
 PrideGP Grand Prix ps2
-Ready 2 Rumble Boxing 1 / round 2 ps1 ps2
+Ready 2 Rumble Boxing 1 ps1 dc n64 gbc  
+Ready 2 Rumble Boxing round 2 ps2 dc n64 ps1 gba 
 Robot Wars: Arenas of Destruction ps2
 Rocky ps2/gcn
 Rocky Legends ps2
@@ -1493,9 +1637,16 @@ Wrath Unleashed ps2
 Wrestle Kingdom / 2: Pro Wrestling Sekai Taisen ps2
 WWC: World Wrestling Championship ps2
 WWE All Stars ps2
-WWE Smackdown vs. Raw 2007/2008/2009/2010/2011/Superstar Series ps2
-WWE Smackdown vs. Raw! / 2006 ps2
-WWE Smackdown! Here Comes the Pain / Shut Your Mouth ps2
+WWE Smackdown vs. Raw 2007 ps2 360
+WWE Smackdown vs. Raw 2008 nds ps2 wii 360
+WWE Smackdown vs. Raw 2009 nds ps2 ps3 wii 360
+WWE Smackdown vs. Raw 2010 nds ps2 ps3 ect 
+WWE Smackdown vs. Raw 2011 ps2 ps3 ect
+WWE Smackdown vs. Raw Superstar Series ps2
+WWE Smackdown vs. Raw! ps2
+WWE Smackdown vs. Raw! 2006 ps2
+WWE Smackdown! Here Comes the Pain ps2 
+WWE SmackDown! Shut Your Mouth Shut Your Mouth ps2
 WWF Smackdown! Just Bring It ps2
 X-men: Next Dimension ps2
 Zoids Infinity Fuzors ps2
@@ -1529,7 +1680,7 @@ Evolver steam
 Beatdown Dungeon / demon day itch
 VRast! https://rc-cobalt.itch.io/vrast-vrm-fighting-game
 Family Battle steam
-Diskophoros itch
+Diskophoros itch https://nmaehlmann.itch.io/diskophoros
 Exploding Judo Federation itch
 Smash Bash 2 itch
 Smack Studio steam
@@ -1538,7 +1689,7 @@ Dashwalk Dueling steam
 Kronian Titans itch
 Mutant Karate Canary steam
 Table Fighter Fighter itch
-Bearsus itch
+Bearsus itch https://arfgames.itch.io/bearsus
 Rurikougen pc http://rurikougen.web.fc2.com/
 Merfight steam
 Robo-Metal pc discord???
@@ -1550,7 +1701,7 @@ Vecho Fights itch
 Clash of the Metal steam
 52 beatup itch
 Blindsight itch 
-Angels of Battle itch
+Angels of Battle itch https://bvtaisei.itch.io/angels-of-battle
 MindArms pc https://archive.org/details/mind-arms-076
 Fight for Vengeance gen 2021 fc2
 The cute fighter steam ufe flip https://store.steampowered.com/app/2016290/The_Cute_Fighter/
@@ -1592,7 +1743,7 @@ Dragon Ball Z: The Legend / Dragon Ball Z: Idainaru Dragon Ball Densetsu
 Center Ring Boxing / Victory Boxing / King of Boxing saturn
 Victory Boxing Champion Edition / Kensei: The King of Boxing ps1
 Blast Chamber saturn
-Bishōjo Senshi Sailor Moon SuperS: Shin Shuyaku Sōdatsusen saturn / ps1
+Bishōjo Senshi Sailor Moon SuperS: Shin Shuyaku Sōdatsusen sat / ps1
 All Japan Pro Wrestling Featuring Virtua saturn
 Gundam: Battle Assault 3 Featuring Gundam SEED ps2 
 SD Gundam Force: Showdown! ps2 
@@ -1604,7 +1755,6 @@ Contender / Victory Boxing Challenger / Victory Boxing ps1
 Croket! Kindan no Kinka Box ps1
 Cyber Egg: Battle Champion ps1
 damdam stompland ps1
-Dragon Ball GT: Final Bout ps1
 ECW Anarchy Rulz ps1
 ECW Hardcore Revolution ps1
 Funky Boxers ps1
@@ -1686,7 +1836,7 @@ History Warriors steam UFGE asset flip
 SABAT Fight Arena steam UFGE asset flip
 Kandidatos steam UFGE asset flip
 Legends Battle steam UFGE asset flip
-Gwigyeon / 귀견 IBM PC korean
+Gwigyeon / 귀견 IBM PC korean 1997
 Real Fighter / 리얼파이터 dos
 Blood on the Floor dos https://archive.org/details/msdos_Blood_on_the_Floor_1997
 The Gate of Destiny / 귀천도 / Gwicheondo dos
@@ -1933,7 +2083,6 @@ Yīngxióng Chuán 英雄传 Kung-Fu Legend nes bootleg
 Yūgekitai Bangai-hen: Jigoku no Dopplegänger pc98 
 Yūgekitai Bangai-hen: Rekkyō Kara no Raihō-sha pc98 
 Yūgekitai Kakuto-hen 1 pc98 
-Yu Yu Hakusho Dai-Yon-Dan gb
 Zettai Muteki Raijin-Oh gb 
 Zhēn Běn Xī Yóu Jì nes  
 Zoids Wild switch 
@@ -1942,3 +2091,39 @@ Zangefool fighter 20xx pc
 Monstroscopy steam
 Monster's inc. scream arena gcn 
 robo wres 2001 arcade/others
+Bullfight Ring no Hasha/Champion of the Bullfight Ring PCE/TGX 
+double fighter / duel fighter pc 2001
+Caesars World of Boxing cdi
+Arcus Chroma itch/steam
+Jojo's Bizzare Adventure: Last Stand https://tyci.itch.io/jojo
+super tilt bro https://sgadrat.itch.io/super-tilt-bro
+flat form fighter https://j-a-i-l.itch.io/fff
+mezzer https://danieldavis.itch.io/mezzer
+FROG SMASHERS https://raithza.itch.io/frogsmashers
+Double Turn https://inwave.itch.io/double-turn
+Among us arena https://starcutter.itch.io/among-us-arena (old ver https://starcutter.itch.io/among-us-arena-archive )
+Kakatte Koi Yo! https://back-slash-games.itch.io/kakatte-koi-yo
+Small Armor https://fromsmiling.itch.io/small-armor
+Disk Mayhem https://uwu-ltd.itch.io/disk-mayhem
+Rebop Blasters https://dean-sick.itch.io/rebop-blasters
+foiled https://gabecuzzillo.itch.io/foiled
+SHINKENDO https://r-nikaido.itch.io/shinkendo
+Combat Jr https://interdimensional.itch.io/combatjr
+Drunkken https://sixrobin.itch.io/drunkken
+CHOPSQUARES ZERO https://fromsmiling.itch.io/chopsquares
+Mini Mortal Kombat (fan game) https://burningout.itch.io/mini-mortal-kombat
+Rage https://cbgamedev.itch.io/rage
+nothog https://rarelikeaunicorn.itch.io/nothog
+the world is hostile https://owch.itch.io/twih
+homstuck strife project https://wiiuski.itch.io/strife-project
+Gravity Breakers https://gremlin-ent.itch.io/gravitybreakers
+Starship Olympics https://notapixel.itch.io/starship-olympics
+MONSTRO GIGANTO https://pirates-of-zanzibar.itch.io/monstro-giganto
+PARRY itch https://beetbeetgaming.itch.io/parry
+Astral Knock Out https://lightningopal.itch.io/astral-knock-out
+SEGA Master System Brawl https://bonaf.itch.io/master-system-brawl
+chop itch switch https://claws-up-games.itch.io/chop
+KnifeHeart https://andrew-petersell.itch.io/knifeheart
+fencing itch https://sweaters.itch.io/fencing
+arms 64 https://kurnic.itch.io/arms-64
+On The Rocks https://goldstarstickrs.itch.io/ontherocks
