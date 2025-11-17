@@ -1,7 +1,7 @@
 All fighting game quest
-(76 lines of not definitely fighting games, 170 lines extra total, 2015 fighting games)
+(76 lines of not definitely fighting games, 170 lines extra total, 2017 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (633):
+Played (636):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -67,7 +67,7 @@ BlayzBloo: Super Melee Brawlers Battle Royale =- dsiware TODO lab more
 BlazBlue: Clone Phantasma =- 3ds TODO lab more 
 breakers =- fc, p much a worse version of 2
 Breakers Revenge =- fc breakering, Sho j2D, 214kkk dp, PP cancelable overhead, 214c+k throw dp os, 646p damage
-SNK vs. Capcom: The Match of the Millennium =- ngpc/switch/steam TODO lab more
+SNK vs. Capcom: The Match of the Millennium =- ngpc/switch/steam TODO lab more, ken 2lp6hk infinite in rush?
 SNK vs. Capcom: SVC Chaos =- fc TODO lab more
 Capcom Vs. SNK 1 =- fc TODO lab more, Nak good, Guile good?
 Capcom vs. SNK Pro =- fc ps1 TODO lab more
@@ -578,7 +578,7 @@ Kageki =- fc game over > 2p start to pvp for the credit. L+H (hold okay) to duck
 Mighty Warriors =- fc Mc-Datho 2nd last, P1's w2L unblk. Eteocles (3rd last) has mid fb, no OHs, no throws until unarmed, everything does chip, 236H fbs done in 6-8f skips startup, meaty = unblk, LHK to swap out.
 Critical Blow =- ps1 berserker 4p 66 inf vs stand, 4p 6p236p, oh[6]k 66 jk 4p236p, fast oh 4k(2)236p 236p, 2k236p low, A+P/K i2 throw no techs, 236236P super. Everything is unsafe if close, dash 4p/ect to punish
 Genei Tougi: Shadow Struggle =- ps1 no whiff throws (A+P). Niel (PK/6K)214A dl PK 28A 62P, 624P (cmd grab) 9P 6P28A 62P, ioh 9P 624P 6P28A 62P, 214A safe low. Reymond (PK/[4]K)46A K46A PK 624K 6 8P ToD
-Mizuki Shigeru no Yokai Butouden =- ps1 scythe weasle, 96X ioh, 2HK low, 5HP28HK combos, 426HP fb, HP+HK throw
+Mizuki Shigeru no Yokai Butouden =- ps1 scythe weasel, 96X ioh, 2HK low, 5HP28HK combos, 426HP fb, HP+HK throw
 Ninku: Tsuyokina Yatsura no Daigekitotsu! =- sat 64/46L throw, blonde guy j236X fb, 22L/M fb, 22H super, 66M/5M
 Hana No Keiji: Kumo No Kanata =- snes fc 1st guy 236X cmd grab, blocking sucks, 236X otg loop in corner
 Sokko Seitokai: Sonic Council =- sat Rika 2lk5mp2hp/236pp low, tkj214p ioh. Great game
@@ -635,7 +635,10 @@ Nickelodeon All-Star Brawl =- forgot this game existed for a bit. Leo stuff
 Yu Yu Hakusho Dai-Ni-Dan =- gb Dai 2 Dan samurai 2k(1) unblk as p2, red hair 2p same, loops, p1 old lady best 66k 5k unblk. 64p throw, some wakeup invuln. Kuwabara 426P funny
 Advanced Dungeons & Dragons: Iron & blood: Warriors of Ravenlost =- ps1 3rd guy bottom row, 8q debuff, 8x oh, 2x good low, 8x+o unblk summon, q+x t+o rune trap. no throws
 Brutal: Paws of Fury =- fc gen/snes same, chester cheetah mash 236
-Super Chinese Fighter =- fc jiang shi dude first 3 specials, 46L ce bison, 236y super. old man 1 3 5 specials, 426Z stun fb, j624Z air fb, 214H reflect, 236236H laser, LLLL auto combo
+Super Chinese Fighter =- fc snes jiang shi dude first 3 specials, 46L ce bison, 236y super. old man 1 3 5 specials, 426Z stun fb, j624Z air fb, 214H reflect, 236236H laser, LLLL auto combo
+Kokon Eiyuu Den - The Ancient & Modern Heros (unl) =- nes far right j3K unblockable loops
+D-xhird =- sat Saotome vs cr 6LK LPLPLPHP, 256P, 2+K launcher 6HP, 3HK wait 8LP, 4LP+LK (throw) 8LP, 624PP GDR
+Fighting EX Layer =- ps4/steam ddark stuff still works I guess
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -801,7 +804,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1392):
+Unplayed (1391):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -1054,7 +1057,6 @@ Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighting Layer mame
-Fighting EX Layer ps4/steam
 Fighting Vipers 2 fc2
 Flame of Recca: Final Burning ps2
 Flash Hiders pce and tgfx, 
@@ -1397,7 +1399,7 @@ Catfight dos
 Forza Infernis xbox android
 Zombie Smashers X4: Guitarpocalypse xb360
 Colosseum xblig
-Criticom ps1/saturn
+Criticom ps1/sat
 Cyber Gladiators pc (1995)
 Powerup Heroes xb360
 Tokyo 2029 a.d. xb360
@@ -1406,7 +1408,6 @@ Dark Presence in dev unreleased arcade game
 Kung-fu Live ps3
 Drawfighters ps4
 Dual Heroes n64
-D-xhird saturn
 Elfmania amiga
 Shaolin Campus Kings dos 1997
 Expect No Mercy pc
@@ -2193,3 +2194,4 @@ KnifeHeart https://andrew-petersell.itch.io/knifeheart
 fencing itch https://sweaters.itch.io/fencing
 arms 64 https://kurnic.itch.io/arms-64
 On The Rocks https://goldstarstickrs.itch.io/ontherocks
+Amir Fighting ps5/steam 
