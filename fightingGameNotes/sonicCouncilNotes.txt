@@ -11,15 +11,17 @@ Scaling is wack, see below
 screen scrolls slowly, when you reach the edge pushback acts like it is the corner
 the first move in a combo can have different pushback than the same move would in a combo
 backdashes have iframes
-no extra throw invuln on wakeup or after hit/blockstun, but you get it during while those are happening
+no extra throw invuln on neutral wakeup or after hit/blockstun, but you get it during while those are happening
 almost everything forces a frame of wait on the frame you return to a neutral state
-on wakeup you can bypass that wait with a special move (not on air recovery/ect, not with backdashes)
+on neutral wakeup you can bypass that wait with a special move (not on air recovery/ect, not with backdashes)
+2 frames of throw invincible forced wait frames on roll wakeups, can block during them (also has a wait frame)
 p2 wins on same frame throws (including cmd grabs)
 normal throws are i1, but they don't work as reversals due to the forced wait frame 
 a lot of moves are the same advantage on hit and block, it isn't universal to all hitstun types though
 characters reel during hitstun which can cause whiffs, especially for lows when back turned
 air flip out seems to have 9 frames of juggleable hitstun universally
 in a juggle state the standard air hit seems to have 7 frames of juggleable hitstun universally
+air blockstun also takes 7 frames to become invincible
 Stun is on almost everything, takes 800ish units to stun, see health/stun table below. 
 mashing out of stun is a thing 
 you can only be stunned once in a round
@@ -47,6 +49,8 @@ frame data spreadsheet https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhX
 there are regular throw loops against everyone without a special move reversal as everyone who can chase rolls
 prejump is not throw invuln
 round start has no buffer, not even for motions
+dash stop seems like 8 frames of recovery universally (both 4 and 2 stops)
+
 
 Getup stuff:
 face down is (rika 2hp, 0 is +45):
@@ -150,6 +154,7 @@ mash p requires 4x of the same p input to trigger with no other buttons between 
 623hp xx 263kk cancel window is 5f (+8f of a buffer window, so 13f total leniency)
 for some reason 263kk uses a hitbox then a throw box, but the throw box seems to hit always?
 meaty 263kk real on no reversal characters
+6hp does 400 stun 
 
 Traitor Ai
 Same as Ai mostly, except:
@@ -182,9 +187,11 @@ vs standing 2lk5mk5hp5hk236lp, 200ish damage
 
 Shibata
 236hp is banned
-236hp is +8 on block and +1 on gc roll, it is also the highest damage meterless move in the game 
-2mp2hp works on standing hit
-crn 2lk2mp2hp214lp 236lp 300?
+236hp is +8 on block and +1 on gc roll, it is also the 2nd highest damage meterless move in the game 
+(8+152, only higher is Kato's 624hp command grab at 184)
+2mp2hp works on standing hit and crouching, 2mk2hp is crouch only
+2lk2mp2hp214mp 236lp 254 (character specific?)
+crn 2lk2mp2hp214lp 236lp 254
 huge range on hp throw
 can throw loop with p throw (high falling) 9hk 6hp, frame perfect timing to have the throw be inescapable
 
@@ -203,51 +210,16 @@ Fastest punish (other than normal throw, also counting the forced wait frame)
 
 Frame data from lua script:
 https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?gid=615270258#gid=615270258
-Meter updates 1f before hit reactions, all startup may be 1 more than it really is
-all grounded recovery forces one frame of neutral (or neutral crouch) at the end (you can block in this)
 animations play 2f after the game logic updates
-dash takes 5f before it can attack (this is not included in the startup)
 jumpsquat is 2f+1f wait, +1 more for tk specials
 
 Ishida
 move startup onhit onblock
-lp 3 3 3
-lk 3 3 3
-mp 7 -2 -2
-mk 6 -5 -5
-hp 15 9 9
-hk 11 -1 -1
-2lp 3 1 2
-2lk 5 2 3
-2mp 5 3 3
-2mk 8 0 -6
-2hp 7 0 0
-2hk 6 kdfd -10
-4mk 7 1 1
-6mk 11 -1 -1
-6hk 29 8 0
-66 4f (+1 for instant dash attacks)
-66lp 4 -1 -1 (can whiff 1st active behind skinny characters)
-66lk 3 -1 -1 (same issue as 66lp)
-66mp 8 -1 -1
-66mk 6 -3 -3
-66hp 9 kdfu -16
-66hk 15 j -11
-236lk 9 -3 -3
-236mk 11 kdfd -4
-236hk 41 6 6
-(jumpsquat = 2f +1 wait)
-j236lk 9 2 2
-j236mk 11 kdfd -8
-j236hk 17 15 15 (lowest height +9 due to bug)
-214pp 3+1 kdfd -10
-j214pp 3+1 kdfd -13 (idk if lowest height tbh)
-623kk 3+10 kd -28 (vs crouching kato)
-214k idk idk idk (counter isn't i1, the attack part is i1 though. 51/68/80 total on whiff)
-44 24 total, 1-16 invuln
-
-crouching hitstun:
-https://docs.google.com/spreadsheets/d/1wBhuhJMCrX1iMZBhXbhkfevynueO_iShj7ptp2grFf8/edit?usp=sharing
+66lp (can whiff 1st active behind skinny characters)
+66lk (same issue as 66lp)
+j236hk (lowest height +9 due to bug)
+214k (counter isn't i1, the attack part is i1 though. 51/68/80 total on whiff)
+backdash is 24 total, 1-16 invuln
 
 Ram watch (mednafen, alt+D alt+4 shift+left until high work ram, enter to search for address)
 high work ram: 
@@ -259,7 +231,6 @@ high work ram:
 0xdba98 p1 stun health
 0xdbbd2 p2 stun
 0xdbbd4 p2 stun health
-
 
 bar is 800 units to fill 1 bar
 
@@ -277,86 +248,7 @@ Kumiko 850, 900
 Shibata 1000, 950
 
 
-Damage:
-ishida 
-lk 12
-lp 18
-mp 36
-mk 36
-hp 54
-hk 72
-2lp 18
-2lk 12
-2mp 36
-2mk 36
-2hp 54
-2hk 54
-6hk 48
-66lk 18
-236lk 40
-236mk 40
-236hk 40
-j236hk 40
-66hk 48
-
-kato
-66lp 30
-66lk 30
-66mp 58
-66mk 58
-66hp 86
-
-ai 
-lp 26
-hp 100
-hk 84
-2hp 48,52
-66hp 64
-
-naoko 
-lp 22 
-2mp 40
-
-rika 
-2lk = 24
-5lk = 24
-mp = 48
-mk = 48
-2mk = 48
-2mp = 24
-2hp = 72
-hk = 2,70
-hp = 72
-2hk = 20,35
-6mp = 0
-jlp = 20
-jmp = 44
-jhp = 68
-jlk = 20
-jmk = 44
-jhk = 68
-rjlp = 24
-rjmp = 80
-rjhp = 40
-rjlk = 24
-rjmk = 48
-rjhk = 72
-66lp = 20
-66lk = 24
-66mp = 50
-66mk = 50
-66hp = 72
-66hk = 30,40
-236lp = 72
-236mp = 72
-236hp = 100
-623lp = 120
-623mp = 40*3
-623hp = 20*6,50
-j214p = 128
-236pp = 24*9
-236kk = 160*2
-mp/hp throw = 100
-mk/hk throw = 80
-28-2hk = 50
-
+esoteric weird stuff:
+TAi 263kk can hit TAi the frame after Ishida's (j)214PP hits, if Ishida KOs TAi after she recovers it softlocks
+Works with all self hitting attacks (Naoko 236KK, TAi 236K/263KK/236KK)
+If you fill the input history table by mashing 312 then the game will crash if you buffer a move
