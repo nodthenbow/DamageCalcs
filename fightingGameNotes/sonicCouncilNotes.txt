@@ -50,6 +50,13 @@ there are regular throw loops against everyone without a special move reversal a
 prejump is not throw invuln
 round start has no buffer, not even for motions
 dash stop seems like 8 frames of recovery universally (both 4 and 2 stops)
+hits gain bar equal to unscaled damage
+blocked hits gain half the unscaled damage in bar (not chip damage)
+getting hit gains you twice the unscaled damage in bar
+blocking gains you 25 meter (doesn't matter what move is blocked, it's 25 per hit blocked)
+chip damage is 1/8th of regular damage rounded down
+on whiff/startup lights gain 12 bar, mediums 48, heavies 72, specials 128 
+normal throws also gain the bar from normal button used (ex: a mp throw gains 48 + 2x unscaled damage on hit)
 
 
 Getup stuff:
@@ -190,13 +197,13 @@ Shibata
 236hp is +8 on block and +1 on gc roll, it is also the 2nd highest damage meterless move in the game 
 (8+152, only higher is Kato's 624hp command grab at 184)
 2mp2hp works on standing hit and crouching, 2mk2hp is crouch only
-2lk2mp2hp214mp 236lp 254 (character specific?)
+2lk2mp2hp214mp 236lp 254 (drops on mika)
 crn 2lk2mp2hp214lp 236lp 254
 huge range on hp throw
 can throw loop with p throw (high falling) 9hk 6hp, frame perfect timing to have the throw be inescapable
 
 Kumiko
-5lp xx 426pp is guaranteed unless then gc roll
+5lp xx 426pp is guaranteed unless they gc roll
 66lp-lk2mp2mk426lk 6 5hp 257
 5lk2mk426hk 6 5hp 221
 5lk 2mp426hk 6 5hp 246
