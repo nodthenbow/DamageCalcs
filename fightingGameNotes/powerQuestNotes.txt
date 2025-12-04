@@ -1,0 +1,249 @@
+Power Quest for GBC
+Move List / Strategy
+
+
+Notation:
+Assume facing right
+L = B
+H = A
+X = L or H
+(B sometimes gets confused for back, so because they function as light and heavy I'll use those letters instead) 
+789 = ub u uf
+456 =  b n f
+123 = db d df
+I will be using numpad notation, so just pretend you have s number pad overlayed
+on top of your dpad (or stick), so 4 is back (left when on p1 side, right on p2
+side), 6 is forwards, 2 is down, and so on. 
+
+
+
+How to read this guide:
+When a move is ###oh, that is referring to what it is on hit, ###ob is on block
++oh means it is a bit plus on hit (your character can act a bit before the opponent's if your character landed the hit)
+++oh means it is very plus (enough to be able to combo another move after as a link, provided you are close enough)
+The same applies to ###ob, except they will be blocking
+0oh/0ob means you and your opponent are able to act on the same frame
+KNDoh means that the move knocks down on hit
+JGLoh means that the move launches the opponent in the air on hit, letting you juggle if you have time
+Low in the notes means it must be blocked crouching
+Overhead means it must be blocked standing
+Crossup means it can hit behind the character (only noted for forwards jumping moves)
+Cancel means you can cancel the move (skip the recover of the move) into a special or super
+Chain means you can cancel the move into any move with the chain property
+Bnb means bread and butter combo, aka a consistent combo that you can hitconfirm
+Moves that JGL/KND often do that on air hit as well, others cause a flip out unless otherwise noted.
+
+
+
+Notes on the game:
+Damage is either slightly randomized or the health bars aren't consistent (or both).
+The health and meter are measured more precisely than the bars show.
+Stuns exist, you can shake out of them with directions and buttons.
+There are no diagonals required in special motions and there are no charge motions.
+Throws are on 4/6H. There is no way to tech or soften them. They all hit on frame 1.
+There is no throw invuln after blockstun/hitstun or after wakeup.
+Prejump is not throw invuln.
+P1 seems to win throws if they are done on the same frame.
+Moves seem to be +1 frame better on block than they are on hit unless they launch (JGL) or knockdown (KDN).
+Some moves that JGL are not advantaged enough to juggle after.
+Guard cancels that use normal move animations aren't cancelable, but the frame data seems unchanged. 
+Guard cancels also cost a bar to use.
+Supers don't seem to be invuln.
+Whoever has more health wins the round in a timeout.
+If health is tied the round is restarted with no one winning it.
+The game lags fairly often.
+Specials universally gain bar on whiff.
+You do not gain bar for getting hit or blocking, only from using specials and landing hits.
+You can negative edge specials.
+Juggles have a limit of 3 hits (including the launcher), supers can bypass this limit.
+When juggle limit is reached the last will make them KND or flip out, unless it is a super.
+All moves force stand on hit, unless they JGL or KDN obviously.
+There is chip and chip kills.
+
+
+
+Max
+L ++oh ++ob cancel chain
+6L ++oh ++ob cancel
+2L ++oh ++ob low cancel chain
+H 0oh 0ob cancel
+2H KDNoh --ob low cancel
+6H ++oh ++ob overhead, if 2nd hit whiffs --oh/ob
+7/8/9L overhead, active until land
+7/8/9H overhead, can crossup
+
+Specials
+26X -ob -oh only speed changes with strength, fireball
+24L JGLoh +ob do this move a lot
+24H 0oh +ob a worse 24L, JGL on air hit
+62L KDNoh --ob might have invuln, light DP
+62H KDNoh --ob has invuln, first two hits JGL, last hit KND
+
+Supers
+2424X KDNoh --ob rush punch super, hits before the flash, JGL on air hit
+6262X KDNoh --ob dp super, hits before the flash, JGL on air hit 
+
+Guard Cancels
+42L same as 62H
+42H same as 2H
+
+Fastest meter gain on whiff 62L
+Bnb 2L2L H xx 24L 62H/2626X
+
+Strategy
+Standard shoto fireball DP game plan, until you get close then do 24L a ton. 
+
+
+Speed
+L ++oh ++ob chain/cancel
+2L ++oh ++ob low chain/cancel
+H +oh +ob cancel
+2H KDNon +ob low cancel
+6H -oh -ob overhead always punishable by at least a throw
+7/9L overhead active until land can crossup
+8L overhead active until land
+7/8/9H overhead can crossup
+any jump H other than 8/5H KNDoh N/Aob air to air throw
+
+Specials
+24X JGLoh --ob air okay, distance and startup change with strength, 24L is much easier to juggle off of
+26X --oh --ob bad move, very active (does not interact with fireballs), KDN on air hit
+j86X ++oh ++ob (lowest possible) overhead, angle changes with strength, KDN on air hit
+
+Supers
+6262X KDNoh --ob only last hit KDN, if it whiffs (it will) --oh, JGL on air hit
+2424X KDNoh --ob kick super, use this one, hits before the flash, JGL on air hit
+
+Guard Cancels
+42L same as 24L
+42H same as 2H
+
+Fastest meter gain on whiff instant air 86L
+Bnb (walk between Ls) 2L L H 24H/2424X (can sometimes juggle 2L after 24H)
+
+Strategy
+Use your strong walk speed and good range to get in, then abuse your 86X and 2L for fast high/low mixups that also also plus on block. Use movement to avoid jump ins, or predict them with 8L because you have no anti airs (air to airs are not great either). 42L guard cancel will often be your only anti air option, so try to keep some bar up.
+
+
+Gong
+L 0oh +ob cancel
+2L ++oh ++ob low cancel chain
+H +ob +oh cancel
+6H ++oh ++ob overhead +oh/+ob if second hit whiffs
+2H KDNoh -ob low cancel
+7/8/9L crossup overhead
+7/9H overhead
+8H overhead
+any jump H other than 8/5H KNDoh N/Aob air to air throw
+
+Specials
+24X --oh --ob absorbs fireballs to gain a lot of bar, KDN on air hit
+26X KDNoh --ob has invuln, L faster startup (can combo from H as a cancel)
+62X KDNoh N/Aob a command grab with a whiff, follows normal throw rules (has more range than normal throw)
+
+Supers
+2626X KNDoh --ob hit super, hits before the flash
+6262X KNDoh N/Aob hits before the flash, grab super, has whiff, follows throw rules
+
+Guard Cancels
+42L same as H
+42H same as 2H
+
+Fastest meter gain on whiff 24L
+Bnb 2L 2L 2H or 2L H 2626X
+
+Strategy
+Use 2H to get a knockdown and then do a strike throw mixup with 62X and 2L. L can work as an anti air, but the window is tight. You may be better off blocking and trying to 62X them as they land. A spaced meaty 62X can only be avoided with invincible reversals, and can be looped in the corner.
+
+
+Axe
+L ++oh ++ob chain cancel
+2L ++oh ++ob low chain cancel
+H +oh +ob cancel
+6H ++oh ++ob overhead 0oh/+ob if second hit whiffs
+2H KNDoh --ob low slide, easy to space it so it is safe
+7/8/9L overhead
+7/8/9H overhead crossup
+
+Specials
+28L JGLoh --ob very few iframes, can only juggle off it if it's meaty or it hits them high in the air
+28H KNDoh --ob goes higher and hits twice, first hit JGL, second hit KND
+24X -oh -ob fireball, only speed changes, KND on air hit
+26X --oh --ob blanka ball usually safe due to bouncing away, KND on air hit
+
+Supers
+2424X -oh -ob frame data depends on number of hits, fireball super, JGL on air hit
+268X KNDoh --ob dp super, hits before the flash, very fast startup
+
+Guard Cancels
+42L same as 28H
+42H same as 2H
+
+Fastest meter gain on whiff 28L
+Bnb 2L 2L H 26H, cut a 2L to get in range for 2424X
+
+Strategy
+Use 2H, 26X, 6H, and 24X to land plenty of small hits. 28X and 268X are great anti airs, often giving juggles.
+
+
+Lon
+L ++oh ++ob chain cancel
+2L ++oh ++ob low chain cancel
+H -oh 0ob cancel
+6H ++oh ++ob overhead
+2H KNDoh +ob low cancel
+7/9L overhead
+7/9H overhead
+8L overhead
+8H overhead
+any jump H other than 8/5H KNDoh N/Aob air to air throw
+
+Specials
+24L JGLoh +ob overhead, can not be cancelled into
+24H ++oh ++ob overhead, can not be cancelled into, KND on air hit
+26X --oh --ob fireball, hitbox is not as high as it looks
+62L -oh -ob not invuln but it still is a great AA, KDN on air hit
+62H KNDoh --ob if the second hit whiffs --oh, KND on air hit
+
+Supers 
+2626X KNDoh --ob hits before the flash, JGL on air hit
+2424X +oh --ob overhead, JGL on air hit
+
+Guard Cancels
+42L KNDoh --ob unique elbow move
+42H same as 2H
+
+Fastest meter gain on whiff 62L
+Bnb 2L 2L 2H (2L 2L H 2626X for a super confirm)
+
+Strategy
+Use 24L a lot. 62L is your anti air. 26X is not a great fireball, but it can be useful to lead a 24L with. After a stun use jH 2L H 62H for damage. After 24L jThrow for damage and 62L for reliability
+
+
+Borot
+H It's 0ish on hit and block, not actually sure
+Borot has nothing else, not even a throw, a jump, or the ability to block. 
+
+Strategy
+Lose.
+
+
+
+My personal tier list (for competitive play):
+A: Max, Speed
+B: Lon, Axe
+C: Gong
+Borot: Borot
+
+Max is all around solid but gets free confirms off any hit. Great DP and easy to use supers, but them mixup is limited to throws and a meh overhead, and them guard cancels are both unsafe.
+Speed has very strong mixups and pressure, plus solid range and great movement speed. Only downside is the complete lack of a reversal outside of throw and no real anti airs.
+Lon has great pressure and can restart pressure with them 24L, but them throw barely being plus, the lack of invuln moves, and low damage without bar hold them back. 
+Axe has good zoning and a lot of high coverage moves, but terrible damage, the worst reversal, and terrible confirms even with bar hold them back. 
+Gong just doesn't have a good enough neutral to ever really start them mixups. They can loop command grabs on Speed, Lon, and maybe Axe in the corner, but Gong will usually lose before getting them to the corner.
+Borot literally can't block, or throw.
+
+Esoterics:
+Gong is the fastest to land after jumping, then Max, and the other 3 are tied for 3rd.
+Backwards jumps go farther than forwards jumps.
+Using Max's 24L 3 times in one combo causes the third to become a high launching knockdown, but using 24H instead of the third 24L still has the normal juggle height, and using 62H will only hit once.
+Guessing the third move used in a juggle is converted to a knockdown unless it is a super (Axe 28L 28L 268X works), or an air flip out (Axe 28L 28L L still flips out)
