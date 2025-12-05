@@ -107,7 +107,7 @@ any jump H other than 8/5H KNDoh N/Aob air to air throw
 
 Specials
 24X JGLoh --ob air okay, distance and startup change with strength, 24L is much easier to juggle off of
-26X --oh --ob bad move, very active (does not interact with fireballs), KDN on air hit
+26X --oh --ob bad move, H hits twice, very active (does not interact with fireballs), KDN on air hit
 j86X ++oh ++ob (lowest possible) overhead, angle changes with strength, KDN on air hit
 
 Supers
@@ -172,7 +172,7 @@ Specials
 26X --oh --ob blanka ball usually safe due to bouncing away, KND on air hit
 
 Supers
-2424X -oh -ob frame data depends on number of hits, fireball super, JGL on air hit
+2424X -oh -ob frame data depends on number of hits, fireball super, negates regular fireballs, JGL on air hit
 268X KNDoh --ob dp super, hits before the flash, very fast startup
 
 Guard Cancels
@@ -183,7 +183,7 @@ Fastest meter gain on whiff 28L
 Bnb 2L 2L H 26H, cut a 2L to get in range for 2424X
 
 Strategy
-Use 2H, 26X, 6H, and 24X to land plenty of small hits. 28X and 268X are great anti airs, often giving juggles.
+Use 2H, 26X, 6H, and 24X to land plenty of small hits. 28X and 268X are great anti airs, 28L often giving juggles into 26X, 28X, or 268X.
 
 
 Lon
@@ -199,10 +199,10 @@ H -oh 0ob cancel
 any jump H other than 8/5H KNDoh N/Aob air to air throw
 
 Specials
-24L JGLoh +ob overhead, can not be cancelled into
+24L JGLoh +ob overhead, can hop over fireballs, can not be cancelled into
 24H ++oh ++ob overhead, can not be cancelled into, KND on air hit
 26X --oh --ob fireball, hitbox is not as high as it looks
-62L -oh -ob not invuln but it still is a great AA, KDN on air hit
+62L -oh -ob not invuln but it still is a great AA, very fast but not frame 1, KDN on air hit
 62H KNDoh --ob if the second hit whiffs --oh, KND on air hit
 
 Supers 
@@ -229,7 +229,7 @@ Lose.
 
 
 
-My personal tier list (for competitive play):
+My personal tier list (for competitive play, ordered in tiers):
 A: Max, Speed
 B: Lon, Axe
 C: Gong
@@ -239,11 +239,18 @@ Max is all around solid but gets free confirms off any hit. Great DP and easy to
 Speed has very strong mixups and pressure, plus solid range and great movement speed. Only downside is the complete lack of a reversal outside of throw and no real anti airs.
 Lon has great pressure and can restart pressure with them 24L, but them throw barely being plus, the lack of invuln moves, and low damage without bar hold them back. 
 Axe has good zoning and a lot of high coverage moves, but terrible damage, the worst reversal, and terrible confirms even with bar hold them back. 
-Gong just doesn't have a good enough neutral to ever really start them mixups. They can loop command grabs on Speed, Lon, and maybe Axe in the corner, but Gong will usually lose before getting them to the corner.
+Gong just doesn't have a good enough neutral to ever really start them mixups. They can loop command grabs on Speed and Lon in the corner, but Gong will usually lose before getting them to the corner.
 Borot literally can't block, or throw.
+
+
 
 Esoterics:
 Gong is the fastest to land after jumping, then Max, and the other 3 are tied for 3rd.
 Backwards jumps go farther than forwards jumps.
-Using Max's 24L 3 times in one combo causes the third to become a high launching knockdown, but using 24H instead of the third 24L still has the normal juggle height, and using 62H will only hit once.
-Guessing the third move used in a juggle is converted to a knockdown unless it is a super (Axe 28L 28L 268X works), or an air flip out (Axe 28L 28L L still flips out)
+Using Max's 24L 3 times in one combo causes the third to launch them way higher than normal (but because the juggle limit was reached the combo ends there).
+There's no Speed L walk infinite in the corner, at best it's a frame trap loop.
+Gong's 24X can negate multiple hits of Axe's 2424X super fireball, but not enough to negate it completely.
+Axe's 26X goes over only Max's fireball.
+Special move input priority is 62/28 > fireballs > 24 > 26 > 86
+Axe's 2424X will negate some hits if used on itself, then they pass through the other
+Only Axe and Max's fireballs don't interact
