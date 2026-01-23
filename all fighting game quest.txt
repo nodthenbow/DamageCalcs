@@ -1,13 +1,13 @@
 All fighting game quest
-(76 lines of not definitely fighting games, 170 lines extra total, 2017 fighting games)
+(77 lines of not definitely fighting games, 171 lines extra total, 2020 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (636):
+Played (641):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
 Elan Doree Legend of Dragoon / Touryuu Densetsu Elan Doree =- 3d dragon riding game
 Weaponlord =- Divada 66B/C +ob gb install, H xx X/Y842 cash out, 2C/5Y y842 y862, gen talazia c y882 inf
-Blood Storm =- fc MK like game, played with Kooter
+Blood Storm =- fc MK like game, played with Kooter, todo: lab more 
 Touhou Suimusou: Immaterial and Missing Power =- the touhou one with grazing and cards
 Blandia =- fc slow bland, throws on 1H, gladiators
 Psychic Force ps1 arcade =- flying game 3d in a box
@@ -16,7 +16,7 @@ Veteran Combat =- pc fake vintage digitized sprites, bad
 Umineko: Golden Fantasia =- steam vn fighter, tag, special meter building for tag
 Ougon Musou Kyoku / CROSS =- Umineko's other name
 Double Dragon Neo Geo =- fc boss characters real strong, weirdly great input handler
-Ninja Master's haoh ninpo cho =- fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp swap, hk AA
+Ninja Master's haoh ninpo cho =- fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp (up)equip, hk AA, u2lp236p236p*inf, j2lk dive kick, 2lk2lp236p236p*inf (harder link than u2lp)
 Rage of the Dragons =- fc Billy 6B 214D 214D clC 236A 236A 623D, Jones clC 3B 236A, 214A safe
 Battle K-Road =- fc great, hold heavies
 Daraku Tenshi The Fallen Angels =- fc unreleased Battle K-Road em up
@@ -41,7 +41,7 @@ Urban Street Fighter =- steam ufge asset flip
 Battle Masters =- fc snes jp, dp cancel into dp timer scam, watts (left) 5hp 63214hp stun loop
 Fight Fever =- fc German dude top right top tier 214P spam, 2P and 5Ks are AAs
 Galactic Warriors =- fc robot fighter, attack switch button, slow
-Astra Superstars =- sunsoft, flying game, has santa girl TODO lab 
+Astra Superstars =- sat, arc, sunsoft, flying game, 8/2 to follow launch/spike, hitstun cancels for 1 bar, stella seems good, rouge (santa girl) seems really bad, M+M/H+H super, L+L speed up, time out win star rank > health, Fooly combos are cool. 6+any if wallbounced to punish it. Flashing lights!!!
 waku waku 7 =- fc DJ 66LP 5PL5LP cc link 623PP, Arina 66 5LP*3 5HP 236PP stun 5LP*5 623PP
 Galaxy Fight =- 1 second rounds tournament game, viable to solve some day TODO lab 
 Slap Happy Rhythm Busters =- ps1 Mia LKHP2HP (4HP 46HP)/(95HK 22KK)/(crn 2HP 46HP/22KK). Bosses, Merc 6LPLK inf, Stealth 662 (L/R) 2LPLK5HP(46P cmd grab/5HK2HK oh/2HK low)
@@ -86,7 +86,8 @@ Fantasy Strike =- sirloin's game, mash dive kicks
 Fate Unlimited Codes =- 3d fate game with the command grab infinite (and many others) psp ver too
 Fighter’s History Dynamite Karnov's Revenge =- fc It's Karnov's, Zazie stuff woo
 Fight of Gods =- santa is a god apparently, TODO lab current patch
-Fighting Vipers =- sat playable in judgement, Candy/Honey, 3k 2kk k+g 3p safe mid, 33p 8p run2k lows, throw 16p+g, 2pkg 3p 3p, 2ppppp otg, pkg flipout, pppp qrise, vf2gen throw rules, white flash autoguards
+Fighting Vipers =- sat playable in judgement, Candy/Honey, 3k 2kk k+g 3p safe mid, 33p 8p run2k lows, throw 16p+g, 2pkg 3p 3p, 2ppppp otg, pkg flipout, pppp qrise, vf2gen throw rules, white flash autoguards, jane 66p kinda nuts 
+Fighting Vipers 2 =- fc yak hawaii, Honey pretty similar, 3K safe fc2KK and 2KK decent low/mid mix, 3P safe mid, 2PPPPP otg, throws whiff properly now, 2pkg is now 2p+g, 4/8/2pkg ukemis, Bahn seems top 1 tbh 
 Granblue Fantasy: Versus =- too slow, throws also are very reactable so only canned mixes
 Granblue Fantasy: Versus Rising =- same as 1 but has Siegfried
 Guilty Gear The Missing Link =- Faust (2S2H 623R 66)*inf 
@@ -115,7 +116,8 @@ Kill La Kill -IF =- has that kid girl with timerscam, bamco shonen tho
 Killer Instinct (1994) =- TODO lab more
 Killer Instinct 2 / Killer Instinct Gold =- arcade n64 TODO lab more
 Killer Instinct (2013) =- Omen go brrr
-King of the Monsters 1 / 2 =- fc not deep at all, mostly for kaiju movie fans
+King of the Monsters 1 =- fc TODO lab more
+King of the Monsters 2 =- fc not deep at all, mostly for kaiju movie fans
 Koihime Enbu series =- steam, no movement, no pushback, boring neutral
 Kung Fu Panda: Showdown of Legendary Legends =- ps4 played very generic but I got it free
 Capcom Marvel vs series (cota, xvsf included)
@@ -448,6 +450,7 @@ Battle High 2 A+ =- steam Ryken 214lk214hk loop, 214lk*5, combos only 1 214hk, c
 Dual Souls: The Last Bearer =- steam Efe M214[K]2H214M2H, jT really funny fast fall, fireball zoner M AA
 Tattoo Assassins =- fc Hannah 444/2LK sub grd freeze, 66hp fb, 442hk roll, 22hk tp strike, 44lp fart
 Makeruna! Makendo 2 =- snes fc last person, evil lady. 236p/k fb, all AAs are bad, 46P cmd grab, 214R heal
+Makeruna! Makendō 2: Kimero Youkai Souri =- ps1 pretty much the snes game with worse input recognition and a special move button and free guard cancels. Grapplers can no whiff spd and gc spd with special button. Character select breaks on rematches, both players move the p2 cursor, if p1 selects then they become the p2 character, if p2 selects they become a cpu, if p1 deselects then selects they become a cpu.
 Shin Kidō Senki Gundam W: Endless Duel =- snes fc Merc 214P str inv istall 236hk, crn 2LK5HK 66 inf Heavyarms lplk236236x, 623x zoning, A2A jHK loops, Deathscythe lp2lk5hk236hk inf
 Riddick Bowe Boxing / Chavez =- snes fc l+r block (game gear multiplayer?)
 Boxing Legends of the Ring / Chavez II / Final Knockout =- snes/gen fc select/a+c for super, 8blk 2dodge
@@ -490,7 +493,7 @@ X-men Mutant Academy =- gbc Cyclops > Storm > Mag, air block op, [x] = hx, Cyc a
 Dragon Ball Z: Taiketsu =- gba universal normals, specials bad, trunks [hp]6 throw 8,9hk [hp]6 throw loop
 Dragon Ball Z: Supersonic Warriors =- gba goku1 trunks2 piccolo1, throw a+b, su a+b+r, [a/b] block, goku throw wait a+b to side su, gotenks a+b a a exactly under su, a a 66a, gotenks death timer 25s/45s/65s, piccolo r+a v tracks, below super op. gotenks can throw charge su charge loop, but bad dps
 Bobobo-bo Bo-bobo Bakutou Hajike Taisen =- gba 6A throw R block, spikey hair kid BAAAAAAAA
-Power Quest =- gbc Speed 86X ioh dive kick, 2l 5l 5h 24h, I wrote the faq for it: https://gamefaqs.gamespot.com/gbc/574750-power-quest/faqs/81129
+Power Quest =- gbc Speed 86X ioh dive kick, 2l 2l 5l 5h 24h 2h, I wrote the faq for it: https://gamefaqs.gamespot.com/gbc/574750-power-quest/faqs/81129
 Evander Holyfield's "Real Deal" Boxing gen fc =- same as 2, but uppercut is A+B/B+C
 Cutie Suzuki no Ringside Angel =- gen fc normal wrestling game, C only used in takedowns/v hidden supers
 Musashi No Ken: Tadaima Shugyou Chuu =- nes 8/5/2A/[A] to poke, B specials, auto guard
@@ -639,6 +642,9 @@ Super Chinese Fighter =- fc snes jiang shi dude first 3 specials, 46L ce bison, 
 Kokon Eiyuu Den - The Ancient & Modern Heros (unl) =- nes far right j3K unblockable loops
 D-xhird =- sat Saotome vs cr 6LK LPLPLPHP, 256P, 2+K launcher 6HP, 3HK wait 8LP, 4LP+LK (throw) 8LP, 624PP GDR
 Fighting EX Layer =- ps4/steam ddark stuff still works I guess
+Star Gladiator 2 / plasma sword =- ps1 arc Blood is fun 
+Saber Marionette J: Battle Sabers =- ps1 Cherry 3rd 4th, 22[8] superjump hover, j2P/K divekick, mash fireball and air fireball, super input is 426426P for everyone
+Black hole Assault =- sega cd default guy seems best, far far P = fireball, run away strong, no blocking
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -701,7 +707,8 @@ Gooch Grundy's X-Decathlon =- pc sci-fantasy sports minigame collection
 Crash 'n' the Boys: Street Challenge/Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal =- nes "swimming" is a fight to the death, not a race
 Devolver Bootleg (Absolver) =- 4block with no throw or lows, 412A (dp) unbl, costs bar gained from blocking
 Zoku: The Legend of Bishin / 美神伝説Ｚｏｋｕ, Bishin Densetsu Zoku =- racing/beat em up w/ vs mode
-Mizzurna Falls action adventure game has 2d mode (old man perry, friday 043 am riverside park)
+Mizzurna Falls =- action adventure game has 2d mode (old man perry, friday 043 am riverside park)
+Chippoke Ralph no Daibouken - The Adventure of Little Ralph =- ps1 platformer beat game to unlock fg 
 
 -------------------------------------------------------
 Special gundam section for games that I don't know what they are until I play them (mostly gundam games)
@@ -804,7 +811,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1391):
+Unplayed (1388):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -1057,7 +1064,6 @@ Fate/tiger colosseum (fate tiger colosseum) psp
 Fate tiger colosseum upper psp
 Fighters Megamix saturn
 Fighting Layer mame
-Fighting Vipers 2 fc2
 Flame of Recca: Final Burning ps2
 Flash Hiders pce and tgfx, 
 Fuuka Taisen pc
@@ -1153,7 +1159,6 @@ Magical Girl Lyrical Nanoha a’s Portable the Battles of Aces & the Gears of De
 Mahou Sensei Negima Neo Pactio Fight wii
 Mai-otome Hime: Otome Butou Shi ps2
 Mai-hime Bakuretsu! Fuuka Gakuen Gekitoushi?! & Senretsu! Shin Fuuka Gakuen Gekitoushi!! ps2 psp?
-Makeruna! Makendō 2: Kimero Youkai Souri ps1
 Mär Heaven: Arm Fight Dream ps2
 Maribato! Maribato! / Maribato! Plus pc
 Mayhem Combat android
@@ -1266,7 +1271,7 @@ Silver Knights pc
 Skyscrappers steam owned
 Spartacus Legends ps3
 生死道 생사도 Saengsado pc
-Star Gladiator 1/2 (plasma sword) ps1
+Star Gladiator 1 ps1
 Star Wars Episode III: Revenge of the Sith ps2
 Steambot Chronicles ps2
 Soul Eater Battle Resonance ps2
@@ -1374,8 +1379,8 @@ Battle Beast dos
 BCV: Battle Construction Vehicles ps2
 Battle Wrath dos
 Bayani: Fighting Game Bayani: Kanino Ka Kakampi steam
-Bikini Karate Babes 1/2 pc
-Black hole Assault sega cd
+Bikini Karate Babes 1 pc 
+Bikini Karate Banes 2 pc
 Black Panther c64
 Grappler Baki: Baki Saikyō Retsuden ps2
 Firepit c64
@@ -1501,7 +1506,6 @@ Pray for Death dos
 ReadySet Heroes ps4
 Revengers of Vengeance / battle fantasy sega cd
 Rock'em Sock'em Robots Arena ps1
-Saber Marionette J: Battle Sabers ps1
 Saiyuki Reload: Gunlock ps2
 Sakigake!! Otokojuku ps2
 SD Gundam Eiyuuden Daikessen!! Knight VS Musha ps1
