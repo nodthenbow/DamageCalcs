@@ -1,5 +1,5 @@
 All fighting game quest
-(77 lines of not definitely fighting games, 171 lines extra total, 2020 fighting games)
+(81 lines of not definitely fighting games, 175 lines extra total, 2026 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
 Played (641):
 not making notes for stuff that has a huge following (SF main series, ect)
@@ -692,6 +692,9 @@ Street Smart gen/arc both beat em ups, gen Yie Ar Kung-Fu style, arc belt
 Super Dodge Ball / Kunio no Nekketsu Dodgeball Densetsu Neo Geo =- fc 236A/623A specials, 623B pass special, 6246A super, 623A no ball reflect, can dash to enemy side to force ball drop mash
 Wolkenkratzer Shinpan No Tou =- ps1 rpg with fight game battles, 1p only 
 Reikai Doushi (The Last Apostle Puppet Show): Chinese Exorcist mame 1p only
+Rival Turf / Rushing Beat =- snes beat em up (idk if it has vs mode)
+Brawl Brothers / Rushing Beat Ran — Fukusei Toshi =- snes beat em up (idk if it has vs mode)
+The Peace Keepers / Rushing Beat Shura =- snes beat em up (idk if it has vs mode)
 
 -------------------------------------------------------
 Fighting game minigames in unrelated genres
@@ -811,7 +814,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1388):
+Unplayed (1384):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -1346,7 +1349,7 @@ Yatagarasu steam (rerelease looks like a new version not a sequel)
 Yu Yu Hakusho: Dark Tournament ps2 
 Yu Yu Hakusho: Sunset Riders gen 
 Yu Yu Hakusho Dai-Yon-Dan gb
-Yū Yū Hakusho: Bakutō Ankoku Bujutsu Kai nes 
+Yū Yū Hakusho: Bakutō Ankoku Bujutsu Kai nes (card slot add on game)
 Yū Yū Hakusho snes 
 Yū Yū Hakusho 2: Kakutō no Sho snes 
 Yū Yū Hakusho II: Gekitou! Shichi Kyō no Tatakai gg 
@@ -1542,7 +1545,6 @@ Super Robot Spirits n64
 Survival Arts mame
 Sword Dancer series pc98
 The Bread Pub Brawlers ps4
-Brawl Brothers 1/2 snes fc2
 The Circle wii cancelled
 The Great Fighter pc korean
 The Grim Adventures of Billy and Mandy wii gcn ps2
@@ -1868,7 +1870,6 @@ Zeus: Carnage Heart Second ps1
 Battle Rush: Build Up Robot Tournament nes
 WCW world championship wrestling / super star pro wrestling fc2 nes
 WWF King of the Ring nes
-Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai nes card slot add on game
 frame gride dreamcast fromsoft game btw
 Battle CAPacity pc fan game
 FNAW Fighters / Five Nights at Wario's fighter https://gamejolt.com/games/fnawfighters/555913
@@ -1885,7 +1886,6 @@ Playstation Move Sports Champions 2 Boxing ps3
 The King of Fighters Extreme N-gage https://archive.org/details/Nokia_N-Gage_The_King_of_Fighters_Extreme_v1.0.24
 WWE Aftershock N-gage
 One n-gage
-The Adventure of Little Ralph ps1
 Remote Control Dandy ps1
 Remote Control Dandy SF ps2
 Boxing Champs switch/steam
