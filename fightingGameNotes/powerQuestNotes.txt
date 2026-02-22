@@ -38,7 +38,7 @@ Moves that JGL/KND often do that on air hit as well, others cause a flip out unl
 Notes on the game:
 Damage is either slightly randomized or the health bars aren't consistent (or both).
 The health and meter are measured more precisely than the bars show.
-Stuns exist, you can shake out of them with directions and buttons.
+Stuns exist, you can shake out of it with directions and buttons.
 There are no diagonals required in special motions and there are no charge motions.
 Throws are on 4/6H. There is no way to tech or soften them. They all hit on frame 1.
 There is no throw invuln after blockstun/hitstun or after wakeup.
@@ -71,6 +71,7 @@ H 0oh 0ob cancel
 6H ++oh ++ob overhead, if 2nd hit whiffs --oh/ob
 7/8/9L overhead, active until land
 7/8/9H overhead, can crossup
+any jump H other than 8/5H KNDoh N/Aob air to air throw
 
 Specials
 26X -ob -oh only speed changes with strength, fireball
@@ -164,6 +165,7 @@ H +oh +ob cancel
 2H KNDoh --ob low slide, easy to space it so it is safe
 7/8/9L overhead
 7/8/9H overhead crossup
+any jump H other than 8/5H KNDoh N/Aob air to air throw
 
 Specials
 28L JGLoh --ob very few iframes, can only juggle off it if it's meaty or it hits them high in the air
@@ -235,11 +237,11 @@ B: Lon, Axe
 C: Gong
 Borot: Borot
 
-Max is all around solid but gets free confirms off any hit. Great DP and easy to use supers, but them mixup is limited to throws and a meh overhead, and them guard cancels are both unsafe.
+Max is all around solid but gets free confirms off any hit. Great DP and easy to use supers, but their mixup is limited to throws and a meh overhead, and their guard cancels are both unsafe.
 Speed has very strong mixups and pressure, plus solid range and great movement speed. Only downside is the complete lack of a reversal outside of throw and no real anti airs.
-Lon has great pressure and can restart pressure with them 24L, but them throw barely being plus, the lack of invuln moves, and low damage without bar hold them back. 
-Axe has good zoning and a lot of high coverage moves, but terrible damage, the worst reversal, and terrible confirms even with bar hold them back. 
-Gong just doesn't have a good enough neutral to ever really start them mixups. They can loop command grabs on Speed and Lon in the corner, but Gong will usually lose before getting them to the corner.
+Lon has great pressure and can restart pressure with their 24L, but throw barely being plus, the lack of invuln moves, and low damage without bar holds them back. 
+Axe has good zoning and a lot of high coverage moves, but terrible damage, the worst reversal, and terrible confirms even with bar holds them back. 
+Gong just doesn't have a good enough neutral to ever really start their mixups. They can loop command grabs on Speed and Lon in the corner, but Gong will usually lose before getting the opponent to the corner.
 Borot literally can't block, or throw.
 
 
