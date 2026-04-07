@@ -88,22 +88,24 @@ punishes
 hitconfirms
 2mk 2lp 5lp 623hk 2020 (214lk 1670)
 5mk 5lp 623hp 1920 (1520)
-2lk 2lp 2lp 623hk/236hk vst
+2lk 2lp 2lp 623hk/236lk vst
 
-2hp 214hk rdr 2mp...
-	214mp6p 2606 crn +42 (6p misses last hit outside corner)
-	236hk 2612 +38 
-	623hk 2654 +24 no oki
-	236hk 623lk 2862 crn
-	236mk 623mk 2870 crn 
-	236lk 623hk 2878 crn
+2hp 214hk 
+	236mk 2480
+	rdr 2mp...
+		214mp6p 2606 +42 (too far for safe jump outside corner)
+		236hk 2612 +38 
+		236hp-6mk 623hk 2920 +22 no oki
+		236hk 623hk 2962 +22 crn
 
 nc
 mk-hk 236hk 1940 
 mk-hk 623hk 2020
 crn mk-hk 236lk 623hk 2620
 mk-hk 236kk 623hk 2380 side swap
-2mk-hk 236hk crn 623mk 2430
+mk-hk 214kk-6lp-6mk 236mk 2760 okay use of drive (dl -6mk 623hk 2860)
+crn mk-hk 214kk-6lp-6mk 623lk 623hk 3220 
+2mk-hk 236hk crn 623hk 2530
 
 pc hp-hp rdr 2hp214mk-6lp-6mk 236mk 3825 (finicky vs some, use 2mp instead of 2hp 3689)
 crn pc hp-hp rdr 2hp214mk-6lp-6mk 623lk 623mk 4149 +25kda
@@ -121,26 +123,29 @@ crn 236p-6mk 236kk 623hk 2440
 crn 236pp-6mk 236lk 623lk 2570
 236pp-6mk 236mk 2140 (623hk instead 2280) (can double 236236k, worse than 236236p though, except in combos)
 
-pc di walk 2mk-hk 214mk-6lp-6mk 236mk 3210
+pc di walk 2mp 214mk-6lp-6mk 236mk 3240
+pc di last frame 8hp 214mk-6lp-6mk 236mk 3400 (only the last frame jhp works)
 pc di walk hp-hp rdr 2hp 214lk-6lp-6mk 236mk 3562
+crn pc di last frame 8hp 214mk-6lp-6mk 236lk 623mk 3710 (only the last frame jhp works)
 crn pc di walk hp-hp rdr 2hp 214mk-6lp-6mk 623lk 623mk 3716
-
-crn 2hp 214hk 236lk 623hk 2980
 
 crn jhp 2hp236pp-6lk rdr 2lp214mk-6lp-6mk 623lk 623lk 4179 (on stun do 236lk 623mk, only 3379 if 2hp starts)
 
+
 Launches
-grounded 214hk/214kk
-	214mp6p 2606 +42 (6p misses last hit outside corner for 214hk)
-	236hk 2612 +38 
-	623hk 2654 +24 no oki
-	236hk 623lk 2862 crn
-	236mk 623mk 2870 crn 
-	236lk 623hk 2878 crn
-	rdr 2mp236hp-6mk 623hk 3148
-	crn rdr 2mp236lk 623hk 3172
-	rdr 2mp236pp-6mk 236mk 3302 
-	crn rdr 2mp236pp-6mk 236lk 623mk 3747 (end with 623lk 623lk instead off jhp 2hp... 4002)
+grounded 214hk/214kk 
+	236mk 2400 +37
+	236lk 623hk 3280 crn +22
+	rdr 2mp... 
+		214mp6p 2606 +42
+		236hk 2612 +38 
+		623hk 2654 +24 no oki
+		236hk 623hk 3308 crn +22
+		236hk 623mk 3206 crn +25
+		236hk 623lk 3104 crn +36
+		236hp-6mk 623hk 3148
+		236pp-6mk 236mk 3302 
+		236pp-6mk 236lk 623mk 3747 (end with 623lk 623lk instead off jhp 2hp... 4002) crn 
 hp-hp 
 	623hk 2720
 	2hk 2320
@@ -160,25 +165,32 @@ grounded 236k
 	ex 236236k 623hk (no double lvl1 off this, cancel into lvl2 instead)
 236236k
 	236236k 623hk (usually a bit more damage or the same as lvl2)
-	623hk
+	623hk 2780 
+	236kk 2640
+	236kk 236236p 4040
+	236kk 623hk 3340
 di
 	pc walk 2mk-hk 214mk-6lp-6mk 236mk 3210
+	pc walk 2mp 214mk-6lp-6mk 236mk 3240 
 	pc walk 2mk-hk 214mk-6lp-6mk 236236k 623hk 3410 (more meter gain before super)
 	pc walk hp-hp 236236k 623hk 3480
 	pc walk hp-hp rdr 2mp214mk-6lp-6mk 236mk 3460
 	pc 8hp rdr hp-hp rdr 2mp214mk-6lp-6mk 236mk 3465 (don't use this one lol)
-	splat hp-hp 236lk 623mk 3140/2560
-	splat hp-hp 236236k 236236k 623hk 3580/3088
+	pc 8hp 214mk-6lp-6mk 236mk 3400 (frame perfect last frame 8hp required)
+	splat 2mp214mk-6lp-6mk 236lk 623mk 3390/2888
+	splat 2mp214mk-6lp-6mk 236236k 236236k 623hk 3880/3308
 pc hk
 	623hk 2480
-	2hk 1980 range (safe jump in corner)
+	2hk 1980 range 
 	236lk 2180 midscreen oki
+	236kk 2280 safe jump into corner
 	236kk 236236p 4240
 	crn 236kk 236236k 623hk 3920
 	crn 236kk 623hk 3260
 crn 236pp-6lk 
 	623hk 2600
 	rdr 2lp214mk-6lp-6mk 236lk 623mk 3599 (3560 with 623lk 623lk, on stun jhp 2hp... does 3056 (623lk*2 3025))
+	off pc 214hk-6lp-6lk same as above, 4141 with 623lk 623lk +36, 4143 with 236lk 623mk +25
 mk-hk
 	236hk 1940
 	crn 214lp-6lp 1960 safe jump (it's not worth it)
@@ -186,21 +198,35 @@ mk-hk
 	214kk-6lp-6mk 236mk 2760
 	crn 214kk-6lp-6mk 623lk 623hk 3220
 	236kk 623hk 2380 side swap (2140 w/ 623lk, dr oki)
-
+crn pc 4hk
+	623mk 2040
+	623kk 2360
 AA PC hp-hp 214lk-6lp-6mk 236mk 3870 (crn 236lk 623mk 4290)
 
 whiff punish with 2mp 236p-6mk or 236pp-6mk? 214hk has range issues
 
-oki stuff?
+if 236p-6hk juggles it's like hp-hp, if 236pp-6hk juggles it's like pc hk
+
+going into lvl3:
+2mp dr 5mk 2hp 236hk 214214k 4336
+2mp dr 5hk mk-hk 236hk 214214k 4604
+2mp dr 5mk 2hp 214hk dr 2mp 236hk 214214k 4971
+can't do it off most 236k juggles outside corner, can rarely link into it after 236lk
+(pretty much only off pc hp combo, and only the corner one with 2hp at that)
+
+
+
+oki stuff
 +19 (bthrow in corner) rdr mk +12oh +8ob (need to use 214p to dodge reversals, -7 raw and -6 with whiff 2lp)
 +21 (?) 3hk perfect meaty 
 +32 (?) rdr 3hk perfect meaty
-+34 (214lk) 66 hp +1ob +5oh 
++34 crn (214lk) 66 hp +1ob +5oh 
 +42 (214mk) safe jump
 +25 crn (236mk 623mk) 2lp 5mp +1ob +7oh
 +36 (623lk) 2lk 6mk +4oh 0ob (doesn't loop)
 +36 (623lk) 2lk xx 2lp 2mk +6oh -2ob (doesn't loop)
 +39 (214p-6p grounded) midscreen 236hp throw/2lk, or 236lp-6hk +6oh -1ob 
++46 (pc 2hk) 2lp2lk 6mk +4oh 0ob
 
 236p-6lk +35 midscreen you get dr strike oki, 6mk and 2mk both meaty (but not that close)
 most juggle enders that aren't 623x get the same dr strike oki midscreen
@@ -211,3 +237,13 @@ CA +29, dash hk forces block midscreen, no good dr pressure
 
 mk-hk 214mk 66 66 throw is fake, they can back walk out
 mk-hk 236hk rdr throw is real
+
+214lk 66 6hp/5hk only meaty vs roll, 5hk is perfect meaty (+5oh/-1ob) but too far to convert, both di safe
+214lk dr oki no throw, yes 6mk/2mk/5mk>throw/2hp (needs slight delay for 6mk 5lk link)
+
+
+
+matchup stuff
+ken mp-hp mash dp unless they dr, it will also punish 236lk on block, and all safe cancels have a gap, can 2lp after 236lk to stuff followups
+roll doesn't beat double fireball from anyone
+blanka ball needs to be DP or PP'd, all normals trade
