@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2033 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2036 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (644):
+Played (645):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -214,7 +214,7 @@ Soulcalibur: Broken Destiny =- psp rebalanced sc4 for psp, Algol nerfs and Hilde
 Soulcalibur V =- ps3 360, can reaction punish quick sidesteps, gi costs bar, siegfried sucks but I still will play him
 Soulcalibur VI =- ps4 ect, best one since 2 baby, Siegfried still sucks but he's viable enough
 Spectral Vs. Generation =- fc no fireball limit, I liked the charlotte like char
-Street Fighter =- fc, negative edge specials, DP full invuln including recovery
+Street Fighter =- fc, negative edge specials, Ryu DP full invuln including recovery, Ken's dp inulnv 4-end
 Street Fighter II =- fc World Warrior Guile mash jab ToD, Dhalsim beats him, chun beats sim
 Street Fighter II: Champion Edition =- fc Dict jHK 2MP 5HK stun 2hk whiff 2lp 2lp 5lp 46mk 2mp 5hk
 Street Fighter II: Hyper Fighting =- fc Ryu jHP 2HP fireball stun, repeat. Fireballs strong
@@ -647,6 +647,7 @@ Saber Marionette J: Battle Sabers =- ps1 Cherry 3rd 4th, 22[8] superjump hover, 
 Black hole Assault =- sega cd default guy seems best, far far P = fireball, run away strong, no blocking
 Flash Hiders =- pce-cd much worse than 2, horow 624k very strong, rable halt good pokes and 6236k dp, 46p
 Marble Smashers =- steam (demo version played) charge good for fast fall, no part charge, basic att strong
+52 beatup =- steam itch (demo played) neat pick 1 of 3 mechanic, no high/low, l/r okay, throw good w/ cancel, cat and yoyo girl are best in demo, subject to change
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -817,7 +818,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1389):
+Unplayed (1391):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -1780,7 +1781,6 @@ Zan Evolution Butouden itch
 Battle Chef Brigade Deluxe steam
 Vecho Fights itch
 Clash of the Metal steam
-52 beatup itch
 Blindsight itch 
 Angels of Battle itch https://bvtaisei.itch.io/angels-of-battle
 MindArms pc https://archive.org/details/mind-arms-076
@@ -2208,3 +2208,7 @@ arms 64 https://kurnic.itch.io/arms-64
 On The Rocks https://goldstarstickrs.itch.io/ontherocks
 Amir Fighting ps5/steam 
 Crushing Force pc https://kazecat.itch.io/crushing-force fetish game 
+MONMUSU * FIGHT! steam, adult game, from the strip fighter v people
+Giant Gram 2000: All Japan Pro Wrestling 3 dreamcast/fc2 
+Jījiǎ Xuànfēng Gédòu-dà / Mech Cyclone - Fighting Masters / 机甲旋风格斗大 on Monon Color (2015) (sp only?)
+Yīngxióng Liánméng: Zhōngjí Gédòu / League of Legends - The Ultimate Fight / 玫红色 英雄联盟 on Monon Color (2015) (sp only?)
