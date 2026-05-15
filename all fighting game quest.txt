@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2044 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2051 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (653):
+Played (660):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -656,6 +656,13 @@ Project Neon Light Children =- https://furia-divina.itch.io/project-neon-light-c
 Mahou Sensou -Magica Domain- =- https://noisychain.itch.io/mahou-sensou-magica-domain 1st lady LH866 jLH loop for infinite, really hard, easy LH2H9 jLH9LHM6M2M bnb
 CatChing Strays =- https://dejorgik.itch.io/catching-strays 66J(dl)J infinite on both, better on first goon, can loop until guard break, neutral to block
 Combomancer =- https://a-creator.itch.io/combomancer witch better by far, 66L infinite, cota omega red hard though, easier infinite on 2LLLL2H214X if you get luck with the spell being ice every time, no blocking only a metered parry. (Dev was in chat, requested I play it)
+Content Maxxing =- https://solidvalentine.itch.io/content-maxxing left guy 2A xx 5B xx 5A 5A 5A..., 2nd guy no mixup
+Femmie Fatale Island =- https://pacsonic.itch.io/femmie-fatale-island 3rd character 624K infinite on hit/block, only mix is instant overhead jK, no chip on anything
+Monster Mash =- https://flintgerr.itch.io/monster-mash 2nd gal L6S 662H 6S 662H..., jenny only has ioh, -3oh
+All 9 Lives =- https://gensart.itch.io/all-9-lives play the guy, glock, body armour, life for rest, tk jp crazy strong for everything, mash gun if they don't pick body armour
+Anima Fight =- https://snailtank.itch.io/anima-fight lady 2L infinite, 5L2L ioh into low
+MWF v0.1 Game Jam Edition =- https://mohastgridlock.itch.io/mwf-v01-game-jam-edition lady jH for movement, jLMH loops to combo/pressure, mash L+M during all blockstun/recovery when low on stamina, 5H214L unblockable in corner, do 5H214L9L to OS jc on hit into jLMH loops, throws (214L included) instant kill on 0 stamina, j214XY very funny
+BLOODFROST ~Double Sharp Crescendo~ =- incredibly funny game, no throws and no chip so you need a short jumper to ioh (bottom girl best) and a high jumper to timerscam with double jump into tag forever (scott best)
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
