@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2051 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2055 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (660):
+Played (664):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -662,7 +662,11 @@ Monster Mash =- https://flintgerr.itch.io/monster-mash 2nd gal L6S 662H 6S 662H.
 All 9 Lives =- https://gensart.itch.io/all-9-lives play the guy, glock, body armour, life for rest, tk jp crazy strong for everything, mash gun if they don't pick body armour
 Anima Fight =- https://snailtank.itch.io/anima-fight lady 2L infinite, 5L2L ioh into low
 MWF v0.1 Game Jam Edition =- https://mohastgridlock.itch.io/mwf-v01-game-jam-edition lady jH for movement, jLMH loops to combo/pressure, mash L+M during all blockstun/recovery when low on stamina, 5H214L unblockable in corner, do 5H214L9L to OS jc on hit into jLMH loops, throws (214L included) instant kill on 0 stamina, j214XY very funny
-BLOODFROST ~Double Sharp Crescendo~ =- incredibly funny game, no throws and no chip so you need a short jumper to ioh (bottom girl best) and a high jumper to timerscam with double jump into tag forever (scott best)
+BLOODFROST ~Double Sharp Crescendo~ =- https://owencmyk.itch.io/bloodfrost incredibly funny game, no throws and no chip so you need a short jumper to ioh (bottom girl best) and a high jumper to timerscam with double jump into tag forever (scott best)
+Chip Kill =- https://lukakona.itch.io/chip-kill paddle girl probably better, throws actually unblockables, can chain into them with L[h]L. Specials and heavies not worth the life, most are terrible.
+Soul Break =- https://christides.itch.io/soul-break Cecily infinite on 8A2A loop, but the only way you can really lose is to attack yourself to death on your second life bar and timeout doesn't end the game???
+Prystone =- https://reptilethatscool.itch.io/prystone blue dude 2mp/2hp low, links into self, hop dash hp hits everywhere, 5hp AAs screen, 15f-ish charge sonic boom, 214k-k counter, 236236k good super. Woman has infinite on 66hk, but it's hard and her neutral is bad
+Feral Stream =- https://wusstunes.itch.io/feral-stream wusstunes game, nearly crashes pc if music is playing, rattricia way better 66l hopdash poke, otherwise l6l combo and 1h dp, buffered 26l to super
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
