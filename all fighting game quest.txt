@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2055 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2063 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (664):
+Played (672):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -539,7 +539,7 @@ SD Hiryū no Ken Gaiden 2 =- gb same strats as 1. Dava HSDM 426P is nuts tho
 HAL Wrestling / Pro Wrestling =- bg start to run, chars same enough, stick + buttons mash out
 Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen =- gbc select to transform, 22P shoot bullet (3/game), AB8 hyper mode, AB2 charge, SDM 2624P, HSDM 2426K, Tank best, armor tank mode, 426[P] chip, 426K
 Kidou Butouden G Gundam snes fc Rose George, throw through blockstun jHP safe jump loop, 214HP DP
-Onita Atsushi FMV =- snes fc throw meter, 8/4/2+abxY in grab, [y]=run 4th dude best, njK iframes rec, K unblk
+Onita Atsushi FMW =- snes fc throw meter, 8/4/2+abxY in grab, [y]=run 4th dude best, njK iframes rec, K unblk
 Taekwon-Do =- snes fc power bandana guy, L stance up, R belt move, nj good, fast far normals rare, 44 good
 Oozumou Spirits =- snes fc huge downgrade from nes, Y charge bar, all other walk up and grab, B or L+R w/o bar
 Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitōhen =- ps1 2nd guy 3K(66 2K) low, 46P (3K 66 2K) mid, no whiff throws
@@ -667,6 +667,14 @@ Chip Kill =- https://lukakona.itch.io/chip-kill paddle girl probably better, thr
 Soul Break =- https://christides.itch.io/soul-break Cecily infinite on 8A2A loop, but the only way you can really lose is to attack yourself to death on your second life bar and timeout doesn't end the game???
 Prystone =- https://reptilethatscool.itch.io/prystone blue dude 2mp/2hp low, links into self, hop dash hp hits everywhere, 5hp AAs screen, 15f-ish charge sonic boom, 214k-k counter, 236236k good super. Woman has infinite on 66hk, but it's hard and her neutral is bad
 Feral Stream =- https://wusstunes.itch.io/feral-stream wusstunes game, nearly crashes pc if music is playing, rattricia way better 66l hopdash poke, otherwise l6l combo and 1h dp, buffered 26l to super
+Ascendance of Obsidian =- https://william-f-edwards.itch.io/ascendence-of-obsidian spear lady better, L+H kamikaze for 70%ish, can cancel off 2L and combo, terrible AAs 
+Starship Rumble =- https://satsumabeemo.itch.io/starship-rumble goblin only real strong char
+Cheerleadead =- https://jcmarino.itch.io/cheerleadead small woman best, no throws only crossups, stick self in bottom corner and face away from the wall then guard until time out
+Maxine Vs Minnie =- https://courtneylapin.itch.io/maxine-vs-minnie maxine huge advantage, pretty much tag as a fighting game
+Three Touch Tussle =- https://team-hellfire.itch.io/three-touch-tussle first char, 623L to dp/aa, 214L to combo off LLL, M to poke, H to poke harder, cl6M to throw, no lows, jump ins overheads, 214H to super/fake and gain a bar, 3 health, supers do 2 on hit 1 on chip, L does 0 but cancels, M does 1, h does 1 and cancels
+The Last Card Pack =- https://manukrome.itch.io/the-last-card-pack cat girl way better, moves are invincible in recovery, normals only, no pushback, 50% chip, everything - on hit/block, no jump attacks, some lows
+Vital Charge =- https://teridax.itch.io/vitalcharge infinite on DCharge 5L5H3H9 jLLLLLLH 66 loop, shoto otherwise, has a short hop too. Coagula probably solid, but no infinite.
+Dragon Horse Guillotine =- https://danchicu.itch.io/dragon-horse-guillotine Kana dive kick infinite, gloncher HMH does like 50%, no blocking only parry, can kara into a feint with 2parry 
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
