@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2082 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2093 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (691):
+Played (702):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -14,7 +14,7 @@ Psychic Force ps1 arcade =- flying game 3d in a box
 Dark Edge =- sprite based 3d game by sega, cursed inputs
 Veteran Combat =- pc fake vintage digitized sprites, bad
 Umineko: Golden Fantasia =- steam vn fighter, tag, special meter building for tag
-Ougon Musou Kyoku / CROSS =- Umineko's other name
+Ougon Musou Kyoku / CROSS =- Umineko's other name, cross is the updated version technically
 Double Dragon Neo Geo =- fc boss characters real strong, weirdly great input handler
 Ninja Master's haoh ninpo cho =- fc Kasume 2lk2lp 236p*3 j6hp, u[2]8k-k, 2146hp, lkhp (up)equip, hk AA, u2lp236p236p*inf, j2lk dive kick, 2lk2lp236p236p*inf (harder link than u2lp)
 Rage of the Dragons =- fc Billy 6B 214D 214D clC 236A 236A 623D, Jones clC 3B 236A, 214A safe
@@ -130,7 +130,7 @@ Marvel vs. Capcom 2 =- fc Spiral C, Ruby B, Sent C
 Marvel vs. Capcom 3 =- Just do umvc3 stuff 
 Ultimate Marvel vs. Capcom 3 =- Modok Doom Ammy 
 Marvel vs. Capcom: Infinite =- Firebrand Monster Hunter / Chris
-Sonic the Fighters =- gun go brrr. Really not fun
+Sonic the Fighters =- Bean the dynamite jump delay p delay p is often unblockable oki that loops 
 Melty Blood =- pc
 Melty Blood Re-ACT =- pc Akiha 
 Melty Blood Act Cadenza =- ps2 Red Arc
@@ -164,7 +164,9 @@ Neogeo Battle Coliseum =- https://www.youtube.com/watch?v=MwxTReFjxg4&t=134s TOD
 nidhogg 1 =- stabby joust run to end eaten by worm em up
 nidhogg 2 =- ugly stabby joust run to end eaten by worm em up
 One Must Fall 2097 dos =- epicmegagames TODO lab more
-persona 4 arena series =- shadow labrys go brr
+persona 4 arena =- shab
+persona 4 arena ultimax =- shab
+persona 4 arena ultimax 2.0 =- shadow labrys go brr
 One Strike =- switch played, has the Footsies (hifight) problem
 Footsies (hifight) =- neutral is wiggletron, needs a lot of stuff
 Playstation All-stars Battle Royale =- i miss it now tbh
@@ -250,7 +252,8 @@ Super Smash Bros. 3DS / for Wii U / 4 =- Ike
 Super Smash Bros. Ultimate =- Ike
 Smash 64 remix =- piano funny, but also just do normal 64 stuff
 project m =- I wish Ike was fun
-Teenage Mutant Ninja Turtles: Tournament Fighters =- snes shark op, ralph dank tho, nes idk
+Teenage Mutant Ninja Turtles: Tournament Fighters =- snes shark op, ralph dank tho
+Teenage Mutant Ninja Turtles: Tournament Fighters =- nes Shredder 62P fb, clP AA, 2P grab orb, 26P throw
 Tekken (1994) =- todo find strats
 Tekken 2 =- todo find strats
 Tekken 3 =- todo find strats
@@ -596,7 +599,6 @@ Street Blaster II Pro =- nes unl Sim j3K oh/unblk dive kick, 5P+K fb
 Street Blaster IV Pro 10 =- nes unl sequel to II, has balrog and vega, Sim j3K still OP tho
 Street Blaster V - Turbo 20 =- nes unl same as IV, but doubles the roster with clone chars
 Street Fighter - 60 Players =- nes unl same as Street Blaster V, but more clones and sim j3K is a low
-Teenage Mutant Ninja Turtles: Tournament Fighters =- nes Shredder 62P fb, clP AA, 2P grab orb, 26P throw
 The Unholy War =- ps1 standard arena fighter, both teams fairly balanced, homing shots and runaway strong
 Destrega =- ps1 Zauber too good. L1 blocks, timed parries, charge>L1 auto parry, R1 dash (guard cancelable)
 Toy Fighter =- fc frog 8K 6PK 13P2222PPP, parry on 6/3P+K, works as burst in juggle
@@ -694,6 +696,15 @@ Fathomless Sparks =- https://soupysoap.itch.io/fathomless-sparks a game about do
 ZEPHYR-39 =- https://vynette.itch.io/zephyr-39 guard bar doesn't work so there's no way to open someone up
 Void Fury =- https://panthavma.itch.io/void-fury felix infinite on [LMH8 jHD]xInf, can do jL~H vs stand 
 You Only Need Ignite =- https://drawnder.itch.io/yoni barely barely functions, just mash jumping attacks 
+Aim For Hits =- https://vulji.itch.io/aim-for-hits-ultraspeed barely functions, crashes my pc, Kvasir-VII 236H 66 LMH236H strong loop, no throws, idk chip damage, if they pick up the flag just punish them
+The Game Night Fighters =- https://dominicwillismusic.itch.io/the-game-night-fighters Ludo speed LMH9LM or 2LM214L midscreen, both go infinite in corner, speed H jc on block is wild
+Beast Cut =- https://crimsonguitarist.itch.io/beast-cut almost crashes pc if browsers are open while playing, first guy best, 3jump L loops strong, M is unreactable overhead, throws maybe reactable
+All In =- https://houlipassix.itch.io/all-in redhead much better, yolo jH best strat unless L wall splats
+Kapow! =- https://dragustyn.itch.io/kapow purple guy better, just mash projectiles
+THE PUPPHITS =- https://awightknight.itch.io/thepupphits mash light
+Succession =- https://vengefulcalamari.itch.io/succession-updated princess 6H is a cash out and also unbreakable, infinite loop with it, break is otherwise same attack button
+Violent Violet Villain Violaine =- https://zoojitnatu.itch.io/violent-violet-villain-violaine midscreen mash out 3H, corner vs stand 214H-M infinite, 236X overhead, other specials duckable, most moves overheads
+BATTLE CATS =- https://shinbaxter.itch.io/battlecats really pushing how basic a fighting game is, but I'll allow it. Best strat is 662A or 62A or 46662A round start as rps pretty much
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
