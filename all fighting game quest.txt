@@ -1,7 +1,7 @@
 All fighting game quest
-(82 lines of not definitely fighting games, 176 lines extra total, 2093 fighting games)
+(82 lines of not definitely fighting games, 176 lines extra total, 2163 fighting games)
 ITCH IO STUFF https://itch.io/c/1857454/fighting-games-quest TODO add to this list
-Played (702):
+Played (706):
 not making notes for stuff that has a huge following (SF main series, ect)
 outlaws of the lost dynasty / Dark Legend / Suiko Enbu =- Gen Shoushichi 5HP 5HK 669HP, [4]6P no fb limit
 Suiko Enbu: Fuuun Saiki =- saturn, has jLK chains, mash them
@@ -116,6 +116,7 @@ Kill La Kill -IF =- has that kid girl with timerscam, bamco shonen tho
 Killer Instinct (1994) =- TODO lab more
 Killer Instinct 2 / Killer Instinct Gold =- arcade n64 TODO lab more
 Killer Instinct (2013) =- Omen go brrr
+Killer Instinct GB =- SGB allows 2p mode, Sabrewulf 64A (64K) block/hit infinite with itself, very easy 
 King of the Monsters 1 =- fc TODO lab more
 King of the Monsters 2 =- fc not deep at all, mostly for kaiju movie fans
 Koihime Enbu series =- steam, no movement, no pushback, boring neutral
@@ -186,6 +187,7 @@ Rivals of Aether =- tank snake's difficulty is greatly exaggerated
 Rabbit =- fc stands, 6ABC to use bottom row, 5ABC to stand on, fan lady 6hp 623hk-k
 Sailor Moon S snes =- chibi backdash full invuln
 Samurai Shodown =- fc Charlotte (123S for dp), but EQ is funny
+Samurai Shodown GB =- SGB allows 2p, no h/l, throw 4/6B, can't throw EQ, Gen-an 2A inf ob, Kyoshiro 214B fb is like 25f total
 Samurai Shodown II =- fc Ukyo to win, Charlotte to enjoy winning
 Samurai Shodown III =- fc bust haoh for easy wins or slash nak if execution is on point
 Samurai Shodown IV =- fc nak 421L infinite with itself, terrible input reg
@@ -509,7 +511,7 @@ Fly Punch Boom =- steam barely in the genre, but closer in gameplay than others
 Toukon Club =- nes luch and spikes are worst, everyone else same, timed K to parry, speed stat meh
 Tsuppari Oozumou =- nes cute sumo game, every character is the same, 2B might not work, 4B in grapple
 Tsuppari Wars =- nes rcr style, mash K, has a run and jump kick
-Urban Champion =- nes fc standard boxing game rules, only ring outs ko
+Urban Champion =- nes fc standard boxing game rules, only ring outs ko, 3ds port is mechanically the same
 World Boxing =- nes punch out style, dir to atk, [B] for strongs, [A] for dodge/parry
 World Champ / Great Boxing Rush Up =- nes fc hook dump stat, only happens off axis
 Terao no Dosukoi Oozumou =- nes slaps are way better than anything else
@@ -705,6 +707,9 @@ THE PUPPHITS =- https://awightknight.itch.io/thepupphits mash light
 Succession =- https://vengefulcalamari.itch.io/succession-updated princess 6H is a cash out and also unbreakable, infinite loop with it, break is otherwise same attack button
 Violent Violet Villain Violaine =- https://zoojitnatu.itch.io/violent-violet-villain-violaine midscreen mash out 3H, corner vs stand 214H-M infinite, 236X overhead, other specials duckable, most moves overheads
 BATTLE CATS =- https://shinbaxter.itch.io/battlecats really pushing how basic a fighting game is, but I'll allow it. Best strat is 662A or 62A or 46662A round start as rps pretty much
+2XKO =- on everything, still has balance patches so no notes yet
+ARMS =- switch always hold one arm back to break throws, no true mixups other than for chip 
+Avatar Legends: The Fighting Game =- on everything, no notes due to active balance changes
 
 -------------------------------------------------------
 Not a fighting game, but they got in the list:
@@ -875,7 +880,7 @@ Knock Off: Battle For Imagination https://www.knockoffthegame.com/
 Animation VERSUS https://www.kickstarter.com/projects/animationversus/animation-versus
 
 -------------------------------------------------------
-Unplayed (1391):
+Unplayed (1456):
 Dragoon Might arcade
 Cosmic Carnage 32x
 Crimson Alive pc
@@ -1378,7 +1383,7 @@ Toshinden 4 ps1
 Battle Arena Nitoshinden ps1
 Toshinden wii (reboot)
 Touhou Sky Arena -matsuri- Climax
-Touhou Hisoutensoku
+Touhou Hisoutensoku - Chōdokyū Ginyoru no Nazo wo Oe (update for Scarlet Weather Rhapsody)
 Touhou Hopeless Masquerade
 touhou Shinpiroku: Urban Legend in Limbo
 Touhou Hisouten ~ Scarlet Weather Rhapsody
@@ -2071,7 +2076,6 @@ Monster pc https://archive.org/details/monster-version-1.11-b
 Big Challenge! Judo Senshuken / ビッグチャレンジ! 柔道選手権 fds nes (Moero!! Juudou Warriors series)
 Tokidoki https://archive.org/details/tokidoki_202302
 Color Magic Pencils https://www.vector.co.jp/soft/winnt/game/se520026.html pc? 
-2XKO  
 Acceleration of Suguri steam
 Acceleration of Suguri 2 steam
 Akatsuki pc
@@ -2079,8 +2083,8 @@ Angel Star Road: Champion☆Carnival pc
 Angel Star Road: Champion☆Carnival GP 2008 pc
 Angry Parliament Fight / Ξύλο στη Βουλή android
 Animelee android 
-Antinomy of Common Flowers / Touhou Hyouibana Eastern Blooms of Possession ps4
-The Art of Breaking Heads amega
+Touhou Hyouibana ~ The Antinomy of Common Flowers / Touhou Hyouibana Eastern Blooms of Possession ps4
+The Art of Breaking Heads amiga
 Bash Land android 
 Battle-SX xbla 
 Battle-X xbla 
@@ -2269,3 +2273,69 @@ MONMUSU * FIGHT! steam, adult game, from the strip fighter v people
 Giant Gram 2000: All Japan Pro Wrestling 3 dreamcast/fc2 
 Jījiǎ Xuànfēng Gédòu-dà / Mech Cyclone - Fighting Masters / 机甲旋风格斗大 on Monon Color (2015) (sp only?)
 Yīngxióng Liánméng: Zhōngjí Gédòu / League of Legends - The Ultimate Fight / 玫红色 英雄联盟 on Monon Color (2015) (sp only?)
+2095 aka Fighter 2095 windows korean, hard to find info on, 2dfm95 game 
+イマサラ windows, kanon fan game, 2dfm http://atliernono.web.fc2.com/main/game/ibent.htm
+双龍拳 windows, 2dfm http://atliernono.web.fc2.com/main/game/ibent.htm
+二次許可対戦 windows, 2dfm http://atliernono.web.fc2.com/main/game/ibent.htm
+A4東方-霊夢の拳 windows A4 Touhou Fist of Reimu http://atliernono.web.fc2.com/main/top.html
+2001 Alien Combat windows https://www.myabandonware.com/game/2001-alien-combat-lfl
+2ch @ Breaker windows https://web.archive.org/web/20091024054132/http://www.geocities.jp:80/jin2dkgt/index.html
+2D格闘ツクラーズ ゴールドメンバー 2dfm windows 
+２Ｄたど！ windows 2dfm https://www.freem.ne.jp/win/game/251
+８つの秘石 aka 8 marbles windows 2dfm 
+８つの秘石 2 aka 8 marbles 2 windows 2dfm
+８つの秘石 リメイク aka 8 marbles remake windows 2dfm
+あ、対戦しよ～。 https://www.dlsite.com/home/work/=/product_id/RJ004518.html/?locale=en_US
+あ、対戦しよ～。 COME BACK https://web.archive.org/web/20060814024636/http://home.j04.itscom.net/snowman/taisenshiyo.html
+ACS (Act Cadenza Strife / Tales of ACS) 2dfm tales of fan game windows
+ACS 3d windows (tales of 3d)
+A.R.C. (Artificial Revolutionary Creature) 2dfm windows https://web.archive.org/web/20120225132640/http://kinbazoo.web.infoseek.co.jp/
+A.R.C. 2 2dfm windows sequel to above https://web.archive.org/web/20120225132640/http://kinbazoo.web.infoseek.co.jp/
+A.R.C. 2 AD 2dfm windows sequel to above https://web.archive.org/web/20120225132640/http://kinbazoo.web.infoseek.co.jp/
+Aazohm Krypht atari st (atari falcon 030 specifically)
+-艶ict-格ゲー windows 2dfm https://www.add-ict.net/2dk_old00.html
+Aevarron's Coliseum flash https://www.newgrounds.com/portal/view/262755
+Aevarrian Coliseum 2 flash https://www.newgrounds.com/portal/view/359926
+アイ・舞・ミー (Ai Mai Mii 1) 2dfm windows
+Ai Mai Mii ～Girls　Revolutions～ 2dfm windows https://www.myabandonware.com/game/mai-girls-revolutions-hxz
+アイアンパンチ 2dfm windows http://kizawaya.g3.xrea.com/game.html
+アイアンパンチ弐 2dfm windows http://kizawaya.g3.xrea.com/game.html
+Air de MMA windows requires adobe air https://web.archive.org/web/20150723001503/http://www012.upp.so-net.ne.jp/B-cos/airdemma.html
+Albatross the Beast Busters: Gaijū Bokumetsu Iinkai Sentō File アルバトロス・ザ・ビーストバスターズ　害獣撲滅委員会戦闘ファイル 2dfm windows https://web.archive.org/web/20151208033851/https://www.famitsu.com/freegame/other/0055.html
+アリスアソールト alice assault windows 2dfm 
+アリス戦記 2dfm windows https://gap1.web.fc2.com/index.htm
+アリス戦記2 2dfm windows https://gap1.web.fc2.com/index.htm
+Alice//Extend 2dfm cancelled and pulled off site windows, had a demo that might be lost https://web.archive.org/web/20061201233958/http://www.geocities.jp:80/exzam3455/games.html
+エイリアン対ヒロイン 2dfm windows lost? adult game 
+アレグレス Allegress -Ambitious Boy- windows http://codehb2.web.fc2.com/
+Amazon Kara 2dfm windows adult game https://toffisama.wordpress.com/
+Amazon Brawl 2dfm windows adult game https://toffisama.wordpress.com/
+Amazon Brawl Hardcore Edition 2dfm windows adult game https://toffisama.wordpress.com/
+Angel Star Road: Champion☆Carnival エンジェルスターロード チャンピオン☆カーニバル 2dfm windows wrestling game https://web.archive.org/web/20210126104515/http://www014.upp.so-net.ne.jp/keropyon/page075.html
+Angel Star Road: Champion☆Carnival World GP 2008 エンジェルスターロード チャンピオン☆カーニバル WORLD GP 2008 2dfm windows wrestling game https://web.archive.org/web/20210126104515/http://www014.upp.so-net.ne.jp/keropyon/page075.html
+Angelic Field エンジェリックフィールド windows https://web.archive.org/web/20021012181800fw_/http://www.vmall.ne.jp/~usagi/harukaze/angelic.html
+Angolmoa ～In Your Sight～ 2dfm windows lost?
+Aniki no Ken 2dfm windows https://www.vector.co.jp/soft/win95/game/se438199.html
+Anima Fighters UFE https://store.steampowered.com/app/3352970/Anima_Fighters/
+Anime Tenchou Battle Live 2dfm windows https://web.archive.org/web/20100208020616/http://www.zenryokutei.com/
+Anna vs Sentimental Fighter あんなVSせんちめんたるふぁいたー 2dfm windows https://web.archive.org/web/20170501004418/http://unikurage.sakura.ne.jp/avs
+Another Force アナザーフォース 2dfm windows http://anotherforce.blog.fc2.com/
+Antagony dos 
+Are igai no kakutō “Enfy!” あれ以外の格闘“えんふぁいっ！” windows https://web.archive.org/web/20170817120511fw_/http://dcs.ciao.jp/dcs/enfai.html
+Area Zero steam https://store.steampowered.com/app/3796060/Area_Zero/
+Aria Skies steam https://store.steampowered.com/app/2984630/Aria_Skies/
+Arigati Battler 蟻鳩 windows https://www.vector.co.jp/soft/dl/win95/game/se152000.html
+Artemis Blade アルテミスブレード windows 
+Arugan! Alumi’s Hold Out! あるガン！ Alumi’s Hold Out! 2dfm windows https://web.archive.org/web/20151208020849/https://www.famitsu.com/freegame/other/0048.html
+Asahi Asahachi Heroines 朝日朝八ヒロイン 2dfm windows https://web.archive.org/web/20181105025029/http://www.geocities.co.jp/yasasisa307/
+Asason All-Stars ~Uchū Ichi Kettei-sen~ あさソンオールスターズ～宇宙一決定戦～ 2dfm windows https://archive.org/details/7z_20211221
+Astraia windows https://web.archive.org/web/20090129091107/http://members.at.infoseek.co.jp/team_alpha/
+Asura-ban Cho-den 阿修羅 番超伝 2dfm windows demo only https://web.archive.org/web/20081224210141/http://www.geocities.jp/hamernjuku/index.html
+Atlas Wars steam / egs 
+Ayaka 2025 綾香2025 windows 
+Ayakashi Gentouki 妖幻灯記 2dfm windows https://kokuto-2004.jimdofree.com/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0-%E5%A6%96%E5%B9%BB%E7%81%AF%E8%A8%98/
+Azumanga K-Oh T-Style あずまんがＫ王 T-Style windows http://www.daiojyo.com/azk_s.html
+Azumanga K-Oh in summer あずまんがＫ王 in summer windows http://www.daiojyo.com/azk_s.html
+Anarchy Boxing 3D Mophun 
+Fatal Arena 3D Mophun 
+Martial Arts 3D Mophun
